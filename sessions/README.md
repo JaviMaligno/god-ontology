@@ -11,3 +11,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S03 — Actuality and asymmetric co-production](2026-08-31-actuality-and-coproduction.md)
 - [S04 — Intervention ontology](2026-08-31-intervention-ontology.md)
 - [S05 — ACO domain and modal complement](2026-08-31-aco-domain.md)
+- [S06 — Unified agentic choice](2026-08-31-unified-agentic-choice.md)

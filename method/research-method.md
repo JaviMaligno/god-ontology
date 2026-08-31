@@ -65,6 +65,7 @@ Use [the session template](../sessions/TEMPLATE.md) so future conversations can 
 2. Formalize causal roles and asymmetric co-production. Provisionally completed in S03, conditional on agent causation.
 3. Test the intervention taxonomy against E+ using typed causal relations, prioritizing agency-preserving influence over local agency-removing boundary cases. Provisionally completed with the S04 case check.
 4. Decide the minimum and optional extensions of ACO. Provisionally completed in S05 with power-grounded MKO.
-5. Return to the comparative case for necessary agent versus impersonal necessary structure, beginning with whether a necessary agent can choose contingently. Current substantive task.
-6. Derive or decline omnipotence and omnipresence.
-7. Develop goodness, reasons for creation, and suffering as a separate thesis.
+5. Formalize a unified logic of contingent agentic choice for the necessary agent and temporal agents. Provisionally completed in S06; the philosophy-of-mind layer remains open.
+6. Return to the comparative case for necessary agent versus impersonal necessary structure. Current substantive task.
+7. Derive or decline omnipotence and omnipresence.
+8. Develop goodness, reasons for creation, and suffering as a separate thesis.

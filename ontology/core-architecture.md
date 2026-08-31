@@ -188,6 +188,63 @@ This instantiates a general epistemic principle:
 
 The principle applies only where the ontology genuinely denies a truth to know; it is not a device for ignoring difficult but grounded truths.
 
+## Unified logic of agentic choice
+
+The project uses one core logic of genuine choice for the necessary agent and for created agents. Let $C_A^-$ contain every action-relevant condition held fixed for agent $A$ while excluding the token settling itself and its consequences. Let:
+
+\[
+\mathcal O_A(C_A^-)=\{a:CanOriginate(A,a,C_A^-)\}.
+\]
+
+Libertarian choice requires at least:
+
+\[
+|\mathcal O_A(C_A^-)|\geq 2,
+\]
+
+\[
+C_A^-\not\models Settles(A,a)
+\quad\text{and}\quad
+C_A^-\not\models Settles(A,b),
+\]
+
+for distinct live options $a$ and $b$, together with:
+
+\[
+Originates(A,a)\land ForReasons(A,a,R_A).
+\]
+
+Reasons can delimit, support, rank, attract, inhibit, or render an act intelligible without sufficiently producing the token selection:
+
+\[
+Supports(R_A,a)\not\models Settles(A,a).
+\]
+
+Psychological features such as character, attention, salience, emotion, habit, and deliberative capacity can enter $C_A^-$ and reshape $\mathcal O_A(C_A^-)$ or the comparative force of reasons. They do not count as a free choice's complete sufficient cause while more than one option remains originable.
+
+Indeterminism alone is insufficient. A probability distribution over outcomes can represent uncertainty or dispositional tendencies, but it does not by itself supply authorship of the realized act. The positive ground is agentive sourcehood: the conscious agent exercises an originating power and thereby settles which admissible option becomes actual. This settling is a modal and causal primitive in the present architecture.
+
+The common schema applies differently:
+
+| Feature | Necessary agent $G$ | Created temporal agent $A_i$ |
+| --- | --- | --- |
+| Existence | necessary | contingent and dependent |
+| Choice context | atemporal reasons, powers, and possible structures | temporally formed capacities, reasons, circumstances, and causal past |
+| Deliberation | no temporal sequence is required | ordinarily unfolds through internal time |
+| Settling | contingent exercise of an invariant agentive power | contingent exercise within an actualized structure |
+| Dependence | not derivative within the model | existence and powers depend on $G$ and $S$ |
+
+These differences qualify the agent and its context rather than introduce a second logic of choice. In particular:
+
+\[
+\Box E(G)\not\models
+\bigl(Settles(G,S_1)\rightarrow\Box Settles(G,S_1)\bigr).
+\]
+
+Necessary existence, and even necessary possession of an agentive power, do not entail necessary exercise of that power in one unique way.
+
+The architecture therefore accepts explanatory reasons without accepting a universal demand for antecedently sufficient, contrastively necessitating reasons. The explanation of a free act has the form “$A$ settled $a$ for $R_A$”; its terminal contrastive source is $A$'s exercise of agency. Requiring some condition prior in grounding order that already entails $a$ would remove the originating role the account is designed to examine.
+
 The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
 - the capacity or rule of complete knowledge may be necessary and invariant;

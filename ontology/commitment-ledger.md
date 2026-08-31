@@ -77,6 +77,12 @@ This is the normative center of the repository. It records what the project curr
 | C52 | Necessary constraints divide provisionally into logical/identity constraints, mathematical structural consequences, and necessities derived from established essential features of $G$. | `preferred` | This specifies their modal role without yet choosing Platonism, divine conceptualism, or another ultimate ground of mathematical structure. | [S05](../sessions/2026-08-31-aco-domain.md) |
 | C53 | Modal knowledge of non-actual agents initially concerns qualitative types, powers, and relations rather than ungrounded individual identities. | `preferred` | Actual agents retain de re alternatives across histories; merely possible individual identity requires a further identity-ground. | [S05](../sessions/2026-08-31-aco-domain.md) |
 | C54 | Omniscience is not limited by the absence of knowledge where the ontology supplies no truthmaker and therefore no truth to know. | `accepted` | This applies to rejected pre-actual selections and ungrounded identities, not to difficult truths that genuinely obtain. | [S05](../sessions/2026-08-31-aco-domain.md) |
+| C55 | Genuine choice has one core agent-causal structure for $G$ and created agents: live alternatives, absence of sufficient antecedent settlement, and originating sourcehood. | `accepted` | Differences in temporal location, dependence, and capacities qualify the agents and their contexts rather than create incompatible logics of choice. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C56 | Reasons can make an act intelligible, support it, and shape deliberation without sufficiently determining the token selection. | `accepted` | The same accessible reasons and fixed action-relevant antecedents need not entail the same act in every admissible history. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C57 | Indeterminism or probabilistic variation alone is insufficient for freedom; the realized act must be grounded in a conscious agent's exercise of originating power. | `preferred` | Probabilities may describe uncertainty or tendencies, but they do not replace sourcehood. This refines C08 rather than adding a second theory of agency. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C58 | Necessary existence and necessary possession of an agentive power do not entail necessary exercise of that power in one unique act. | `preferred` | Modal necessity does not transfer from bearer or capacity to every exercise; this blocks the proposed modal collapse without changing the choice logic. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C59 | Psychological states may constrain options and alter the salience or weight of reasons without becoming a complete sufficient cause of a free act. | `provisional` | A later philosophy-of-mind layer must specify consciousness, character, attention, emotion, and deliberation without hiding determinism in the agent description. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C60 | The project rejects an unrestricted principle requiring an antecedently sufficient contrastive reason for every free selection. | `accepted` | A free act remains explainable as the agent settling an option for reasons; demanding a prior condition that entails the outcome would assume the determinism under dispute. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -90,8 +96,10 @@ This is the normative center of the repository. It records what the project curr
 | R06 | Every humanly perceived evil is straightforwardly evil from the complete perspective. | `rejected` | [U11](../corpus/transcript.md#user--u11), [U16](../corpus/transcript.md#user--u16) |
 | R07 | An adversarial method should generate the maximum number of objections or repeatedly reopen every point. | `rejected` | [U18](../corpus/transcript.md#user--u18), [U19](../corpus/transcript.md#user--u19), current project brief |
 | R08 | Pre-actual counterfactual knowledge of libertarian choices should remain a recurring open extension or comparison frame. | `rejected` | C13; [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
+| R09 | A complete specification of an agent's accessible reasons and action-relevant antecedent conditions must entail one unique choice. | `rejected` | It converts reasons into sufficient event-causes and assumes away the originating agency defended in C55–C60. |
 
 ## Highest-priority open questions
 
-1. Can a necessary agent genuinely choose if its nature fixes a unique act?
-2. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?
+1. What minimal role must consciousness play in originating sourcehood, and how should it be distinguished from complex stochastic processing?
+2. How do character, attention, emotion, habit, and deliberation shape a free act without covertly determining it?
+3. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?

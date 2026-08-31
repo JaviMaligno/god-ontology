@@ -194,22 +194,53 @@ Existential dependence and originating authorship are different relations, so un
 
 Eternalist completeness adds no contradiction here. A complete block can depend for its existence on $G$ while having contents whose contrastive sources include created agents. Completeness of the object does not entail uniqueness of its source relation.
 
-## Intervention taxonomy to formalize
+## Intervention ontology
+
+In E+, an intervention is a divine-originating causal contribution that is part of $H^*$, not a revision of an already complete history. Its origin need not stand at an earlier divine time, while its manifestation, target, and creaturely effects can be located at $t$:
+
+\[
+I_j=\langle G,\tau,x,m,e_t\rangle,
+\]
+
+where $\tau$ is the target type, $x$ the particular target, $m$ the mode of contribution, and $e_t$ its temporal manifestation.
 
 | Type | Target | Preliminary autonomy effect |
 | --- | --- | --- |
-| $I_0$ structural actualization | $S$ itself | establishes the arena; indirect effects |
-| $I_B$ boundary intervention | boundary/initial condition $B$ | may change circumstances |
-| $I_L$ law-level intervention | $L \mapsto L'$ | may change available histories |
-| $I_X$ state intervention | $X_t \mapsto X'_t$ | no direct loss of agency required |
-| $I_C$ agent-directed intervention | circumstances $C \mapsto C'$ | influences without necessarily settling choice |
-| $I_A$ agency intervention | settles or removes an agent's choice | autonomy lost for that act |
+| $I_0$ structural actualization | existence and $S$ itself | establishes the arena and enables agency |
+| $I_B$ boundary intervention | boundary or initial condition $B$ | configures circumstances |
+| $I_L$ law-level intervention | $L\mapsto L'$ or a local nomic exception | changes admissible evolution |
+| $I_X$ state intervention | physical state $X_t\mapsto X'_t$ | changes the world without necessarily settling choice |
+| $I_C$ circumstantial intervention | information, incentives, opportunities, or environment | influences deliberation |
+| $I_P$ power intervention | capacities or dispositions of an agent | may restore, enlarge, restrict, or remove autonomy |
+| $I_A$ act intervention | the originating act itself | removes autonomy for that act if $G$ settles it |
 
-“Creation as intervention zero” originates in [U20](../corpus/transcript.md#user--u20). The miracle definition presently attaches most naturally to $I_L$, $I_X$, or other events whose sufficient causes exceed ordinary secondary causation.
+$I_0$, creation as intervention zero, is a limiting case inherited from [U20](../corpus/transcript.md#user--u20). Strictly, it constitutes the causal order rather than intervening within an antecedent order.
+
+For an intervention already included among the relevant circumstances, freedom requires:
+
+\[
+Free(A,a,t\mid I)
+\Rightarrow
+Originates(A,a,t)
+\land |Alt_I(A,t)|>1
+\land\neg SufficientCause(I,a).
+\]
+
+The intervention may alter the field of possibilities or influence deliberation without removing freedom. Autonomy for the act is lost when the intervention sufficiently causes the outcome, eliminates every relevant alternative, or replaces the agent as originating source. Intervention on a power is not intrinsically autonomy-reducing: restoring an impaired capacity may enlarge agency.
+
+This yields three functional outcomes:
+
+1. the available field changes but retains genuine alternatives;
+2. the agent is influenced within that field without a sufficient cause of the act;
+3. the field is reduced to one relevant outcome, or the intervention sufficiently causes or settles the act.
+
+The first two can preserve libertarian autonomy; the third does not preserve it for that act. Whether a non-determining influence reduces moral responsibility by degree is a later ethical question.
+
+The miracle definition presently attaches most naturally to $I_L$, $I_X$, or any event whose sufficient causal explanation is not exhausted by ordinary secondary causation. Detectability and law violation are not required by the definition.
 
 ## Formal deliverable next
 
-The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md).
+The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 
 The structural test is conditional but direct. If $S$ includes genuine originating power and does not encode its exercise, then for some shared past $P_t$:
 
@@ -219,4 +250,6 @@ h_a\equiv_{<t}h_b,\qquad
 Act(A,t,h_a)\neq Act(A,t,h_b).
 \]
 
-Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08. The next task is to apply the typed relations to intervention without returning to foreknowledge.
+Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
+
+The next intervention task is to specify how $I_C$ and $I_P$ affect the alternative set and sourcehood without treating every influence as determination. Then relate intervention to miracle and providence.

@@ -1,0 +1,67 @@
+# Commitment Ledger
+
+This is the normative center of the repository. It records what the project currently adopts, prefers, tests, leaves open, defers, or rejects. “Accepted” means accepted as part of the working ontology; it does not mean proven.
+
+## Governing conversational rule
+
+**Default acceptance after U18 (`accepted`):** when the author replies to an assistant turn and comments only on selected points, the unmentioned points are taken as good and retained for continued development. They inherit the status with which they were proposed: silence can accept a provisional model as provisional or an open question as open; it does not silently turn either into certainty. Explicit correction always takes priority, and later argument may reopen an accepted point. Provenance: [U18](../corpus/transcript.md#user--u18), reaffirmed in the 2026-08-31 project brief.
+
+## Status vocabulary
+
+| Status | Meaning |
+| --- | --- |
+| `accepted` | Part of the working position until a substantive reason reopens it. |
+| `preferred` | Chosen over live alternatives, with the comparative case still incomplete. |
+| `provisional` | Structurally useful hypothesis that still carries a major unresolved burden. |
+| `open` | No working answer has been selected. |
+| `deferred` | Deliberately postponed until prerequisites are stable. |
+| `rejected` | Excluded from the present model or rejected as an inference. |
+
+## Working commitments
+
+| ID | Proposition | Status | Basis and caveat | Provenance |
+| --- | --- | --- | --- | --- |
+| C01 | A sufficiently rich scientific description can contain what ordinary and technical usage calls explanation; this does not by itself explain why fundamental reality has its structure. | `accepted` | Preserves scientific explanatory practice while motivating, rather than proving, metaphysical inquiry. | [U01](../corpus/transcript.md#user--u01), [U02](../corpus/transcript.md#user--u02) |
+| C02 | Scientific method does not automatically exhaust every legitimate route to knowledge. | `provisional` | The existence and reliability of additional routes must be argued, not merely asserted. | [U02](../corpus/transcript.md#user--u02), [U05](../corpus/transcript.md#user--u05) |
+| C03 | Regularity and mathematical intelligibility are data for metaphysical interpretation, not a direct proof of theism. | `accepted` | Naturalist, structuralist, Platonist, and theist interpretations remain competitors. | [U02](../corpus/transcript.md#user--u02), [U03](../corpus/transcript.md#user--u03), [U04](../corpus/transcript.md#user--u04) |
+| C04 | A necessary foundation of contingent reality is the present working hypothesis. | `provisional` | Strong within the model, but brute fact, regress, and immanent/physical necessity remain live opponents. | [U07](../corpus/transcript.md#user--u07), [U13](../corpus/transcript.md#user--u13), [U19](../corpus/transcript.md#user--u19) |
+| C05 | The necessary foundation is better modeled as an agent capable of originating contingent effects than as a mechanically sufficient impersonal structure. | `preferred` | O'Connor-style agent causation is persuasive to the author; superiority over impersonal necessity still needs a complete argument. | [U09](../corpus/transcript.md#user--u09), [U10](../corpus/transcript.md#user--u10), [U11](../corpus/transcript.md#user--u11), [U13](../corpus/transcript.md#user--u13) |
+| C06 | “Necessary agent,” “creator,” and “God” are distinct stages; further attributes must be derived individually. | `accepted` | Prevents importing classical theism or perfection into the premises. | [U06](../corpus/transcript.md#user--u06), [U12](../corpus/transcript.md#user--u12), [U13](../corpus/transcript.md#user--u13) |
+| C07 | Creation primarily actualizes a generative structure—laws, constants, boundary conditions, and other primitives—rather than specifying every event. | `preferred` | The exact minimal or uniqueness-determining specification is unresolved. | [U14](../corpus/transcript.md#user--u14), [U15](../corpus/transcript.md#user--u15), [U21](../corpus/transcript.md#user--u21) |
+| C08 | At least some created agents have genuine libertarian, agent-causal powers. | `preferred` | This is a substantive metaphysical commitment, not a consequence of indeterminism alone. | [U09](../corpus/transcript.md#user--u09), [U16](../corpus/transcript.md#user--u16), [U19](../corpus/transcript.md#user--u19), [U21](../corpus/transcript.md#user--u21) |
+| C09 | The actual history is jointly but asymmetrically constituted: the cosmic agent supplies/actualizes the framework, while creatures can contribute underived choices. | `preferred` | “Joint” must be formalized so it does not erase the ontological asymmetry or make creaturely acts creators of existence. | [U21](../corpus/transcript.md#user--u21), [U22](../corpus/transcript.md#user--u22), [A24](../corpus/transcript.md#assistant--a24) |
+| C10 | Divine knowledge tracks truths about actuality and is not the efficient cause of a creature's free act. | `preferred` | The modal/fixity objection remains unsolved; separating knowledge from causation is necessary but not sufficient. | [U18](../corpus/transcript.md#user--u18), [U19](../corpus/transcript.md#user--u19) |
+| C11 | **Actuality-complete omniscience (ACO):** complete knowledge of every truth concerning complete actual reality, without temporal acquisition or updating. | `accepted` | This is the clean minimum and chosen label. Its truth semantics still need formalization. | [U19](../corpus/transcript.md#user--u19), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21), [U24](../corpus/transcript.md#user--u24) |
+| C12 | Knowledge of modal possibilities is compatible with ACO and worth exploring, but is not currently required by ACO. | `open` | Candidate extensions must state what possibilities are and what grounds them. | [U20](../corpus/transcript.md#user--u20), [U24](../corpus/transcript.md#user--u24) |
+| C13 | Exhaustive pre-actual counterfactual knowledge of libertarian choices is not required. | `accepted` | It may be explored as an extension; the model should not inherit Molinist grounding commitments by default. | [U17](../corpus/transcript.md#user--u17), [U19](../corpus/transcript.md#user--u19), [U24](../corpus/transcript.md#user--u24) |
+| C14 | The cosmic agent is atemporal with respect to creaturely time. | `preferred` | Whether there is any non-creaturely sequence, and how atemporal knowledge relates to an open future, are open. | [U17](../corpus/transcript.md#user--u17), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22), [U23](../corpus/transcript.md#user--u23) |
+| C15 | Divine action admits multiple types: structural actualization, boundary/law/state changes, agent-directed influence, and direct agency intervention. | `provisional` | The taxonomy is retained; compatibility and consequences require formal analysis. | [U14](../corpus/transcript.md#user--u14), [U17](../corpus/transcript.md#user--u17), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21) |
+| C16 | Direct determination of a particular action can remove autonomy for that action without making the whole ontology contradictory. | `preferred` | The actual model does not require that such interventions occur. | [U21](../corpus/transcript.md#user--u21) |
+| C17 | A miracle is provisionally an event whose sufficient causal conditions are not exhausted by the ordinary secondary causal structure. | `preferred` | This avoids defining miracles by current scientific ignorance or “impossibility.” | [U17](../corpus/transcript.md#user--u17), [A24](../corpus/transcript.md#assistant--a24) |
+| C18 | Providence is a global relation among actualization, intervention, and history, rather than an additional causal mechanism. | `accepted` | Adopted as a working definition under the post-U18 default-acceptance rule; its consequences remain expandable. | [U21](../corpus/transcript.md#user--u21), [A24](../corpus/transcript.md#assistant--a24), default-acceptance rule |
+| C19 | Goodness is a separate thesis to be developed after causal architecture and intervention. | `accepted` | Candidate accounts based on divine choice, divine nature, reasons, telos, and creaturely flourishing remain unsettled. | [U17](../corpus/transcript.md#user--u17), [U18](../corpus/transcript.md#user--u18), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21) |
+| C20 | Omnipotence and omnipresence must be derived and made mutually consistent with ACO and atemporality. | `deferred` | They are not part of the current minimal ontology. | [U15](../corpus/transcript.md#user--u15), [U18](../corpus/transcript.md#user--u18), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22) |
+| C21 | The project discovers how far the argument reaches before comparing its agent with classical God-concepts. | `accepted` | Reaching God is an aim, not a license to place the conclusion in the premises. | [U16](../corpus/transcript.md#user--u16), [U19](../corpus/transcript.md#user--u19), [U21](../corpus/transcript.md#user--u21) |
+
+## Explicitly rejected or corrected moves
+
+| ID | Move | Status | Provenance |
+| --- | --- | --- | --- |
+| R01 | Mathematical notational compression or elegance by itself reveals ontological simplicity or divinity. | `rejected` | [U04](../corpus/transcript.md#user--u04) |
+| R02 | Unanswered scientific questions or the human desire for explanation are sufficient evidence for God. | `rejected` | [U03](../corpus/transcript.md#user--u03), [U04](../corpus/transcript.md#user--u04), [U05](../corpus/transcript.md#user--u05) |
+| R03 | Perfection follows automatically from necessary ground or agenthood. | `rejected` | [U13](../corpus/transcript.md#user--u13) |
+| R04 | Creation is identical to God's determination of every event and choice. | `rejected` | [U15](../corpus/transcript.md#user--u15), [U21](../corpus/transcript.md#user--u21) |
+| R05 | Divine knowledge, merely by being knowledge, causally determines the known act. | `rejected` | [U18](../corpus/transcript.md#user--u18), [U19](../corpus/transcript.md#user--u19) |
+| R06 | Every humanly perceived evil is straightforwardly evil from the complete perspective. | `rejected` | [U11](../corpus/transcript.md#user--u11), [U16](../corpus/transcript.md#user--u16) |
+| R07 | An adversarial method should generate the maximum number of objections or repeatedly reopen every point. | `rejected` | [U18](../corpus/transcript.md#user--u18), [U19](../corpus/transcript.md#user--u19), current project brief |
+
+## Highest-priority open questions
+
+1. Which semantics supports ACO: eternalist complete-history truth, an open-future frame semantics, or a third model?
+2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
+3. Can a necessary agent genuinely choose if its nature fixes a unique act?
+4. What exactly is jointly actualized, and what are the distinct causal roles of $G$, $S$, ordinary events, agents, and interventions?
+5. Which intervention types are compatible with libertarian agency and atemporality?
+6. Does modal knowledge follow from ACO or add a new primitive?
+7. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?
+

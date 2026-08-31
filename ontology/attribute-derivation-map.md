@@ -22,13 +22,13 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Ultimate ground of contingent reality | Starting explanatory role | `provisional`; C04–C05 | S09 cost audit | F2–F3 eventually |
 | Agentive sourcehood and will | Constitutive | `preferred/accepted`; C05, C55–C58 | S06 | Hold at F2 |
 | Conscious subjectivity | Constitutive within the preferred agent concept | `preferred`; C57, C61–C64 | S07 | Hold; mind–body realization deferred |
-| Minimal intellect | Earned from conscious, reason-guided choice | `preferred`; C67 | S06–S07 and S10 | F1 sufficient now |
+| Minimal intellect | Earned bridge from conscious, reason-guided choice | `preferred`; C67; not the final cognitive profile | S06–S07 and S10 | Integrated into ACO/MKO |
 | Creator/actualizer of generative structure $S$ | Earned from the selected explanatory role | `preferred`; C07, C29–C34 | S03 | Hold at F2 |
-| Power to actualize the actual $S$ | Earned minimum power | `preferred`; C07, C31 | S03 | Current F1 expansion |
+| Power to actualize the actual $S$ | Earned minimum power | `preferred`; C07, C31 | S03 | Expanded in S11 |
 | Power to intervene | Permitted extension | `provisional`; C15, C35–C46 | S04 | Hold at F2 pending power analysis |
 | Contingent exercise of power | Earned within the agency model | `preferred`; C55, C58 | S06 | Hold at F2 |
-| Actuality-complete omniscience | Adopted extension | `accepted`; C11, C23, C47 | S01–S05 | Hold at F2 |
-| Modal knowledge | Supported extension | `preferred`; C12, C48–C54 | S05 | Hold at F2 |
+| Actuality-complete omniscience | Adopted full actual cognitive profile | `accepted`; C11, C23, C47 | S01–S05 | Hold at F2 |
+| Modal knowledge | Supported modal cognitive profile | `preferred`; C12, C48–C54 | S05 | Hold at F2 |
 | Atemporality relative to created time | Supported structural attribute | `preferred`; C14, C26, C28 | S01–S02 | Hold at F2 |
 | Relative transcendence of created spacetime | Earned from grounding and actualizing $S$ | `preferred`; C68 | S10 | F1 |
 | Minimal personal agency | Earned/constitutive | Conscious subject, intellect, will, and action for reasons; C55–C64, C67 | S06–S07 | F1 |
@@ -38,13 +38,13 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 
 | Attribute | Current classification | What is already available | Missing bridge | Planned treatment |
 | --- | --- | --- | --- | --- |
-| Sustaining action | Open | $G$ grounds existence and actualizes $S$ | Whether dependence is continuous, discrete, or exhausted by actualization | Next power analysis, F1 |
-| Omnipotence | Deferred | Actualizing and possible intervening powers | Scope across $\Sigma_G$, logical/metaphysical limits, and relation to agency | Next power analysis, F1 then selective F2 |
+| Non-continuous global dependence | Supported | Existential sovereignty plus E+ permits one atemporal grounding relation without repeated maintenance | Whether a stronger conservation thesis adds anything | S11; hold at F1 |
+| Qualified omnipotence | Preferred definition; satisfaction provisionally favored | Actualizing, enabling, grounding, and intervening powers; no external limiter | Test whether any substantive internal limit defeats the abductive case for maximality | S11 at F1; selective F2 |
 | Omnipresence | Deferred | ACO, causal access, and relative transcendence | Decide whether presence is spatial, causal, epistemic, grounding-based, or plural | After power, F1 |
-| Unity/uniqueness | Open | One $G$ is used in the model | Exclude or integrate multiple necessary agents/grounds | F1 |
-| Full immateriality or absolute non-spatiality | Open | $G$ is not merely an internal constituent of created spacetime | Rule out every material, extended, or higher-order mode of existence | Only if load-bearing |
+| Unity/uniqueness | Open with standard precedent available | One $G$ is used in the model | Reconstruct the strongest standard unity arguments without assuming full simplicity | F1 after omnipresence |
+| Full immateriality or absolute non-spatiality | Open development | $G$ is not merely an internal constituent of created spacetime | Determine what follows from grounding spacetime and atemporality | F1 later attribute pass |
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
-| Full immutability | Open | No temporal learning or epistemic update | Reconcile contingent willing and relations with any stronger invariance | Only if later needed |
+| Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
 | Goodness or omnibenevolence | Deferred separate thesis | Reasons, possible purposes, providence, creaturely flourishing | Ground value without importing perfection or collapsing it into arbitrary choice | Later evaluative branch |
 | Perfection | Rejected as an automatic inference | None required by necessity or creatorhood alone | Independent account would be needed | Do not use as a bridge |
@@ -59,9 +59,4 @@ This is already more than an intermediary factory worker, because $G$ is the ult
 
 ## Next derivation
 
-Begin with power because it continues the older unresolved sequence without reopening ACO:
-
-1. distinguish actualizing, sustaining, enabling, and intervening power;
-2. identify the domain of each power;
-3. test whether their union supports qualified omnipotence;
-4. use that result to define or decline omnipresence.
+S11 distinguishes actualizing, grounding, enabling, and intervening power; separates capacity from exercise; and adopts qualified omnipotence as the preferred definition. It provisionally favors maximality abductively, without adding a perfection premise or claiming a deduction. Omnipresence follows next.

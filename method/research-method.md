@@ -138,8 +138,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 
 1. Compare necessary agent and impersonal necessary structure under shared criteria. F1 cost audit completed in S09; C05 remains preferred.
 2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported. F1 map completed in S10.
-3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. Current task.
-4. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
-5. Select the genuinely fragile junctions for F2–F3 treatment.
-6. Run the dedicated literature, provenance, and novelty pass.
-7. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. F1 distinction and qualified definition completed in S11; maximality is provisionally favored abductively, with no separate perfection premise adopted.
+4. Develop omnipresence consistently with ACO/MKO, qualified power, atemporality, and existential sovereignty. Next task.
+5. Reconstruct standard unity arguments and deepen relative transcendence toward immateriality.
+6. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
+7. Select the genuinely fragile junctions for F2–F3 treatment.
+8. Run the dedicated literature, provenance, and novelty pass.
+9. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

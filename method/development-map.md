@@ -50,19 +50,18 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Actualizing power, sustenance, omnipotence, and omnipresence | attribute branch | F0–F1 | F1 power analysis | selective F2 | **Current substantive priority**; builds on creation, ACO, and intervention |
+| Actualizing power, sustenance, omnipotence, and omnipresence | attribute branch | F1 | address omnipresence; retain maximality as defeasible | selective F2 | **Current substantive priority**; S11 separates capacity, exercise, and global dependence and provisionally favors qualified maximality |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Scope of actualizing, sustaining, and intervening power at F1; assess whether any route to omnipotence is earned.
-2. Omnipresence as a causal, epistemic, grounding, or spatial claim.
-3. Unity/uniqueness and the optional role of simplicity.
-4. Whole-ontology dependency audit.
-5. Selection of formalization triggers and F2–F3 targets.
-6. Systematic literature and novelty mapping.
+1. Omnipresence as a causal, epistemic, grounding, or spatial claim.
+2. Reconstruct standard unity/uniqueness arguments and then deepen relative transcendence toward immateriality.
+3. Whole-ontology dependency audit.
+4. Selection of formalization triggers and F2–F3 targets.
+5. Systematic literature and novelty mapping.
 
 ## Depth-control rules
 

@@ -384,6 +384,69 @@ Existential dependence and originating authorship are different relations, so un
 
 Eternalist completeness adds no contradiction here. A complete block can depend for its existence on $G$ while having contents whose contrastive sources include created agents. Completeness of the object does not entail uniqueness of its source relation.
 
+## Power, exercise, and existential sovereignty
+
+The power profile must distinguish capacities from their exercises:
+
+| Capacity | Possible exercise |
+| --- | --- |
+| $CanActualize(G,S)$ | $ActualizesStructure(G,S^*)$ |
+| $CanGround(G,x)$ | $GroundsExistence(G,x)$ |
+| $CanEstablishEnablingStructure(G,S,A)$ | $ActualizesStructure(G,S)\land Enables(S,A)$ |
+| $CanIntervene(G,I)$ | $Intervenes(G,I)$ in the actual history |
+
+In every case:
+
+\[
+CanPerform(G,a)\not\Rightarrow Performs(G,a).
+\]
+
+The present model therefore permits extensive power with sparse exercise. In particular, the capacity to intervene does not imply continuous intervention.
+
+Conditional on $G$ being the ultimate ground of the contingent order, adopt existential sovereignty:
+
+\[
+Created(x)\rightarrow DependsExistentially(x,G).
+\]
+
+This is a typed dependence claim. It does not imply that $G$ originates the qualitative content of every event or free act. A creature can supply the contrastive authorship of $a$ while the agent, its powers, and the created arena remain existentially dependent on $G$.
+
+In E+, this dependence need not be a temporally repeated maintenance operation. The actualization of $S$ and its created arena can be one atemporal grounding relation to the complete created order:
+
+\[
+DependsExistentially(x,G)
+\not\Rightarrow
+\exists t\,RepeatedMaintenance(G,x,t).
+\]
+
+Call this **non-continuous global dependence**: the relation obtains across the created history without a sequence of divine acts that re-create each moment. Token interventions remain additional exercises rather than components of routine maintenance.
+
+### Candidate qualified omnipotence
+
+Do not define the power domain as whatever $G$ can do, because that would make omnipotence tautological. Let:
+
+\[
+\mathcal A_M(G)=
+\{a:Coherent(a,N,E_G)\},
+\]
+
+where $N$ contains independently specified necessary constraints and $E_G$ contains only essential features of $G$ established elsewhere. Then:
+
+\[
+OMP_Q(G)\quad\text{iff}\quad
+\forall a\in\mathcal A_M(G)\;CanPerform(G,a).
+\]
+
+$OMP_Q$ is qualified omnipotence: power to perform every action metaphysically coherent for the independently characterized agent. The qualification cannot be used to redescribe any discovered incapacity as part of $E_G$.
+
+The domain excludes contradictory task descriptions. For example, sufficiently determining a creature's token act while preserving that same act as libertarian-originated is not one coherent action. $G$ may preserve the freedom, or may override it as allowed by C16 and C39; inability to realize both descriptions together is not a loss of power.
+
+This candidate aligns power with the existing epistemic architecture. MKO includes complete knowledge of $\mathcal A_M(G)$ and the relevant capacities; ACO includes complete knowledge of which powers are actually exercised. Knowledge neither constitutes the power nor necessitates its exercise.
+
+Current commitments establish actualizing power, existential sovereignty conditionally on C04–C05, and possible intervention. They support $OMP_Q$ as the preferred definition of omnipotence.
+
+Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created or external reality can impose that limit on the ultimate ground; an essential internal limit remains coherent, but requires independent motivation. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise or pretending that ultimate grounding deductively entails omnipotence.
+
 ## Intervention ontology
 
 In E+, an intervention is a divine-originating causal contribution that alters a temporal continuation and therefore can make a different complete history actual. It is also a constituent of the history in which it occurs. What E+ excludes is only a meta-temporal process in which God first possesses one actual block and later edits it.

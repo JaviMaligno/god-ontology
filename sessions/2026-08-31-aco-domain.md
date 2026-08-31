@@ -56,3 +56,68 @@ MKO includes truths such as which structures, continuations, and agent acts are 
 ## Next question
 
 Specify the ground and exact domain of modal truths: logical and mathematical necessity, possible generative structures, continuations compatible with $S$, and powers of actual or possible agents.
+
+## Power-grounded modal domain
+
+Use:
+
+\[
+\mathcal M=\langle N,\Sigma_G,\mathcal H,\mathcal O\rangle,
+\]
+
+where $N$ contains necessary constraints, $\Sigma_G$ structures within $G$'s actualizing power, $\mathcal H(S)$ admissible continuations, and $\mathcal O(A,t,h)$ acts originable by an agent.
+
+The grounds are provisionally:
+
+\[
+Possible(S)\quad\text{because}\quad CanActualize(G,S),
+\]
+
+\[
+Possible(h\mid S)\quad\text{because}\quad Compatible(h,S),
+\]
+
+\[
+Possible(a\mid A,t,h)\quad\text{because}\quad CanOriginate(A,a,t,h).
+\]
+
+Possible histories represent combinations of powers and constraints rather than concrete eternalist blocks. This avoids a primitive ontology of fully formed possible worlds, although it leaves powers with irreducible modal content.
+
+MKO includes necessity, possibility, impossibility, and compossibility. It distinguishes:
+
+\[
+C\rightarrow\Diamond a
+\]
+
+from:
+
+\[
+C\Box\!\!\rightarrow a.
+\]
+
+The first is admitted conditional possibility; the second is the excluded claim about which free outcome would be selected.
+
+ACO and MKO are conceptual components of one atemporal knowledge, not sequential cognitive acts. ACO includes actual powers as features of $\mathfrak R^*$; MKO articulates their possible manifestations and unactualized structures.
+
+$\Sigma_G$ must not presuppose omnipotence. It contains only structures supported by powers independently established for $G$.
+
+## Modal questions addressed
+
+1. What grounds logical and mathematical necessity in $N$?
+2. Does knowledge of possible agents initially concern types and powers only, or also individual identities?
+
+## Provisional resolution
+
+Partition:
+
+\[
+N=N_L\cup N_M\cup N_G.
+\]
+
+$N_L$ contains logical and identity constraints constitutive of coherent models. $N_M$ contains consequences of specified mathematical structures, $Q\models p$, without choosing an ultimate ontology for those structures. $N_G$ contains only modal consequences of independently established essential features of $G$.
+
+For merely possible agents, MKO initially ranges over qualitative agent-types, power profiles, and relations. Actual Alice has de re alternatives across histories because her actual identity and powers ground them. A non-actual individual is not assigned an identity without a further identity-ground.
+
+The governing principle is that omniscience has no missing object where the ontology supplies no truthmaker and hence no truth. This cannot be used to exclude truths that genuinely obtain.
+
+ACO plus its power-grounded modal complement is provisionally complete. The next substantive question returns to the necessary agent: can a necessarily existing agent exercise contingent choice?

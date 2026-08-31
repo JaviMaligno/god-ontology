@@ -119,6 +119,75 @@ ACO(G)\quad\text{iff}\quad
 
 This includes actual truths about $G$, the created structure and history, interventions, agents, and obtaining relations of dependence. Modal truths are handled by the distinct modal complement.
 
+### Modal complement of ACO
+
+Model the modal domain without reifying complete possible histories:
+
+\[
+\mathcal M=\langle N,\Sigma_G,\mathcal H,\mathcal O\rangle,
+\]
+
+where $N$ contains necessary constraints, $\Sigma_G$ structures within $G$'s actualizing power, $\mathcal H(S)$ continuations admitted by a structure, and $\mathcal O(A,t,h)$ acts originable by an agent in a situation.
+
+The intended grounds are:
+
+\[
+Possible(S)\quad\text{because}\quad CanActualize(G,S),
+\]
+
+\[
+Possible(h\mid S)\quad\text{because}\quad Compatible(h,S),
+\]
+
+\[
+Possible(a\mid A,t,h)\quad\text{because}\quad CanOriginate(A,a,t,h).
+\]
+
+Possible histories are representations of combined powers and constraints, not additional concrete blocks. Power-grounded modality remains irreducibly modal at its base: the actualizing and originating power predicates are not reduced to non-modal vocabulary.
+
+Define:
+
+\[
+MKO(G)\quad\text{iff}\quad
+G\text{ knows }N,\Sigma_G,\mathcal H(S),\mathcal O(A,t,h)
+\text{ and their compossibility relations}.
+\]
+
+This includes conditional possibility,
+
+\[
+C\rightarrow\Diamond a,
+\]
+
+without requiring a selection counterfactual,
+
+\[
+C\Box\!\!\rightarrow a.
+\]
+
+The first states that $a$ could be originated under $C$; the second purports to state what a libertarian agent would choose and remains excluded pre-actually by C13.
+
+ACO and MKO are conceptual components of one atemporal epistemic state. ACO knows actual powers as actual features of $\mathfrak R^*$; MKO makes explicit their possible manifestations and structures not actualized. $\Sigma_G$ is constrained by the powers eventually established for $G$ and must not presuppose omnipotence.
+
+Partition the necessary constraints:
+
+\[
+N=N_L\cup N_M\cup N_G.
+\]
+
+$N_L$ contains logical and identity constraints constitutive of any coherent model. $N_M$ contains necessary consequences of specified mathematical structures, expressed as $Q\models p$ without deciding whether such structures are Platonic objects, divine concepts, or structural invariants. $N_G$ contains only necessities that follow from independently established essential features of $G$.
+
+Modal knowledge of merely possible agents initially ranges over qualitative agent-types, power profiles, and relational configurations. It does not assign individual identities to non-actual persons without an identity-ground. Alternatives for an actual agent remain de re: the same actual Alice can originate $a$ or $b$ across admissible histories.
+
+This instantiates a general epistemic principle:
+
+\[
+\neg\exists x\,Truthmaker(x,p)\quad\Rightarrow\quad
+\text{failure to know }p\text{ is no limitation of omniscience}.
+\]
+
+The principle applies only where the ontology genuinely denies a truth to know; it is not a device for ignoring difficult but grounded truths.
+
 The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
 - the capacity or rule of complete knowledge may be necessary and invariant;

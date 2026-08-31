@@ -28,6 +28,8 @@ Apply pressure where the model bears weight:
 - demand exact truth conditions when verbal reconciliation hides a modal problem;
 - stop repeating an objection once answered unless a new dependency or source reopens it.
 
+Likewise, compare the project with a named position once per substantive issue or in a dedicated literature section. Repeat the comparison only when a new inference depends on the difference. Molinism is therefore relevant to counterfactual knowledge and provenance, not a standing frame for every discussion of ACO.
+
 Do not manufacture symmetry. A well-supported working choice need not be suspended merely because an imaginable alternative exists. Record why it is preferred and what evidence could overturn it.
 
 ## Provenance and novelty

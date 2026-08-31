@@ -64,9 +64,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
 15. **Actuality-Complete Omniscience**
     - Minimal definition
     - Modal and counterfactual extensions
-16. **The Two Semantic Models**
-    - Eternalist complete history
-    - Open-future, frame-indexed timeless knowledge
+16. **Agent-Causal Eternalism and Three Kinds of Indexing**
+    - The complete actual history
+    - Temporal, perspectival, and actuality indexing
+    - Open-future semantics as a controlled alternative
 17. **The Fixity Problem**
     - Truth, knowledge, necessity, causal determination, and freedom
 18. **Atemporal Priority and Temporal Experience**

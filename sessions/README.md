@@ -4,3 +4,7 @@ Each substantial future discussion gets one dated file named `YYYY-MM-DD-short-t
 
 Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promoted to `ontology/`; literature findings to `research/`; polished prose to `writing/`.
 
+## Index
+
+- [S01 — Eternalism, indexing, and the status of the open future](2026-08-31-eternalism-and-indexing.md)
+

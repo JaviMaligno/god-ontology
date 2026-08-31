@@ -14,7 +14,7 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Agent causation** | Origination of an action by an agent irreducible, in the intended libertarian version, to a sufficient chain of prior events or to randomness alone. | preferred; [U09](../corpus/transcript.md#user--u09) |
 | **Generative structure $S$** | A fundamental specification—possibly laws, constants, boundaries, topology, and primitives—that constrains or generates histories without necessarily settling libertarian acts. | preferred; [U15](../corpus/transcript.md#user--u15) |
 | **Possible continuation** | A causally/metaphysically admissible extension of a history prefix at a branching point. It need not be a separately existing universe. | provisional |
-| **Actual history $H^*$** | The history that obtains. Whether this is a completed eternalist block or a frame-indexed object is open. | semantics open |
+| **Actual history $H^*$** | The history that obtains; in preferred E+, it is a tenselessly complete history. The frame-indexed F model remains diagnostic. | preferred; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 | **Actualization** | The relation by which $G$ makes a structure or history actual. It must be distinguished from choosing every event inside it. | preferred distinction; [U12](../corpus/transcript.md#user--u12), [U21](../corpus/transcript.md#user--u21) |
 | **Asymmetric co-production** | The actual history depends on divine actualization of its ontological framework and may also include genuine creaturely causal contributions; those contributions are not equal in scope or ontological priority. | preferred; [U21](../corpus/transcript.md#user--u21) |
 | **ACO** | Actuality-complete omniscience: complete knowledge of every truth concerning complete actual reality, without temporal acquisition or updating. | accepted; [U21](../corpus/transcript.md#user--u21), [U24](../corpus/transcript.md#user--u24) |
@@ -25,4 +25,8 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Providence** | A global architectural relation among divine actualization/intervention and actual history, not a separate causal force. | accepted working definition |
 | **Epistemic priority** | Dependence of knowledge on truth or its truthmaker. It is not a temporal learning sequence. | working distinction |
 | **Ontological priority** | Dependence of one reality on another without implying earlier/later temporal order. | working distinction |
+| **Temporal indexing** | Locating an event or proposition at a creaturely time $t$. | accepted distinction; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| **Perspectival indexing** | Relativizing what has occurred, is settled, or is epistemically available to a creature or temporal frame. | accepted distinction; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| **Actuality indexing** | Relating divine knowledge to the truths of the complete actual history $H^*$, without treating knowledge as temporally acquired or causally productive of those truths. | preferred; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| **Agent-causal eternalism (E+)** | The working combination of a tenselessly complete actual history, libertarian originating acts within it, and actuality-indexed ACO. | preferred; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 

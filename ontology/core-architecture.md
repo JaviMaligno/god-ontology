@@ -48,33 +48,35 @@ These are deliberately numbered as candidates until the formal semantics is sele
 8. **Epistemic non-causation:** $K_G(p)$ alone is not an efficient cause or sufficient causal condition of $p$.
 9. **Optional modal extension:** knowledge of possibilities may extend ACO but is not entailed until the ontology of possibility is specified.
 
-## The unresolved semantic fork
+## Preferred temporal semantics: E+
 
-The conversation approached two nearby but non-identical solutions to foreknowledge and freedom.
+The original conversation approached two nearby but non-identical solutions to foreknowledge and freedom without consistently separating them. [Session S01](../sessions/2026-08-31-eternalism-and-indexing.md) clarifies that complete-history eternalism is the preferred architecture.
 
-### E — Eternalist complete-history model
+### Agent-causal eternalism
 
 All events of $H^*$ tenselessly exist. A proposition about Alice's act is true because that act is part of $H^*$; $G$ knows it without temporal acquisition. Libertarian alternatives remain metaphysically possible even though one is actual.
 
-This makes $K_G(H^*)$ straightforward, but “the proposition is not true yet” can only mean *not settled or accessible relative to an earlier creaturely perspective*. It cannot mean that no tenseless fact exists.
+This makes $K_G(H^*)$ straightforward. “The proposition is not true yet” now has a temporal or perspectival reading: relative to Alice at an earlier time, the act has not occurred and is not available to her. It does not normally mean that the tenseless proposition lacks a truth value.
 
-### F — Open-future, frame-indexed timeless model
+The knowledge relation is **actuality-indexed**: it ranges over the truths of $H^*$. This must be distinguished from temporal indexing of events and perspectival indexing of creaturely knowledge.
+
+### Diagnostic alternative: F
 
 At a creaturely frame before Alice acts, no future branch has a determinate truth value. Alice's act supplies the truthmaker. An atemporal $G$ knows the full indexed family of frames and the truths relative to each frame without learning sequentially.
 
-This preserves the author's strong “not true yet” intuition, but it requires explicit frame-relative truth conditions. It cannot simply reuse a single completed block $H^*$ without explanation.
+This preserves a literal, alethic reading of “not true yet,” but it requires explicit frame-relative truth conditions. It cannot simply reuse a single completed block $H^*$ without explanation. It remains a comparison model rather than a co-primary account.
 
 ### Why this matters
 
-The previous conversation sometimes moved from E to F as if they were one model. They may be compatible in a richer semantics, but that compatibility is a theorem to seek, not a premise to assume. The immediate task is to define both models and test:
+The immediate task is to formalize E+ and test:
 
 - bivalence and truthmakers for future contingents;
 - alternative possibilities and the fixity argument;
 - the domain of ACO;
-- whether atemporality means one perspective, all frames, or a relation outside temporal indexing;
+- how actuality indexing relates to temporal and creature-perspectival indexing;
 - whether intervention changes a history or is constitutive of the only actual history.
 
-This issue is supported by the author's preference for non-existent future truths and atemporality in [U18](../corpus/transcript.md#user--u18)–[U23](../corpus/transcript.md#user--u23). The late summaries correctly retain it as unresolved; that open status is itself adopted under the default-acceptance rule.
+F should be introduced only where its different truth conditions clarify a real burden in E+. The project does not need recurrent comparison with Molinism or any other named theory once provenance and the relevant difference are recorded.
 
 ## Intervention taxonomy to formalize
 
@@ -91,10 +93,10 @@ This issue is supported by the author's preference for non-existent future truth
 
 ## Formal deliverable next
 
-Construct two small Kripke/branching-time models—E and F—over the same causal graph. Define `Possible`, `Actual`, `Settled`, `Free`, `Causes`, `Knows`, and `Intervenes`. Then prove or refute the compatibility set:
+Construct a minimal E+ model over the causal graph. Define `Possible`, `Actual`, `Settled`, `Free`, `Causes`, `Knows`, and `Intervenes`. Then prove or refute the compatibility set:
 
 \[
 \{\Box E(G),\ Atemporal(G),\ ACO(G),\ Free(A),\ K_G(Act(A)),\neg Causes(K_G(Act(A)),Act(A))\}.
 \]
 
-Only after this comparison should one model be promoted to the ledger.
+Use F as a controlled contrast when specifying `Settled`, future truth, and the epistemic domain of $G$.

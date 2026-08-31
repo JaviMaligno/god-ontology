@@ -42,6 +42,9 @@ This is the normative center of the repository. It records what the project curr
 | C19 | Goodness is a separate thesis to be developed after causal architecture and intervention. | `accepted` | Candidate accounts based on divine choice, divine nature, reasons, telos, and creaturely flourishing remain unsettled. | [U17](../corpus/transcript.md#user--u17), [U18](../corpus/transcript.md#user--u18), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21) |
 | C20 | Omnipotence and omnipresence must be derived and made mutually consistent with ACO and atemporality. | `deferred` | They are not part of the current minimal ontology. | [U15](../corpus/transcript.md#user--u15), [U18](../corpus/transcript.md#user--u18), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22) |
 | C21 | The project discovers how far the argument reaches before comparing its agent with classical God-concepts. | `accepted` | Reaching God is an aim, not a license to place the conclusion in the premises. | [U16](../corpus/transcript.md#user--u16), [U19](../corpus/transcript.md#user--u19), [U21](../corpus/transcript.md#user--u21) |
+| C22 | The primary temporal model is agent-causal eternalism: one complete actual history exists tenselessly while created agents make genuine originating contributions within it. | `preferred` | Best matches the author's intended picture; compatibility with the ability to do otherwise remains the central formal burden. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| C23 | ACO is indexed primarily to complete actuality $H^*$, not to a sequence of divine epistemic updates and not necessarily to open-future frames. | `preferred` | Temporal, perspectival, and actuality indexing must remain distinct. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| C24 | Comparisons with Molinism and other named positions should be localized to provenance or a load-bearing difference rather than repeated throughout the main argument. | `accepted` | Keeps the ontology positive and avoids repetitive contrast. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -57,7 +60,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Which semantics supports ACO: eternalist complete-history truth, an open-future frame semantics, or a third model?
+1. Can E+ make tenseless actuality and infallible knowledge compatible with a genuine ability to do otherwise?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and what are the distinct causal roles of $G$, $S$, ordinary events, agents, and interventions?

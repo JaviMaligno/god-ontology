@@ -5,7 +5,7 @@
 
 ## Bottom line
 
-The current architecture is best described as a **potentially useful synthesis of established components**. Its central foreknowledge/free-will move has a particularly close precedent: De Florio and Frigerio model future free propositions as indeterminate until the act, while an atemporal God knows all temporal frames and divine knowledge depends on the agent's act. Recent work also explicitly combines eternalism, libertarian freedom, exhaustive divine knowledge, and qualified providence.
+The current architecture is best described as a **potentially useful synthesis of established components**. Session S01 clarified that its primary temporal model is complete-history eternalism rather than an alethically open future. Law, Miller, and Rasmussen are therefore the closest checked precedent for the temporal/free-will core. De Florio and Frigerio remain the closest checked comparison for the alternative frame-indexed model in which future free propositions are indeterminate until the act. Recent work also explicitly combines eternal perspective, libertarian freedom, exhaustive divine knowledge, and qualified providence.
 
 The exact label **actuality-complete omniscience** did not appear in the targeted exact-phrase search. That supports treating the label as a project formulation; it does not establish conceptual novelty.
 

@@ -10,6 +10,8 @@ This is the normative center of the repository. It records what the project curr
 
 **Orthogonal development tracking (`accepted`):** commitment status, development depth, and evidential maturity are recorded separately. The project advances breadth-first through the high-level ontology and formalizes selectively at load-bearing junctions. Planned depths remain revisable. Provenance: [S08](../sessions/2026-09-01-development-order.md).
 
+**Constructive comparative standard (`accepted`):** ultimate metaphysical choices are not expected to be uniquely demonstrated. The project selects and defends the position the author finds most coherent, explanatory, and satisfactory, while recording inference type and serious defeaters. An established preference remains the working architecture unless substantive reasons justify revision; merely presenting another coherent option does not reset the comparison. Provenance: [S09](../sessions/2026-09-01-agentic-preference.md).
+
 ## Status vocabulary
 
 | Status | Meaning |
@@ -29,7 +31,7 @@ This is the normative center of the repository. It records what the project curr
 | C02 | Scientific method does not automatically exhaust every legitimate route to knowledge. | `provisional` | The existence and reliability of additional routes must be argued, not merely asserted. | [U02](../corpus/transcript.md#user--u02), [U05](../corpus/transcript.md#user--u05) |
 | C03 | Regularity and mathematical intelligibility are data for metaphysical interpretation, not a direct proof of theism. | `accepted` | Naturalist, structuralist, Platonist, and theist interpretations remain competitors. | [U02](../corpus/transcript.md#user--u02), [U03](../corpus/transcript.md#user--u03), [U04](../corpus/transcript.md#user--u04) |
 | C04 | A necessary foundation of contingent reality is the present working hypothesis. | `provisional` | Strong within the model, but brute fact, regress, and immanent/physical necessity remain live opponents. | [U07](../corpus/transcript.md#user--u07), [U13](../corpus/transcript.md#user--u13), [U19](../corpus/transcript.md#user--u19) |
-| C05 | The necessary foundation is better modeled as an agent capable of originating contingent effects than as a mechanically sufficient impersonal structure. | `preferred` | O'Connor-style agent causation is persuasive to the author; superiority over impersonal necessity still needs a complete argument. | [U09](../corpus/transcript.md#user--u09), [U10](../corpus/transcript.md#user--u10), [U11](../corpus/transcript.md#user--u11), [U13](../corpus/transcript.md#user--u13) |
+| C05 | The necessary foundation is better modeled as an agent capable of originating contingent effects than as a mechanically sufficient impersonal structure. | `preferred` | This is the selected working architecture, supported abductively and by authorial judgment rather than expected to be uniquely demonstrated. Comparison now articulates its advantages, costs, and possible substantive defeaters. | [U09](../corpus/transcript.md#user--u09), [U10](../corpus/transcript.md#user--u10), [U11](../corpus/transcript.md#user--u11), [U13](../corpus/transcript.md#user--u13), [S09](../sessions/2026-09-01-agentic-preference.md) |
 | C06 | “Necessary agent,” “creator,” and “God” are distinct stages; further attributes must be derived individually. | `accepted` | Prevents importing classical theism or perfection into the premises. | [U06](../corpus/transcript.md#user--u06), [U12](../corpus/transcript.md#user--u12), [U13](../corpus/transcript.md#user--u13) |
 | C07 | Creation primarily actualizes a generative structure—laws, constants, boundary conditions, and other primitives—rather than specifying every event. | `preferred` | The exact minimal or uniqueness-determining specification is unresolved. | [U14](../corpus/transcript.md#user--u14), [U15](../corpus/transcript.md#user--u15), [U21](../corpus/transcript.md#user--u21) |
 | C08 | At least some created agents have genuine libertarian, agent-causal powers. | `preferred` | This is a substantive metaphysical commitment, not a consequence of indeterminism alone. | [U09](../corpus/transcript.md#user--u09), [U16](../corpus/transcript.md#user--u16), [U19](../corpus/transcript.md#user--u19), [U21](../corpus/transcript.md#user--u21) |
@@ -110,6 +112,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Which philosophy of mind can realize conscious sourcehood without causal exclusion or hidden event determinism?
-2. How do psychological history and manipulation affect authenticity and responsibility beyond minimal freedom?
-3. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?
+1. Which comparative advantages and costs justify retaining the necessary-agent hypothesis over an impersonal necessary structure?
+2. Which attributes follow from the necessary-agent hypothesis, which receive only abductive support, and which remain optional or unsupported?
+3. Which philosophy of mind can realize conscious sourcehood without causal exclusion or hidden event determinism? Deferred unless it becomes load-bearing.
+4. How do psychological history and manipulation affect authenticity and responsibility beyond minimal freedom? Deferred to the evaluative branch.

@@ -4,6 +4,21 @@
 
 Build the strongest coherent ontology the author can endorse. Originality is welcome but secondary. Classical theism is a comparison target and possible destination, not a package of premises.
 
+## Constructive decision standard
+
+The project does not expect a demonstrative proof that uniquely selects one ultimate metaphysical foundation. At fundamental underdetermined junctions, its aim is a reasoned working choice based on:
+
+- internal coherence and compatibility with the rest of the ontology;
+- explanatory reach and unification;
+- comparative ontological cost;
+- fit with the phenomena and commitments the project takes seriously;
+- resistance to load-bearing objections;
+- the author's considered intelligibility, satisfaction, and preference, identified as authorial judgment rather than disguised deduction.
+
+Always label whether a conclusion is deductive, abductive, coherence-based, preferential, or theological. A preferred position is the working architecture, not one side of a permanently reset tie. Comparison with alternatives articulates its rationale and searches for substantive defeaters. Revision requires reasons strong enough to outweigh both the existing case and the downstream architecture; the mere availability of another coherent option is insufficient.
+
+Downstream modules conditional on a preferred premise remain in place unless that premise is actually demoted or rejected. They are not discarded merely because the premise is being stress-tested.
+
 ## Conversation protocol
 
 From [U18](../corpus/transcript.md#user--u18) onward, the author comments selectively: points not mentioned in the next reply are accepted as good working material and retained at their proposed status. This is how the discussion advances without requiring exhaustive line-by-line ratification or repeated summaries. Explicit objections override default acceptance; later evidence can still reopen any point.

@@ -43,7 +43,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 | --- | --- | --- | --- | --- | --- |
 | Science, description, and explanation | motivation | F1 | hold at F1 | F1 plus literature | Background; does not itself prove the ontology |
 | Contingency and necessary ground | trunk | F1 | F2 after comparative criteria are clear | F3 | C04; supports every later divine claim |
-| Necessary agent versus impersonal structure | trunk junction | F1 | F1 comparison, escalating selectively to F2 | F3 | **Current priority**; tests C05 |
+| Necessary agent versus impersonal structure | trunk junction | F1 | F1 articulation and cost comparison, escalating selectively to F2 | F3 | **Current priority**; defends preferred C05 and searches for substantive defeaters |
 | Attribute derivation | trunk | F0 | F1 map | selective F2–F3 | Follows the preferred ground; prevents imported attributes |
 | Generative creation and causal roles | core support | F2 | hold and reintegrate | selective F3 | S03; conditional on C05 and agent causation |
 | Agentic choice and conscious sourcehood | core support | F2 locally | hold at present depth | selective F3 | S06–S07; supports the agent comparison |
@@ -57,7 +57,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Necessary agent versus impersonal necessary structure at F0–F1.
+1. Necessary agent versus impersonal necessary structure at F0–F1, as a defense and cost audit of the preferred agentic architecture rather than an attempted demonstration.
 2. Attribute-derivation surface map at F1.
 3. Whole-ontology dependency audit.
 4. Selection of formalization triggers and F2–F3 targets.

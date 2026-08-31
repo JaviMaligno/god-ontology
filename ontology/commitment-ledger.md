@@ -8,6 +8,8 @@ This is the normative center of the repository. It records what the project curr
 
 **Primacy of interaction (`accepted`):** the author-assistant conversation is where the ontology is generated, criticized, and shaped. Documentation is durable memory and a continuity mechanism, especially across sessions and context compaction; it must not replace visible discussion. Provenance: [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md).
 
+**Orthogonal development tracking (`accepted`):** commitment status, development depth, and evidential maturity are recorded separately. The project advances breadth-first through the high-level ontology and formalizes selectively at load-bearing junctions. Planned depths remain revisable. Provenance: [S08](../sessions/2026-09-01-development-order.md).
+
 ## Status vocabulary
 
 | Status | Meaning |

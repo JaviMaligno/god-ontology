@@ -19,6 +19,53 @@ The conversation between author and assistant is the primary deliberative instru
 
 No layer is dismissed merely because another method cannot access it. Each must establish its own warrant and limits.
 
+## Independent tracking axes
+
+Do not use one label to answer three different questions:
+
+1. **Commitment status:** whether the project accepts, prefers, tests, defers, leaves open, or rejects a claim. This remains in the commitment ledger.
+2. **Development depth:** how far the claim has moved from a clear concept to an integrated and stress-tested formal account.
+3. **Evidential maturity:** which authorial, argumentative, adversarial, bibliographic, empirical, experiential, or theological supports have actually been examined.
+
+An accepted claim can remain conceptually stated, while a rejected or merely diagnostic model can be highly formalized. Formal detail must not be mistaken for confidence or truth.
+
+## Development-depth scale
+
+| Level | Required work |
+| --- | --- |
+| **F0 — Conceptual** | State the thesis clearly, define its intended role, and distinguish it from nearby claims. |
+| **F1 — Architectural** | Record dependencies, causal or grounding relations, alternatives, and consequences for the rest of the ontology. |
+| **F2 — Local formalization** | Supply symbols, scope, truth or satisfaction conditions, and a model sufficient for the load-bearing inference. |
+| **F3 — Integrated stress test** | Check the formalized claim against the other core modules, strongest objections, edge cases, and relevant external literature. |
+
+The planned level is a revisable research target, not a promise that every topic will reach F3.
+
+### Formalization triggers
+
+Move a claim to F2 or F3 when at least one of these conditions holds:
+
+- a major inference depends on its exact scope;
+- an apparent compatibility may conceal contradiction;
+- two verbal formulations risk conflating different relations;
+- several later commitments depend on the claim;
+- a serious objection turns on truth conditions, modality, temporal order, or causal structure;
+- a formal comparison can discriminate between live alternatives.
+
+Otherwise prefer F0–F1 in the main development. Preserve useful notation already produced, but do not deepen a lateral branch merely because it admits further detail.
+
+## Spiral sequencing
+
+Use a breadth-first spiral with selective depth:
+
+1. map the high-level ontology and its dependencies;
+2. choose the next load-bearing junction;
+3. develop it initially at F0–F1;
+4. descend to F2 only when a formalization trigger appears;
+5. reintegrate the result into the whole map;
+6. defer F3 and systematic appendices until the backbone is stable, except where an immediate contradiction test is necessary.
+
+The live roadmap and planned depths are maintained in [development-map.md](development-map.md).
+
 ## Adversarial method
 
 Apply pressure where the model bears weight:
@@ -48,24 +95,35 @@ Compare formulations at the level of commitments and formal consequences, not me
 
 ## Session workflow
 
-1. Read the ledger and the previous session's unresolved items.
+1. Read the ledger, development map, and previous session's unresolved items.
 2. Select one primary question and at most two dependencies.
-3. State the current preferred answer before expanding alternatives.
-4. Define ambiguous terms and identify the inference type.
-5. Develop the strongest live alternatives and objections.
-6. Apply explicit corrections, then the U18 default-acceptance rule; decide what is promoted, retained at its proposed level, demoted, rejected, or left open.
-7. Update the ledger, glossary, architecture, novelty map, and treatise outline only where the session changes them.
-8. End with the next formal or research task; do not restate the whole ontology.
+3. Record its current depth, target depth for this pass, and any formalization trigger.
+4. State the current preferred answer before expanding alternatives.
+5. Define ambiguous terms and identify the inference type.
+6. Develop the strongest live alternatives and objections in proportion to the target depth.
+7. Apply explicit corrections, then the U18 default-acceptance rule; decide what is promoted, retained at its proposed level, demoted, rejected, or left open.
+8. Update the ledger, development map, glossary, architecture, novelty map, and treatise outline only where the session changes them.
+9. End with the next conceptual, formal, or research task; do not restate the whole ontology.
 
 Use [the session template](../sessions/TEMPLATE.md) so future conversations can span many sessions without becoming another monolithic dump.
 
-## Immediate research sequence
+## Research sequence
 
-1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast. Provisionally completed in S01–S02.
-2. Formalize causal roles and asymmetric co-production. Provisionally completed in S03, conditional on agent causation.
-3. Test the intervention taxonomy against E+ using typed causal relations, prioritizing agency-preserving influence over local agency-removing boundary cases. Provisionally completed with the S04 case check.
-4. Decide the minimum and optional extensions of ACO. Provisionally completed in S05 with power-grounded MKO.
-5. Formalize a unified logic of contingent agentic choice and the minimal role of conscious sourcehood. Provisionally completed in S06–S07; the ultimate mind–body realization and responsibility layers remain open.
-6. Return to the comparative case for necessary agent versus impersonal necessary structure. Current substantive task.
-7. Derive or decline omnipotence and omnipresence.
-8. Develop goodness, reasons for creation, and suffering as a separate thesis.
+### First spiral completed
+
+1. E+ and the distinction among internal temporal openness, complete actuality, and atemporal knowledge: S01–S02.
+2. Causal roles and asymmetric co-production: S03.
+3. Intervention taxonomy and agency-preserving influence: S04.
+4. ACO and its power-grounded modal complement: S05.
+5. Unified contingent choice and minimal conscious sourcehood: S06–S07.
+
+These modules remain conditional on the upstream case for a necessary agent. Their existing formal detail is retained without making them the current research frontier.
+
+### Current spiral
+
+1. Compare necessary agent and impersonal necessary structure under shared criteria. Current task; begin at F0–F1 and move to F2 only if a load-bearing ambiguity requires it.
+2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported.
+3. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
+4. Select the genuinely fragile junctions for F2–F3 treatment.
+5. Run the dedicated literature, provenance, and novelty pass.
+6. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

@@ -30,7 +30,7 @@ Apply pressure where the model bears weight:
 - demand exact truth conditions when verbal reconciliation hides a modal problem;
 - stop repeating an objection once answered unless a new dependency or source reopens it.
 
-Likewise, compare the project with a named position once per substantive issue or in a dedicated literature section. Repeat the comparison only when a new inference depends on the difference. Molinism is therefore relevant to counterfactual knowledge and provenance, not a standing frame for every discussion of ACO.
+Likewise, compare the project with a named position once per substantive issue or in a dedicated literature section. Repeat the comparison only when a new inference depends on the difference. Molinism is relevant to the provenance of the rejected pre-actual counterfactual account, not a standing frame for discussions of ACO.
 
 Do not manufacture symmetry. A well-supported working choice need not be suspended merely because an imaginable alternative exists. Record why it is preferred and what evidence could overturn it.
 
@@ -62,7 +62,7 @@ Use [the session template](../sessions/TEMPLATE.md) so future conversations can 
 ## Immediate research sequence
 
 1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast. Provisionally completed in S01–S02.
-2. Formalize causal roles, the ground of the actual marker, and asymmetric co-production. Current task.
+2. Formalize causal roles and asymmetric co-production. The ground of the actual marker was provisionally settled in S03; role decomposition is the current task.
 3. Test the intervention taxonomy against both semantics.
 4. Decide the minimum and optional extensions of ACO.
 5. Return to the comparative case for necessary agent versus impersonal necessary structure.

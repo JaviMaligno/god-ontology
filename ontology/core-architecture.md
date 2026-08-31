@@ -120,7 +120,38 @@ where $R$ represents admissible alternatives and $\alpha\in\mathcal H(S)$ is the
 
 Histories $h_A$ and $h_B$ are not stages through which either reality or divine cognition passes. They belong to alternative pointed evaluations. In one, $\alpha=h_A$ and Alice's act $A$ is actual; in the other, $\alpha=h_B$ and $B$ is actual. The unpointed modal structure can remain fixed while the actual index differs. In each evaluation divine knowledge is total and atemporal.
 
-This closes the basic semantic compatibility claim provisionally. A fixity argument cannot hold the actuality-indexed fact $K_G(A)$ fixed while replacing $A$ with $B$, because it would be holding fixed part of the very actual outcome under variation. The remaining burden is ontological: explain what grounds $\alpha$ without turning it into divine advance selection of every creaturely act. That problem belongs to structural actualization and asymmetric co-production.
+This closes the basic semantic compatibility claim provisionally. A fixity argument cannot hold the actuality-indexed fact $K_G(A)$ fixed while replacing $A$ with $B$, because it would be holding fixed part of the very actual outcome under variation.
+
+## Ground of actuality
+
+The actual marker is not a further entity, event, or divine choice added to a completed history. It designates the complete history that obtains:
+
+\[
+Actual(h)\quad\text{iff}\quad Obtains(h),
+\qquad
+\alpha:=\iota h\,Actual(h).
+\]
+
+The explanatory order is non-temporal:
+
+\[
+ActualizesStructure(G,S)
+\]
+
+\[
+S+OrdinaryCauses+AgentOrigins+DivineContributions
+\xrightarrow{\text{grounds}} H^*
+\]
+
+\[
+p\in H^*
+\xrightarrow{\text{grounds}} True(p)
+\xrightarrow{\text{grounds}} K_G(p).
+\]
+
+$G$ need not know a libertarian choice as actual with metaphysical priority over the history containing it, because before that grounding relation there is no actual-choice truth to know. This is not ignorance or delayed learning. ACO exhausts every truth that obtains, and the complete relation among $H^*$, its truths, and divine knowledge is atemporal.
+
+The observational metaphor is acceptable if read as exhaustive epistemic access to what obtains. It must not suggest sensory reception, temporal discovery, or causal production of the observed fact.
 
 ## Intervention taxonomy to formalize
 
@@ -137,6 +168,6 @@ This closes the basic semantic compatibility claim provisionally. A fixity argum
 
 ## Formal deliverable next
 
-The semantic compatibility set for E+ is provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md). The next model must ground the actual marker. Define `ActualizesStructure(G,S)`, `Originates(A,a,t)`, `Constitutes(x,alpha)`, `Actual(alpha)`, `KnowsModal(G,M)`, and `KnowsActual(G,alpha)`.
+The semantic compatibility set and the ground of the actual marker are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The next model must distinguish `GroundsExistence(G,x)`, `ActualizesStructure(G,S)`, `Constrains(S,e)`, `EventCauses(e_1,e_2)`, `Originates(A,a,t)`, `PartOf(a,H^*)`, and `Intervenes(G,x)`.
 
-Compare complete-history selection by $G$ with the preferred alternative: $G$ actualizes $S$ and creaturely powers, while divine, ordinary, and agent-originating contributions asymmetrically constitute the one history marked actual. The marker should designate the obtained complete history rather than function as an additional cause of its contents.
+The goal is not another foreknowledge defence. It is an account of asymmetric co-production: $G$ grounds the existence of the arena and powers; $S$ constrains admissible evolution; ordinary causes produce later events; agents originate some acts; and any intervention has its own explicit causal target. These roles jointly determine the content of $H^*$ without becoming ontologically symmetrical.

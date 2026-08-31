@@ -51,4 +51,4 @@ The conversational protocol is accepted. The fourfold openness framework, the in
 
 ## Next conversational task
 
-Move to structural actualization and asymmetric co-production. Determine what grounds the actual marker without construing it as God's advance selection of every creaturely act. Hold fixed the relevant causal past, agent capacities, and circumstances; treat intervention separately.
+Continued and provisionally resolved in [S03](2026-08-31-actuality-and-coproduction.md): the obtaining history grounds the actual marker and actual-indexed knowledge. Structural actualization and asymmetric causal-role decomposition follow.

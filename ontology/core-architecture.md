@@ -196,13 +196,33 @@ Eternalist completeness adds no contradiction here. A complete block can depend 
 
 ## Intervention ontology
 
-In E+, an intervention is a divine-originating causal contribution that is part of $H^*$, not a revision of an already complete history. Its origin need not stand at an earlier divine time, while its manifestation, target, and creaturely effects can be located at $t$:
+In E+, an intervention is a divine-originating causal contribution that alters a temporal continuation and therefore can make a different complete history actual. It is also a constituent of the history in which it occurs. What E+ excludes is only a meta-temporal process in which God first possesses one actual block and later edits it.
 
 \[
 I_j=\langle G,\tau,x,m,e_t\rangle,
 \]
 
 where $\tau$ is the target type, $x$ the particular target, $m$ the mode of contribution, and $e_t$ its temporal manifestation.
+
+For a shared temporal prefix $P_t$:
+
+\[
+H_I=P_t\oplus I_t\oplus C_I,
+\qquad
+H_0=P_t\oplus C_0,
+\qquad
+H_I\neq H_0.
+\]
+
+The corresponding pointed models are:
+
+\[
+\mathfrak M_I=\langle\mathcal H(S;I),R_I,\alpha_I\rangle,
+\qquad
+\mathfrak M_0=\langle\mathcal H(S;\varnothing),R_0,\alpha_0\rangle.
+\]
+
+Thus an intervention can change which history bears the actual marker in the relevant causal or counterfactual comparison. Law- and boundary-level interventions may also change the modal history-space and accessibility relation, not merely its actual member. None of these differences is a temporal update in divine knowledge.
 
 | Type | Target | Preliminary autonomy effect |
 | --- | --- | --- |
@@ -216,23 +236,50 @@ where $\tau$ is the target type, $x$ the particular target, $m$ the mode of cont
 
 $I_0$, creation as intervention zero, is a limiting case inherited from [U20](../corpus/transcript.md#user--u20). Strictly, it constitutes the causal order rather than intervening within an antecedent order.
 
+The autonomy test needs two alternative sets:
+
+\[
+Feas_I(A,t)=\{a:a\text{ is physically executable after }I\},
+\]
+
+\[
+Orig_I(A,t)=\{a:a\text{ remains originable by }A\text{ after }I\}.
+\]
+
 For an intervention already included among the relevant circumstances, freedom requires:
 
 \[
 Free(A,a,t\mid I)
 \Rightarrow
 Originates(A,a,t)
-\land |Alt_I(A,t)|>1
+\land |Orig_I(A,t)|>1
 \land\neg SufficientCause(I,a).
 \]
 
-The intervention may alter the field of possibilities or influence deliberation without removing freedom. Autonomy for the act is lost when the intervention sufficiently causes the outcome, eliminates every relevant alternative, or replaces the agent as originating source. Intervention on a power is not intrinsically autonomy-reducing: restoring an impaired capacity may enlarge agency.
+Two autonomy-removing mechanisms must not be conflated:
+
+\[
+OptionClosure(I,A,t)\quad\text{iff}\quad |Feas_I(A,t)|=1,
+\]
+
+and
+
+\[
+SourceOverride(I,A,a,t)\quad\text{iff}\quad
+|Feas_I(A,t)|>1
+\land SufficientCause(I,a)
+\land\neg Originates(A,a,t).
+\]
+
+The first removes executable alternatives. The second leaves multiple actions physically possible but determines which one the creature performs. They can occur separately or together, and either can remove freedom for one token act without erasing the agent's general powers.
+
+The intervention may otherwise alter the field of possibilities or influence deliberation without removing freedom. Intervention on a power is not intrinsically autonomy-reducing: restoring an impaired capacity may enlarge agency.
 
 This yields three functional outcomes:
 
-1. the available field changes but retains genuine alternatives;
-2. the agent is influenced within that field without a sufficient cause of the act;
-3. the field is reduced to one relevant outcome, or the intervention sufficiently causes or settles the act.
+1. the feasible and originable fields change but retain genuine alternatives;
+2. the agent is influenced within those fields without a sufficient cause of the act;
+3. feasible options are closed, or the agent's originating role is overridden.
 
 The first two can preserve libertarian autonomy; the third does not preserve it for that act. Whether a non-determining influence reduces moral responsibility by degree is a later ethical question.
 
@@ -252,4 +299,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-The next intervention task is to specify how $I_C$ and $I_P$ affect the alternative set and sourcehood without treating every influence as determination. Then relate intervention to miracle and providence.
+The next intervention task is to specify agency-preserving forms of $I_C$ and $I_P$: information, incentives, environmental changes, and capacity restoration. Agency-removing cases are retained as boundary conditions rather than the center of the model. Then relate intervention to miracle and providence.

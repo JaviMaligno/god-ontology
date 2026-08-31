@@ -57,10 +57,12 @@ This is the normative center of the repository. It records what the project curr
 | C32 | Existential grounding, structural constraint, ordinary event causation, agent origination, and intervention are distinct typed relations. | `accepted` | Transitivity cannot be assumed across heterogeneous relations. In particular, $G$ grounding an agent's existence does not make $G$ the originating author of that agent's acts. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | C33 | A created agent can provide the contrastive explanation for why $H^*$ contains act $a$ rather than an available act $b$, while $G$ remains the ground of the arena in which either act is possible. | `preferred` | This states the asymmetric division of explanatory labour without making the contributors ontologically equal. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | C34 | Exact specification of $S$ can include laws, boundary conditions, agents, and their powers while leaving more than one complete history admissible. | `preferred` | This follows conditionally from C08 provided $S$ does not covertly encode the exercise of an agent's power. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
-| C35 | An intervention in E+ is a divine-originating causal contribution within $H^*$, not a later revision of the complete history. | `preferred` | Its origin is atemporal relative to creaturely time; its target, manifestation, and effects may be temporally located. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
-| C36 | An intervention preserves libertarian autonomy for an act only if the agent still originates it, relevant alternatives remain, and the intervention is not its sufficient cause. | `provisional` | This is the initial formal test; manipulation and sourcehood need closer treatment. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C35 | An intervention in E+ alters a temporal continuation and can thereby make a different complete history actual, while remaining a constituent of that actual history. | `preferred` | E+ excludes meta-temporal editing of an already actual block, not causal or counterfactual difference-making within history. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C36 | An intervention preserves libertarian autonomy for an act only if the agent still originates it, originable alternatives remain, and the intervention is not its sufficient cause. | `provisional` | Physical feasibility and agent-originable alternatives must be tracked separately. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
 | C37 | Altering circumstances, information, incentives, or capacities does not by itself determine an act or eliminate autonomy. | `preferred` | Effects depend on whether alternatives and agent origination survive; a power intervention can even restore agency. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
 | C38 | Whether non-determining influence reduces moral responsibility by degree is distinct from whether the act remains libertarian-free. | `deferred` | Responsibility belongs to the later account of goodness, agency, and ethics. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C39 | Option closure and source override are distinct ways to remove freedom for a token act. | `preferred` | Option closure leaves only one executable act; source override can determine the performed act while multiple actions remain physically executable. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C40 | Loss of freedom for one token act does not by itself eliminate the agent's general capacity for agency. | `preferred` | Agency-removing intervention is a local boundary case unless powers are removed more generally. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -77,7 +79,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. How do circumstantial and power interventions alter the alternative set and agent sourcehood without collapsing influence into determination?
+1. Which circumstantial and power interventions preserve both originable alternatives and the agent's originating role?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and how do the distinct causal roles of $G$, $S$, ordinary events, and agents constitute the marked history?

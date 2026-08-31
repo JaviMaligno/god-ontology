@@ -63,7 +63,7 @@ Use [the session template](../sessions/TEMPLATE.md) so future conversations can 
 
 1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast. Provisionally completed in S01–S02.
 2. Formalize causal roles and asymmetric co-production. Provisionally completed in S03, conditional on agent causation.
-3. Test the intervention taxonomy against E+ using the typed causal relations. Current task.
+3. Test the intervention taxonomy against E+ using typed causal relations, prioritizing agency-preserving influence over local agency-removing boundary cases. Current task.
 4. Decide the minimum and optional extensions of ACO.
 5. Return to the comparative case for necessary agent versus impersonal necessary structure.
 6. Derive or decline omnipotence and omnipresence.

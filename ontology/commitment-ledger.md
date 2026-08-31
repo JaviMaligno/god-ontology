@@ -83,6 +83,12 @@ This is the normative center of the repository. It records what the project curr
 | C58 | Necessary existence and necessary possession of an agentive power do not entail necessary exercise of that power in one unique act. | `preferred` | Modal necessity does not transfer from bearer or capacity to every exercise; this blocks the proposed modal collapse without changing the choice logic. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
 | C59 | Psychological states may constrain options and alter the salience or weight of reasons without becoming a complete sufficient cause of a free act. | `provisional` | A later philosophy-of-mind layer must specify consciousness, character, attention, emotion, and deliberation without hiding determinism in the agent description. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
 | C60 | The project rejects an unrestricted principle requiring an antecedently sufficient contrastive reason for every free selection. | `accepted` | A free act remains explainable as the agent settling an option for reasons; demanding a prior condition that entails the outcome would assume the determinism under dispute. | [S06](../sessions/2026-08-31-unified-agentic-choice.md) |
+| C61 | Minimal conscious sourcehood combines subject unity, practical availability of relevant contents, motivational appropriation, and efficacious agentic settling. | `preferred` | Consciousness is neither sufficient by itself nor an epiphenomenal witness when a token act is free. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C62 | Free agency does not require exhaustive introspective access or explicit serial deliberation before every act. | `preferred` | Character, emotion, habit, bodily state, and unconscious processes may influence the agent while some action-guiding contents remain consciously available. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C63 | Reasons-responsiveness is a capacity to apprehend, assess, and act for considerations without implementing a single-valued mapping from reason profiles to actions. | `preferred` | It is formulated through powers and practical availability, so it does not reintroduce selection counterfactuals or determinism. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C64 | The whole agent settles an act; consciousness, will, or another faculty must not be reified as a second inner agent. | `accepted` | Taking something as a reason can be an aspect of one agentic act, avoiding a regress of prior inner choices. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C65 | Minimal libertarian freedom and the rational quality of an act are distinct dimensions. | `preferred` | A sourced act with alternatives can still be mistaken, akratic, impulsive, or poorly reasoned; evaluation and responsibility require further criteria. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C66 | Physical or neural processes may realize agentive capacities without automatically becoming an independently sufficient cause of the chosen act. | `provisional` | The mind–body realization relation remains open; sufficient event-level settlement would defeat token freedom, whereas realization alone need not. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -97,9 +103,11 @@ This is the normative center of the repository. It records what the project curr
 | R07 | An adversarial method should generate the maximum number of objections or repeatedly reopen every point. | `rejected` | [U18](../corpus/transcript.md#user--u18), [U19](../corpus/transcript.md#user--u19), current project brief |
 | R08 | Pre-actual counterfactual knowledge of libertarian choices should remain a recurring open extension or comparison frame. | `rejected` | C13; [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | R09 | A complete specification of an agent's accessible reasons and action-relevant antecedent conditions must entail one unique choice. | `rejected` | It converts reasons into sufficient event-causes and assumes away the originating agency defended in C55–C60. |
+| R10 | Consciousness solves the agency problem merely by accompanying an indeterministic outcome. | `rejected` | Conscious awareness without originating causal efficacy supplies neither control nor authorship. |
+| R11 | A separate inner will or conscious faculty must select which considerations the agent will treat as reasons before the agent can choose. | `rejected` | This creates a homuncular regress; appropriation and settling may be aspects of the whole agent's token act. |
 
 ## Highest-priority open questions
 
-1. What minimal role must consciousness play in originating sourcehood, and how should it be distinguished from complex stochastic processing?
-2. How do character, attention, emotion, habit, and deliberation shape a free act without covertly determining it?
+1. Which philosophy of mind can realize conscious sourcehood without causal exclusion or hidden event determinism?
+2. How do psychological history and manipulation affect authenticity and responsibility beyond minimal freedom?
 3. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?

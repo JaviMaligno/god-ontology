@@ -245,6 +245,56 @@ Necessary existence, and even necessary possession of an agentive power, do not 
 
 The architecture therefore accepts explanatory reasons without accepting a universal demand for antecedently sufficient, contrastively necessitating reasons. The explanation of a free act has the form “$A$ settled $a$ for $R_A$”; its terminal contrastive source is $A$'s exercise of agency. Requiring some condition prior in grounding order that already entails $a$ would remove the originating role the account is designed to examine.
 
+### Conscious sourcehood and reasons-responsiveness
+
+The intervention model already represents a temporal agent's deliberative situation as:
+
+\[
+D_A(t)=\langle E_t,R_t,F_t,\Pi_t\rangle,
+\]
+
+where the components are available information, reasons and incentives, feasible opportunities, and agentive capacities. Add $\Phi_A(t)$, the subset of practically conscious contents available to the subject for guiding action, and $M_A(a,t)\subseteq R_t$, the considerations the agent takes as motivating reasons in acting.
+
+Practical consciousness does not require exhaustive introspective access. An agent can be influenced by character, emotion, habit, bodily state, and unconscious processing while consciously apprehending only part of the action-relevant situation. Minimal conscious sourcehood for a reason-guided act requires:
+
+\[
+Subject(A)
+\land a\in\mathcal O_A(C_A^-)
+\land M_A(a,t)\cap\Phi_A(t)\neq\varnothing
+\land Originates(A,a,t).
+\]
+
+This combines four roles:
+
+1. **subject unity:** experiences, capacities, and the act belong to one acting subject;
+2. **practical availability:** at least some relevant options or considerations are present for action-guidance;
+3. **motivational appropriation:** the agent acts for considerations it takes as reasons;
+4. **settling efficacy:** the exercise of agency makes a causal contribution to which option becomes actual.
+
+Consciousness alone is not sufficient for freedom: an aware but compelled or sufficiently caused movement can remain unfree. Consciousness is also not epiphenomenal in a free act, because the subject's settling must contribute causally rather than merely accompany a decision produced elsewhere.
+
+Taking a consideration as a reason is an aspect of the agent's act, not necessarily a prior choice requiring another inner chooser. The ontology therefore attributes settling to the whole agent:
+
+\[
+Settles(A,a),
+\]
+
+not to a homunculus, a detachable faculty, or “consciousness” treated as a second agent inside $A$.
+
+Reasons-responsiveness is a capacity to apprehend considerations, assess their relevance, and act for them across varying situations. It is not a single-valued policy from reason profiles to actions. Its modal analysis uses what the agent can take as a reason and can originate; it does not restore pre-actual truths about what the agent would select.
+
+This also separates freedom from rational quality. Sourcehood and alternatives determine whether an act is free in the minimal libertarian sense. The fit between motivating reasons, evidence, values, and the act determines how rational, coherent, or responsible it is. A free act can therefore be weakly reasoned, mistaken, akratic, or impulsive.
+
+A stochastic or neural description may realize, constrain, or predict aspects of $D_A(t)$ without automatically replacing the agent:
+
+\[
+Realizes(n,\Pi_A)\not\models SufficientCause(n,a).
+\]
+
+If the complete event-level base sufficiently settles $a$ independently of the agent's exercise, the token act fails this model's freedom condition. If neural processes realize the agent's capacities without independently settling the outcome, they need not be competing causes. The choice among reductive, non-reductive, dual-aspect, or substance-based accounts of mind remains open.
+
+For $G$, replace the temporal $D_A(t)$ with an atemporal field of comprehended possibilities and reasons. The common functions remain subject unity, apprehension, reason-guidance, and efficacious settling; temporal deliberation, memory, emotion, habit, and bodily realization belong only to some created implementations.
+
 The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
 - the capacity or rule of complete knowledge may be necessary and invariant;

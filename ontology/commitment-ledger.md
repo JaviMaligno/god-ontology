@@ -6,6 +6,8 @@ This is the normative center of the repository. It records what the project curr
 
 **Default acceptance after U18 (`accepted`):** when the author replies to an assistant turn and comments only on selected points, the unmentioned points are taken as good and retained for continued development. They inherit the status with which they were proposed: silence can accept a provisional model as provisional or an open question as open; it does not silently turn either into certainty. Explicit correction always takes priority, and later argument may reopen an accepted point. Provenance: [U18](../corpus/transcript.md#user--u18), reaffirmed in the 2026-08-31 project brief.
 
+**Primacy of interaction (`accepted`):** the author-assistant conversation is where the ontology is generated, criticized, and shaped. Documentation is durable memory and a continuity mechanism, especially across sessions and context compaction; it must not replace visible discussion. Provenance: [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md).
+
 ## Status vocabulary
 
 | Status | Meaning |
@@ -34,7 +36,7 @@ This is the normative center of the repository. It records what the project curr
 | C11 | **Actuality-complete omniscience (ACO):** complete knowledge of every truth concerning complete actual reality, without temporal acquisition or updating. | `accepted` | This is the clean minimum and chosen label. Its truth semantics still need formalization. | [U19](../corpus/transcript.md#user--u19), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21), [U24](../corpus/transcript.md#user--u24) |
 | C12 | Knowledge of modal possibilities is compatible with ACO and worth exploring, but is not currently required by ACO. | `open` | Candidate extensions must state what possibilities are and what grounds them. | [U20](../corpus/transcript.md#user--u20), [U24](../corpus/transcript.md#user--u24) |
 | C13 | Exhaustive pre-actual counterfactual knowledge of libertarian choices is not required. | `accepted` | It may be explored as an extension; the model should not inherit Molinist grounding commitments by default. | [U17](../corpus/transcript.md#user--u17), [U19](../corpus/transcript.md#user--u19), [U24](../corpus/transcript.md#user--u24) |
-| C14 | The cosmic agent is atemporal with respect to creaturely time. | `preferred` | Whether there is any non-creaturely sequence, and how atemporal knowledge relates to an open future, are open. | [U17](../corpus/transcript.md#user--u17), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22), [U23](../corpus/transcript.md#user--u23) |
+| C14 | The cosmic agent is atemporal with respect to creaturely time. | `preferred` | Whether there is any non-creaturely sequence, and how atemporal knowledge bears contingent content, remain open. | [U17](../corpus/transcript.md#user--u17), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22), [U23](../corpus/transcript.md#user--u23) |
 | C15 | Divine action admits multiple types: structural actualization, boundary/law/state changes, agent-directed influence, and direct agency intervention. | `provisional` | The taxonomy is retained; compatibility and consequences require formal analysis. | [U14](../corpus/transcript.md#user--u14), [U17](../corpus/transcript.md#user--u17), [U20](../corpus/transcript.md#user--u20), [U21](../corpus/transcript.md#user--u21) |
 | C16 | Direct determination of a particular action can remove autonomy for that action without making the whole ontology contradictory. | `preferred` | The actual model does not require that such interventions occur. | [U21](../corpus/transcript.md#user--u21) |
 | C17 | A miracle is provisionally an event whose sufficient causal conditions are not exhausted by the ordinary secondary causal structure. | `preferred` | This avoids defining miracles by current scientific ignorance or “impossibility.” | [U17](../corpus/transcript.md#user--u17), [A24](../corpus/transcript.md#assistant--a24) |
@@ -45,6 +47,9 @@ This is the normative center of the repository. It records what the project curr
 | C22 | The primary temporal model is agent-causal eternalism: one complete actual history exists tenselessly while created agents make genuine originating contributions within it. | `preferred` | Best matches the author's intended picture; compatibility with the ability to do otherwise remains the central formal burden. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 | C23 | ACO is indexed primarily to complete actuality $H^*$, not to a sequence of divine epistemic updates and not necessarily to open-future frames. | `preferred` | Temporal, perspectival, and actuality indexing must remain distinct. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 | C24 | Comparisons with Molinism and other named positions should be localized to provenance or a load-bearing difference rather than repeated throughout the main argument. | `accepted` | Keeps the ontology positive and avoids repetitive contrast. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| C25 | E+ distinguishes epistemic, causal, modal, and alethic openness; it accepts the first three in the relevant qualified senses without requiring alethic indeterminacy. | `provisional` | Internal ignorance is insufficient for freedom; modal openness and its grounding still require defence. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
+| C26 | Atemporality of divine knowledge does not by itself make each item of its content metaphysically necessary. | `preferred` | The capacity for complete knowledge may be invariant while its contingent content covaries with the actual history. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
+| C27 | In evaluating whether a creature could have done otherwise, alternative histories may share the same relevant creaturely causal past while differing in divine knowledge-content. | `provisional` | This is the proposed answer to fixity; its grounding relation and compatibility with later divine attributes need adversarial testing. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -60,11 +65,10 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Can E+ make tenseless actuality and infallible knowledge compatible with a genuine ability to do otherwise?
+1. Can E+ justify varying divine knowledge-content across histories that share the same relevant creaturely causal past, rather than illegitimately defining freedom into its accessibility relation?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and what are the distinct causal roles of $G$, $S$, ordinary events, agents, and interventions?
 5. Which intervention types are compatible with libertarian agency and atemporality?
 6. Does modal knowledge follow from ACO or add a new primitive?
 7. Can the agent hypothesis outperform an impersonal necessary structure under shared criteria?
-

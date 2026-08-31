@@ -7,4 +7,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 ## Index
 
 - [S01 — Eternalism, indexing, and the status of the open future](2026-08-31-eternalism-and-indexing.md)
-
+- [S02 — Internal time and atemporal knowledge](2026-08-31-internal-time-and-atemporal-knowledge.md)

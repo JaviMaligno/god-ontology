@@ -8,6 +8,8 @@ Build the strongest coherent ontology the author can endorse. Originality is wel
 
 From [U18](../corpus/transcript.md#user--u18) onward, the author comments selectively: points not mentioned in the next reply are accepted as good working material and retained at their proposed status. This is how the discussion advances without requiring exhaustive line-by-line ratification or repeated summaries. Explicit objections override default acceptance; later evidence can still reopen any point.
 
+The conversation between author and assistant is the primary deliberative instrument of the project. Proposals, objections, revisions, and reasons must be made visible in the conversation so the author can shape them. Repository documents preserve memory, decisions, provenance, and continuity across sessions or context compaction; they do not replace the discussion or function as a hidden venue in which the ontology advances without the author.
+
 ## Four evidential layers
 
 1. **Authorial direction:** preferences, corrections, acceptances, and questions in user turns and later session decisions.
@@ -59,11 +61,10 @@ Use [the session template](../sessions/TEMPLATE.md) so future conversations can 
 
 ## Immediate research sequence
 
-1. Formalize the E/F semantic fork for actuality, future contingents, and atemporal knowledge.
+1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast.
 2. Formalize causal roles and asymmetric co-production.
 3. Test the intervention taxonomy against both semantics.
 4. Decide the minimum and optional extensions of ACO.
 5. Return to the comparative case for necessary agent versus impersonal necessary structure.
 6. Derive or decline omnipotence and omnipresence.
 7. Develop goodness, reasons for creation, and suffering as a separate thesis.
-

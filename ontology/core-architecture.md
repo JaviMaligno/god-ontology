@@ -78,6 +78,42 @@ The immediate task is to formalize E+ and test:
 
 F should be introduced only where its different truth conditions clarify a real burden in E+. The project does not need recurrent comparison with Molinism or any other named theory once provenance and the relevant difference are recorded.
 
+## Internal time and external atemporal knowledge
+
+The initial E+ formalization distinguishes four claims that the word `open` can conceal:
+
+| Kind of openness | Minimal meaning | E+ working position |
+| --- | --- | --- |
+| Epistemic | At $t_0$, Alice does not know which act she will perform at $t_1$ | compatible, but insufficient for freedom |
+| Causal | The prior creaturely state and laws do not sufficiently cause Alice's act | preferred |
+| Modal | More than one continuation sharing the relevant causal past is genuinely possible | preferred; grounding pending |
+| Alethic | The proposition about Alice's future act has no determinate truth value before the act | not required by E+; characteristic of F |
+
+The internal/external distinction therefore does not by itself establish freedom. Its role is to block an equivocation: being tenselessly true in $H^*$ does not entail being causally determined by the temporal past. Causal underdetermination and agent causation carry the positive account of freedom.
+
+Let $h \equiv_{<t} h'$ mean that $h$ and $h'$ share the same relevant creaturely causal history before $t$, including $S$, without requiring the same atemporal divine knowledge-content. Then a first model of live alternatives is:
+
+\[
+Alt(A,t,h)=\{h'\in\mathcal H(S):h'\equiv_{<t}h\text{ and }Act(A,t,h')\neq Act(A,t,h)\}.
+\]
+
+A candidate freedom condition requires that $A$ originates the actual act, that $Alt(A,t,H^*)$ is non-empty, and that no sufficient prior event-cause settles the act. This is stronger than Alice's ignorance of the outcome.
+
+For propositions about actuality, the minimal ACO semantics is:
+
+\[
+K_G^{h}(p)\quad\text{iff}\quad h\vDash p.
+\]
+
+This is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
+
+- the capacity or rule of complete knowledge may be necessary and invariant;
+- the content known can be contingent and covary with the actual history.
+
+Thus, if $H^*\vDash Act(A,a,t)$, then $K_G^{H^*}(Act(A,a,t))$. In an admissible $h'$ where Alice instead originates $b$, $K_G^{h'}(Act(A,b,t))$. Atemporality entails no updating within either history; it does not by itself entail that the same contingent content occurs in every possible history.
+
+The main fixity objection can now be stated precisely: is it legitimate for the accessibility relation used in `could have done otherwise` to vary divine knowledge-content, or must that content be held fixed? E+ proposes covariance grounded in the creaturely truthmaker, but the direction and coherence of this non-temporal dependence still require defence.
+
 ## Intervention taxonomy to formalize
 
 | Type | Target | Preliminary autonomy effect |
@@ -93,7 +129,7 @@ F should be introduced only where its different truth conditions clarify a real 
 
 ## Formal deliverable next
 
-Construct a minimal E+ model over the causal graph. Define `Possible`, `Actual`, `Settled`, `Free`, `Causes`, `Knows`, and `Intervenes`. Then prove or refute the compatibility set:
+Extend the initial E+ scaffold in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md). Define `Possible`, `Actual`, `CausallySettledAt`, `Free`, `Causes`, `Grounds`, `Knows`, and `Intervenes`. Then prove or refute the compatibility set:
 
 \[
 \{\Box E(G),\ Atemporal(G),\ ACO(G),\ Free(A),\ K_G(Act(A)),\neg Causes(K_G(Act(A)),Act(A))\}.

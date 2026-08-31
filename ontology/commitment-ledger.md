@@ -45,7 +45,7 @@ This is the normative center of the repository. It records what the project curr
 | C20 | Omnipotence and omnipresence must be derived and made mutually consistent with ACO and atemporality. | `deferred` | They are not part of the current minimal ontology. | [U15](../corpus/transcript.md#user--u15), [U18](../corpus/transcript.md#user--u18), [U20](../corpus/transcript.md#user--u20), [U22](../corpus/transcript.md#user--u22) |
 | C21 | The project discovers how far the argument reaches before comparing its agent with classical God-concepts. | `accepted` | Reaching God is an aim, not a license to place the conclusion in the premises. | [U16](../corpus/transcript.md#user--u16), [U19](../corpus/transcript.md#user--u19), [U21](../corpus/transcript.md#user--u21) |
 | C22 | The primary temporal model is agent-causal eternalism: one complete actual history exists tenselessly while created agents make genuine originating contributions within it. | `preferred` | Best matches the author's intended picture; compatibility with the ability to do otherwise remains the central formal burden. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
-| C23 | ACO is indexed primarily to complete actuality $H^*$, not to a sequence of divine epistemic updates and not necessarily to open-future frames. | `preferred` | Temporal, perspectival, and actuality indexing must remain distinct. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
+| C23 | ACO is indexed to complete actual reality $\mathfrak R^*$, including but not limited to the created history $H^*$, and not to a sequence of divine epistemic updates. | `preferred` | Temporal, perspectival, and actuality indexing must remain distinct. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md), [S05](../sessions/2026-08-31-aco-domain.md) |
 | C24 | Comparisons with Molinism and other named positions should be localized to provenance or a load-bearing difference rather than repeated throughout the main argument. | `accepted` | Keeps the ontology positive and avoids repetitive contrast. | [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |
 | C25 | E+ distinguishes epistemic, causal, modal, and alethic openness; it accepts the first three in the relevant qualified senses without requiring alethic indeterminacy. | `preferred` | Internal ignorance is insufficient for freedom; modal openness depends on agent powers and an account of possibility. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
 | C26 | Atemporality of divine knowledge does not make the actual index or every actual truth metaphysically necessary. | `preferred` | Divine knowledge comprehends the whole pointed modal structure at once; alternative evaluation changes which history is marked actual, not a temporal state in God. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
@@ -68,6 +68,8 @@ This is the normative center of the repository. It records what the project curr
 | C43 | The magnitude or visibility of an intervention does not determine its effect on freedom. | `preferred` | Large environmental changes can preserve sourcehood; small direct alterations can override it. Causal role is decisive. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
 | C44 | Manipulation and authenticity can come apart from minimal libertarian freedom. | `deferred` | A non-determining implanted motive may preserve sourcehood and alternatives while raising later questions about responsibility. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
 | C45 | Intervention, miracle, and providence are respectively a token causal contribution, an event classification, and a global historical relation. | `provisional` | Keeping ontological levels distinct prevents them from becoming duplicate causes. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C46 | Interventions with non-agent targets may affect agents indirectly or remain entirely agent-neutral. | `preferred` | Target type and downstream agent relevance are independent; the ontology does not assume every divine intervention serves an agent-directed function. | [S04](../sessions/2026-08-31-intervention-ontology.md) |
+| C47 | The ACO domain is complete actual reality $\mathfrak R^*=\langle G,S,H^*,\mathbf I^*,Rel^*\rangle$, not only the created temporal history. | `provisional` | This includes divine self-knowledge and actual structural, historical, intervention, and dependence truths. Exact individuation of relational truths remains open. | [S05](../sessions/2026-08-31-aco-domain.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -84,7 +86,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Do representative intervention cases preserve the distinctions among ordinary, miraculous, free, determined, and merely providential events?
+1. Which modal truths belong to the preferred complement of ACO, and what grounds them?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and how do the distinct causal roles of $G$, $S$, ordinary events, and agents constitute the marked history?

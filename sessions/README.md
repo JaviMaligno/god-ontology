@@ -10,3 +10,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S02 — Internal time and atemporal knowledge](2026-08-31-internal-time-and-atemporal-knowledge.md)
 - [S03 — Actuality and asymmetric co-production](2026-08-31-actuality-and-coproduction.md)
 - [S04 — Intervention ontology](2026-08-31-intervention-ontology.md)
+- [S05 — ACO domain and modal complement](2026-08-31-aco-domain.md)

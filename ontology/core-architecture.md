@@ -11,7 +11,8 @@ This document states the cleanest present model. It is a formalization target, n
 | $\mathcal H(S)$ | Histories or continuations compatible with $S$ | open ontology |
 | $A_i$ | Created agents with possible originating causal powers | preferred |
 | $I_j$ | Divine interventions classified by causal target | provisional |
-| $H^*$ | Actual complete history | required by the current notation; semantics open |
+| $H^*$ | Actual complete created history | preferred E+ temporal object |
+| $\mathfrak R^*$ | Complete actual reality, including $G$, $S$, $H^*$, interventions, and actual dependence relations | provisional ACO domain |
 | $K_G$ | Divine knowledge relation | accepted only at the ACO minimum |
 
 The intended dependency sketch is:
@@ -29,7 +30,7 @@ generative structure S ── constrains/enables ──► possible continuation
                     actual history H*
                          │ truthmaking / indexing
                          ▼
-                actuality-complete knowledge K_G(H*)
+             actuality-complete knowledge K_G(\mathfrak R^*)
 ```
 
 The arrows name different relations and must not be collapsed into one generic “cause.” In particular, knowledge is not placed upstream as an efficient cause of creaturely action.
@@ -44,7 +45,7 @@ These are deliberately numbered as candidates until the formal semantics is sele
 4. **Non-exhaustive structural determination:** if libertarian agents occur, $S \not\Rightarrow H^*$ by deterministic entailment alone.
 5. **Originating agency:** some $A_i$ can settle among genuinely available continuations without the settling reducing to prior event causation or randomness.
 6. **Asymmetric co-production:** $H^*$ depends on $G$'s actualization of the framework and can also contain originating creaturely acts; these contributions are ontologically unequal.
-7. **ACO:** for every truth $p$ about complete actual reality, $K_G(p)$, with no temporal acquisition required.
+7. **ACO:** for every truth $p$ grounded in complete actual reality $\mathfrak R^*$, $K_G(p)$, with no temporal acquisition required.
 8. **Epistemic non-causation:** $K_G(p)$ alone is not an efficient cause or sufficient causal condition of $p$.
 9. **Modal complement:** $G$ knows the relevant possibilities and modal structure together with actuality; this goes beyond the definition of ACO, and its exact domain depends on the ontology of possibility.
 
@@ -56,9 +57,9 @@ The original conversation approached two nearby but non-identical solutions to f
 
 All events of $H^*$ tenselessly exist. A proposition about Alice's act is true because that act is part of $H^*$; $G$ knows it without temporal acquisition. Libertarian alternatives remain metaphysically possible even though one is actual.
 
-This makes $K_G(H^*)$ straightforward. “The proposition is not true yet” now has a temporal or perspectival reading: relative to Alice at an earlier time, the act has not occurred and is not available to her. It does not normally mean that the tenseless proposition lacks a truth value.
+This makes knowledge of the created-history component $K_G(H^*)$ straightforward. “The proposition is not true yet” now has a temporal or perspectival reading: relative to Alice at an earlier time, the act has not occurred and is not available to her. It does not normally mean that the tenseless proposition lacks a truth value.
 
-The knowledge relation is **actuality-indexed**: it ranges over the truths of $H^*$. This must be distinguished from temporal indexing of events and perspectival indexing of creaturely knowledge.
+The knowledge relation is **actuality-indexed**: ACO ranges over truths grounded in $\mathfrak R^*$, including all truths of $H^*$. This must be distinguished from temporal indexing of events and perspectival indexing of creaturely knowledge.
 
 ### Diagnostic alternative: F
 
@@ -99,11 +100,24 @@ Alt(A,t,h)=\{h'\in\mathcal H(S):h'\equiv_{<t}h\text{ and }Act(A,t,h')\neq Act(A,
 
 A candidate freedom condition requires that $A$ originates the actual act, that $Alt(A,t,H^*)$ is non-empty, and that no sufficient prior event-cause settles the act. This is stronger than Alice's ignorance of the outcome.
 
-For propositions about actuality, the minimal ACO semantics is:
+Restricted to propositions about one created history, the local ACO semantics is:
 
 \[
 K_G^{h}(p)\quad\text{iff}\quad h\vDash p.
 \]
+
+The global domain is:
+
+\[
+\mathfrak R^*=\langle G,S,H^*,\mathbf I^*,Rel^*\rangle,
+\]
+
+\[
+ACO(G)\quad\text{iff}\quad
+\forall p[True_{\mathfrak R^*}(p)\rightarrow K_G(p)].
+\]
+
+This includes actual truths about $G$, the created structure and history, interventions, agents, and obtaining relations of dependence. Modal truths are handled by the distinct modal complement.
 
 The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
@@ -235,6 +249,24 @@ Thus an intervention can change which history bears the actual marker in the rel
 | $I_A$ act intervention | the originating act itself | removes autonomy for that act if $G$ settles it |
 
 $I_0$, creation as intervention zero, is a limiting case inherited from [U20](../corpus/transcript.md#user--u20). Strictly, it constitutes the causal order rather than intervening within an antecedent order.
+
+Target and downstream relevance are independent axes:
+
+\[
+NonAgentTarget(I)\quad\text{iff}\quad
+\tau\in\{B,L,X\}\land\neg AgentLevel(x),
+\]
+
+\[
+AgentRelevant(I)\quad\text{iff}\quad
+\exists A,t[D_A^I(t)\neq D_A^0(t)],
+\]
+
+\[
+AgentNeutral(I)\quad\text{iff}\quad\neg AgentRelevant(I).
+\]
+
+A physical intervention may have an impersonal direct target and later affect agents indirectly. It may instead remain agent-neutral, affecting no agent's deliberative situation, powers, or acts. The ontology permits both: divine intervention is not defined by anthropocentric purpose. Reasons for agent-neutral intervention belong to the later accounts of providence and goodness.
 
 The autonomy test needs two alternative sets:
 

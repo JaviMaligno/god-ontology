@@ -173,3 +173,18 @@ It adds no causal mechanism. An event may be providential but ordinarily caused,
 | direct source override $I_A$ | yes at the produced event | token act not free | included |
 
 The distinctions survive the case check. ACO is the next substantive topic.
+
+## Non-agent edge case
+
+Direct target and downstream relevance to agency are independent. A boundary, law, or state intervention may target only the physical world while later changing an agent's circumstances. It may also be so localized or isolated that no agent is affected.
+
+\[
+AgentRelevant(I)\leftrightarrow
+\exists A,t[D_A^I(t)\neq D_A^0(t)],
+\]
+
+\[
+AgentNeutral(I)\leftrightarrow\neg AgentRelevant(I).
+\]
+
+Agent-neutral intervention remains compatible with the miracle and providence definitions. The ontology permits it without yet claiming a divine reason for it; purpose belongs to the later treatment of goodness.

@@ -30,8 +30,13 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Option closure** | Removal of executable alternatives until $|Feas_I(A,t)|=1$. | preferred distinction; C39 |
 | **Source override** | Sufficient determination of the performed act by intervention while other actions may remain physically executable, replacing the agent as originating source. | preferred distinction; C39 |
 | **Token-act autonomy** | Freedom attributable to one particular act. It can be removed without eliminating the agent's general causal powers. | preferred distinction; C40 |
-| **Miracle** | An event whose causally sufficient conditions are not exhausted by ordinary secondary causal structure. | preferred working definition |
-| **Providence** | A global architectural relation among divine actualization/intervention and actual history, not a separate causal force. | accepted working definition |
+| **Deliberative situation $D_A(t)$** | The structured information, reasons, feasible opportunities, and agentive capacities relevant to an agent at a time. | provisional model; C41 |
+| **Non-determining influence** | An intervention that changes deliberative inputs or capacities without sufficiently causing the act or replacing the agent as its originating source. | preferred distinction; C42 |
+| **Context control** | Divine determination of some information, reasons, opportunities, or capacities surrounding deliberation. It does not entail outcome control while the agent retains originable alternatives and sourcehood. | preferred distinction; C42 |
+| **Miracle** | An event whose sufficient production includes a direct, non-derivative intervention beyond creation itself and is not exhausted by ordinary secondary causes. It need not violate a law or be detectable. | preferred working definition; C17 |
+| **Direct divine contribution** | A non-derivative causal constituent in the production of an event, distinguished from merely remote divine causal ancestry. | provisional anti-trivialization condition; C17 |
+| **Providence** | The global relation among divine structural actualization, any interventions, and the coproduced actual history. It is not a separate causal force and does not assign divine authorship to every event. | accepted working definition; C18 |
+| **Ordinary explanatory exhaustion** | The condition in which an event's sufficient causal explanation is supplied by the standing created structure and secondary causes, without an additional difference-making intervention. | provisional; C17 |
 | **Epistemic priority** | Dependence of knowledge on truth or its truthmaker. It is not a temporal learning sequence. | working distinction |
 | **Ontological priority** | Dependence of one reality on another without implying earlier/later temporal order. | working distinction |
 | **Temporal indexing** | Locating an event or proposition at a creaturely time $t$. | accepted distinction; [S01](../sessions/2026-08-31-eternalism-and-indexing.md) |

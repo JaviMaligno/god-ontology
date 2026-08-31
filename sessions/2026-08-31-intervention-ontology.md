@@ -98,3 +98,78 @@ A miracle need not violate a law or be scientifically detectable. The existing d
 ## Next question
 
 Prioritize agency-preserving forms of $I_C$ and $I_P$: information, incentives, environmental changes, and capacity restoration. Agency-removing cases remain boundary conditions. Then apply the model to miracle and providence.
+
+## Agency-preserving model
+
+Represent the deliberative situation by:
+
+\[
+D_A(t)=\langle E_t,R_t,F_t,\Pi_t\rangle,
+\]
+
+where the components are information, reasons and incentives, feasible opportunities, and agentive capacities. Intervention acts as $T_I:D_A(t)\mapsto D_A^I(t)$.
+
+Circumstantial intervention divides into:
+
+- $I_C^E$, targeting information, evidence, or salience;
+- $I_C^R$, targeting reasons, warnings, or incentives;
+- $I_C^F$, targeting external opportunities and constraints.
+
+$I_P$ targets cognitive, volitional, or bodily powers. It may restore or expand agency rather than merely limit it.
+
+Non-determining influence satisfies:
+
+\[
+Influences(I,A,a)
+\land\neg SufficientCause(I,a)
+\land Originates(A,a).
+\]
+
+Control of the deliberative context therefore does not entail control of the outcome. If originable alternatives remain, the divine contribution and the agent's response are distinct constituents of $H_I$.
+
+Intervention magnitude is not an autonomy metric. Large environmental changes can preserve sourcehood, while a small direct alteration of the decision mechanism can override it. Manipulation, authenticity, and graded responsibility remain deferred.
+
+## Updated next question
+
+Relate intervention, miracle, and providence without treating them as three competing causal mechanisms.
+
+## Intervention, miracle, and providence
+
+These occupy different levels:
+
+- intervention is a token divine causal contribution;
+- miracle is a classification of an event by its causal explanation;
+- providence is the global relation of divine actualization and interventions to $H^*$.
+
+The proposed miracle condition is:
+
+\[
+Miracle(e)\leftrightarrow
+\exists I_j\neq I_0[
+DirectlyContributes(I_j,e)
+\land\neg OrdinaryExhaustive_S(e)
+].
+\]
+
+Direct contribution is non-derivative causal involvement in producing $e$, not remote ancestry. Otherwise every downstream effect of one intervention would inherit miraculous status. $I_0$ is excluded so that created dependence does not make every event miraculous. Neither law violation nor detectability is required.
+
+Providence is:
+
+\[
+Providence_G(H^*)=
+\langle ActualizesStructure(G,S),\{I_j\},H^*\rangle.
+\]
+
+It adds no causal mechanism. An event may be providential but ordinarily caused, and a creaturely act may belong to providential history without becoming divinely originated.
+
+## Representative case check
+
+| Case | Miracle? | Agency | Providence |
+| --- | --- | --- | --- |
+| event exhausted by $S$ and secondary causes | no | depends on event | included globally |
+| remotely arranged ordinary encounter | no | can remain free | providential only |
+| direct healing $I_X$ or restorative $I_P$ | yes at the affected event | can expand agency | included |
+| direct revelation followed by free response | revelation yes; response not thereby | response can be free | both included |
+| direct source override $I_A$ | yes at the produced event | token act not free | included |
+
+The distinctions survive the case check. ACO is the next substantive topic.

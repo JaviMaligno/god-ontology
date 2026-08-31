@@ -283,7 +283,96 @@ This yields three functional outcomes:
 
 The first two can preserve libertarian autonomy; the third does not preserve it for that act. Whether a non-determining influence reduces moral responsibility by degree is a later ethical question.
 
-The miracle definition presently attaches most naturally to $I_L$, $I_X$, or any event whose sufficient causal explanation is not exhausted by ordinary secondary causation. Detectability and law violation are not required by the definition.
+### Agency-preserving intervention
+
+Represent the agent's deliberative situation as:
+
+\[
+D_A(t)=\langle E_t,R_t,F_t,\Pi_t\rangle,
+\]
+
+where $E_t$ is available information, $R_t$ reasons and incentives, $F_t$ feasible opportunities, and $\Pi_t$ agentive capacities. An intervention induces a transformation:
+
+\[
+T_I:D_A(t)\mapsto D_A^I(t).
+\]
+
+This gives useful subtypes:
+
+| Subtype | Direct target |
+| --- | --- |
+| $I_C^E$ | information, evidence, or salience |
+| $I_C^R$ | reasons, warnings, or incentives |
+| $I_C^F$ | external opportunities and constraints |
+| $I_P$ | cognitive, volitional, or bodily powers |
+
+Their effects on agency are relational:
+
+\[
+F_0\subset F_I
+\quad\text{means opportunity expansion},
+\]
+
+\[
+1<|F_I|<|F_0|
+\quad\text{means restriction without option closure},
+\]
+
+\[
+Orig_0(A,t)\subset Orig_I(A,t)
+\quad\text{means agency expansion or restoration}.
+\]
+
+Non-determining influence satisfies:
+
+\[
+Influences(I,A,a)
+\land\neg SufficientCause(I,a)
+\land Originates(A,a).
+\]
+
+The magnitude or visibility of an intervention does not order its effect on freedom. A large environmental change can preserve sourcehood, while a small direct alteration of a decision mechanism can override it. Likewise, control of deliberative context does not entail control of the resulting act. If the agent still originates the response, the intervention and response make distinct contributions to $H_I$.
+
+Manipulation may affect authenticity or moral responsibility even when these minimal libertarian conditions survive. That question is recorded but deferred to the ethical layer.
+
+### Intervention, miracle, and providence
+
+These belong to different ontological levels:
+
+- an **intervention** is a token divine causal contribution;
+- a **miracle** is an event classified by its causal explanation;
+- **providence** is a global relation among divine actualization, any interventions, and $H^*$.
+
+Define ordinary explanatory exhaustion relative to the standing structure and secondary causes. Then:
+
+\[
+Miracle(e)\quad\text{iff}\quad
+\exists I_j\neq I_0[
+DirectlyContributes(I_j,e)
+\land\neg OrdinaryExhaustive_S(e)
+].
+\]
+
+Direct contribution means a non-derivative constituent of the event's sufficient production, not merely remote causal ancestry. This prevents every downstream effect of one intervention from becoming another miracle. Excluding $I_0$ also prevents the general dependence of creation on $G$ from making every event miraculous. Law violation, spectacle, and scientific detectability are not required. Direct $I_L$, $I_X$, $I_C^E$, or $I_P$ contributions may ground miracles when the stated conditions hold.
+
+An event can instead be providential without being miraculous if its proximate sufficient causes remain ordinary and the divine role is structural or more remote. The global relation is schematically:
+
+\[
+Providence_G(H^*)=
+\langle ActualizesStructure(G,S),\{I_j\},H^*\rangle.
+\]
+
+Providence adds no causal arrow. It organizes the relation of divine contributions to the coproduced history. Membership of a creaturely act in a providential history does not transfer its originating authorship to $G$.
+
+A representative case check preserves the distinctions:
+
+| Case | Miracle? | Agency status | Providence |
+| --- | --- | --- | --- |
+| event exhausted by $S$ and secondary causes | no | depends on event | included globally |
+| remotely arranged ordinary encounter | no | may remain free | providential only |
+| direct physical healing $I_X$ or restorative $I_P$ | yes at the directly affected event | may expand agency | included |
+| direct revelation $I_C^E$ followed by a free response | revelation yes; response not thereby miraculous | response can be free | both included |
+| source override $I_A$ | yes at the directly produced event | token act not free | included |
 
 ## Formal deliverable next
 
@@ -299,4 +388,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-The next intervention task is to specify agency-preserving forms of $I_C$ and $I_P$: information, incentives, environmental changes, and capacity restoration. Agency-removing cases are retained as boundary conditions rather than the center of the model. Then relate intervention to miracle and providence.
+Agency-preserving intervention and the intervention–miracle–providence relation are provisionally modeled in S04. The next step is a short case-based consistency check, followed by the minimum and optional extensions of ACO.

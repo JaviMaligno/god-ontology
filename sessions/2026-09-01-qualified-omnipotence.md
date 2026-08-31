@@ -75,9 +75,9 @@ This mirrors the existing actual/modal distinction without rebuilding its semant
 
 ## Current assessment
 
-Qualified omnipotence is the preferred definition. The established architecture supports actualizing, grounding, enabling, and intervening powers and contains no created external limiter of $G$. This makes maximality plausible and coherent.
+Qualified omnipotence is the preferred definition. The established architecture supports actualizing, grounding, enabling, and intervening powers, and no created reality can be the ultimate limiter of its own ground. This makes maximality plausible and coherent.
 
-The remaining gap is not definitional but justificatory: ultimate grounding and absence of an external limiter do not deductively exclude an essential limitation internal to $G$. A bounded-power model would, however, add an ultimate boundary $L_G$. Because no created or external reality can impose it on the ultimate ground, that boundary would have to be an independently motivated feature of $G$'s essence. Without such motivation, maximality gives greater explanatory unity with less brute boundary-setting.
+The remaining gap is not definitional but justificatory: ultimate grounding does not deductively exclude a non-created external limiter or an essential limitation internal to $G$. A bounded-power model would, however, add an ultimate boundary $L_G$. That boundary requires independent motivation; if external, it also adds another item to the fundamental ontology. Without such motivation, maximality gives greater explanatory unity with less brute boundary-setting.
 
 C75 is therefore provisionally favored on abductive and preferential grounds. It is not obtained through an imported perfection premise and is not presented as a demonstration. No additional maximality axiom is adopted at this stage; a substantive internal-limit defeater could reopen the result.
 
@@ -89,7 +89,7 @@ C75 is therefore provisionally favored on abductive and preferential grounds. It
 | Prefer non-continuous global dependence | preferred | Fits E+, existential sovereignty, and parsimony without constant intervention | Current discussion |
 | Accept existential sovereignty conditional on C04–C05 | preferred | Nothing created is ontologically independent, though causal authorship remains typed | Current discussion |
 | Adopt $OMP_Q$ as the definition of omnipotence | accepted definition | Independent coherent-action domain avoids circularity and classical pseudo-tasks | Current discussion |
-| Attribute full $OMP_Q$ maximality to $G$ | provisional and favored | It avoids an unmotivated brute power boundary; an independently grounded internal limit could defeat it | Current discussion |
+| Attribute full $OMP_Q$ maximality to $G$ | provisional and favored | It avoids an unmotivated brute power boundary; an independently grounded non-created or internal limit could defeat it | Current discussion |
 | Defer full immutability | deferred | It is not required by the current inference | Author correction |
 
 ## Next question

@@ -39,7 +39,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Attribute | Current classification | What is already available | Missing bridge | Planned treatment |
 | --- | --- | --- | --- | --- |
 | Non-continuous global dependence | Supported | Existential sovereignty plus E+ permits one atemporal grounding relation without repeated maintenance | Whether a stronger conservation thesis adds anything | S11; hold at F1 |
-| Qualified omnipotence | Preferred definition; satisfaction provisionally favored | Actualizing, enabling, grounding, and intervening powers; no external limiter | Test whether any substantive internal limit defeats the abductive case for maximality | S11 at F1; selective F2 |
+| Qualified omnipotence | Preferred definition; satisfaction provisionally favored | Actualizing, enabling, grounding, and intervening powers; no created limiter | Test whether any substantive non-created or internal limit defeats the abductive case for maximality | S11 at F1; selective F2 |
 | Omnipresence | Deferred | ACO, causal access, and relative transcendence | Decide whether presence is spatial, causal, epistemic, grounding-based, or plural | After power, F1 |
 | Unity/uniqueness | Open with standard precedent available | One $G$ is used in the model | Reconstruct the strongest standard unity arguments without assuming full simplicity | F1 after omnipresence |
 | Full immateriality or absolute non-spatiality | Open development | $G$ is not merely an internal constituent of created spacetime | Determine what follows from grounding spacetime and atemporality | F1 later attribute pass |

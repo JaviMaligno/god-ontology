@@ -445,7 +445,7 @@ This candidate aligns power with the existing epistemic architecture. MKO includ
 
 Current commitments establish actualizing power, existential sovereignty conditionally on C04–C05, and possible intervention. They support $OMP_Q$ as the preferred definition of omnipotence.
 
-Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created or external reality can impose that limit on the ultimate ground; an essential internal limit remains coherent, but requires independent motivation. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise or pretending that ultimate grounding deductively entails omnipotence.
+Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created reality can be the ultimate source of that limit on its own ground. A non-created external limiter or an essential internal limit remains coherent, but either requires independent motivation and the former would add another item to the fundamental ontology. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise, presupposing uniqueness, or pretending that ultimate grounding deductively entails omnipotence.
 
 ## Intervention ontology
 

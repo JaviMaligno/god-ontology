@@ -43,25 +43,26 @@ The arrows express research dependence, not a single ontological relation. Exist
 | --- | --- | --- | --- | --- | --- |
 | Science, description, and explanation | motivation | F1 | hold at F1 | F1 plus literature | Background; does not itself prove the ontology |
 | Contingency and necessary ground | trunk | F1 | F2 after comparative criteria are clear | F3 | C04; supports every later divine claim |
-| Necessary agent versus impersonal structure | trunk junction | F1 | F1 articulation and cost comparison, escalating selectively to F2 | F3 | **Current priority**; defends preferred C05 and searches for substantive defeaters |
-| Attribute derivation | trunk | F0 | F1 map | selective F2–F3 | Follows the preferred ground; prevents imported attributes |
+| Necessary agent versus impersonal structure | trunk junction | F1 | hold after S09 cost audit | F3 | Preferred C05 retained; reopen only for a substantive defeater or final literature pass |
+| [Attribute derivation](../ontology/attribute-derivation-map.md) | trunk | F1 | use S10 map to select the next attribute | selective F2–F3 | **Current control map**; prevents imported attributes and duplicated work |
 | Generative creation and causal roles | core support | F2 | hold and reintegrate | selective F3 | S03; conditional on C05 and agent causation |
 | Agentic choice and conscious sourcehood | core support | F2 locally | hold at present depth | selective F3 | S06–S07; supports the agent comparison |
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Omnipotence and omnipresence | attribute branch | F0 | F1 after attribute map | selective F2 | Deferred until earned |
+| Actualizing power, sustenance, omnipotence, and omnipresence | attribute branch | F0–F1 | F1 power analysis | selective F2 | **Current substantive priority**; builds on creation, ACO, and intervention |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Necessary agent versus impersonal necessary structure at F0–F1, as a defense and cost audit of the preferred agentic architecture rather than an attempted demonstration.
-2. Attribute-derivation surface map at F1.
-3. Whole-ontology dependency audit.
-4. Selection of formalization triggers and F2–F3 targets.
-5. Systematic literature and novelty mapping.
+1. Scope of actualizing, sustaining, and intervening power at F1; assess whether any route to omnipotence is earned.
+2. Omnipresence as a causal, epistemic, grounding, or spatial claim.
+3. Unity/uniqueness and the optional role of simplicity.
+4. Whole-ontology dependency audit.
+5. Selection of formalization triggers and F2–F3 targets.
+6. Systematic literature and novelty mapping.
 
 ## Depth-control rules
 

@@ -93,6 +93,10 @@ This is the normative center of the repository. It records what the project curr
 | C64 | The whole agent settles an act; consciousness, will, or another faculty must not be reified as a second inner agent. | `accepted` | Taking something as a reason can be an aspect of one agentic act, avoiding a regress of prior inner choices. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
 | C65 | Minimal libertarian freedom and the rational quality of an act are distinct dimensions. | `preferred` | A sourced act with alternatives can still be mistaken, akratic, impulsive, or poorly reasoned; evaluation and responsibility require further criteria. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
 | C66 | Physical or neural processes may realize agentive capacities without automatically becoming an independently sufficient cause of the chosen act. | `provisional` | The mind–body realization relation remains open; sufficient event-level settlement would defeat token freedom, whereas realization alone need not. | [S07](../sessions/2026-08-31-conscious-sourcehood.md) |
+| C67 | The preferred agent concept entails a minimal intellect: $G$ apprehends live possibilities and considerations sufficiently to act for reasons. | `preferred` | This follows from reason-guided conscious agency, not from necessity alone, and does not by itself entail ACO or unrestricted omniscience. | [S10](../sessions/2026-09-01-attribute-map.md) |
+| C68 | As ground and actualizer of a structure containing created spacetime, $G$ is ontologically prior to and not merely one constituent located wholly within that spacetime. | `preferred` | This establishes relative transcendence. Full immateriality, absolute non-spatiality, and every possible relation to other dimensions or orders remain open. | [S10](../sessions/2026-09-01-attribute-map.md) |
+| C69 | Use of a single symbol $G$ does not establish that the necessary agent is metaphysically unique. | `accepted` | Unity or uniqueness needs its own argument; notation and explanatory convenience are insufficient. | [S10](../sessions/2026-09-01-attribute-map.md) |
+| C70 | Atemporal and non-acquired divine knowledge does not by itself establish unrestricted divine immutability. | `accepted` | The model excludes epistemic updating relative to created time while allowing contingent acts and relations; a broader immutability thesis remains open. | [S10](../sessions/2026-09-01-attribute-map.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -112,7 +116,8 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Which comparative advantages and costs justify retaining the necessary-agent hypothesis over an impersonal necessary structure?
-2. Which attributes follow from the necessary-agent hypothesis, which receive only abductive support, and which remain optional or unsupported?
-3. Which philosophy of mind can realize conscious sourcehood without causal exclusion or hidden event determinism? Deferred unless it becomes load-bearing.
-4. How do psychological history and manipulation affect authenticity and responsibility beyond minimal freedom? Deferred to the evaluative branch.
+1. What scope of actualizing, sustaining, and intervening power is already earned, and does it support a qualified omnipotence thesis?
+2. Should omnipresence be understood through causal reach, epistemic access, grounding dependence, spatial presence, or some combination?
+3. Is the necessary agent unique, and does any useful form of simplicity follow?
+4. Which attributes belong only to later accounts of goodness, perfection, providence, and personhood?
+5. Which philosophy of mind realizes conscious sourcehood? Deferred unless it becomes load-bearing.

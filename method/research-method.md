@@ -136,9 +136,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 
 ### Current spiral
 
-1. Compare necessary agent and impersonal necessary structure under shared criteria. Current task; begin at F0–F1 and move to F2 only if a load-bearing ambiguity requires it.
-2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported.
-3. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
-4. Select the genuinely fragile junctions for F2–F3 treatment.
-5. Run the dedicated literature, provenance, and novelty pass.
-6. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+1. Compare necessary agent and impersonal necessary structure under shared criteria. F1 cost audit completed in S09; C05 remains preferred.
+2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported. F1 map completed in S10.
+3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. Current task.
+4. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
+5. Select the genuinely fragile junctions for F2–F3 treatment.
+6. Run the dedicated literature, provenance, and novelty pass.
+7. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

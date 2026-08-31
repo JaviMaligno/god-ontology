@@ -15,3 +15,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S07 — Conscious sourcehood and reasons-responsiveness](2026-08-31-conscious-sourcehood.md)
 - [S08 — Development order and formalization depth](2026-09-01-development-order.md)
 - [S09 — Constructive standard and agentic preference](2026-09-01-agentic-preference.md)
+- [S10 — Attribute derivation map](2026-09-01-attribute-map.md)

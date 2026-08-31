@@ -56,6 +56,7 @@ This is the normative center of the repository. It records what the project curr
 | C31 | $G$ can actualize $S$, created agents, and their powers without thereby selecting or sufficiently determining the complete qualitative content of $H^*$. | `preferred` | Actualization fixes the arena and enabling conditions; agent-originated acts supply some later content. No contradiction follows from eternalist completeness alone. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | C32 | Existential grounding, structural constraint, ordinary event causation, agent origination, and intervention are distinct typed relations. | `accepted` | Transitivity cannot be assumed across heterogeneous relations. In particular, $G$ grounding an agent's existence does not make $G$ the originating author of that agent's acts. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | C33 | A created agent can provide the contrastive explanation for why $H^*$ contains act $a$ rather than an available act $b$, while $G$ remains the ground of the arena in which either act is possible. | `preferred` | This states the asymmetric division of explanatory labour without making the contributors ontologically equal. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
+| C34 | Exact specification of $S$ can include laws, boundary conditions, agents, and their powers while leaving more than one complete history admissible. | `preferred` | This follows conditionally from C08 provided $S$ does not covertly encode the exercise of an agent's power. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -72,7 +73,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Does exact structural actualization, including boundary conditions and agent powers, still leave more than one complete history admissible?
+1. Which intervention types alter circumstances, available alternatives, or the originating act itself, and what does each imply for autonomy?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and how do the distinct causal roles of $G$, $S$, ordinary events, and agents constitute the marked history?

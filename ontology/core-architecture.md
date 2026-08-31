@@ -211,4 +211,12 @@ Eternalist completeness adds no contradiction here. A complete block can depend 
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md).
 
-The next formal test is whether structural actualization accidentally becomes complete-history selection when $S$ includes exact boundary conditions and created powers. After that, apply the typed relations to the intervention taxonomy without returning to foreknowledge.
+The structural test is conditional but direct. If $S$ includes genuine originating power and does not encode its exercise, then for some shared past $P_t$:
+
+\[
+h_a,h_b\in\mathcal H(S),\qquad
+h_a\equiv_{<t}h_b,\qquad
+Act(A,t,h_a)\neq Act(A,t,h_b).
+\]
+
+Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08. The next task is to apply the typed relations to intervention without returning to foreknowledge.

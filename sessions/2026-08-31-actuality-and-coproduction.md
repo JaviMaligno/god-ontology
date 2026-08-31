@@ -79,6 +79,8 @@ where the inputs represent respectively the structure, agent-originated acts, di
 
 The explanatory division is asymmetric. $G$ explains why the arena, agents, and powers exist. An agent can explain why one admissible history rather than another contains its particular act. The complete eternalist history consequently has plural kinds of source without having ontologically equal creators.
 
-## Remaining structural test
+## Structural test result
 
-Check that a fully specified $S$, including boundary conditions and powers, still satisfies $|\mathcal H(S)|>1$. If genuine originating agency is included, the result should follow unless the specification of $S$ has covertly encoded the agents' outputs. This is a test of the definition of $S$, not a return to foreknowledge.
+Given genuine originating agency, a fully specified $S$ can include boundary conditions and powers while satisfying $|\mathcal H(S)|>1$. Histories sharing $S$ and the relevant past can differ in the agent's act. If $S$ also encodes the actual output, it has ceased to be merely the generative structure intended by C07 and has absorbed the creaturely contribution rejected by C08–C09.
+
+The test is therefore provisionally passed conditional on agent causation. Intervention is the next topic.

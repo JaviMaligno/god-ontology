@@ -37,16 +37,18 @@ Actuality-complete knowledge is initially constrained by:
 K_G^{h}(p)\quad\text{iff}\quad h\vDash p.
 \]
 
-This does not yet explain the cognitive mechanism. It says that the necessary or invariant epistemic capacity can have contingent content: across admissible histories, God's knowledge covaries with what the creature actually does. Timelessness excludes learning or updating within a history; it does not entail that every known content is necessary across histories.
+This does not yet explain the cognitive mechanism. The biconditional is logical or grounding-based, not temporal. The necessary or invariant epistemic capacity encompasses the whole modal structure and the actual history together. Across alternative pointed models, the modal structure can remain fixed while a different history bears the actual marker. This is not learning, updating, or a transition in God.
 
-## Principal objection
+## Actual-marker refinement
 
-The proposal may appear to secure freedom by defining alternative histories so that divine knowledge is allowed to vary. The next argument must therefore show why atemporal knowledge-content is downstream in grounding or explanation from the contingent truth, even though neither term is temporally earlier. It must also test whether such contingent relational content remains available if immutability, simplicity, or stronger necessity claims are later derived.
+Represent the model as $\mathfrak M=\langle\mathcal H(S),R,\alpha\rangle$. God knows the possible histories and their modal relations as well as which history is actual. Knowledge of actuality therefore does not detract from knowledge of possibility. What differs between alternative evaluations is the history occupying $\alpha$, not a temporal state of divine cognition.
+
+For the creature, an act produces later effects in temporal and causal order. For God, the act's membership in $\alpha$ and knowledge of it as actual stand in an atemporal logical relation.
 
 ## Status
 
-The conversational protocol is accepted. The fourfold openness framework and knowledge-content covariance remain provisional. The internal/external distinction as a clarification, and the separation between invariant epistemic capacity and contingent knowledge-content, are preferred.
+The conversational protocol is accepted. The fourfold openness framework, the internal/external distinction, and actual-marker semantics are preferred. The basic semantic compatibility of atemporal knowledge and alternative action is provisionally closed.
 
 ## Next conversational task
 
-Determine which facts must remain fixed when evaluating an alternative free act. Distinguish the relevant causal past from all atemporal facts, then test whether truthmaker dependence licenses different divine knowledge-content.
+Move to structural actualization and asymmetric co-production. Determine what grounds the actual marker without construing it as God's advance selection of every creaturely act. Hold fixed the relevant causal past, agent capacities, and circumstances; treat intervention separately.

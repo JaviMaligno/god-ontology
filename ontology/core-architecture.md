@@ -46,7 +46,7 @@ These are deliberately numbered as candidates until the formal semantics is sele
 6. **Asymmetric co-production:** $H^*$ depends on $G$'s actualization of the framework and can also contain originating creaturely acts; these contributions are ontologically unequal.
 7. **ACO:** for every truth $p$ about complete actual reality, $K_G(p)$, with no temporal acquisition required.
 8. **Epistemic non-causation:** $K_G(p)$ alone is not an efficient cause or sufficient causal condition of $p$.
-9. **Optional modal extension:** knowledge of possibilities may extend ACO but is not entailed until the ontology of possibility is specified.
+9. **Modal complement:** $G$ knows the relevant possibilities and modal structure together with actuality; this goes beyond the definition of ACO, and its exact domain depends on the ontology of possibility.
 
 ## Preferred temporal semantics: E+
 
@@ -105,14 +105,22 @@ For propositions about actuality, the minimal ACO semantics is:
 K_G^{h}(p)\quad\text{iff}\quad h\vDash p.
 \]
 
-This is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
+The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
 - the capacity or rule of complete knowledge may be necessary and invariant;
 - the content known can be contingent and covary with the actual history.
 
-Thus, if $H^*\vDash Act(A,a,t)$, then $K_G^{H^*}(Act(A,a,t))$. In an admissible $h'$ where Alice instead originates $b$, $K_G^{h'}(Act(A,b,t))$. Atemporality entails no updating within either history; it does not by itself entail that the same contingent content occurs in every possible history.
+The author's actual-marker proposal can be represented by a pointed modal structure:
 
-The main fixity objection can now be stated precisely: is it legitimate for the accessibility relation used in `could have done otherwise` to vary divine knowledge-content, or must that content be held fixed? E+ proposes covariance grounded in the creaturely truthmaker, but the direction and coherence of this non-temporal dependence still require defence.
+\[
+\mathfrak M=\langle\mathcal H(S),R,\alpha\rangle,
+\]
+
+where $R$ represents admissible alternatives and $\alpha\in\mathcal H(S)$ is the history marked as actual. Total divine knowledge includes together the modal facts of $\mathcal H(S)$ and $R$, and the actual facts indexed by $\alpha$. Knowledge of the actual therefore does not displace knowledge of the possible.
+
+Histories $h_A$ and $h_B$ are not stages through which either reality or divine cognition passes. They belong to alternative pointed evaluations. In one, $\alpha=h_A$ and Alice's act $A$ is actual; in the other, $\alpha=h_B$ and $B$ is actual. The unpointed modal structure can remain fixed while the actual index differs. In each evaluation divine knowledge is total and atemporal.
+
+This closes the basic semantic compatibility claim provisionally. A fixity argument cannot hold the actuality-indexed fact $K_G(A)$ fixed while replacing $A$ with $B$, because it would be holding fixed part of the very actual outcome under variation. The remaining burden is ontological: explain what grounds $\alpha$ without turning it into divine advance selection of every creaturely act. That problem belongs to structural actualization and asymmetric co-production.
 
 ## Intervention taxonomy to formalize
 
@@ -129,10 +137,6 @@ The main fixity objection can now be stated precisely: is it legitimate for the 
 
 ## Formal deliverable next
 
-Extend the initial E+ scaffold in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md). Define `Possible`, `Actual`, `CausallySettledAt`, `Free`, `Causes`, `Grounds`, `Knows`, and `Intervenes`. Then prove or refute the compatibility set:
+The semantic compatibility set for E+ is provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md). The next model must ground the actual marker. Define `ActualizesStructure(G,S)`, `Originates(A,a,t)`, `Constitutes(x,alpha)`, `Actual(alpha)`, `KnowsModal(G,M)`, and `KnowsActual(G,alpha)`.
 
-\[
-\{\Box E(G),\ Atemporal(G),\ ACO(G),\ Free(A),\ K_G(Act(A)),\neg Causes(K_G(Act(A)),Act(A))\}.
-\]
-
-Use F as a controlled contrast when specifying `Settled`, future truth, and the epistemic domain of $G$.
+Compare complete-history selection by $G$ with the preferred alternative: $G$ actualizes $S$ and creaturely powers, while divine, ordinary, and agent-originating contributions asymmetrically constitute the one history marked actual. The marker should designate the obtained complete history rather than function as an additional cause of its contents.

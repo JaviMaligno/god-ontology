@@ -61,8 +61,8 @@ Use [the session template](../sessions/TEMPLATE.md) so future conversations can 
 
 ## Immediate research sequence
 
-1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast.
-2. Formalize causal roles and asymmetric co-production.
+1. Formalize E+ by distinguishing internal temporal openness, complete actuality, and atemporal knowledge; use F only as a controlled semantic contrast. Provisionally completed in S01–S02.
+2. Formalize causal roles, the ground of the actual marker, and asymmetric co-production. Current task.
 3. Test the intervention taxonomy against both semantics.
 4. Decide the minimum and optional extensions of ACO.
 5. Return to the comparative case for necessary agent versus impersonal necessary structure.

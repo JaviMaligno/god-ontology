@@ -153,6 +153,47 @@ $G$ need not know a libertarian choice as actual with metaphysical priority over
 
 The observational metaphor is acceptable if read as exhaustive epistemic access to what obtains. It must not suggest sensory reception, temporal discovery, or causal production of the observed fact.
 
+## Causal-role decomposition
+
+Asymmetric co-production requires typed relations rather than one unrestricted notion of grounding:
+
+| Relation | Role |
+| --- | --- |
+| $GroundsExistence(G,x)$ | $G$ explains the existence of a created entity or arena |
+| $ActualizesStructure(G,S)$ | $G$ makes the generative structure concrete |
+| $Constrains(S,e)$ | $S$ delimits which events or continuations are admissible |
+| $Enables(S,A)$ | $S$ provides conditions under which an agent can exercise its powers |
+| $EventCauses(e_1,e_2)$ | an event produces another event through ordinary causation |
+| $Originates(A,a)$ | agent $A$ is the irreducible source of act $a$ |
+| $Intervenes(G,x)$ | $G$ makes an additional causal contribution with target $x$ |
+| $PartOf(e,H^*)$ | event $e$ belongs to the obtained complete history |
+
+A schematic constitution claim can therefore be written:
+
+\[
+ConstitutedBy(H^*;S,\mathbf a^*,\mathbf i^*,\mathbf n^*),
+\]
+
+where $\mathbf a^*$ contains agent-originated acts, $\mathbf i^*$ any divine interventions, and $\mathbf n^*$ any non-agentive contingencies eventually admitted. This notation states dependence on heterogeneous contributions; it does not posit a deterministic function evaluated or selected by $G$.
+
+The crucial non-entailments are:
+
+\[
+ActualizesStructure(G,S)\not\models Obtains(H^*)
+\quad\text{when}\quad |\mathcal H(S)|>1,
+\]
+
+and
+
+\[
+GroundsExistence(G,A)\land Originates(A,a)
+\not\Rightarrow Originates(G,a).
+\]
+
+Existential dependence and originating authorship are different relations, so unrestricted transitivity across them is invalid. $G$ can be necessary for the existence of Alice and her power while Alice remains the contrastive explanation of why $H^*$ contains $a$ rather than an available alternative $b$.
+
+Eternalist completeness adds no contradiction here. A complete block can depend for its existence on $G$ while having contents whose contrastive sources include created agents. Completeness of the object does not entail uniqueness of its source relation.
+
 ## Intervention taxonomy to formalize
 
 | Type | Target | Preliminary autonomy effect |
@@ -168,6 +209,6 @@ The observational metaphor is acceptable if read as exhaustive epistemic access 
 
 ## Formal deliverable next
 
-The semantic compatibility set and the ground of the actual marker are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The next model must distinguish `GroundsExistence(G,x)`, `ActualizesStructure(G,S)`, `Constrains(S,e)`, `EventCauses(e_1,e_2)`, `Originates(A,a,t)`, `PartOf(a,H^*)`, and `Intervenes(G,x)`.
+The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md).
 
-The goal is not another foreknowledge defence. It is an account of asymmetric co-production: $G$ grounds the existence of the arena and powers; $S$ constrains admissible evolution; ordinary causes produce later events; agents originate some acts; and any intervention has its own explicit causal target. These roles jointly determine the content of $H^*$ without becoming ontologically symmetrical.
+The next formal test is whether structural actualization accidentally becomes complete-history selection when $S$ includes exact boundary conditions and created powers. After that, apply the typed relations to the intervention taxonomy without returning to foreknowledge.

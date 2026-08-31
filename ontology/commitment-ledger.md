@@ -53,6 +53,9 @@ This is the normative center of the repository. It records what the project curr
 | C28 | Divine knowledge relates atemporally and all at once to both modal structure and the history marked as actual. | `preferred` | The relation from an actual act to knowledge of it is logical or grounding-based, not a sequence in which God learns after the act. | [S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) |
 | C29 | The actual marker is grounded by the history that obtains; it designates that history and is not an additional divine selection or cause of its contents. | `preferred` | $G$ actualizes the generative structure and agent powers; ordinary causes and autonomous acts help constitute $H^*$. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 | C30 | No divine knowledge of a free choice as actual is metaphysically prior to the obtaining history containing that choice. | `preferred` | The act grounds its truth and thereby its inclusion in ACO. This priority is explanatory, not temporal, and does not limit omniscience because no prior actual-choice truth exists to be known. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
+| C31 | $G$ can actualize $S$, created agents, and their powers without thereby selecting or sufficiently determining the complete qualitative content of $H^*$. | `preferred` | Actualization fixes the arena and enabling conditions; agent-originated acts supply some later content. No contradiction follows from eternalist completeness alone. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
+| C32 | Existential grounding, structural constraint, ordinary event causation, agent origination, and intervention are distinct typed relations. | `accepted` | Transitivity cannot be assumed across heterogeneous relations. In particular, $G$ grounding an agent's existence does not make $G$ the originating author of that agent's acts. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
+| C33 | A created agent can provide the contrastive explanation for why $H^*$ contains act $a$ rather than an available act $b$, while $G$ remains the ground of the arena in which either act is possible. | `preferred` | This states the asymmetric division of explanatory labour without making the contributors ontologically equal. | [S03](../sessions/2026-08-31-actuality-and-coproduction.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -69,7 +72,7 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. How exactly do divine grounding, structural constraint, ordinary event causation, and agent origination asymmetrically constitute $H^*$?
+1. Does exact structural actualization, including boundary conditions and agent powers, still leave more than one complete history admissible?
 2. What grounds metaphysical possibility without reifying a primitive space of fully formed worlds?
 3. Can a necessary agent genuinely choose if its nature fixes a unique act?
 4. What exactly is jointly actualized, and how do the distinct causal roles of $G$, $S$, ordinary events, and agents constitute the marked history?

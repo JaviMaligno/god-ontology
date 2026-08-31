@@ -52,3 +52,33 @@ Decompose asymmetric co-production without treating its contributors as equals:
 - divine interventions, if any, require separately typed causal targets.
 
 The next formal task is to state these relations and test whether structural actualization accidentally collapses into complete-history selection.
+
+## Causal-role decomposition
+
+The author sees no apparent contradiction in $G$ actualizing the structure and agent powers without selecting every later act. The model agrees and locates the only serious ambiguity in the use of one generic dependence relation.
+
+The following relations must remain typed:
+
+\[
+GroundsExistence(G,A),\quad
+ActualizesStructure(G,S),\quad
+Constrains(S,e),\quad
+EventCauses(e_1,e_2),\quad
+Originates(A,a).
+\]
+
+From $G$ grounding Alice's existence and Alice originating $a$, it does not follow that $G$ originates $a$. Existential dependence may make $G$ necessary for the act's occurrence without making $G$ its sufficient cause or contrastive author.
+
+A minimal constitution relation is:
+
+\[
+ConstitutedBy(H^*;S,\mathbf a^*,\mathbf i^*,\mathbf n^*),
+\]
+
+where the inputs represent respectively the structure, agent-originated acts, divine interventions, and any admitted non-agentive contingencies. This is a heterogeneous dependence relation, not a deterministic function computed in advance by God.
+
+The explanatory division is asymmetric. $G$ explains why the arena, agents, and powers exist. An agent can explain why one admissible history rather than another contains its particular act. The complete eternalist history consequently has plural kinds of source without having ontologically equal creators.
+
+## Remaining structural test
+
+Check that a fully specified $S$, including boundary conditions and powers, still satisfies $|\mathcal H(S)|>1$. If genuine originating agency is included, the result should follow unless the specification of $S$ has covertly encoded the agents' outputs. This is a test of the definition of $S$, not a return to foreknowledge.

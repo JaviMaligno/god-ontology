@@ -1014,6 +1014,35 @@ NormBridge_G(A,C)=
 
 This is not yet a theory or an assertion that all four relations always obtain. It prevents “value emerges from $G$” from concealing whether $G$ makes the bearer exist, supplies the good-making feature, recognizes or approves the value, or establishes a contingent normative role. The next evaluative pass must assign specific truths to these roles and test their compatibility with $G$'s necessary nature and contingent agency.
 
+### Good-for and conscious subjects
+
+The first restricted target is prudential rather than goodness simpliciter: how a life, state, event, or relation goes for its bearer. Conscious subjects supply the clearest initial domain because phenomenal valence is directly subject-affecting, but the scope does not yet exclude every non-conscious form of good.
+
+Separate $ProTantoGoodFor_d(x,A,C)$ from an all-things-considered judgment. The provisional welfare profile ranges over phenomenal valence, functioning, agency, epistemic contact, relationship, and diachronic integrity or development. These are candidate dimensions with different support and defeaters, not a completed objective list. Actual desire and pleasure can provide evidence or value within the profile without exhausting it.
+
+A partial dominance relation avoids premature scalar aggregation:
+
+\[
+x\succ^P_{A,C}y
+\quad\text{iff}\quad
+\bigl(\forall d\in D_A\;x\succeq^d_{A,C}y\bigr)
+\land
+\bigl(\exists d\in D_A\;x\succ^d_{A,C}y\bigr).
+\]
+
+It ranks $x$ over $y$ when $x$ is no worse in any admitted dimension and better in at least one. Pleasant deception, painful treatment, addiction, coerced development, sacrifice, and harmful enjoyment remain mixed cases rather than being forced into one metric. Local phenomenal badness is not erased merely because it contributes instrumentally to a better diachronic outcome.
+
+Finite welfare also preserves asymmetric co-production:
+
+\[
+GroundsExistence(G,A,C)
+\land Occurs(x,A,C)
+\land Fits_d(x,WProf(A,C))
+\Rightarrow ProTantoGoodFor_d(x,A,C).
+\]
+
+$G$ grounds the existence of the subject and arena; created causes or agents can supply the token $x$; and the fit relation supplies its prudential valence. ACO recognizes any obtaining welfare truth, while divine institution can modify some contingent normative contexts. The live stronger proposal makes principles of fit necessarily dependent on $G$'s necessary nature while allowing actual instances to depend on contingent subjects and histories. It remains open until a non-circularly established divine feature grounds determinate valence.
+
 Good reasons remain non-necessitating:
 
 \[
@@ -1036,4 +1065,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and normative fit remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of normative fit remain selective deepening targets.

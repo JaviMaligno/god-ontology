@@ -55,18 +55,18 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
-| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 foundations | test relational divine-source candidate | selective F2–F3 | S21 separates meanings and grounding roles; normative fit is the next load-bearing junction before suffering |
+| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 foundations | test phenomenal valence and welfare dimensions | selective F2–F3 | S21 types goodness questions; S23 adds pro tanto good-for, partial comparison, and finite welfare co-grounding without a total scalar |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Assign existential grounding, value constitution, recognition or approval, and institution to explicit roles in a typed normative bridge.
-2. Test whether that bridge preserves divine ultimity without reducing goodness to bare choice or a circular label on divine nature.
-3. Identify candidate goods of conscious subjects and agents without prematurely forcing them into one metric.
-4. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points rather than reopening their full modules without new support.
-5. Accumulate later hardening questions in the [challenge register](challenge-register.md).
-6. Select formalization triggers and targeted literature or novelty work where load-bearing.
+1. Test whether phenomenal valence supplies an irreducible prudential anchor or requires a broader grounding relation to its subject.
+2. Justify or revise each remaining welfare dimension without turning $WProf$ into an arbitrary list.
+3. Test whether necessary principles of fit can depend on $G$ without bare voluntarism or circular divine-nature labeling.
+4. Develop conflict handling beyond dominance only when mixed cases make an aggregation rule load-bearing.
+5. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points rather than reopening their full modules without new support.
+6. Accumulate later hardening questions in the [challenge register](challenge-register.md) and select targeted literature work where load-bearing.
 
 ## Depth-control rules
 

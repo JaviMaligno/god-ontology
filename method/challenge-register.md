@@ -21,6 +21,7 @@ This register accumulates high-pressure questions for a later hardening pass aft
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `scoped` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | goodness, divine ultimity, reasons, divine nature and choice | `scoped` |
 | CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `scoped` |
+| CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
 
 ## CH01 — Divine self-copy
 
@@ -107,6 +108,8 @@ Each option must explain why cruelty, deception, destruction, flourishing, agenc
 
 The S21–S22 typing discipline further requires every candidate to state separately whether $G$ existentially grounds the value bearer, constitutes the value, recognizes or approves it, or institutes a contingent norm. A theory may assign different answers to different evaluative domains.
 
+S23 adds three constraints. The account must distinguish local and diachronic welfare, justify each proposed dimension rather than merely listing attractive nouns, and preserve created causal authorship of token benefits and harms. Pleasant deception, painful therapy, addiction, coerced development, chosen sacrifice, and sadistic enjoyment are the initial divergence cases.
+
 ## CH05 — Qualified power and possible blockers
 
 The F1 case for qualified omnipotence is abductive. Existential sovereignty prevents a created item from being the ultimate source of a limit on $G$, but it does not yet exclude an independently established internal feature or a non-created external condition. The later F2 test must distinguish:
@@ -118,3 +121,9 @@ The F1 case for qualified omnipotence is abductive. Existential sovereignty prev
 5. brute incapacities disguised as “essential features,” which would make $OMP_Q$ circular.
 
 The test should first formulate maximal power over every coherent target in the created order, then ask what additional premise licenses unrestricted qualified maximality. Failure of the latter would revise C75 without erasing the actualizing, grounding, or intervening powers already established.
+
+## CH06 — Designed welfare reversal
+
+The challenge separates four cases: changing phenomenal valence so that the state no longer feels painful; creating a desire for a state that remains harmful in other respects; designing capacities that function only through domination or suffering; and manipulating later endorsement of an imposed condition. Only the first may be a semantic or phenomenological reclassification. The others test whether created profile, actual preference, or divine intention can constitute welfare without remainder.
+
+A satisfactory account must explain which facts fix the subject connection, whether a degrading design can bootstrap its own normative justification, and how divine responsibility for creating the profile differs from creaturely responsibility for token harms. The challenge directly tests C146–C152 and the unresolved constitutive component of $NormBridge_G$.

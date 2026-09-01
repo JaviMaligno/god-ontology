@@ -28,3 +28,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S20 — Personal presence beyond ontological omnipresence](2026-09-01-personal-presence.md)
 - [S21 — Foundations and meanings of goodness](2026-09-01-goodness-foundations.md)
 - [S22 — Consciousness and its agentive role](2026-09-01-consciousness-and-agentive-role.md)
+- [S23 — Good-for and conscious subjects](2026-09-01-good-for-conscious-subjects.md)

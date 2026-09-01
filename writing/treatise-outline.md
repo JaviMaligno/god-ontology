@@ -128,6 +128,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
     - Good-for, excellence, fitting action, good agency, and obligation
+    - Welfare bearers and why good-for can precede good simpliciter
+    - Phenomenal valence, functioning, agency, truth, relationship, and diachronic integrity
+    - Pro tanto value, multidimensional dominance, and unresolved trade-offs
+    - Desire, informed endorsement, and alienation
+    - Finite welfare as asymmetrically co-grounded
     - Whether objective normativity threatens divine ultimity
     - Semantic, axiological, deontic, epistemic, and institutional voluntarism
     - The limits of unrestricted divine-choice voluntarism

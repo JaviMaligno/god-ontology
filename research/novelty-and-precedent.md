@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, and consciousness)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, and well-being)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -35,6 +35,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Relational divine-source account: existential source of finite goods + objective normative fit + restricted norm-instituting choice | Established problem families; project-specific candidate synthesis | Overlaps theological voluntarism, divine-nature theories, the Euthyphro problem, well-being theory, and reasons-first approaches. S21 does not yet solve the ultimate ground of normative fit. |
+| Plural good-for profile + partial dominance + asymmetric co-grounding of token welfare | Established welfare families; project-specific integration | Pro tanto value, plural or objective-list goods, temporal welfare, and partial ordering are established. The local synthesis assigns divine, created-causal, epistemic, and normative-fit roles within the existing co-production model. |
 | Robust agency may require difficulty/suffering not reproducible with vastly less suffering | Unassessed; high burden | Needs engagement with theodicy, soul-making, moral development, modal feasibility, and empirical psychology. |
 
 ## Most important correction to the conversation
@@ -110,6 +111,12 @@ The S21 map combines established debates rather than introducing a new metaethic
 
 The project's provisional candidate assigns $G$ existential sourcehood over actual finite goods, objective content to relational normative fit, and a restricted institution-forming role to divine choice. That allocation is an unassessed synthesis with the existing OEC, conscious-sourcehood, personal-presence, and non-necessitating-reason modules. Its decisive unresolved question is whether “fit” can be grounded without becoming either an unexplained external norm or a relabeling of divine nature.
 
+## Good-for and conscious subjects: targeted precedent check
+
+The 2026 [Stanford Encyclopedia of Philosophy entry on well-being](https://plato.stanford.edu/entries/well-being/) defines the domain through what is non-instrumentally good for a bearer and surveys hedonist, desire, and objective-list theories. It also records disputes about temporal shape, whether one invariant theory covers every welfare bearer, whether plural goods require a unifying essence, and whether welfare exhausts moral value. [Aristotle's *Nicomachean Ethics*](https://classics.mit.edu/Aristotle/nicomachaen.html) is the central ancient comparison for whole-life flourishing through characteristic activity. [Guy Fletcher's objective-list reconstruction](https://doi.org/10.1017/S0953820812000453) explicitly addresses taxonomy and arbitrariness objections.
+
+S23 does not propose a new theory family. Its potentially useful integration is narrower: phenomenal valence is examined using the project's $PCon$; agency uses its sourcehood model rather than option count; token benefits and harms inherit asymmetric co-production; ACO supplies recognition rather than constitution; and multidimensional dominance permits exact local comparisons without pretending to have solved aggregation. The candidate list and the proposed necessary dependence of fit on $G$ remain unearned, so neither is a novelty claim.
+
 ## Consciousness and agentive role: targeted precedent check
 
 The [Stanford Encyclopedia of Philosophy entry on consciousness](https://plato.stanford.edu/entries/consciousness/) documents the plurality of phenomenal, access, reflexive, and other consciousness concepts. [Ned Block's “On a Confusion about a Function of Consciousness”](https://doi.org/10.1017/S0140525X00038188) is a primary source for separating phenomenal experience from information availability for reasoning and action. The [Stanford Encyclopedia entry on the neuroscience of consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/) reviews both the distinction and continuing disputes about the relation between its terms.
@@ -134,4 +141,5 @@ No component warrants a novelty claim. The more specific package may be composit
 3. Search whether layered omniscience definitions separate actuality, modal possibility, and counterfactual freedom in the same way as ACO.
 4. Test whether “generating structure” adds ontology or only a useful systems vocabulary for laws plus boundary conditions.
 5. Map goodness proposals against voluntarism, divine nature theory, reasons fundamentalism, and the Euthyphro dilemma.
-6. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
+6. Test the S23 welfare profile against hedonist, desire, objective-list, perfectionist, capability, variabilist, disability, animal-welfare, and temporal-welfare literature.
+7. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.

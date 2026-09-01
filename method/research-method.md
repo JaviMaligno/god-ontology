@@ -178,8 +178,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 10. Distinguish personal availability from exercised regard, shared attention, and loving communion. S20 prefers universal personal availability while assigning the stronger relations to providence, co-production, and goodness.
 11. Open the goodness/value branch at F1. S21 distinguishes evaluative targets and proposes a relational divine-source account without yet attributing goodness or omnibenevolence to $G$.
 12. Separate phenomenal, access, self, and agentive consciousness and state how determined experience can coexist with token-relative freedom. Completed in S22 at F1 with local F2 notation; realization remains open.
-13. Type and test the ground and content of the normative bridge between $G$ and created value bearers. Current task.
-14. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
-15. Select the remaining genuinely fragile junctions for F2–F3 treatment.
-16. Run the dedicated literature, provenance, and novelty pass.
-17. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+13. Type the normative bridge between $G$ and created value bearers. S21–S23 distinguish existential grounding, value constitution, recognition, and institution; the ultimate ground of fit remains open.
+14. Develop good-for for conscious subjects through pro tanto dimensions, partial comparison, temporal scope, and asymmetric co-grounding. Initial F1 pass completed in S23; phenomenal valence is the current test anchor.
+15. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
+16. Select the remaining genuinely fragile junctions for F2–F3 treatment.
+17. Run the dedicated literature, provenance, and novelty pass.
+18. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

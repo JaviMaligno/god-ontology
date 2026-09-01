@@ -29,3 +29,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S21 — Foundations and meanings of goodness](2026-09-01-goodness-foundations.md)
 - [S22 — Consciousness and its agentive role](2026-09-01-consciousness-and-agentive-role.md)
 - [S23 — Good-for and conscious subjects](2026-09-01-good-for-conscious-subjects.md)
+- [S24 — Constructed value, sacrifice, and diachronic good](2026-09-01-constructivism-and-diachronic-good.md)

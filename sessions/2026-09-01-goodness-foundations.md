@@ -16,7 +16,7 @@ The present pass does not infer that $G$ is good. It separates the target claims
 
 | Term | Question | Current status |
 | --- | --- | --- |
-| $GoodFor(x,A,C)$ | Does $x$ contribute positively to subject $A$ under relevant conditions $C$? | open plural account |
+| $GF(x,A,C,\tau)$ | Is $x$ good for subject $A$ under context $C$ and temporal scope $\tau$? After S23 this unindexed-by-dimension form is reserved for a generic or all-things-considered assessment. | open plural account |
 | $Excellent(x,K)$ | Does $x$ realize excellences constitutive of its kind or capacities? | open |
 | $Valuable(s)$ | Is state or relation $s$ worthy of realization, preservation, or appreciation? | open |
 | $Fitting(a,R,C)$ | Does action $a$ appropriately respond to reasons $R$ in context $C$? | provisional evaluative bridge |
@@ -97,8 +97,8 @@ Schematically:
 
 \[
 GroundsExistence(G,A,C)
-\land Fits(x,Profile(A,C))
-\Rightarrow CandidateGoodFor(x,A,C).
+\land Fits_d(x,Profile(A,C),\tau)
+\Rightarrow CandidatePTGF_d(x,A,C,\tau).
 \]
 
 The formula is a research schema, not a reductive definition. $Profile(A,C)$ must not be limited to occurrent desire: an agent can misunderstand or damage its own good. Candidate constituents include conscious flourishing, agency, truth, understanding, relationship, embodied capacities, and meaningful development. Their exact list and weighting remain open.

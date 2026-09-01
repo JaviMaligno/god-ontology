@@ -133,6 +133,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Pro tanto value, multidimensional dominance, and unresolved trade-offs
     - Desire, informed endorsement, and alienation
     - Finite welfare as asymmetrically co-grounded
+    - Creature-constructed value and the possibility that $G$ has no native evaluative standpoint
+    - Semantic, attitudinal, procedural, intersubjective, and hybrid construction
+    - Sacrifice: cost, agentic excellence, personal welfare, and value for others
+    - Defeasible priority for long-term commitments over transient pleasures
     - Whether objective normativity threatens divine ultimity
     - Semantic, axiological, deontic, epistemic, and institutional voluntarism
     - The limits of unrestricted divine-choice voluntarism

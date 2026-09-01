@@ -18,10 +18,11 @@ The method is constraint-first. Begin with cases in which experiential valence, 
 | --- | --- |
 | $WBearer(A)$ | $A$ is a candidate bearer of welfare: its life can go better or worse for it. The present inquiry begins with conscious subjects without claiming that no non-conscious entity can have another kind of good. |
 | $WProf(A,C)$ | The welfare-relevant profile of $A$ in context $C$, provisionally including phenomenal valence, embodied or psychological functioning, agency, epistemic contact, relationships, and diachronic integrity or development. |
-| $ProTantoGoodFor_d(x,A,C)$ | $x$ benefits $A$ in dimension $d$ under context $C$, considered without yet settling conflicts with other dimensions. |
-| $ProTantoBadFor_d(x,A,C)$ | $x$ harms $A$ in dimension $d$ under context $C$, considered without yet settling conflicts with other dimensions. |
-| $x\succeq^d_{A,C}y$ | $x$ is at least as good for $A$ as $y$ with respect to dimension $d$ in context $C$. |
-| all-things-considered good-for | An overall prudential assessment after relevant dimensions, temporal distribution, uncertainty, and conflicts are considered. No complete rule is adopted here. |
+| $\tau$ | The temporal scope of assessment: a moment, interval, project horizon, or whole life. |
+| $PTGF_d(x,A,C,\tau)$ | $x$ benefits $A$ in dimension $d$, under context $C$ and temporal scope $\tau$, without yet settling conflicts with other dimensions. |
+| $PTBF_d(x,A,C,\tau)$ | $x$ harms $A$ in dimension $d$, under context $C$ and temporal scope $\tau$, without yet settling conflicts with other dimensions. |
+| $x\succeq^d_{A,C,\tau}y$ | $x$ is at least as good for $A$ as $y$ with respect to dimension $d$, context $C$, and temporal scope $\tau$. |
+| $GF(x,A,C,\tau)$ | Reserved for an all-things-considered or explicitly generic good-for assessment. No complete aggregation rule is adopted here. |
 
 ## Why good-for can precede good simpliciter
 
@@ -30,17 +31,17 @@ The method is constraint-first. Begin with cases in which experiential valence, 
 The project can initially use comparative judgments:
 
 \[
-x\succ^d_{A,C}y
+x\succ^d_{A,C,\tau}y
 \]
 
 without assigning numerical value. A safe multidimensional dominance relation is:
 
 \[
-x\succ^P_{A,C}y
+x\succ^P_{A,C,\tau}y
 \quad\text{iff}\quad
-\bigl(\forall d\in D_A\;x\succeq^d_{A,C}y\bigr)
+\bigl(\forall d\in D_A\;x\succeq^d_{A,C,\tau}y\bigr)
 \land
-\bigl(\exists d\in D_A\;x\succ^d_{A,C}y\bigr).
+\bigl(\exists d\in D_A\;x\succ^d_{A,C,\tau}y\bigr).
 \]
 
 This establishes some comparisons when $x$ is no worse in any admitted dimension and better in at least one. It intentionally leaves mixed cases partially ordered. Lack of an overall verdict is not equivalent to equal value.
@@ -100,8 +101,8 @@ The actual token fact can be asymmetrically co-grounded:
 \[
 GroundsExistence(G,A,C)
 \land Occurs(x,A,C)
-\land Fits_d(x,WProf(A,C))
-\Rightarrow ProTantoGoodFor_d(x,A,C).
+\land Fits_d(x,WProf(A,C),\tau)
+\Rightarrow PTGF_d(x,A,C,\tau).
 \]
 
 $G$ supplies the existence of the relata and arena; created causes or agents can supply $x$; the fit relation supplies its prudential valence. Thus a creature can originate an act that benefits or harms without $G$ becoming the contrastive author of its content.

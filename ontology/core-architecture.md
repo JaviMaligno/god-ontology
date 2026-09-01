@@ -995,8 +995,8 @@ The current candidate is a **relational divine-source account**. For created val
 
 \[
 GroundsExistence(G,A,C)
-\land Fits(x,Profile(A,C))
-\Rightarrow CandidateGoodFor(x,A,C).
+\land Fits_d(x,Profile(A,C),\tau)
+\Rightarrow CandidatePTGF_d(x,A,C,\tau).
 \]
 
 $G$ grounds the existence of the subject, its capacities, and the context in which finite goods obtain. The good-making relation is provisionally sought in objective fit among conscious life, agency, development, truth, relationship, and other constituents still to be assessed. Divine choice can actualize particular goods and institute contingent roles or norms without automatically making every chosen object good by endorsement alone.
@@ -1018,16 +1018,16 @@ This is not yet a theory or an assertion that all four relations always obtain. 
 
 The first restricted target is prudential rather than goodness simpliciter: how a life, state, event, or relation goes for its bearer. Conscious subjects supply the clearest initial domain because phenomenal valence is directly subject-affecting, but the scope does not yet exclude every non-conscious form of good.
 
-Separate $ProTantoGoodFor_d(x,A,C)$ from an all-things-considered judgment. The provisional welfare profile ranges over phenomenal valence, functioning, agency, epistemic contact, relationship, and diachronic integrity or development. These are candidate dimensions with different support and defeaters, not a completed objective list. Actual desire and pleasure can provide evidence or value within the profile without exhausting it.
+Use $PTGF_d(x,A,C,\tau)$ for a dimension-indexed pro tanto judgment, where $\tau$ is the assessed moment, interval, project horizon, or whole life. Reserve $GF(x,A,C,\tau)$ for an explicitly generic or all-things-considered judgment. The provisional welfare profile ranges over phenomenal valence, functioning, agency, epistemic contact, relationship, and diachronic integrity or development. These are candidate dimensions with different support and defeaters, not a completed objective list. Actual desire and pleasure can provide evidence or value within the profile without exhausting it.
 
 A partial dominance relation avoids premature scalar aggregation:
 
 \[
-x\succ^P_{A,C}y
+x\succ^P_{A,C,\tau}y
 \quad\text{iff}\quad
-\bigl(\forall d\in D_A\;x\succeq^d_{A,C}y\bigr)
+\bigl(\forall d\in D_A\;x\succeq^d_{A,C,\tau}y\bigr)
 \land
-\bigl(\exists d\in D_A\;x\succ^d_{A,C}y\bigr).
+\bigl(\exists d\in D_A\;x\succ^d_{A,C,\tau}y\bigr).
 \]
 
 It ranks $x$ over $y$ when $x$ is no worse in any admitted dimension and better in at least one. Pleasant deception, painful treatment, addiction, coerced development, sacrifice, and harmful enjoyment remain mixed cases rather than being forced into one metric. Local phenomenal badness is not erased merely because it contributes instrumentally to a better diachronic outcome.
@@ -1037,11 +1037,44 @@ Finite welfare also preserves asymmetric co-production:
 \[
 GroundsExistence(G,A,C)
 \land Occurs(x,A,C)
-\land Fits_d(x,WProf(A,C))
-\Rightarrow ProTantoGoodFor_d(x,A,C).
+\land Fits_d(x,WProf(A,C),\tau)
+\Rightarrow PTGF_d(x,A,C,\tau).
 \]
 
 $G$ grounds the existence of the subject and arena; created causes or agents can supply the token $x$; and the fit relation supplies its prudential valence. ACO recognizes any obtaining welfare truth, while divine institution can modify some contingent normative contexts. The live stronger proposal makes principles of fit necessarily dependent on $G$'s necessary nature while allowing actual instances to depend on contingent subjects and histories. It remains open until a non-circularly established divine feature grounds determinate valence.
+
+### Creature-constructed value as an alternative
+
+The alternative that $G$ has no conception of good must be typed carefully. Semantic construction of evaluative vocabulary, construction of value from a subject's attitudes, procedural standards constitutive of agency, intersubjective norms, and global creature-only construction have different consequences. The coherent divine claim is:
+
+\[
+NoNativeNorm(G)\quad\text{iff}\quad
+\neg\exists v\;PrimitiveEvaluativeStandpoint(G,v),
+\]
+
+not permanent divine ignorance. If an evaluative practice $N$ occurs in $H^*$, ACO includes the fact and its content:
+
+\[
+Constructs(A,N,H^*)\Rightarrow K_G(Constructs(A,N,H^*)).
+\]
+
+Knowledge of a constructed standpoint neither constitutes nor endorses it. A creature-only construction theory makes divine goodness inapplicable prior in grounding order to created valuation and must explain why $G$, already modeled as an autonomous subject, is excluded from the class of eligible constructors. It must also handle phenomenal welfare without reflective construction, corrupted preferences, and the standards used to idealize a valid procedure.
+
+Pure actual-attitude construction is therefore disfavored. The strongest constructivist candidates are agency constitutivism and a hybrid in which phenomenal or other subject-affecting welfare facts are not constructed while personal, moral, and institutional norms are partly constituted by autonomous or intersubjective activity.
+
+### Sacrifice and diachronic priority
+
+A sacrifice joins distinct evaluative questions. Its cost can remain $PTBF_d(c,A,C,t_0)$; the act can exhibit agentic excellence; its whole-life effect may benefit or harm $A$; and its moral value for another subject may diverge from its prudential effect. Costliness alone has no positive sign.
+
+Long-term priority is modeled through normative defeat rather than an unsupported scalar. For stable project or commitment $g$ and transient attraction $p$:
+
+\[
+DP(g,p;A,C,I)
+\Rightarrow
+g\triangleright_{A,C,I}p.
+\]
+
+$DP$ requires informed and non-manipulated endorsement, stability across relevant temporal perspectives, realization or preservation of a justified welfare dimension, due concern for future welfare, proportionality, and no decisive undefeated harm to others. This supports study, caregiving, treatment, promises, or resistance to addiction against some immediate pleasures because the long-term commitment can express the temporally extended agent and preserve future authorship. Duration alone supplies no priority, and severe or futile suffering can defeat a project.
 
 Good reasons remain non-necessitating:
 
@@ -1065,4 +1098,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of normative fit remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24 corrects its dimensional and temporal notation, opens creature-constructed normativity as a serious alternative, and gives qualified sacrifice and long-term commitment a defeasible priority structure. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of normative fit remain selective deepening targets.

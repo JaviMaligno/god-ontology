@@ -12,6 +12,21 @@ This register accumulates high-pressure questions for a later hardening pass aft
 | `resolved` | Answered without a current need to revise the framework |
 | `reopens` | Requires revision of one or more commitments |
 
+## Attack-depth scale
+
+Challenge depth is independent of status. A basic question can remain unresolved, and a technically sophisticated question can be low priority.
+
+| Level | Function | Initial question bank |
+| --- | --- | --- |
+| **Q0 — Public/intuitive** | Questions any adequate account should answer intelligibly | What are good and evil? Why do bad things happen? Why would $G$ permit suffering? Is pleasure good and pain bad? Is $G$ good? Why sacrifice anything? |
+| **Q1 — Definition and scope** | Expose ambiguity in bearers, predicates, dimensions, and time | Good for whom, in which dimension, and over what interval? Is moral good distinct from welfare? Can non-conscious beings fare well? Is evil a thing, privation, relation, act, or judgment? |
+| **Q2 — Internal coherence** | Test claims against their own commitments | Can transient desire defeat the future self? Can manipulated endorsement create value? Why is sacrifice fitting rather than merely costly? Can constructed norms identify error? Can $G$ lack native value while knowing every actual concept? |
+| **Q3 — Comparative/countermodel** | Compare rival theories on divergence cases | Divine choice, divine nature, realism, constructivism, projectivism, or nihilism? What follows in experience-machine, addictive, sadistic, coerced-development, designed-servitude, future-indifference, infant, animal, and disability cases? |
+| **Q4 — Whole-architecture integration** | Trace consequences across modules | How do goodness and evil affect creation, providence, intervention, responsibility, freedom, omniscience, power, personal presence, and the reason for creating autonomous subjects? Who authors a token harm? |
+| **Q5 — Formal/model-theoretic** | Test exact consistency and explanatory completeness | Is the predicate indexed correctly? Does dominance cycle? Can defeat be inconsistent? What aggregation assumptions are needed? Is there a model satisfying agency, ACO, construction, and non-arbitrary welfare together? Which premise fails in countermodels? |
+
+The bank grows by preserving a short ordinary-language formulation and linking it to deeper variants. It is not a requirement to answer every level immediately or to generate objections after a load-bearing issue has been settled.
+
 ## Challenges
 
 | ID | Question | Threatened modules | Status |
@@ -22,6 +37,8 @@ This register accumulates high-pressure questions for a later hardening pass aft
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | goodness, divine ultimity, reasons, divine nature and choice | `scoped` |
 | CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `scoped` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
+| CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | ACO, divine agency and goodness, constructivism, welfare, creation | `scoped` |
+| CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | welfare, agency, temporal scope, reasons, morality | `scoped` |
 
 ## CH01 — Divine self-copy
 
@@ -127,3 +144,15 @@ The test should first formulate maximal power over every coherent target in the 
 The challenge separates four cases: changing phenomenal valence so that the state no longer feels painful; creating a desire for a state that remains harmful in other respects; designing capacities that function only through domination or suffering; and manipulating later endorsement of an imposed condition. Only the first may be a semantic or phenomenological reclassification. The others test whether created profile, actual preference, or divine intention can constitute welfare without remainder.
 
 A satisfactory account must explain which facts fix the subject connection, whether a degrading design can bootstrap its own normative justification, and how divine responsibility for creating the profile differs from creaturely responsibility for token harms. The challenge directly tests C146–C152 and the unresolved constitutive component of $NormBridge_G$.
+
+## CH07 — Creature-only construction and divine value
+
+The coherent target is $NoNativeNorm(G)$ rather than divine ignorance after created norms exist. The test compares semantic, attitudinal, procedural, intersubjective, global creature-only, and projectivist versions. It must decide whether constructed judgments are truth-apt, what ACO knows, whether $G$ can later endorse them, and whether “$G$ is good” becomes false, inapplicable, or creature-relative.
+
+The central counterpressures are that $G$ is itself an autonomous subject, non-reflective conscious subjects appear capable of welfare, and idealizing a construction procedure may import the standards it was meant to construct. Agency constitutivism and hybrid welfare constructivism are the strongest current replies.
+
+## CH08 — Sacrifice and temporal priority
+
+The challenge separates the cost's local valence, the quality of the agent's exercise, the act's diachronic effect on that agent, and its value for others. It tests voluntary treatment, study, caregiving, fidelity to promises, resistance to addiction, heroic self-sacrifice, coerced sacrifice, futile suffering, and long-term cruel projects.
+
+Any priority rule must explain why temporal location alone is not normatively decisive, why a stable commitment can express an extended agent better than a transient appetite, and when suffering, futility, uncertainty, disproportion, or harm to others defeats the project. C162–C164 supply a preferred defeasible structure rather than a lexical ranking.

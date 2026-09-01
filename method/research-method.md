@@ -126,6 +126,8 @@ A named author supplied as an example is a research pointer, not an instruction 
 
 Do not manufacture symmetry. A well-supported working choice need not be suspended merely because an imaginable alternative exists. Record why it is preferred and what evidence could overturn it.
 
+Maintain the [challenge register](challenge-register.md) at several attack depths. Q0 preserves ordinary questions the final account must answer intelligibly; Q1–Q3 test definition, coherence, and rival explanations; Q4 tests whole-architecture integration; Q5 tests exact formal consistency and countermodels. Depth measures the type of attack, not its importance or current status. Link deeper variants back to the ordinary question rather than allowing technical refinement to make the motivating problem disappear.
+
 ## Provenance and novelty
 
 For every important proposition, record:
@@ -180,7 +182,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 12. Separate phenomenal, access, self, and agentive consciousness and state how determined experience can coexist with token-relative freedom. Completed in S22 at F1 with local F2 notation; realization remains open.
 13. Type the normative bridge between $G$ and created value bearers. S21–S23 distinguish existential grounding, value constitution, recognition, and institution; the ultimate ground of fit remains open.
 14. Develop good-for for conscious subjects through pro tanto dimensions, partial comparison, temporal scope, and asymmetric co-grounding. Initial F1 pass completed in S23; phenomenal valence is the current test anchor.
-15. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
-16. Select the remaining genuinely fragile junctions for F2–F3 treatment.
-17. Run the dedicated literature, provenance, and novelty pass.
-18. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+15. Correct welfare notation, open creature-constructed normativity, and test sacrifice and long-term priority. S24 reserves $GF$ for generic or overall claims and adopts dimension- and time-indexed $PTGF_d$ plus defeasible diachronic priority.
+16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. Current task.
+17. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
+18. Select the remaining genuinely fragile junctions for F2–F3 treatment.
+19. Run the dedicated literature, provenance, and novelty pass.
+20. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

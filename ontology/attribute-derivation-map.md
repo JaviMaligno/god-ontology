@@ -36,7 +36,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Actual ontological omnipresence | Preferred conditional integration | Grounding reach, ACO, and direct causal availability extend to every actual created relatum | S15; C90–C92 | F1; selective F2 |
 | Modal omnipresence capacity | Preferred modal extension | The same presence architecture accompanies every possible order actualized by $G$ | S15; C93 | F1 |
 | Minimal personal agency | Earned/constitutive | Conscious subject, intellect, will, and action for reasons; C55–C64, C67 | S06–S07 | F1 |
-| Providence as architectural relation | Adopted downstream relation | `accepted`; C18, C45 | S04 | Hold; reasons and goodness later |
+| Providence as architectural relation | Adopted downstream relation | `accepted`; C18, C45; S18 now supplies a possible agency-oriented purpose | S04, S18 | Reintegrate creative reason with intervention next; goodness later |
 
 ## Attributes not yet earned
 
@@ -49,7 +49,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
 | Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
-| Goodness or omnibenevolence | Deferred separate thesis | Reasons, possible purposes, providence, creaturely flourishing | Ground value without importing perfection or collapsing it into arbitrary choice | Later evaluative branch |
+| Goodness or omnibenevolence | Deferred separate thesis | The S18 reason profile supplies possible purposes; providence and creaturely flourishing remain available | Ground and evaluate value without importing perfection, optimization, or arbitrary divine preference | Later evaluative branch |
 | Perfection | Rejected as an automatic inference | None required by necessity or creatorhood alone | Independent account would be needed | Do not use as a bridge |
 
 ## Present stopping point
@@ -62,4 +62,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 finds no omitted traditional attribute that must be inserted at this point. S17 now prefers originative existential causation over material-continuity alternatives at F1, while retaining universal PMC as a possible defeater. The next step is the second axis of the **creation bridge**: specify how non-necessitating creative reasons can make a contingent act of creation and the selection of $S$ intelligible. Goodness and stronger personal presence remain downstream rather than serving as premature premises.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17 prefers originative existential causation over material-continuity alternatives at F1 while retaining universal PMC as a possible defeater. S18 completes the second axis of the **creation bridge** provisionally: actual finite otherness and analogous sourcehood favor a generative $S$, while plural reasons and exact agentic settling preserve contingency. The next step is to test what this motive implies for intervention and providence. Goodness and stronger personal presence remain downstream rather than serving as premature premises.

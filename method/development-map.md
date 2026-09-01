@@ -54,17 +54,17 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence | dependent attribute | F1 | hold after S15 | selective F2 | Ontological presence is preferred; personal presence remains a stronger open extension |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
-| Creation bridge: production and creative reason | trunk-to-creation junction | F1 on production; F0–F1 on reason | develop creative reason at F1 | selective F2–F3 | **Current substantive priority**; S17 prefers OEC while leaving PMC open |
+| Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on the creation bridge, agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Determine what kinds of non-necessitating reasons can make creation and the selection of $S$ intelligible.
-2. Explain why a generative structure, autonomous agents, and non-agentic domains can jointly answer those reasons.
+1. Test whether the agency-oriented reason profile yields a defeasible presumption for agency-preserving and lower-control intervention.
+2. Reconnect creative reason, intervention, and providence without yet assuming divine goodness.
 3. Keep PMC as the decisive production-axis defeater rather than reopening the full comparison without new support.
-4. Reconnect the completed creation bridge to providence, intervention, and later goodness.
+4. Determine which conclusions belong to the later goodness and value-theory branch.
 5. Select formalization triggers and targeted literature or novelty work where load-bearing.
 
 ## Depth-control rules

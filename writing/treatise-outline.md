@@ -57,6 +57,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why a free creative act may sufficiently produce an effect without being antecedently necessitated
     - Capacity to create, reasons to create, and goodness as distinct questions
     - Why this structure, autonomous agents, and non-agentic domains
+    - Actual finite otherness and created analogues of conscious sourcehood
+    - Plural reasons, eligible structures, and exact agentic settling
+    - Principle-guided creation without pre-actual selection counterfactuals
 12. **Creaturely Agent Causation**
     - Libertarian branches and truthmakers
     - Why indeterminism is not yet freedom

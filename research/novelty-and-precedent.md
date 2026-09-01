@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, and ontological production)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, and the two-axis creation bridge)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -28,6 +28,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
 | Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
 | OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
+| Finite analogous sourcehood → generative $S$ → asymmetric co-production | Established themes; potentially useful project synthesis | Divine freedom, creation for the sake of creatures, image-of-God agency, plural reasons, and non-maximizing world choice all have precedents. Their integration with MKO profiles and exclusion of pre-actual selection counterfactuals needs deeper comparison. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Goodness grounded in divine choice/nature while allowing plural reasons and resisting prior objective value | Unassessed and currently unstable | Overlaps voluntarism, divine nature theories, Euthyphro problems, and reasons-first debates. |
@@ -87,6 +88,17 @@ Creation without a material input and its principal objection are both establish
 - Recent [grounding-panentheist work](https://doi.org/10.1017/S0034412525100978) shows that construing divine grounding as ontological overlap yields a substantive panentheist theory rather than a neutral explication of dependence.
 
 The labels and basic components of originative existential causation are not claimed as novel. The project-specific synthesis distinguishes (1) the non-necessitated settling of a divine creative act, (2) the act's sufficient production of its selected effect, (3) structural specification by $S$, (4) global atemporal dependence without repeated maintenance acts, and (5) later secondary and agent-originated contributions. Whether this package yields a real explanatory advantage over established creation accounts requires a systematic comparison.
+
+## Creative reason and divine freedom: targeted precedent check
+
+The general problem and the principal solution families are well established:
+
+- [Aquinas, *Summa Theologiae* I.19.3](https://www.sacred-texts.com/chr/aquinas/summa/sum022.htm) distinguishes necessary divine willing from non-necessary willing of creatures, but does so through a theory of divine goodness and perfection not yet inherited by this project.
+- [Robert Adams, “Must God Create the Best?”](https://andrewmbailey.com/rma/1972Adams-MustGodCreate.pdf) argues against a requirement that a perfect creator always select the best possible world.
+- The 2025 [Stanford Encyclopedia of Philosophy entry on divine freedom](https://plato.stanford.edu/entries/divine-freedom/) surveys unique-best, multiple-best, incomparable, and no-best choice spaces alongside reasons-responsive and alternate-possibility accounts.
+- [Luke Wilson, “A perfectly free God cannot satisfice”](https://doi.org/10.1007/s11098-025-02317-9) argues that divine satisficing requires brute preferences if perfect freedom excludes non-rational motives. The project's eligible-set model does not yet adopt satisficing or perfect freedom, but the objection becomes relevant if it later does.
+
+No component warrants a novelty claim. The more specific package may be compositionally interesting: reasons initially range over the modal structural profile of $S$, actual finite otherness and analogous sourcehood favor generative creation, exact selection terminates in the same agent-causal settling used for creatures, and no pre-actual truth about a libertarian token choice selects the structure. A dedicated search across doctrines of creation, divine ideas, image-of-God accounts, and contemporary divine-freedom theory is still needed.
 
 ## Research backlog
 

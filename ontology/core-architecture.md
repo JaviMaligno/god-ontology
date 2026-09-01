@@ -345,12 +345,12 @@ The observational metaphor is acceptable if read as exhaustive epistemic access 
 
 ## The creation bridge
 
-The current architecture assigns $G$ the power to actualize $S$, but power alone does not yet explain either the ontological transition to created reality or the contingent exercise of that power. The next module therefore has two distinct axes:
+The architecture assigns $G$ the power to actualize $S$, but power alone explains neither the ontological transition to created reality nor the contingent exercise of that power. The creation bridge therefore has two distinct axes:
 
 | Axis | Central question | Current status |
 | --- | --- | --- |
 | Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | OEC preferred at F1; PMC remains the decisive open objection |
-| Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | open; reasons must make the act intelligible without necessitating it |
+| Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | Agency-oriented plural reason profile preferred at F1 |
 
 The required distinctions are:
 
@@ -389,7 +389,39 @@ Mere type continuity between divine and created matter is not a productive relat
 
 Ordinary material transformations do not by themselves establish PMC at this universal modal scope. No independent contradiction in OEC has yet been identified, so the result remains an abductive F1 preference rather than a demonstration.
 
-Teleological, agency-oriented, relational, epistemic, aesthetic, or plural creative reasons remain candidates rather than accepted divine motives.
+The creative-reason axis uses three explanatory levels:
+
+| Level | Preferred explanation |
+| --- | --- |
+| Creation rather than non-creation | actualization of finite otherness and contingent modes of existence |
+| Generative agentic architecture | finite analogues of conscious sourcehood can contribute genuinely non-divine contrastive content |
+| Exact $S^*$ | plural reasons establish eligibility and attraction; $G$ settles one structure without an antecedently sufficient choice function |
+
+Let $Profile_M(S)$ be the modal and structural profile known through MKO. The eligible set is:
+
+\[
+\mathcal E_G=
+\{S\in\Sigma_G:
+Coherent(S)
+\land Supported_G(Profile_M(S))
+\land\neg Defeated_G(S)\}.
+\]
+
+The preferred account allows several equal, incomparable, or differently supported members:
+
+\[
+S^*\in\mathcal E_G
+\land Settles(G,S^*;\mathcal E_G),
+\qquad
+\mathcal R_G(S^*)\not\Rightarrow
+\Box Actualizes(G,S^*).
+\]
+
+Created autonomous agents are finite analogues rather than duplicates of $G$: they are temporal, dependent, limited, and embedded in $\mathcal C_0$, yet share the causal form of conscious reason-guided sourcehood. A fully scripted history would not realize their contrastive authorship, so this motive favors generative $S$ and asymmetric co-production.
+
+Non-agentic reality remains expected. Shared regularity, information, persistent consequences, embodiment, and secondary causation can make situated agency possible and effective. A reason for some autonomy does not require every entity or every act to be autonomous, although it supplies a defeasible consideration against source-overriding intervention.
+
+Reasons for $S$ initially range over $Profile_M(S)$ rather than pre-actual token choices. This preserves principle-guided creation, MKO, and C13. The exact choice terminates in reason-guided agentic settling; a later theory of goodness or perfect rationality may reopen whether a unique optimum or requiring reason exists.
 
 ## Causal-role decomposition
 

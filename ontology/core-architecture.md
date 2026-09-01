@@ -960,6 +960,30 @@ A representative case check preserves the distinctions:
 | direct revelation $I_C^E$ followed by a free response | revelation yes; response not thereby miraculous | response can be free | both included |
 | source override $I_A$ | yes at the directly produced event | token act not free | included |
 
+## Goodness foundations
+
+The architecture distinguishes at least: what is good for a subject, excellence relative to capacities or kind, valuable states, fitting action, good agency, obligation, and omnibenevolence. No earlier divine attribute establishes these together.
+
+The current candidate is a **relational divine-source account**. For created value bearers:
+
+\[
+GroundsExistence(G,A,C)
+\land Fits(x,Profile(A,C))
+\Rightarrow CandidateGoodFor(x,A,C).
+\]
+
+$G$ grounds the existence of the subject, its capacities, and the context in which finite goods obtain. The good-making relation is provisionally sought in objective fit among conscious life, agency, development, truth, relationship, and other constituents still to be assessed. Divine choice can actualize particular goods and institute contingent roles or norms without automatically making every chosen object good by endorsement alone.
+
+This avoids treating an objective normative relation as though it must be another agent or substance ontologically above $G$. It does not yet explain normative fit. Three live grounding routes remain: divine nature with independently articulated good-making content, structural or relational normative truth, and a restricted role for divine choice. Unrestricted choice voluntarism is disfavored because it empties “$G$ is good” of contrastive content and prevents value from guiding choice in grounding order.
+
+Good reasons remain non-necessitating:
+
+\[
+Fitting(G,a,R)\not\Rightarrow Required(G,a,R).
+\]
+
+The candidate therefore requires neither an optimal world nor necessary creation. Full divine goodness and omnibenevolence remain unearned pending the ground of normative fit, the content of divine evaluative dispositions, and the scope of any norms applicable to $G$.
+
 ## Current formal status
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
@@ -974,4 +998,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. The next F1 branch is goodness; PMC, agency ecology, atemporal responsiveness, and interpersonal knowledge remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. PMC, agency ecology, atemporal responsiveness, interpersonal knowledge, and normative fit remain selective deepening targets.

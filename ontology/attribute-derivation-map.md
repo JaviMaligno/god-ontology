@@ -36,7 +36,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Actual ontological omnipresence | Preferred conditional integration | Grounding reach, ACO, and direct causal availability extend to every actual created relatum | S15; C90–C92 | F1; selective F2 |
 | Modal omnipresence capacity | Preferred modal extension | The same presence architecture accompanies every possible order actualized by $G$ | S15; C93 | F1 |
 | Minimal personal agency | Earned/constitutive | Conscious subject, intellect, will, and action for reasons; C55–C64, C67 | S06–S07 | F1 |
-| Universal personal availability | Supported integration | `preferred`; conscious agency, ACO, direct causal availability, and qualified power support direct personal relation to every actual subject without entailing universal exercise or communion | S15, S19–S20; C121–C125 | Hold at F1; epistemic-acquaintance gap is a selective F2 trigger |
+| Universal personal availability | Supported conditional integration | `preferred`; conscious agency, ACO, direct causal availability, and provisionally satisfied qualified omnipotence support direct personal relation to every actual subject without entailing universal exercise or communion | S11, S15, S19–S20; C121–C126 | Evidential strength inherits provisional C75; epistemic-acquaintance gap is a selective F2 trigger |
 | Qualified agency-respecting providence | Adopted downstream integration | `preferred`; creation, plural reasons, intervention, and asymmetric co-production are joined by a defeasible sourcehood-preservation presumption without exhaustive divine outcome control | S04, S18–S19; C115–C120 | Hold at F1; later test cumulative context control and atemporal responsiveness at F2 |
 
 ## Attributes not yet earned
@@ -51,7 +51,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
 | Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
-| Goodness or omnibenevolence | Deferred separate thesis | The S18 reason profile supplies possible purposes; providence and creaturely flourishing remain available | Ground and evaluate value without importing perfection, optimization, or arbitrary divine preference | Later evaluative branch |
+| Goodness or omnibenevolence | Open; F1 foundations begun | S21 distinguishes evaluative targets and proposes a relational divine-source candidate; creative reasons, providence, personal availability, and creaturely flourishing supply later evidence | Ground normative fit, identify divine evaluative dispositions, and determine applicable scope without importing perfection or bare voluntarism | S21; selective F2–F3 |
 | Perfection | Rejected as an automatic inference | None required by necessity or creatorhood alone | Independent account would be needed | Do not use as a bridge |
 
 ## Present stopping point
@@ -64,4 +64,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 finds no omitted traditional attribute that must be inserted at this point. S17–S19 complete and reintegrate the creation bridge at F1. S20 distinguishes universal personal availability from exercised regard, reciprocal shared attention, and loving communion. The first is preferred from the existing personal, epistemic, causal, and power architecture; the stronger relations remain divided among providence, creaturely co-production, and value. The next branch is goodness, beginning with its meaning and possible grounds rather than with world optimization or suffering.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17–S19 complete and reintegrate the creation bridge at F1. S20 distinguishes universal personal availability from exercised regard, reciprocal shared attention, and loving communion. S21 opens goodness without yet attributing it to $G$: it separates good-for, excellence, fitting action, good agency, obligation, and omnibenevolence, then proposes a relational divine-source account for assessment. The next task is to test whether normative fit has sufficient content without becoming an ontologically prior rival to $G$.

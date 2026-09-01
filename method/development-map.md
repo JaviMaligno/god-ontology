@@ -55,14 +55,14 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
-| Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on the creation bridge, agency, providence, and value theory |
+| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 foundations | test relational divine-source candidate | selective F2–F3 | S21 separates meanings and grounding roles; normative fit is the next load-bearing junction before suffering |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Open the goodness/value axis by separating meaning, grounds, and scope before evaluating worlds or suffering.
-2. Develop the branch at F1 without importing perfection, optimization, or universal exercised personal regard.
+1. Test whether relational normative fit preserves divine ultimity without reducing goodness to bare choice or a circular label on divine nature.
+2. Identify candidate goods of conscious subjects and agents without prematurely forcing them into one metric.
 3. Keep PMC and agency ecology as targeted deepening points rather than reopening their full modules without new support.
 4. Accumulate later hardening questions in the [challenge register](challenge-register.md).
 5. Select formalization triggers and targeted literature or novelty work where load-bearing.

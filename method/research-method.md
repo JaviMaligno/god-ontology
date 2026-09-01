@@ -170,7 +170,8 @@ These modules remain conditional on the upstream case for a necessary agent. The
 8. Develop the creation bridge at F1 along two axes: ontological production and non-necessitating creative reason. S17 prefers OEC while retaining PMC as its decisive defeater; S18 prefers an agency-oriented plural reason profile and exact agentic settling without a maximizing choice function.
 9. Reconnect the completed bridge to providence and intervention. S19 derives a defeasible agency-preservation presumption and agency-respecting providence without yet assuming goodness.
 10. Distinguish personal availability from exercised regard, shared attention, and loving communion. S20 prefers universal personal availability while assigning the stronger relations to providence, co-production, and goodness.
-11. Open the goodness/value branch at F1. Current task.
-12. Select the genuinely fragile junctions for F2–F3 treatment.
-13. Run the dedicated literature, provenance, and novelty pass.
-14. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+11. Open the goodness/value branch at F1. S21 distinguishes evaluative targets and proposes a relational divine-source account without yet attributing goodness or omnibenevolence to $G$.
+12. Test the ground and content of normative fit. Current task.
+13. Select the genuinely fragile junctions for F2–F3 treatment.
+14. Run the dedicated literature, provenance, and novelty pass.
+15. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

@@ -122,6 +122,13 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Shared attention as asymmetrically co-produced
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
+    - Good-for, excellence, fitting action, good agency, and obligation
+    - Whether objective normativity threatens divine ultimity
+    - The limits of unrestricted divine-choice voluntarism
+    - Divine nature without circularly labeling it good
+    - A relational divine-source account of finite goods
+    - Justifying and requiring reasons
+    - Why goodness need not require an optimal world
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?
     - Generative explanation versus moral justification of consequences

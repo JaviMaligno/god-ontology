@@ -26,3 +26,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S18 — Creative reason without necessitation](2026-09-01-creative-reason.md)
 - [S19 — Agency-preserving intervention and providence](2026-09-01-agency-preserving-providence.md)
 - [S20 — Personal presence beyond ontological omnipresence](2026-09-01-personal-presence.md)
+- [S21 — Foundations and meanings of goodness](2026-09-01-goodness-foundations.md)

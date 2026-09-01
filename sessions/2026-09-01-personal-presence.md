@@ -58,6 +58,15 @@ $UPA(G)$ is therefore preferred conditional on the existing attribute package. I
 
 Availability is relative to the recipient's coherent capacities. It does not require linguistic address, identical manifestation, or reciprocal awareness from an infant, non-human animal, impaired subject, or other limited consciousness. $G$ can stand in a subject-directed relation appropriate to $A$ even where P3 shared attention is unavailable.
 
+### Dependence on qualified omnipotence
+
+S11 made two claims of unequal strength:
+
+1. C74 accepts a definition of qualified omnipotence as maximal power over actions coherent under independent constraints and an independently established divine essence;
+2. C75 only provisionally prefers that $G$ satisfies this maximality, because no created limiter can bind its ultimate ground and an additional fundamental power boundary would need motivation.
+
+The universal response-capacity inside $UPA(G)$ inherits C75's provisional status. Without C75, P0 ontological presence remains supported, while P1 requires an independent argument that $G$ has the particular power to communicate or respond directly to every actual subject. Creation of conscious agents and the intervention taxonomy provide partial support for that specific power but do not deductively establish its universal scope.
+
 ## The epistemic gap
 
 ACO is presently formulated as knowledge of every actual truth. Personal relation raises a further question:
@@ -69,6 +78,8 @@ KnowsAsSubject(G,A).
 \]
 
 The implication is not assumed. Knowing every proposition about a pain, intention, or perspective may still differ from phenomenal identity, acquaintance, empathy, or second-person knowledge. The current derivation needs only subject-sensitive individuation and accessibility for direct intentional relation. A stronger claim that $G$ experiences another subject's states from within, or possesses irreducible interpersonal knowledge, remains open and is added to the challenge register.
+
+The author's follow-up adds a compatible actuality distinction. MKO can include possible conscious subject-types, their capacities, and the acts they could originate. A concrete first-personal state or libertarian settling belongs to actuality only when instantiated in $H^*$; ACO then knows it exhaustively as actual. “Prior” here names grounding order, not an earlier divine time. Consciousness by itself does not establish indeterminacy: the branch-making contribution comes from conscious originating agency. The open CH03 question is whether actuality-complete propositional knowledge also exhausts acquaintance with the subject whose state it is.
 
 ## Capacity and exercise
 

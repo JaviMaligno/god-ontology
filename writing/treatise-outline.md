@@ -50,6 +50,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
 11. **Generative Creation**
     - Structure $S$, laws, constants, boundaries, and primitives
     - Minimal/uniqueness-determining specifications
+    - The creation bridge: ontological production and creative reason
+    - Grounding, efficient production, constitution, manifestation, or modification
+    - Immaterial production and material-continuity alternatives
+    - Capacity to create, reasons to create, and goodness as distinct questions
+    - Why this structure, autonomous agents, and non-agentic domains
 12. **Creaturely Agent Causation**
     - Libertarian branches and truthmakers
     - Why indeterminism is not yet freedom

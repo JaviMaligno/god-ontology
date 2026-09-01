@@ -343,6 +343,30 @@ $G$ need not know a libertarian choice as actual with metaphysical priority over
 
 The observational metaphor is acceptable if read as exhaustive epistemic access to what obtains. It must not suggest sensory reception, temporal discovery, or causal production of the observed fact.
 
+## The creation bridge
+
+The current architecture assigns $G$ the power to actualize $S$, but power alone does not yet explain either the ontological transition to created reality or the contingent exercise of that power. The next module therefore has two distinct axes:
+
+| Axis | Central question | Current status |
+| --- | --- | --- |
+| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | open; compare immaterial-production and material-continuity models |
+| Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | open; reasons must make the act intelligible without necessitating it |
+
+The required distinctions are:
+
+\[
+CanCreate(G)\neq HasReason(G,\mathcal C)\neq Good(\mathcal C).
+\]
+
+These predicates may all apply, but none is defined by either of the others. In particular, a creative-reason account must remain consistent with the unified agentic logic:
+
+\[
+Reasons_G(\mathcal C)\not\Rightarrow
+\Box Actualizes(G,\mathcal C).
+\]
+
+This section records the missing bridge rather than supplying it. Grounding, efficient production, constitution, manifestation, and divine modification remain candidate relations to be compared. Likewise, teleological, agency-oriented, relational, epistemic, aesthetic, or plural reasons remain candidates rather than accepted divine motives.
+
 ## Causal-role decomposition
 
 Asymmetric co-production requires typed relations rather than one unrestricted notion of grounding:

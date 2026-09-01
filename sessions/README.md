@@ -21,3 +21,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S13 — Divine uniqueness](2026-09-01-divine-uniqueness.md)
 - [S14 — Spatiality and immateriality](2026-09-01-spatiality-and-immateriality.md)
 - [S15 — Ontological omnipresence](2026-09-01-ontological-omnipresence.md)
+- [S16 — Inherited-corpus audit](2026-09-01-inherited-corpus-audit.md)

@@ -62,4 +62,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S15 defines and prefers ontological omnipresence at F1 and separates it from stronger personal presence. The next methodological step is the inherited-corpus audit required by C77 before selecting another attribute. The cross-category production burden from C88 remains live.
+S16 completes the inherited-corpus audit required by C77. It finds no omitted traditional attribute that must be inserted at this point. The next module is instead the **creation bridge**: first compare accounts of ontological production, including the cross-category burden in C88, and then specify how non-necessitating creative reasons can make a contingent act of creation intelligible. Goodness and stronger personal presence remain downstream rather than serving as premature premises.

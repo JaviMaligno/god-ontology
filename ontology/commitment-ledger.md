@@ -121,6 +121,9 @@ This is the normative center of the repository. It records what the project curr
 | C92 | The domain of actual omnipresence includes every actual entity, event, relation, and spatial region admitted by the ontology, without reifying absences as objects. | `accepted` | Substantival empty regions are included; a merely relational absence supplies no extra relatum, although its facts remain known and its structure causally accessible. | [S15](../sessions/2026-09-01-ontological-omnipresence.md) |
 | C93 | In every possible created order actualized by $G$, $G$ would be present to every item actual in that order: $OP_M(G)$. | `preferred` | This modal capacity follows the invariant grounding, ACO/MKO, and power architecture; it does not make non-actual possibilia presently existing relata. | [S15](../sessions/2026-09-01-ontological-omnipresence.md) |
 | C94 | Personal or second-person presence is stronger than minimal ontological omnipresence. | `open` | Universal personal availability or exercised shared attention may require further claims about relational capacities, divine will, and goodness. | [S15](../sessions/2026-09-01-ontological-omnipresence.md) |
+| C95 | The next load-bearing module is the creation bridge, with an ontological-production axis and a creative-reason axis. | `accepted` | The inherited-corpus audit finds both questions underdeveloped and prior to goodness: how material substance depends on $G$, and why a necessary agent creates this kind of contingent order. | [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
+| C96 | Capacity to create, reason to create, and goodness of creation are distinct questions. | `accepted` | Power does not supply a reason for exercise, while intelligible reasons do not yet establish that the act or its outcome is good. | [U21](../corpus/transcript.md#user--u21), [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
+| C97 | Any creative reasons attributed to $G$ must remain compatible with contingent agentic settling. | `accepted` | Reasons may be plural and non-necessitating; making them jointly sufficient for one unique creation would collapse the divine choice into a determined output. | [U21](../corpus/transcript.md#user--u21), C55–C60, [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -153,8 +156,8 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. How can a non-material $G$ ground or produce material substances, and does a same-substance model explain this transition better?
-2. Should personal availability or second-person relation be included in omnipresence or developed later with goodness and providence?
-3. Which remaining inherited claims, if any, are still absent from the live architecture?
-4. What substantive defeater, if any, would motivate an essential boundary on divine power and overturn C75?
-5. What additional premise, if any, would promote preferred $U_G$–$U_D$ from an abductive conclusion to a stronger modal result?
+1. How can a non-material $G$ ground or produce material substances, and does a material-continuity model explain this transition better?
+2. Why does a necessary agent create anything contingent, and what non-necessitating reasons favor this kind of structure and distribution of agency?
+3. How do creative reasons condition later accounts of providence, intervention, and goodness without being identified with them?
+4. Should personal availability or second-person relation be developed with personhood, providence, or goodness?
+5. What substantive defeater, if any, would motivate an essential boundary on divine power and overturn C75?

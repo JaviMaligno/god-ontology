@@ -20,6 +20,7 @@ This register accumulates high-pressure questions for a later hardening pass aft
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | creative reason, generative structure, providence, later goodness | `scoped` |
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `scoped` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | goodness, divine ultimity, reasons, divine nature and choice | `scoped` |
+| CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `scoped` |
 
 ## CH01 — Divine self-copy
 
@@ -103,3 +104,17 @@ The later test must compare at least:
 5. a layered account assigning different roles to nature, reason, will, and created subjects.
 
 Each option must explain why cruelty, deception, destruction, flourishing, agency, truth, and relationship receive their claimed valence; how value can guide divine choice in grounding order; and whether the account preserves both contingency and $G$'s existential ultimity.
+
+The S21–S22 typing discipline further requires every candidate to state separately whether $G$ existentially grounds the value bearer, constitutes the value, recognizes or approves it, or institutes a contingent norm. A theory may assign different answers to different evaluative domains.
+
+## CH05 — Qualified power and possible blockers
+
+The F1 case for qualified omnipotence is abductive. Existential sovereignty prevents a created item from being the ultimate source of a limit on $G$, but it does not yet exclude an independently established internal feature or a non-created external condition. The later F2 test must distinguish:
+
+1. logically or metaphysically incoherent task descriptions, which are outside a genuine action domain;
+2. constraints belonging to the created order, which cannot ultimately limit its ground;
+3. essential internal features of $G$ independently established elsewhere;
+4. non-created external limits, whose status and explanatory cost must be assessed;
+5. brute incapacities disguised as “essential features,” which would make $OMP_Q$ circular.
+
+The test should first formulate maximal power over every coherent target in the created order, then ask what additional premise licenses unrestricted qualified maximality. Failure of the latter would revise C75 without erasing the actualizing, grounding, or intervening powers already established.

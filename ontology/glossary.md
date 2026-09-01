@@ -1,6 +1,6 @@
 # Working Glossary
 
-Definitions are local to this project unless explicitly attributed. They are meant to remove ambiguity before heavier formalization.
+Definitions are local to this project unless explicitly attributed. This file is the canonical register for working definitions; the treatise repeats a concise definition at first argumentative use, while a later formal appendix will collect symbols and satisfaction conditions. Definitions retain explicit statuses so that a provisional clarification is not silently promoted into a fixed thesis.
 
 | Term | Working definition | Status/source |
 | --- | --- | --- |
@@ -39,6 +39,10 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Non-necessitating reasons** | Reasons that support, rank, attract, inhibit, or make an act intelligible without entailing the agent's token selection. | accepted role; C56 |
 | **Reason-guided sourcehood** | Authorship in which the agent originates an act for reasons; neither the reasons alone nor a stochastic process is the complete source of the token act. | preferred; C56–C57 |
 | **Conscious sourcehood** | The whole subject's efficacious exercise of originating power with some relevant options or considerations practically available to it. | preferred; C61 |
+| **Phenomenal consciousness $PCon$** | The presence of a unified first-person field or subjective character: there is something it is like for the subject to undergo the experience. It does not by itself entail freedom or causal indetermination. | accepted working concept; C134–C135, S22 |
+| **Access consciousness $ACon$** | Availability of a content for reasoning, deliberation, report where applicable, or flexible guidance of action. It can influence action without originating it. | accepted working concept; C134, C136, S22 |
+| **Self-consciousness $SCon$** | A subject's representation of itself, at least minimally, as bearer of states or author of actions. Explicit occurrent self-reflection is not required for every free act. | provisional; C134, S22 |
+| **Agentive consciousness $AgCon$** | The role in which phenomenal and practically accessible contents participate in the whole subject's originating exercise of a token act. $Originates$, not consciousness alone, carries the irreducible sourcehood claim. | preferred; C136–C138, S22 |
 | **Practical availability $\Phi_A(t)$** | The action-guiding contents consciously available to a temporal subject at $t$; it need not include every influence or a complete introspective model. | provisional; C61–C62 |
 | **Motivating reasons $M_A(a,t)$** | Considerations the agent takes as reasons in performing $a$, whether or not they are objectively correct or normatively sufficient. | preferred distinction; C61, C65 |
 | **Reasons-responsiveness** | The capacity to apprehend, assess, and act for considerations across situations without those considerations constituting a deterministic choice function. | preferred; C63 |
@@ -46,6 +50,11 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Good-for** | Value relative to how a subject's life goes for that subject under relevant conditions. It is distinct from the subject's current belief or preference and from moral obligation. | open plural account; C127, S21 |
 | **Normative fit** | The relation in which an action, state, or object appropriately responds to or realizes genuine reasons, capacities, goods, or relations in context. Its ultimate ground remains open. | provisional evaluative bridge; C128–C131, S21 |
 | **Unrestricted choice voluntarism** | The view that an item is good solely because $G$ chooses or endorses it as good. It is live but disfavored as a substantive account of divine goodness. | open/disfavored; C129, S21 |
+| **Semantic voluntarism** | The claim that evaluative vocabulary such as “good” means or is defined through divine approval. It is a thesis about meaning. | distinguished, not adopted; C140 |
+| **Axiological voluntarism** | The claim that divine will, choice, or approval metaphysically constitutes goodness or value. Its unrestricted version is the principal S21 target. | live/disfavored unrestricted form; C129–C140 |
+| **Deontic voluntarism** | The claim that some or all obligations are constituted by divine commands. It can be accepted or rejected independently of unrestricted axiological voluntarism. | open; C140 |
+| **Epistemic approval thesis** | The claim that divine approval reliably indicates or recognizes goodness without constituting it. | open; C140 |
+| **Institutional voluntarism** | The claim that divine acts can create contingent roles, commitments, permissions, or obligations within an already evaluable relational domain. | provisional component of C130; C140 |
 | **Relational divine-source account** | The candidate view that $G$ existentially grounds actual finite value bearers and may institute contingent norms, while their good-making features include objective fit among conscious life, capacities, agency, development, relationships, and context. | provisional candidate; C130, S21 |
 | **Good agent** | A subject with stable dispositions to recognize, care about, and respond fittingly to genuine goods and reasons. This has not yet been established for $G$. | open target; C127, C133, S21 |
 | **Omnibenevolence** | Perfect possession and exercise of the relevant good dispositions across their proper scope. Its meaning depends on prior accounts of good agency, applicable norms, and value. | deferred; C127, C133, S21 |

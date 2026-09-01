@@ -46,26 +46,27 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Necessary agent versus impersonal structure | trunk junction | F1 | hold after S09 cost audit | F3 | Preferred C05 retained; reopen only for a substantive defeater or final literature pass |
 | [Attribute derivation](../ontology/attribute-derivation-map.md) | trunk | F1 | use S10 map to select the next attribute | selective F2–F3 | **Current control map**; prevents imported attributes and duplicated work |
 | Generative creation and causal roles | core support | F2 | hold and reintegrate | selective F3 | S03; conditional on C05 and agent causation |
-| Agentic choice and conscious sourcehood | core support | F2 locally | hold at present depth | selective F3 | S06–S07; supports the agent comparison |
+| Agentic choice and conscious sourcehood | core support | F2 locally | hold after conceptual partition | selective F3 | S06–S07 and S22 distinguish phenomenal, access, self, and agentive roles; freedom is token-relative and realization remains open |
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | selective F2 | S11 separates capacity, exercise, and global dependence and provisionally favors qualified maximality |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | targeted F2 blocker analysis | S11 separates capacity, exercise, and dependence; C142 requires classifying internal, external, created, and incoherent blockers and distinguishing created-order from unrestricted maximality |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F1 foundations | test relational divine-source candidate | selective F2–F3 | S21 separates meanings and grounding roles; normative fit is the next load-bearing junction before suffering |
-| Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
+| Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Test whether relational normative fit preserves divine ultimity without reducing goodness to bare choice or a circular label on divine nature.
-2. Identify candidate goods of conscious subjects and agents without prematurely forcing them into one metric.
-3. Keep PMC and agency ecology as targeted deepening points rather than reopening their full modules without new support.
-4. Accumulate later hardening questions in the [challenge register](challenge-register.md).
-5. Select formalization triggers and targeted literature or novelty work where load-bearing.
+1. Assign existential grounding, value constitution, recognition or approval, and institution to explicit roles in a typed normative bridge.
+2. Test whether that bridge preserves divine ultimity without reducing goodness to bare choice or a circular label on divine nature.
+3. Identify candidate goods of conscious subjects and agents without prematurely forcing them into one metric.
+4. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points rather than reopening their full modules without new support.
+5. Accumulate later hardening questions in the [challenge register](challenge-register.md).
+6. Select formalization triggers and targeted literature or novelty work where load-bearing.
 
 ## Depth-control rules
 

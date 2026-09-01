@@ -247,6 +247,31 @@ The architecture therefore accepts explanatory reasons without accepting a unive
 
 ### Conscious sourcehood and reasons-responsiveness
 
+The project distinguishes four roles that must not be packed into one predicate:
+
+\[
+PCon(A,t),\quad ACon(A,p,t),\quad SCon(A,t),\quad AgCon(A,a,t).
+\]
+
+$PCon$ is phenomenal subjectivity or what the experience is like for $A$; $ACon$ is a content's availability for reasoning and flexible action-guidance; $SCon$ is at least minimal self-representation; and $AgCon$ is the participation of phenomenal and practically accessible contents in the subject's originating exercise. These are working functional distinctions, not yet a theory of how consciousness is metaphysically realized.
+
+Phenomenal consciousness is causally neutral by definition. A conscious experience may therefore be sufficiently settled by its antecedents:
+
+\[
+PCon(A,t)\land C_A^-\models HasExperience(A,c,t).
+\]
+
+This does not entail that every act of $A$ is determined. Freedom is assessed token by token. In a reason-guided free act, the phenomenal subject has some action-guiding content accessibly present and originates the act under live alternatives:
+
+\[
+Free(A,a,t)\Rightarrow
+PCon(A,t)\land \exists p\,ACon(A,p,t)\land Originates(A,a,t)
+\land |\mathcal O_A(C_A^-)|\geq2
+\land C_A^-\not\models Settles(A,a,t).
+\]
+
+$AgCon$ records the causal and practical participation of consciousness; $Originates$, rather than consciousness alone, carries the irreducible sourcehood claim. This keeps the account from defining freedom into phenomenal consciousness while excluding a merely epiphenomenal witness from the preferred model of free action.
+
 The intervention model already represents a temporal agent's deliberative situation as:
 
 \[
@@ -667,6 +692,8 @@ Current commitments establish actualizing power, existential sovereignty conditi
 
 Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created reality can be the ultimate source of that limit on its own ground. A non-created external limiter or an essential internal limit remains coherent, but either requires independent motivation and the former would add another item to the fundamental ontology. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise, presupposing uniqueness, or pretending that ultimate grounding deductively entails omnipotence.
 
+Strengthening this result requires more than additional notation. A later F2 pass must classify every candidate blocker as logical incoherence, a created constraint, an independently established internal feature of $G$, or a non-created external limit. Existential sovereignty excludes a created item as the ultimate limiter but does not by itself eliminate the latter two possibilities. That pass should also distinguish maximal power concerning the created order from unrestricted $OMP_Q$: the former may be supported even if an independently motivated coherent limit prevents the latter.
+
 ## Ontological omnipresence
 
 Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. Define the actual created domain:
@@ -974,7 +1001,18 @@ GroundsExistence(G,A,C)
 
 $G$ grounds the existence of the subject, its capacities, and the context in which finite goods obtain. The good-making relation is provisionally sought in objective fit among conscious life, agency, development, truth, relationship, and other constituents still to be assessed. Divine choice can actualize particular goods and institute contingent roles or norms without automatically making every chosen object good by endorsement alone.
 
+“Voluntarism” therefore names several independent theses. Divine approval might define the word “good,” constitute value, recognize value, make value epistemically accessible, or institute a contingent obligation. The current pressure applies principally to the unrestricted constitutive claim; it does not by itself settle divine-command, recognition, or institutional accounts.
+
 This avoids treating an objective normative relation as though it must be another agent or substance ontologically above $G$. It does not yet explain normative fit. Three live grounding routes remain: divine nature with independently articulated good-making content, structural or relational normative truth, and a restricted role for divine choice. Unrestricted choice voluntarism is disfavored because it empties “$G$ is good” of contrastive content and prevents value from guiding choice in grounding order.
+
+The proposed bridge from $G$ to a created subject is provisionally typed as:
+
+\[
+NormBridge_G(A,C)=
+\langle GroundExist_G,ConstituteValue,Recognize_G,Institute_G\rangle.
+\]
+
+This is not yet a theory or an assertion that all four relations always obtain. It prevents “value emerges from $G$” from concealing whether $G$ makes the bearer exist, supplies the good-making feature, recognizes or approves the value, or establishes a contingent normative role. The next evaluative pass must assign specific truths to these roles and test their compatibility with $G$'s necessary nature and contingent agency.
 
 Good reasons remain non-necessitating:
 
@@ -998,4 +1036,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. PMC, agency ecology, atemporal responsiveness, interpersonal knowledge, and normative fit remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and normative fit remain selective deepening targets.

@@ -63,6 +63,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
 12. **Creaturely Agent Causation**
     - Libertarian branches and truthmakers
     - Why indeterminism is not yet freedom
+    - Phenomenal, access, self, and agentive consciousness
+    - Determined conscious states and token-relative freedom
+    - Conscious participation, practical access, and originating sourcehood
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles
 14. **Actuality and Possible Histories**
@@ -105,6 +108,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Partitioned, joint, and redundantly total plural-ground models
     - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
+    - Maximal power over the created order versus unrestricted qualified maximality
+    - Incoherent, created, internal, and non-created external blockers
 25. **Immateriality and the Ground of Created Space**
     - Created-space aspatiality, physical immateriality, and absolute non-spatiality
     - What grounding spacetime and atemporality do and do not entail
@@ -124,9 +129,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
 27. **Goodness, Nature, Choice, and Reasons**
     - Good-for, excellence, fitting action, good agency, and obligation
     - Whether objective normativity threatens divine ultimity
+    - Semantic, axiological, deontic, epistemic, and institutional voluntarism
     - The limits of unrestricted divine-choice voluntarism
     - Divine nature without circularly labeling it good
     - A relational divine-source account of finite goods
+    - Existential grounding, value constitution, recognition, and institution
     - Justifying and requiring reasons
     - Why goodness need not require an optimal world
     - Are reasons prior to the agent?
@@ -145,8 +152,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
 
 ## Appendices
 
-- Formal definitions and models
-- Commitment ledger snapshots
+- Canonical glossary of working definitions and statuses
+- Formal symbols, scope, satisfaction conditions, and models
+- Commitment and challenge register snapshots
 - Intervention compatibility matrix
 - Argument maps
 - Source and provenance concordance

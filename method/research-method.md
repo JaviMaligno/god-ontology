@@ -68,6 +68,12 @@ Move a claim to F2 or F3 when at least one of these conditions holds:
 
 Otherwise prefer F0–F1 in the main development. Preserve useful notation already produced, but do not deepen a lateral branch merely because it admits further detail.
 
+### Definition architecture
+
+Use [the working glossary](../ontology/glossary.md) as the canonical definition register. A treatise chapter must nevertheless give a concise local definition when a term first carries argumentative weight, so the reader is not forced to reconstruct the claim from a detached dictionary. A later formal appendix should collect symbols, scope, and satisfaction conditions once the architecture stabilizes.
+
+Every definition should indicate whether it is stipulative, descriptive of an established literature distinction, accepted within the project, provisional, or dependent on a later metaphysical theory. Defining a role does not establish that anything instantiates it, and a formal symbol does not increase evidential support by itself.
+
 ## Spiral sequencing
 
 Use a breadth-first spiral with selective depth:
@@ -171,7 +177,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 9. Reconnect the completed bridge to providence and intervention. S19 derives a defeasible agency-preservation presumption and agency-respecting providence without yet assuming goodness.
 10. Distinguish personal availability from exercised regard, shared attention, and loving communion. S20 prefers universal personal availability while assigning the stronger relations to providence, co-production, and goodness.
 11. Open the goodness/value branch at F1. S21 distinguishes evaluative targets and proposes a relational divine-source account without yet attributing goodness or omnibenevolence to $G$.
-12. Test the ground and content of normative fit. Current task.
-13. Select the genuinely fragile junctions for F2–F3 treatment.
-14. Run the dedicated literature, provenance, and novelty pass.
-15. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+12. Separate phenomenal, access, self, and agentive consciousness and state how determined experience can coexist with token-relative freedom. Completed in S22 at F1 with local F2 notation; realization remains open.
+13. Type and test the ground and content of the normative bridge between $G$ and created value bearers. Current task.
+14. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
+15. Select the remaining genuinely fragile junctions for F2–F3 treatment.
+16. Run the dedicated literature, provenance, and novelty pass.
+17. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

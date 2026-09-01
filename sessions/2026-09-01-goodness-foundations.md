@@ -62,6 +62,20 @@ The theory remains logically describable, especially if goodness is explicitly d
 
 Its strongest reply to the reason-order pressure is that $G$ chooses from non-evaluative motives or basic preferences and the choice then constitutes value. That preserves logical coherence and genuine agency. The cost is explanatory: the motives cannot themselves show that the choice is good, and “divine goodness” remains self-certifying unless some additional evaluative structure is admitted.
 
+#### Voluntarism is not one thesis
+
+The current objection targets **unrestricted axiological voluntarism**. It leaves several separable claims open:
+
+| Form | Role of divine will or approval |
+| --- | --- |
+| Semantic | “good” means approved or chosen by $G$ |
+| Axiological/metaphysical | approval or choice constitutes goodness |
+| Deontic/command | commands constitute obligations |
+| Epistemic | approval reveals or reliably tracks an independently grounded good |
+| Institutional | divine acts establish contingent roles, commitments, permissions, or obligations |
+
+The original proposal “good is whatever $G$ approves” is ambiguous between the first two. It remains a live option, but it must specify whether it is defining language, grounding a property, or both.
+
 ### 2. Divine-nature standard
 
 Goodness may be identified with resemblance or conformity to $G$'s nature. This stabilizes value beyond token choice but cannot begin with the unexplained premise that the nature is good. The project must identify good-making features or show why divine nature is the ultimate non-arbitrary standard. Full simplicity and perfection are unavailable as shortcuts.
@@ -90,6 +104,29 @@ GroundsExistence(G,A,C)
 The formula is a research schema, not a reductive definition. $Profile(A,C)$ must not be limited to occurrent desire: an agent can misunderstand or damage its own good. Candidate constituents include conscious flourishing, agency, truth, understanding, relationship, embodied capacities, and meaningful development. Their exact list and weighting remain open.
 
 This account makes $G$ the existential source of actual finite goods without making divine endorsement the sole good-making property. It still owes an ultimate account of normative fit and of the evaluative content of $G$'s own nature.
+
+### What “emerges from G” must mean
+
+The author's preferred direction treats normativity as emerging from $G$ and connecting $G$ to the universe. The word “emerges” is not yet an explanation. At least four typed roles must be distinguished:
+
+1. **Existential grounding:** $G$ makes actual the subjects, capacities, relations, and situations that bear finite value.
+2. **Value constitution:** features of $G$, conscious subjects, or their relation make something good, bad, fitting, or unfitting.
+3. **Recognition and approval:** $G$ apprehends and favors a value without that attitude necessarily constituting it.
+4. **Institution:** a divine act creates a contingent role, end, commitment, permission, or obligation.
+
+A future normative bridge can combine them:
+
+\[
+NormBridge_G(A,C)=
+\langle
+GroundExist_G,
+ConstituteValue,
+Recognize_G,
+Institute_G
+\rangle.
+\]
+
+The tuple is a typing discipline, not yet a theory. The next pass must say which component grounds which evaluative truth and how the components depend on $G$'s necessary nature, free will, and the actual or possible profile of the created subject.
 
 ## What the present ontology already contributes
 

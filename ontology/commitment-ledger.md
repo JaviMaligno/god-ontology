@@ -160,6 +160,15 @@ This is the normative center of the repository. It records what the project curr
 | C131 | Divine nature cannot serve as a non-arbitrary standard merely by being labeled good. | `accepted` | The account must identify good-making features or explain why that nature supplies the ultimate evaluative standard without circularity. | Author correction in [U18](../corpus/transcript.md#user--u18), [S21](../sessions/2026-09-01-goodness-foundations.md) |
 | C132 | Divine goodness does not by itself require a unique optimal world, maximization, or necessary creation. | `preferred` | Fitting or justifying reasons can be plural, incomparable, and non-requiring while divine settling remains contingent. | C108–C111, author clarification after S18, [S21](../sessions/2026-09-01-goodness-foundations.md) |
 | C133 | Full divine goodness and omnibenevolence are not yet earned. | `accepted` | The project still needs an account of normative fit, divine evaluative disposition, applicable norms, and scope before assessing creation, intervention, suffering, or communion. | C19, [S21](../sessions/2026-09-01-goodness-foundations.md) |
+| C134 | Phenomenal, access, self, and agentive consciousness are distinct concepts in the project. | `accepted` | They concern subjective experience, functional availability, reflexive representation, and participation in originating action respectively. | [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C135 | Phenomenal consciousness alone is compatible with sufficient causal determination of a conscious state's occurrence or content. | `accepted` | Subjective character does not by itself specify causal source; defining it as indeterminate would make the freedom argument circular. | [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C136 | The project's reason-guided free act requires a phenomenal subject, practical access to some action-guiding content, and efficacious originating sourcehood. | `preferred` | Access permits guidance while origination supplies the contrastive causal role; neither awareness nor information availability alone is freedom. | C61–C64, [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C137 | Freedom and determination are assessed at the relevant token act rather than assigned uniformly to every state in a conscious life. | `accepted` | Perceptions, pains, emotions, or some movements may be determined while other acts exercise libertarian sourcehood. | C40, C55, [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C138 | Consciousness must participate causally and practically in a free act rather than merely accompany a result produced elsewhere. | `preferred` | This preserves conscious authorship and excludes an epiphenomenal witness model for the token free act. | C61, [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C139 | The metaphysical realization of phenomenal consciousness remains open. | `deferred` | Reductive, non-reductive, dual-aspect, and substance accounts must later be compared only to the depth required by agency, ACO, and personal knowledge. | C66, [S22](../sessions/2026-09-01-consciousness-and-agentive-role.md) |
+| C140 | Semantic, axiological, deontic, epistemic, and institution-forming forms of theological voluntarism must be distinguished. | `accepted` | The S21 objections target unrestricted axiological voluntarism; they do not by themselves exclude divine commands, recognition, or the institution of contingent norms. | C129–C130, [S21](../sessions/2026-09-01-goodness-foundations.md) |
+| C141 | A normative relation said to emerge from $G$ and connect $G$ to creation must be decomposed into existential grounding, value constitution, recognition or approval, and norm institution. | `accepted` | These roles may have different grounds; leaving “emergence” primitive would risk forcing the theory or hiding conflict with the causal architecture. | Author direction after S21 |
+| C142 | Strengthening qualified omnipotence requires an F2 blocker analysis and a distinction between maximal power over the created order and unrestricted qualified maximality. | `open` | Created limits are excluded by sovereignty, while coherent internal or non-created limits remain possible; formal notation alone cannot eliminate them. | Author direction after S21; C73–C75 |
 
 ## Explicitly rejected or corrected moves
 
@@ -192,8 +201,8 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. Does the relational divine-source candidate preserve $G$'s ultimity while giving normative fit enough non-arbitrary content?
+1. Can a typed normative bridge from $G$ to conscious creation ground fittingness without bare voluntarism, circular divine-nature labeling, or an external rival?
 2. Which goods are constitutive of conscious flourishing and agency, and how are conflicts among them evaluated without a single scalar?
-3. Does divine knowledge of a subject require acquaintance or second-person knowledge beyond ACO's current propositional form?
-4. Can cumulative context control undermine agency even when every token act retains formal alternatives and sourcehood?
-5. Is PMC a genuinely universal modal principle, or can originative existential causation coherently lack a material patient?
+3. Can qualified omnipotence be strengthened through created-order maximality and a complete analysis of possible blockers?
+4. Does divine knowledge of a subject require acquaintance or second-person knowledge beyond ACO's current propositional form?
+5. Can cumulative context control undermine agency even when every token act retains formal alternatives and sourcehood?

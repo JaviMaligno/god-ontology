@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, and omnipresence)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, and ontological production)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -27,6 +27,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
 | Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
 | Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
+| OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Goodness grounded in divine choice/nature while allowing plural reasons and resisting prior objective value | Unassessed and currently unstable | Overlaps voluntarism, divine nature theories, Euthyphro problems, and reasons-first debates. |
@@ -74,10 +75,23 @@ The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.st
 
 The project's $Present_O$ is therefore not conceptually novel in its three broad ingredients. Its potentially useful feature is the typed integration: grounding reach preserves creaturely contrastive authorship, causal availability does not entail exercise, ACO supplies actuality-indexed access across E+, and $OP_M$ ranges conditionally over possible actualizations without reifying possibilia. This is presently classified as a project-specific synthesis of established components.
 
+## Ontological production: targeted precedent check
+
+Creation without a material input and its principal objection are both established:
+
+- [Aquinas, *Summa Theologiae* I.44.2](https://www.newadvent.org/summa/1044.htm#article2) distinguishes transformations within a material order from production at the level of being and includes primary matter among the effects of the universal cause.
+- [Aquinas, *Summa Theologiae* I.45.1](https://inters.org/Summa-Theologiae-Pars-I-q-45) denies that “nothing” is a material source and treats creation as production with no prior material patient.
+- [Felipe Leon, “The Problem of Creation Ex Nihilo”](https://philpapers.org/rec/FELTPO-20) formulates PMC as a contemporary argument that every concrete efficiently caused object requires a material cause.
+- The [Stanford Encyclopedia of Philosophy entry on creation and conservation](https://plato.stanford.edu/entries/creation-conservation/) separates same-action dependence, divine sole-source claims, and occasionalism. This supports the project's refusal to infer authorship of every event from creation of the arena.
+- [Daniel Soars, “Creation in Aquinas: ex nihilo or ex deo?”](https://doi.org/10.1111/nbfr.12603) argues that emanation from God and creation without an independent material source need not be simple opposites.
+- Recent [grounding-panentheist work](https://doi.org/10.1017/S0034412525100978) shows that construing divine grounding as ontological overlap yields a substantive panentheist theory rather than a neutral explication of dependence.
+
+The labels and basic components of originative existential causation are not claimed as novel. The project-specific synthesis distinguishes (1) the non-necessitated settling of a divine creative act, (2) the act's sufficient production of its selected effect, (3) structural specification by $S$, (4) global atemporal dependence without repeated maintenance acts, and (5) later secondary and agent-originated contributions. Whether this package yields a real explanatory advantage over established creation accounts requires a systematic comparison.
+
 ## Research backlog
 
 1. Compare the E and F models formally with De Florio–Frigerio, Law–Miller–Rasmussen, Rogers, Ockhamism, Molinism, and open theism.
-2. Search scholastic and analytic work on concurrence, secondary causation, conservation, and creaturely causal contribution.
+2. Deepen the OEC/PMC comparison and search scholastic and analytic work on concurrence, secondary causation, conservation, and creaturely causal contribution.
 3. Search whether layered omniscience definitions separate actuality, modal possibility, and counterfactual freedom in the same way as ACO.
 4. Test whether “generating structure” adds ontology or only a useful systems vocabulary for laws plus boundary conditions.
 5. Map goodness proposals against voluntarism, divine nature theory, reasons fundamentalism, and the Euthyphro dilemma.

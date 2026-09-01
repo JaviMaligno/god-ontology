@@ -156,8 +156,8 @@ These modules remain conditional on the upstream case for a necessary agent. The
 5. Deepen relative transcendence toward immateriality or non-spatiality. S14 prefers created-space aspatiality and physical immateriality, and favors absolute fundamental non-spatiality abductively without importing simplicity.
 6. Develop omnipresence consistently with unity, non-spatiality, ACO/MKO, qualified power, atemporality, and existential sovereignty. S15 prefers actual ontological omnipresence and modal omnipresence capacity while leaving personal presence open.
 7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities. Completed in S16; the creation bridge is the principal inherited gap.
-8. Develop the creation bridge at F1 along two axes: ontological production and non-necessitating creative reason. Current task.
-9. Reconnect the result to providence, intervention, and the later evaluative branch.
+8. Develop the creation bridge at F1 along two axes: ontological production and non-necessitating creative reason. S17 completes the production comparison provisionally by preferring OEC and retaining PMC as its decisive defeater; creative reason is the current task.
+9. Reconnect the completed bridge to providence, intervention, and the later evaluative branch.
 10. Select the genuinely fragile junctions for F2–F3 treatment.
 11. Run the dedicated literature, provenance, and novelty pass.
 12. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

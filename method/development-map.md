@@ -54,17 +54,17 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence | dependent attribute | F1 | hold after S15 | selective F2 | Ontological presence is preferred; personal presence remains a stronger open extension |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
-| Creation bridge: production and creative reason | trunk-to-creation junction | F0–F1 | develop both axes at F1 | selective F2–F3 | **Current substantive priority**; joins C88–C89 to the inherited creative-reason gap |
+| Creation bridge: production and creative reason | trunk-to-creation junction | F1 on production; F0–F1 on reason | develop creative reason at F1 | selective F2–F3 | **Current substantive priority**; S17 prefers OEC while leaving PMC open |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on the creation bridge, agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Develop the two-axis creation bridge at F1.
-2. Compare immaterial production and material-continuity models under shared criteria.
-3. Determine what kinds of non-necessitating reasons can make creation and the selection of $S$ intelligible.
-4. Reconnect the result to providence, intervention, and later goodness.
+1. Determine what kinds of non-necessitating reasons can make creation and the selection of $S$ intelligible.
+2. Explain why a generative structure, autonomous agents, and non-agentic domains can jointly answer those reasons.
+3. Keep PMC as the decisive production-axis defeater rather than reopening the full comparison without new support.
+4. Reconnect the completed creation bridge to providence, intervention, and later goodness.
 5. Select formalization triggers and targeted literature or novelty work where load-bearing.
 
 ## Depth-control rules

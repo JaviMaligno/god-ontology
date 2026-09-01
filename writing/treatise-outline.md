@@ -53,6 +53,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - The creation bridge: ontological production and creative reason
     - Grounding, efficient production, constitution, manifestation, or modification
     - Immaterial production and material-continuity alternatives
+    - Originative existential causation, the PMC objection, and creation *ex deo*
+    - Why a free creative act may sufficiently produce an effect without being antecedently necessitated
     - Capacity to create, reasons to create, and goodness as distinct questions
     - Why this structure, autonomous agents, and non-agentic domains
 12. **Creaturely Agent Causation**

@@ -62,4 +62,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 completes the inherited-corpus audit required by C77. It finds no omitted traditional attribute that must be inserted at this point. The next module is instead the **creation bridge**: first compare accounts of ontological production, including the cross-category burden in C88, and then specify how non-necessitating creative reasons can make a contingent act of creation intelligible. Goodness and stronger personal presence remain downstream rather than serving as premature premises.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17 now prefers originative existential causation over material-continuity alternatives at F1, while retaining universal PMC as a possible defeater. The next step is the second axis of the **creation bridge**: specify how non-necessitating creative reasons can make a contingent act of creation and the selection of $S$ intelligible. Goodness and stronger personal presence remain downstream rather than serving as premature premises.

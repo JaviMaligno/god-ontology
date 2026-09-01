@@ -124,6 +124,12 @@ This is the normative center of the repository. It records what the project curr
 | C95 | The next load-bearing module is the creation bridge, with an ontological-production axis and a creative-reason axis. | `accepted` | The inherited-corpus audit finds both questions underdeveloped and prior to goodness: how material substance depends on $G$, and why a necessary agent creates this kind of contingent order. | [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
 | C96 | Capacity to create, reason to create, and goodness of creation are distinct questions. | `accepted` | Power does not supply a reason for exercise, while intelligible reasons do not yet establish that the act or its outcome is good. | [U21](../corpus/transcript.md#user--u21), [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
 | C97 | Any creative reasons attributed to $G$ must remain compatible with contingent agentic settling. | `accepted` | Reasons may be plural and non-necessitating; making them jointly sufficient for one unique creation would collapse the divine choice into a determined output. | [U21](../corpus/transcript.md#user--u21), C55–C60, [S16](../sessions/2026-09-01-inherited-corpus-audit.md) |
+| C98 | Material transformation and originative existential causation are distinct production types. | `accepted` | The first changes a prior material patient; the second has the existence of a distinct entity or domain as its immediate terminus. Requiring a material input for the second needs the independent PMC premise. | [S17](../sessions/2026-09-01-ontological-production.md) |
+| C99 | $G$ produces the created ontological basis $\mathcal C_0$ through originative existential causation specified by $S$, without transforming a prior material patient. | `preferred` | This F1 model supplies source, content, exercise, effect, and dependence conditions while preserving ultimacy, non-spatiality, and creator–creation distinction. Its central burden is the coherence of causation without material input. | [S17](../sessions/2026-09-01-ontological-production.md) |
+| C100 | A divine creative act can sufficiently cause its selected effect without being sufficiently caused or necessitated by its antecedent conditions and reasons. | `accepted` | Freedom concerns the settling of the creative act; it does not require causal indeterminacy between that contentful act and the existence it produces. | C55–C60, [S17](../sessions/2026-09-01-ontological-production.md) |
+| C101 | Merely giving $G$ and creation numerically distinct matter of the same type does not explain material production. | `preferred` | Type resemblance supplies no token material input. Without transfer it retains the OEC burden while adding divine materiality; with transfer it becomes an ex deo model. | C89, [S17](../sessions/2026-09-01-ontological-production.md) |
+| C102 | Creation from divine substance is a coherent but currently disfavored alternative. | `open` | Token material continuity answers PMC but requires an account of divine partition, modification, expression, or ontological overlap and weakens the strong creator–creation distinction. | [S17](../sessions/2026-09-01-ontological-production.md) |
+| C103 | The Principle of Material Causality is not currently adopted as a universal modal constraint. | `open` | Ordinary transformations support it inside material orders but do not by themselves establish its scope over the origin of the entire material domain. If independently necessary, it defeats C99. | [S17](../sessions/2026-09-01-ontological-production.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -156,8 +162,8 @@ This is the normative center of the repository. It records what the project curr
 
 ## Highest-priority open questions
 
-1. How can a non-material $G$ ground or produce material substances, and does a material-continuity model explain this transition better?
-2. Why does a necessary agent create anything contingent, and what non-necessitating reasons favor this kind of structure and distribution of agency?
+1. Why does a necessary agent create anything contingent, and what non-necessitating reasons favor this kind of structure and distribution of agency?
+2. Is PMC a genuinely universal modal principle, or can originative existential causation coherently lack a material patient?
 3. How do creative reasons condition later accounts of providence, intervention, and goodness without being identified with them?
 4. Should personal availability or second-person relation be developed with personhood, providence, or goodness?
 5. What substantive defeater, if any, would motivate an essential boundary on divine power and overturn C75?

@@ -349,7 +349,7 @@ The current architecture assigns $G$ the power to actualize $S$, but power alone
 
 | Axis | Central question | Current status |
 | --- | --- | --- |
-| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | open; compare immaterial-production and material-continuity models |
+| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | OEC preferred at F1; PMC remains the decisive open objection |
 | Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | open; reasons must make the act intelligible without necessitating it |
 
 The required distinctions are:
@@ -365,7 +365,31 @@ Reasons_G(\mathcal C)\not\Rightarrow
 \Box Actualizes(G,\mathcal C).
 \]
 
-This section records the missing bridge rather than supplying it. Grounding, efficient production, constitution, manifestation, and divine modification remain candidate relations to be compared. Likewise, teleological, agency-oriented, relational, epistemic, aesthetic, or plural reasons remain candidates rather than accepted divine motives.
+The production axis now prefers **originative existential causation** (OEC). Let $\mathcal C_0$ be the created ontological basis. $S$ supplies structural specification; $G$ originates a contentful act; and the immediate terminus is the existence of $\mathcal C_0$, not a new state of a prior material patient:
+
+\[
+C_G^-\not\Rightarrow_{\mathrm{causal}} Act_G(\mathcal C_0),
+\qquad
+Act_G(\mathcal C_0)
+\Rightarrow_{\mathrm{causal}}
+Exists(\mathcal C_0)\land Instantiates(\mathcal C_0,S).
+\]
+
+The act may therefore sufficiently produce its selected effect while no antecedent condition sufficiently settles the act. This applies the same agentic logic already used elsewhere rather than requiring the created domain to remain indeterminate after it has been chosen.
+
+OEC adds positive causal roles to grounding: a source, an originating exercise, selected structural content, a numerically distinct effect, and the absence of a transformed material input. Grounding then describes the asymmetric dependence of the obtained effect; it is not a substitute word for production.
+
+Mere type continuity between divine and created matter is not a productive relation. Token continuity would be substantive, but it yields an *ex deo* model in which creation is a partition, modification, expression, or ontological overlap of divine substance. That remains coherent but disfavored. The principal defeater for OEC is the still-open Principle of Material Causality:
+
+\[
+\Box PMC
+\Rightarrow
+\neg\Diamond OEC(G,\mathcal C_0,S).
+\]
+
+Ordinary material transformations do not by themselves establish PMC at this universal modal scope. No independent contradiction in OEC has yet been identified, so the result remains an abductive F1 preference rather than a demonstration.
+
+Teleological, agency-oriented, relational, epistemic, aesthetic, or plural creative reasons remain candidates rather than accepted divine motives.
 
 ## Causal-role decomposition
 

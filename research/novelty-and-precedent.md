@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality and immateriality)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, and omnipresence)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -26,6 +26,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Providence as a global architectural relation rather than a causal mechanism | Synthesis / likely terminological | Closely related to qualified-providence models; distinctness may be expository rather than ontological. |
 | One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
 | Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
+| Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Goodness grounded in divine choice/nature while allowing plural reasons and resisting prior objective value | Unassessed and currently unstable | Overlaps voluntarism, divine nature theories, Euthyphro problems, and reasons-first debates. |
@@ -64,6 +65,14 @@ The broad distinction between an aspatial God and a God literally extended throu
 - [William Lane Craig, “God and Space”](https://doi.org/10.3390/rel15030276) explicitly compares divine aspatiality with omnispatial extension.
 
 The project's contribution at this stage is organizational rather than a new spacelessness proof. It separates: (1) non-circumscription by the created spacetime $G$ grounds, (2) physical immateriality relative to that created order, and (3) absolute fundamental non-spatiality. Only the first two are treated as conditional consequences of the architecture; the third is selected abductively after a cost comparison. This ordering prevents omnipresence or full simplicity from entering circularly as premises.
+
+The material-continuity alternative reopened after this pass is also established territory overlapping material monism, pantheism, panentheism, emanation, and world-as-divine-body models. No novelty assessment is appropriate until the project specifies whether “same matter” means numerical substrate identity, divine modification, created-order constitution, or merely the same material type instantiated by numerically distinct substances.
+
+## Omnipresence: targeted precedent check
+
+The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.stanford.edu/entries/omnipresence/) surveys the established knowledge, power, and cause-of-being approach alongside literal spatial occupation, the world-as-divine-body model, and accounts involving personal presence. [Joseph Jedwab, “God's Omnipresence”](https://doi.org/10.24204/ejpr.v8i2.61) is a contemporary defense of the classical attribute. [Eleonore Stump's treatment of union and presence](https://doi.org/10.1093/acprof:oso/9780199277421.001.0001) motivates distinguishing general presence from stronger second-person or shared-attention relations.
+
+The project's $Present_O$ is therefore not conceptually novel in its three broad ingredients. Its potentially useful feature is the typed integration: grounding reach preserves creaturely contrastive authorship, causal availability does not entail exercise, ACO supplies actuality-indexed access across E+, and $OP_M$ ranges conditionally over possible actualizations without reifying possibilia. This is presently classified as a project-specific synthesis of established components.
 
 ## Research backlog
 

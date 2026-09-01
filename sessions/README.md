@@ -20,3 +20,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S12 — Priority correction and the scope of uniqueness](2026-09-01-priority-and-uniqueness.md)
 - [S13 — Divine uniqueness](2026-09-01-divine-uniqueness.md)
 - [S14 — Spatiality and immateriality](2026-09-01-spatiality-and-immateriality.md)
+- [S15 — Ontological omnipresence](2026-09-01-ontological-omnipresence.md)

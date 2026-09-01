@@ -96,8 +96,13 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - What grounding spacetime and atemporality do and do not entail
     - Higher-dimensional, intrinsic-geometric, and ubiquitous-occupation alternatives
     - Why non-spatiality does not entail full simplicity
+    - Cross-category production and material-continuity alternatives
 26. **What Could Omnipresence Mean Outside Space?**
+    - Grounding reach, epistemic access, and causal availability
     - Individual presence versus distributed coverage
+    - Existing empty regions and ontology-neutral domain scope
+    - Actual omnipresence versus modal capacity
+    - Ontological presence versus personal presence
 27. **Goodness, Nature, Choice, and Reasons**
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?

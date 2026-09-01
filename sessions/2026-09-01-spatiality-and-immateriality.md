@@ -114,6 +114,23 @@ The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.st
 | Derive full simplicity | rejected | Spatial and material conclusions leave metaphysical distinctions open | Current discussion |
 | Use omnipresence to prove non-spatiality | rejected | It would reverse the derivation order because non-spatiality constrains the intended kind of omnipresence | Current discussion |
 
+## Reopened production question
+
+The author identifies a burden left by physical immateriality: the model must explain how one substance can ground or produce a substance of a materially different kind. A same-matter model might reduce that discontinuity.
+
+Four versions must be compared:
+
+1. $G$ is made of matter belonging to the created physical order;
+2. $G$ is constituted by uncreated matter of the same type as, but numerically distinct from, created matter;
+3. $G$ and creation share a prior necessary material substrate;
+4. created matter is a modification, expression, or part of $G$'s substance.
+
+The first conflicts with $G$'s ultimacy over the total created order. The second is the strongest creator–creation version of the author's suggestion: it reduces the discontinuity between substance types while preserving numerical distinction, but still owes an account of producing new material instances and must reconcile divine matter with non-spatiality. The third makes the substrate more fundamental than $G$. The fourth is a coherent material-monist or panentheist alternative, but it changes creation from actualization of something distinct into transformation or articulation of divine substance and must recover contingency, agency, and non-spatiality.
+
+Physical immateriality remains preferred, in line with the author's intuition, but the cross-category grounding relation is now an explicit open burden rather than a solved transition. This does not block omnipresence because that attribute depends on non-containment and immediate relations, not on a completed theory of substance production.
+
 ## Next question
 
 Given a unique and fundamentally non-spatial $G$, what positive relation makes $G$ present to a created entity or region? The F1 omnipresence pass must compare grounding, epistemic access, direct power, and personal availability, and must determine whether presence ranges over empty regions or only existing entities.
+
+S15 answers this at F1 through ontological presence while leaving personal presence as a stronger open extension.

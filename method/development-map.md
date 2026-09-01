@@ -52,7 +52,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
 | Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | selective F2 | S11 separates capacity, exercise, and global dependence and provisionally favors qualified maximality |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
-| Omnipresence | dependent attribute | F0 | develop at F1 | F1 then selective F2 | **Current substantive priority**; its unique subject and non-spatial mode are now fixed |
+| Omnipresence | dependent attribute | F1 | hold after S15 | selective F2 | Ontological presence is preferred; personal presence remains a stronger open extension |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
@@ -60,9 +60,9 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Develop omnipresence at F1 from unity, non-spatiality, ACO, power, and existential grounding.
-2. Distinguish presence to entities from presence at empty regions and actual from modal scope.
-3. Audit the remaining inherited corpus before opening further new branches.
+1. Audit the remaining inherited corpus before opening further new branches.
+2. Place the cross-category material-production burden and personal presence in the dependency map.
+3. Select the next unresolved inherited attribute or trunk claim.
 4. Select formalization triggers and F2–F3 targets.
 5. Systematic literature and novelty mapping.
 

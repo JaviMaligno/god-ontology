@@ -154,8 +154,8 @@ These modules remain conditional on the upstream case for a necessary agent. The
 3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. F1 distinction and qualified definition completed in S11; maximality is provisionally favored abductively, with no separate perfection premise adopted.
 4. Reconstruct the inherited argument for divine unity/uniqueness. S13 prefers one ultimate ground and, conditionally, one necessary ultimate-ground agent; it does not claim that only one necessary entity of every category exists.
 5. Deepen relative transcendence toward immateriality or non-spatiality. S14 prefers created-space aspatiality and physical immateriality, and favors absolute fundamental non-spatiality abductively without importing simplicity.
-6. Develop omnipresence consistently with unity, non-spatiality, ACO/MKO, qualified power, atemporality, and existential sovereignty. Current task.
-7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities.
+6. Develop omnipresence consistently with unity, non-spatiality, ACO/MKO, qualified power, atemporality, and existential sovereignty. S15 prefers actual ontological omnipresence and modal omnipresence capacity while leaving personal presence open.
+7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities. Current task.
 8. Select the genuinely fragile junctions for F2–F3 treatment.
 9. Run the dedicated literature, provenance, and novelty pass.
 10. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

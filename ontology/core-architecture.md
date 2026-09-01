@@ -502,6 +502,8 @@ It follows conditionally that:
 
 This is physical immateriality relative to the created order. It says that $G$ is not a body, field, or physical system constituted under the laws and ontology it actualizes.
 
+This result carries a production burden. The architecture still needs to explain how a non-material substance grounds or produces material substances without assuming that ground and grounded must share a material substrate. A material-continuity alternative has four principal forms: $G$ as part of the created physical order; $G$ as uncreated matter of the same type as, but numerically distinct from, created matter; $G$ and creation as products of a prior necessary material substrate; or created matter as a modification or expression of $G$'s substance. The first reverses ultimacy. The same-type version preserves creator–creation distinction but must still explain new material instances and reconcile divine matter with fundamental non-spatiality. The shared-substrate version places something more basic than $G$. The modification version changes creation from actualization of something distinct into a monist or panentheist transformation. These costs favor physical immateriality provisionally but do not by themselves supply the missing cross-category grounding account.
+
 Absolute fundamental non-spatiality is stronger:
 
 \[
@@ -575,6 +577,64 @@ This candidate aligns power with the existing epistemic architecture. MKO includ
 Current commitments establish actualizing power, existential sovereignty conditionally on C04–C05, and possible intervention. They support $OMP_Q$ as the preferred definition of omnipotence.
 
 Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created reality can be the ultimate source of that limit on its own ground. A non-created external limiter or an essential internal limit remains coherent, but either requires independent motivation and the former would add another item to the fundamental ontology. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise, presupposing uniqueness, or pretending that ultimate grounding deductively entails omnipotence.
+
+## Ontological omnipresence
+
+Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. Define the actual created domain:
+
+\[
+D(\mathcal C^*)=
+\{x:x\text{ is an actual entity, event, relation, or region admitted by the ontology of }\mathcal C^*\}.
+\]
+
+Presence is one immediate relation expressed in three typed dimensions:
+
+\[
+Present_O(G,x)
+\quad\text{iff}\quad
+GroundReach(G,x)
+\land
+EpistemicAccess(G,x)
+\land
+CausalAvailability(G,x).
+\]
+
+The dimensions are:
+
+1. $GroundReach(G,x)$: either $x$ depends existentially on $G$, or the arena and powers enabling $x$ do. For an agent-originated act, this does not assign its contrastive content to $G$.
+2. $EpistemicAccess(G,x)$: $G$ knows the complete actuality of $x$ without sensory reception, created signals, or inference.
+3. $CausalAvailability(G,x)$: every metaphysically coherent direct divine action concerning $x$ lies within $G$'s power without requiring a created intermediary. This is a capacity and need not be exercised.
+
+No dimension alone expresses the intended presence. Complete knowledge could remain remote observation; power can be exercised through intermediaries; and an impersonal ground lacks agentive access. Their conjunction is not an imported divine attribute: it integrates existential sovereignty, ACO, qualified power, and the direct-contribution relation already used by the intervention model.
+
+Actual ontological omnipresence is:
+
+\[
+OP_A(G)
+\quad\text{iff}\quad
+\forall x\in D(\mathcal C^*)\;Present_O(G,x).
+\]
+
+This is preferred conditionally on C11, C73, C75, C84, and C86. It applies across the complete E+ history without distributing parts of $G$ across places or times.
+
+The domain treatment is ontology-neutral. If empty spacetime regions are entities or structural relata, they belong to $D(\mathcal C^*)$ because their existence, facts, and causal accessibility fall under the three dimensions. If an empty region is merely the absence of occupants, no additional entity is required; $G$ still knows the absence and can act with respect to that spatial structure.
+
+The corresponding modal capacity is:
+
+\[
+OP_M(G)
+\quad\text{iff}\quad
+\Box\forall\mathcal C
+\left(
+Actualizes(G,\mathcal C)
+\rightarrow
+\forall x\in D(\mathcal C)\;Present_O(G,x)
+\right).
+\]
+
+$OP_M$ does not make $G$ present to non-actual possibilia. It says that in any created order $G$ actualizes, the same grounding, epistemic, and causal architecture would make $G$ present to everything actual in that order.
+
+Personal presence is a possible stronger relation. Availability for second-person attention or response can be added for conscious agents, but its universal exercise would introduce claims about divine will, relationship, and perhaps goodness not yet established. It is therefore not part of minimal $OP_A$.
 
 ## Intervention ontology
 
@@ -774,7 +834,7 @@ A representative case check preserves the distinctions:
 | direct revelation $I_C^E$ followed by a free response | revelation yes; response not thereby miraculous | response can be free | both included |
 | source override $I_A$ | yes at the directly produced event | token act not free | included |
 
-## Formal deliverable next
+## Current formal status
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 
@@ -788,4 +848,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation are provisionally modeled in S04. The next step is a short case-based consistency check, followed by the minimum and optional extensions of ACO.
+Agency-preserving intervention and the intervention–miracle–providence relation are provisionally modeled in S04. S05–S15 subsequently develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. The next formal target will be selected after the inherited-corpus audit rather than assumed from this earlier local model.

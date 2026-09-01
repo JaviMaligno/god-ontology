@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, and intergenerational value)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, evil, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -38,6 +38,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Plural good-for profile + partial dominance + asymmetric co-grounding of token welfare | Established welfare families; project-specific integration | Pro tanto value, plural or objective-list goods, temporal welfare, and partial ordering are established. The local synthesis assigns divine, created-causal, epistemic, and normative-fit roles within the existing co-production model. |
 | $NoNativeNorm(G)$ + creature-constructed norms + defeasible diachronic priority | Established constructivist and temporal-welfare families; project-specific integration | Kantian, Humean, social, constitutivist, and hybrid construction are established. The local comparison connects them to divine ACO, atemporality, sourcehood, sacrifice, and time-indexed welfare. |
 | Objective anchors + fallible approximation + conscious-capacity profiles + extended beneficiaries | Established problem families; project-specific integration | Moral realism and epistemology, capacity-based moral status, animal consciousness, and intergenerational justice are established. S25 connects them to finite construction pressure, ACO/E+, and typed posthumous sacrifice. |
+| $\mathcal A_{min}=\{P,S,R\}$ + $Fit_*$ + typed evil + minimal longtermism | Established components; project-specific compression | Plural value, fittingness, broad/grave and natural/moral evil, future standing, and strong longtermism are established. S27 compresses them into one interface with consciousness, sourcehood, personal relation, E+, ACO, and divine grounding. |
 | Robust agency may require difficulty/suffering not reproducible with vastly less suffering | Unassessed; high burden | Needs engagement with theodicy, soul-making, moral development, modal feasibility, and empirical psychology. |
 
 ## Most important correction to the conversation
@@ -133,6 +134,14 @@ The [entry on animal consciousness](https://plato.stanford.edu/entries/conscious
 
 S25 introduces no new family in any of these areas. Its potentially useful integration distinguishes finite pressure to construct norms from construction capacity, treats objective good as a regulative standard rather than a reified entity, routes welfare, norm construction, and responsibility through different capacity profiles, and extends the local sacrifice notation to explicit beneficiary sets and posthumous horizons. Its metaphysical ground and moral-status consequences remain open.
 
+## Minimal axiological interface: targeted precedent check
+
+The [Stanford Encyclopedia of Philosophy entry on the concept of evil](https://plato.stanford.edu/entries/concept-evil/) distinguishes broad from narrow evil, natural from moral evil, and surveys substance and privation theories. The 2025 [entry on theological voluntarism](https://plato.stanford.edu/entries/voluntarism-theological/) documents the pressure to restrict divine-will constitution so that divine goodness and reasons for commands retain substantive content.
+
+The 2026 [entry on intergenerational justice](https://plato.stanford.edu/entries/justice-intergenerational/) covers future standing, temporal discount, unknown identities, asymmetric intergenerational power, and non-identity. Greaves and MacAskill's [case for strong longtermism](https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism/page/9/) supplies the contrast class: a wide-decision priority thesis much stronger than mere temporal non-discount and eligibility.
+
+S27 claims no new theory of value, evil, or future generations. Its local synthesis applies one admitted $Fit_*$ relation to three independently developed ontological domains, then uses typed causal authorship for moral evil and E+ for long-horizon standing. Provisional essential grounding of $Fit_*$ in $G$ remains a research burden rather than a novelty claim.
+
 ## Consciousness and agentive role: targeted precedent check
 
 The [Stanford Encyclopedia of Philosophy entry on consciousness](https://plato.stanford.edu/entries/consciousness/) documents the plurality of phenomenal, access, reflexive, and other consciousness concepts. [Ned Block's “On a Confusion about a Function of Consciousness”](https://doi.org/10.1017/S0140525X00038188) is a primary source for separating phenomenal experience from information availability for reasoning and action. The [Stanford Encyclopedia entry on the neuroscience of consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/) reviews both the distinction and continuing disputes about the relation between its terms.
@@ -162,4 +171,5 @@ No component warrants a novelty claim. The more specific package may be composit
 8. Compare S25's approximation relation with realist moral epistemology, convergence arguments, reflective equilibrium, moral progress, and debunking objections.
 9. Test $CProf$ against developmental, disability, animal-consciousness, and moral-status literature without deriving status directly from cognitive sophistication.
 10. Test extended beneficiary sets against intergenerational justice, non-identity, population ethics, posthumous interests, and critiques of longtermism.
-11. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
+11. Test the proposed $\mathcal A_{min}$ and $Fit_*$ compression against fitting-attitude, reasons-first, privation, natural-law, divine-nature, and plural-value theories only if divine goodness becomes load-bearing.
+12. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.

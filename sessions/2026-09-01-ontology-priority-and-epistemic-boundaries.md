@@ -16,7 +16,7 @@ Ontology is the project's primary aim. Ethics can eventually be developed furthe
 - how evaluative reality relates to $G$;
 - how those notions bear on creation, intervention, providence, and suffering.
 
-Detailed normative theory becomes optional after this interface is adequate. Moral-status taxonomies, population ethics, aggregation, longtermism, political or institutional ethics, and extensive applied cases should not direct the main sequence unless they expose a contradiction or become indispensable to one of the listed questions.
+Detailed normative theory becomes optional after this interface is adequate. Moral-status taxonomies, population ethics, complete aggregation, **strong or maximizing longtermism**, political or institutional ethics, and extensive applied cases should not direct the main sequence unless they expose a contradiction or become indispensable to one of the listed questions. Minimal long-horizon standing remains internal because sacrifice and species continuity depend on it; S27 makes the distinction explicit.
 
 Science is informative because the ontology concerns a universe that includes the physical order studied by science. It is not automatically definitional or blocking. Scientific inquiry is a fallible, model-mediated route to knowledge pursued by subjects located within the created physical world; the project also asks about that world's metaphysical ground, modal structure, and possible reality beyond the range of physical measurement.
 

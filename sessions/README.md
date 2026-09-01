@@ -32,3 +32,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S24 — Constructed value, sacrifice, and diachronic good](2026-09-01-constructivism-and-diachronic-good.md)
 - [S25 — Objective approximation, finite construction, and extended value](2026-09-01-objective-approximation-and-extended-value.md)
 - [S26 — Ontological priority and epistemic boundaries](2026-09-01-ontology-priority-and-epistemic-boundaries.md)
+- [S27 — The minimal axiological interface](2026-09-01-minimal-axiological-interface.md)

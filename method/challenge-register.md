@@ -38,14 +38,14 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `scoped` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | ACO, divine agency and goodness, constructivism, welfare, creation | `scoped` |
-| CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | welfare, agency, temporal scope, reasons, morality | `scoped` |
+| CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | welfare, agency, temporal scope, reasons, morality | `tested` |
 | CH09 | How can fallible subjects be closer to objective good without possessing a metric, privileged access, or a method that secretly constitutes the standard? | moral epistemology, objective anchors, construction, disagreement | `scoped` |
 | CH10 | Which conscious capacities ground welfare, projects, norm construction, responsibility, and moral status, and why should differences in one role affect another? | consciousness, welfare, agency, moral status, development | `scoped` |
-| CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `scoped` |
+| CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 
 ## Priority gate after S26
 
-Ontology governs the active sequence. CH09–CH11 remain preserved, but only the portions needed to establish good/evil, sacrifice, species or transpersonal continuity, and relation to $G$ belong to the current axiological interface. Moral-status gradation, population aggregation, comprehensive longtermism, and extended moral epistemology do not trigger immediate work unless an ontological premise or contradiction depends on them.
+Ontology governs the active sequence. S27 completes the current interface response to CH08 and the metaphysically required part of CH11. Moral-status gradation, population aggregation, strong or maximizing longtermism, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -166,6 +166,8 @@ The challenge separates the cost's local valence, the quality of the agent's exe
 
 Any priority rule must explain why temporal location alone is not normatively decisive, why a stable commitment can express an extended agent better than a transient appetite, and when suffering, futility, uncertainty, disproportion, or harm to others defeats the project. C162–C164 supply a preferred defeasible structure rather than a lexical ranking.
 
+S27 tests this through $\mathcal A_{min}=\{P,S,R\}$ and $Fit_*$. Sacrifice is fitting when a sourceful, informed, proportionate cost protects or realizes an undefeated anchor for the agent or other beneficiaries. Pain, deprivation, duration, and delay do not manufacture the value. This closes the F1 challenge while leaving exact conflict aggregation optional.
+
 ## CH09 — Objective approximation without privileged access
 
 The preferred direction treats some good-making facts as independent of actual endorsement while denying finite infallibility. The challenge is to justify $Closer_{Good}(J_2,J_1\mid E,C)$ without first assuming a complete account of good. Factual correction, resistance to manipulation and arbitrary exclusion, cross-case coherence, temporal robustness, affected-subject representation, and adversarial survival are evidence candidates. Each can be distorted or can conflict with another.
@@ -183,3 +185,5 @@ Tests include non-human animals with rich affect but limited normative competenc
 The expanded notation $Sacrifice(A,s,c,g,B,C,\tau)$ and $DP(g,p;A,B,C,\tau)$ allows $B$ to include later subjects and $\tau$ to exceed $A$'s life. The challenge is to specify the value type: posthumous effects may fail to improve $A$'s later prudential welfare while expressing a commitment, preserving a relation or institution, or benefiting later subjects.
 
 Tests include anonymous future beneficiaries, policies that alter who will exist, projects with tiny probabilities and enormous claimed benefits, present rights sacrificed to aggregate future welfare, benefits dependent on future free acts, and valuable projects abandoned after the agent's death. Deliberation may use structural descriptions and probabilities without invoking pre-actual counterfactual truths of libertarian choice. Future temporal position supplies standing but neither automatic discount nor lexical dominance.
+
+S27 supplies the minimal result: E+ supports equal eligibility of actual later bearers, and conditional eligibility of possible bearer types upon actualization, while ACO and temporal deliberation retain different epistemic positions. Species continuity preserves conditions for future conscious valence, sourcehood, relation, and further goods. This establishes minimal longtermism without strong longtermist dominance, population maximization, or reified non-actual individuals. The stronger cases remain optional rather than unresolved blockers.

@@ -1130,6 +1130,34 @@ TranspersonalContinuity,\quad NormBridge_G,
 
 further ethics moves to the optional backlog unless an ontological dependency reopens it. The active spine then returns to the metaphysics of $G$, creation, power, intervention, and related load-bearing gaps.
 
+S27 closes that interface at F1 through three ontological anchor domains and one evaluative bridge:
+
+\[
+\mathcal A_{min}=\{P,S,R\},
+\]
+
+where $P$ is conscious valence, $S$ agentive sourcehood, and $R$ truthful recognition or relation. The proposed necessary relation:
+
+\[
+Fit_*(x,a,B,C,\tau),\qquad a\in\mathcal A_{min},
+\]
+
+states that $x$ realizes, protects, restores, or appropriately responds to anchor $a$ for bearer or beneficiary $B$. $Misfit_*$ covers frustration, corruption, destruction, or inappropriate response. This is an admitted axiological bridge rather than a claimed deduction of ought from physical description. Its economy consists in applying one typed relation to domains already developed by the ontology.
+
+Pro tanto good and bad are fit and misfit relative to anchor, bearer, context, and horizon. Generic good is undefeated objective fit across the relevant scope without requiring a total scalar. Broad evil is objective misfit, including minor and severe cases; grave evil is severe non-trivial destruction, corruption, or violation of $P$, $S$, or $R$. Evil need be neither a fundamental rival substance nor universally a pure privation: pain, deprivation, domination, and betrayal instantiate different ontological forms. Moral evil adds culpable agent origination; non-agentic or natural evil does not.
+
+Minimal longtermism remains inside the interface. E+ gives actual later subjects the same ontological actuality as earlier subjects within the complete history, although temporal deliberators lack ACO. Actual future bearers—and possible bearer types conditionally upon actualization—are eligible for the same fit relations without discount based solely on temporal distance. This grounds long-horizon sacrifice and species continuity without entailing aggregation, maximizing strong longtermism, or automatic far-future dominance.
+
+Species continuity is valuable insofar as it preserves conditions for future $P$, $S$, and $R$, inherited projects, and further goods. The species is not treated as a conscious super-subject, and biological persistence containing only extreme suffering or systematic destruction of agency is not good merely because it is persistence.
+
+The preferred metaphysical realization is provisionally:
+
+\[
+EssentialGround(G,Fit_*).
+\]
+
+This differs from arbitrary divine willing and from divine satisfaction of the standard. Only the conditional fit structure need be necessary: MKO can include its application to possible subject-types, while actual value instances require actual bearers and enter ACO with $H^*$. $G$ already grounds actual bearers and knows all obtaining fit or misfit through ACO. Grounding $Fit_*$ in established divine features remains a non-circular bridge to be tested only when an ontological module needs it; contingent norm-institution is permitted, while divine goodness and omnibenevolence remain unearned.
+
 ### Science as input and constraint
 
 Scientific inquiry supplies evidence about the actual created order and constraints on its physical realization. It does not automatically define the project's metaphysical categories or exhaust the reality they range over. A genuine empirical constraint requires a bridge:
@@ -1157,4 +1185,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24–S25 open constructed normativity, prefer objective anchors, and extend value across capacities, beneficiaries, and posthumous horizons. S26 caps this work as a minimal axiological interface under ontological priority and assigns science an informative, bridge-mediated constraining role without definitional supremacy. After one bounded interface-closure pass, PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of objective fit remain the main selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1 through $\mathcal A_{min}$, $Fit_*$, typed evil, minimal longtermism, species continuity, and a provisional $G$-grounding relation. The active sequence now returns to a load-bearing audit of PMC/OEC, qualified-power blockers, interpersonal knowledge, and cumulative agency effects.

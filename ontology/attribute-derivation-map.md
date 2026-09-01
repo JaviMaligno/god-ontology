@@ -51,7 +51,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
 | Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
-| Goodness or omnibenevolence | Open; bounded F1 interface in progress | S21 distinguishes evaluative targets; S23–S25 develop finite welfare, objective anchors, fallible approximation, and extended beneficiaries; S26 imposes an ontological stopping rule | Establish only the anchors needed for good/evil, sacrifice, species continuity, and relation to $G$; fuller ethics remains optional | S21, S23–S26; F1 with local F2 only if ontologically load-bearing |
+| Goodness or omnibenevolence | Open attribute; minimal interface closed at F1 | S27 supplies $\mathcal A_{min}$, objective $Fit_*$, typed evil, sacrifice, minimal longtermism, species continuity, and provisionally $G$-grounded fit | Show that $G$ perfectly satisfies the standard; test the grounding bridge non-circularly only when this attribute becomes load-bearing | S21, S23–S27; local F2 only if ontologically required |
 | Perfection | Rejected as an automatic inference | None required by necessity or creatorhood alone | Independent account would be needed | Do not use as a bridge |
 
 ## Present stopping point
@@ -64,4 +64,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 finds no omitted traditional attribute that must be inserted at this point. S17–S19 complete and reintegrate the creation bridge at F1. S20 distinguishes universal personal availability from exercised regard, reciprocal shared attention, and loving communion. S21 opens goodness without yet attributing it to $G$; S22 clarifies consciousness. S23–S25 provide enough structure to prefer objective anchors and represent sacrifice beyond the individual. S26 caps the branch as a minimal axiological interface: one closure pass will cover good/evil, species continuity, sacrifice, and relation to $G$, after which priority returns to the ontological trunk.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17–S20 complete the creation bridge, agency-respecting providence, and personal availability at F1. S21–S27 build and close the minimal axiological interface without yet earning divine goodness. Priority now returns to the ontological trunk: audit OEC/PMC, qualified-power blockers, interpersonal knowledge, and cumulative agency effects, then select the most load-bearing junction for F2.

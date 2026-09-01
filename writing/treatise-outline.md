@@ -141,6 +141,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Finite normative pressure: vulnerability, dependence, coordination, and self-preservation
     - Objective good as a fallibly approximable regulative standard
     - Objective anchors and constructed personal, moral, and institutional specifications
+    - The minimum anchor domain: conscious valence, sourcehood, and truthful recognition
+    - Objective fit as the single axiological bridge
+    - Broad and grave evil; moral and non-agentic causal origins
     - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
     - Sacrifice: cost, agentic excellence, personal welfare, and value for contemporary or future others
     - Defeasible priority for commitments extending beyond the agent's life
@@ -157,6 +160,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Can reasons be plural without arbitrariness?
     - Generative explanation versus moral justification of consequences
     - Species survival as transpersonal continuity rather than unconditional biological supremacy
+    - Minimal longtermism from E+ and the boundary with strong longtermism
+    - Provisional essential grounding of objective fit in $G$
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation

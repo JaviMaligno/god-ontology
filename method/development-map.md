@@ -55,24 +55,24 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
-| Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 preferred functional architecture | one closure pass, then leave active spine | F1; local F2 only if ontologically load-bearing | Required outputs are good/evil, sacrifice, species or transpersonal continuity, and relation to $G$; detailed ethics is optional under S26 |
+| Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 closed | leave active spine | local F2 only if ontologically load-bearing | S27 supplies $\mathcal A_{min}$, $Fit_*$, typed evil, sacrifice, minimal longtermism, species continuity, and provisional $G$-grounding; strong longtermism and detailed ethics remain optional |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Complete one bounded axiological-interface pass: minimal anchors for good and evil, sacrifice, species continuity, and relation to $G$.
-2. Stop general ethical expansion once those outputs are coherent; move moral status, population ethics, longtermism, and aggregation to the optional backlog.
-3. Return to the ontology and choose the next load-bearing gap through a short trunk audit, initially comparing OEC/PMC and qualified-power blockers.
+1. Audit the unresolved ontological junctions by load-bearingness: OEC/PMC, qualified-power blockers, ACO's interpersonal knowledge gap, and cumulative intervention effects on agency.
+2. Select one junction for the next F2 pass without reopening the now-closed general ethical branch.
+3. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
 4. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-5. Retain agency ecology, interpersonal knowledge, and further ethics as selective deepening points only when a dependency makes them load-bearing.
+5. Retain strong longtermism, population ethics, moral-status gradation, and aggregation as optional; minimal long-horizon standing remains part of the ontology-facing interface.
 
 ## Depth-control rules
 
 - Do not deepen a topic solely because formalization is possible.
 - Do not leave a load-bearing ambiguity at F0 when later claims depend on it.
 - Let trunk dependencies deepen faster than lateral or comparatively independent branches when this produces a more solid connected account.
-- Treat ethics as a bounded interface to the ontology: stop when its required metaphysical work is done unless a later contradiction reopens it.
+- Treat ethics as a bounded interface to the ontology: S27 closes its active F1 pass; reopen it only when a later ontological dependency or contradiction requires this.
 - Use science and other empirical disciplines as evidence and realization constraints through stated bridge premises, not as automatic definitions or vetoes outside their demonstrated domain.
 - Before treating a downstream chain as mature, audit the coherence of the upstream treatise section it depends on; this need not delay provisional forward exploration.
 - Judge section readiness by the stability of its load-bearing transitions, not by equal F-levels for every subsection.

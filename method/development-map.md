@@ -71,6 +71,9 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 - Do not deepen a topic solely because formalization is possible.
 - Do not leave a load-bearing ambiguity at F0 when later claims depend on it.
+- Let trunk dependencies deepen faster than lateral or comparatively independent branches when this produces a more solid connected account.
+- Before treating a downstream chain as mature, audit the coherence of the upstream treatise section it depends on; this need not delay provisional forward exploration.
+- Judge section readiness by the stability of its load-bearing transitions, not by equal F-levels for every subsection.
 - Retain completed local models as conditional modules when an upstream premise remains provisional.
 - Record why a target depth changes.
 - Keep full proofs, alternative semantics, and extensive edge-case matrices in appendices unless the main argument depends on them.

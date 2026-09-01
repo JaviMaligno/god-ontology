@@ -81,6 +81,17 @@ Use a breadth-first spiral with selective depth:
 
 The live roadmap and planned depths are maintained in [development-map.md](development-map.md).
 
+### Asymmetric depth and section readiness
+
+The spiral is not a requirement that every module advance at the same speed. Depth follows centrality, dependency, and argumentative risk:
+
+- trunk claims and junctions used repeatedly downstream may move to F2–F3 earlier;
+- comparatively independent or lateral attributes may remain at F0–F1 without blocking the central chain;
+- a downstream module may be explored provisionally once its minimum prerequisites exist, then feed objections or requirements back into its upstream basis;
+- a treatise section can receive a consolidation pass as a connected unit even when some of its peripheral questions remain explicitly deferred.
+
+At each return of the spiral, choose between **forward extension** and **selective deepening** by asking which action most improves the solidity of the dependency chain. In particular, the first connected account of $G$, divine attributes, and creation should eventually be assessed for section-level coherence before the downstream intervention account is treated as settled. This is a scheduling criterion, not an automatic instruction to stop forward development or to formalize every upstream claim uniformly.
+
 ### Priority discipline
 
 The spiral does not license novelty-driven drift. Order work by:

@@ -17,6 +17,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
 2. **What Science Presupposes and What It Does Not Decide**
    - Regularity, induction, mathematics, and intelligibility
    - Methodological success versus metaphysical entailment
+   - Empirical input, physical realization, and explicit bridge premises
+   - Why current non-detection is not an automatic metaphysical veto
 3. **The Question Beyond the Model**
    - Why fundamental structure invites interpretation
    - Brute facts as a live stopping point
@@ -127,6 +129,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Shared attention as asymmetrically co-produced
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
+    - Scope: a minimal axiological interface for the ontology, not a comprehensive ethics
     - Good-for, excellence, fitting action, good agency, and obligation
     - Welfare bearers and why good-for can precede good simpliciter
     - Phenomenal valence, functioning, agency, truth, relationship, and diachronic integrity
@@ -153,6 +156,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?
     - Generative explanation versus moral justification of consequences
+    - Species survival as transpersonal continuity rather than unconditional biological supremacy
+    - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty
@@ -162,6 +167,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
 29. **Naturalist and Mathematical-Structural Alternatives**
 30. **Classical Theism, Molinism, Open Theism, and Timeless Models**
 31. **What the Model Explains and Where It Stops**
+    - Science as empirical input, realization constraint, and bridge-mediated defeater
+    - Why operational success neither defines nor exhausts metaphysical reality
 32. **Established Elements, New Synthesis, and Remaining Work**
 
 ## Appendices

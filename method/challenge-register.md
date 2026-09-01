@@ -43,6 +43,12 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH10 | Which conscious capacities ground welfare, projects, norm construction, responsibility, and moral status, and why should differences in one role affect another? | consciousness, welfare, agency, moral status, development | `scoped` |
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `scoped` |
 
+## Priority gate after S26
+
+Ontology governs the active sequence. CH09–CH11 remain preserved, but only the portions needed to establish good/evil, sacrifice, species or transpersonal continuity, and relation to $G$ belong to the current axiological interface. Moral-status gradation, population aggregation, comprehensive longtermism, and extended moral epistemology do not trigger immediate work unless an ontological premise or contradiction depends on them.
+
+Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
+
 ## CH01 — Divine self-copy
 
 ### Main variants

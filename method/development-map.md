@@ -41,7 +41,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 | Domain | Role | Current | Target in current/next spiral | Tentative eventual target | Priority and dependency |
 | --- | --- | --- | --- | --- | --- |
-| Science, description, and explanation | motivation | F1 | hold at F1 | F1 plus literature | Background; does not itself prove the ontology |
+| Science, description, and explanation | motivation and empirical constraint | F1 | hold at F1 | F1 plus literature | Scientific evidence informs actual-world realization through explicit bridge premises; it neither proves nor definitionally exhausts the ontology |
 | Contingency and necessary ground | trunk | F1 | F2 after comparative criteria are clear | F3 | C04; supports every later divine claim |
 | Necessary agent versus impersonal structure | trunk junction | F1 | hold after S09 cost audit | F3 | Preferred C05 retained; reopen only for a substantive defeater or final literature pass |
 | [Attribute derivation](../ontology/attribute-derivation-map.md) | trunk | F1 | use S10 map to select the next attribute | selective F2–F3 | **Current control map**; prevents imported attributes and duplicated work |
@@ -55,25 +55,25 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
-| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 preferred functional architecture | identify and ground the smallest objective anchor set | selective F2–F3 | S25 prefers objective anchors plus constructed specifications, separates finite construction pressure, and extends value across capacity profiles and future beneficiaries |
+| Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 preferred functional architecture | one closure pass, then leave active spine | F1; local F2 only if ontologically load-bearing | Required outputs are good/evil, sacrifice, species or transpersonal continuity, and relation to $G$; detailed ethics is optional under S26 |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Identify the smallest objective anchor set capable of grounding phenomenal harm, correction, and concern beyond self-preservation.
-2. Compare necessary relational fit, fit grounded in independently established features of $G$, and constrained divine-source grounding only where they differ substantively.
-3. Test epistemic approximation without privileged access, convergence as a truth-maker, or a complete metric.
-4. Refine conscious-capacity role thresholds and keep moral status separate unless it becomes load-bearing.
-5. Stress-test transpersonal and intergenerational value through non-identity, uncertainty, future free action, and conflicts with present subjects.
-6. Develop conflict handling beyond dominance and defeat only when mixed cases make aggregation load-bearing.
-7. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points; grow the leveled [challenge register](challenge-register.md) without interrupting the spine.
+1. Complete one bounded axiological-interface pass: minimal anchors for good and evil, sacrifice, species continuity, and relation to $G$.
+2. Stop general ethical expansion once those outputs are coherent; move moral status, population ethics, longtermism, and aggregation to the optional backlog.
+3. Return to the ontology and choose the next load-bearing gap through a short trunk audit, initially comparing OEC/PMC and qualified-power blockers.
+4. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+5. Retain agency ecology, interpersonal knowledge, and further ethics as selective deepening points only when a dependency makes them load-bearing.
 
 ## Depth-control rules
 
 - Do not deepen a topic solely because formalization is possible.
 - Do not leave a load-bearing ambiguity at F0 when later claims depend on it.
 - Let trunk dependencies deepen faster than lateral or comparatively independent branches when this produces a more solid connected account.
+- Treat ethics as a bounded interface to the ontology: stop when its required metaphysical work is done unless a later contradiction reopens it.
+- Use science and other empirical disciplines as evidence and realization constraints through stated bridge premises, not as automatic definitions or vetoes outside their demonstrated domain.
 - Before treating a downstream chain as mature, audit the coherence of the upstream treatise section it depends on; this need not delay provisional forward exploration.
 - Judge section readiness by the stability of its load-bearing transitions, not by equal F-levels for every subsection.
 - Retain completed local models as conditional modules when an upstream premise remains provisional.

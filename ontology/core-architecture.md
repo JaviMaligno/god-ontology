@@ -1115,6 +1115,34 @@ Fitting(G,a,R)\not\Rightarrow Required(G,a,R).
 
 The candidate therefore requires neither an optimal world nor necessary creation. Full divine goodness and omnibenevolence remain unearned pending the ground of normative fit, the content of divine evaluative dispositions, and the scope of any norms applicable to $G$.
 
+### Ontological priority and the axiological stopping rule
+
+The evaluative branch serves the ontology rather than becoming a comprehensive ethics. Its required output is a **minimal axiological interface** able to define good and evil at the needed level, explain sacrifice and value beyond individual self-preservation, treat species continuity as a transpersonal case, and type the relation of value to $G$. It need not produce a total ordering, decision procedure, population ethics, or detailed theory of every moral status.
+
+Species survival matters initially through future conscious lives, continuation of agency and relations, inherited knowledge and projects, and preservation of conditions for further goods. The species need not be a conscious collective subject. Biological persistence is not lexically supreme: quality of life, coercion, cost, and conflict with other bearers remain possible defeaters.
+
+Once the interface can represent:
+
+\[
+Good,\quad Evil,\quad Sacrifice,\quad
+TranspersonalContinuity,\quad NormBridge_G,
+\]
+
+further ethics moves to the optional backlog unless an ontological dependency reopens it. The active spine then returns to the metaphysics of $G$, creation, power, intervention, and related load-bearing gaps.
+
+### Science as input and constraint
+
+Scientific inquiry supplies evidence about the actual created order and constraints on its physical realization. It does not automatically define the project's metaphysical categories or exhaust the reality they range over. A genuine empirical constraint requires a bridge:
+
+\[
+EmpiricalModel(E)\land Bridge(O,E)
+\Rightarrow Constraint(O).
+\]
+
+If ontology $O$ entails an empirical consequence through a justified bridge and robust evidence contradicts that consequence, the conflict is a defeater. Mere non-detection, omission from an operational model, or methodological exclusion is not. Conversely, calling a claim metaphysical cannot protect it when it really does entail a contradicted physical claim.
+
+This applies to psychology and other sciences as well as physics. Their findings can inform realization, examples, and abductive comparison while remaining distinct from the constitution of agency, consciousness, value, modality, substance, or divine reality.
+
 ## Current formal status
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
@@ -1129,4 +1157,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24 corrects its dimensional and temporal notation, opens creature-constructed normativity, and gives qualified sacrifice and long-term commitment a defeasible priority structure. S25 prefers objective anchors with fallible temporal approximation, distinguishes finite construction pressure from capacity, models consciousness through a capacity profile, and extends value to beneficiary sets and posthumous horizons. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, moral status, and the ultimate ground of objective fit remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24–S25 open constructed normativity, prefer objective anchors, and extend value across capacities, beneficiaries, and posthumous horizons. S26 caps this work as a minimal axiological interface under ontological priority and assigns science an informative, bridge-mediated constraining role without definitional supremacy. After one bounded interface-closure pass, PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of objective fit remain the main selective deepening targets.

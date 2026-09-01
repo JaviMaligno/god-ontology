@@ -120,6 +120,10 @@ Apply pressure where the model bears weight:
 - demand exact truth conditions when verbal reconciliation hides a modal problem;
 - stop repeating an objection once answered unless a new dependency or source reopens it.
 
+Ontology governs the research order. Ethics is developed as a minimal axiological interface sufficient for good, evil, sacrifice, species or transpersonal continuity, and their relation to $G$. Detailed moral status, population ethics, aggregation, longtermism, and applied ethics remain optional unless they become prerequisites or expose an ontological inconsistency.
+
+Scientific and other empirical work may inform examples, actual-world realization, and abductive comparison. It constrains a metaphysical claim when an explicit bridge derives an empirically testable consequence that conflicts with robust evidence. Operational definitions, present non-detection, or methodological exclusion do not by themselves define or veto metaphysical categories; genuine empirical contradictions cannot be dismissed merely by labeling a claim metaphysical.
+
 Likewise, compare the project with a named position once per substantive issue or in a dedicated literature section. Repeat the comparison only when a new inference depends on the difference. Molinism is relevant to the provenance of the rejected pre-actual counterfactual account, not a standing frame for discussions of ACO.
 
 A named author supplied as an example is a research pointer, not an instruction to inherit that author's derivation. Reconstruct the argument from the project's own accepted or preferred premises first. Historical premises may be borrowed only when independently supported here and when they do not make the attribute order circular.
@@ -184,8 +188,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 14. Develop good-for for conscious subjects through pro tanto dimensions, partial comparison, temporal scope, and asymmetric co-grounding. Initial F1 pass completed in S23; phenomenal valence is the current test anchor.
 15. Correct welfare notation, open creature-constructed normativity, and test sacrifice and long-term priority. S24 reserves $GF$ for generic or overall claims and adopts dimension- and time-indexed $PTGF_d$ plus defeasible diachronic priority.
 16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. S25 prefers an objective-anchor hybrid at the functional level while leaving its ultimate metaphysical realization open.
-17. Identify the smallest objective anchor set and test epistemic approximation, conscious-capacity thresholds, and posthumous or intergenerational value. Current task.
-18. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
-19. Select the remaining genuinely fragile junctions for F2–F3 treatment.
-20. Run the dedicated literature, provenance, and novelty pass.
-21. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+17. Close the minimal axiological interface with only the anchors needed for good and evil, sacrifice, species continuity, and relation to $G$. Current bounded task under S26.
+18. Return to the ontological spine and audit whether OEC/PMC, qualified-power blockers, or another exposed dependency is most load-bearing.
+19. Give the selected ontological junction an F2 pass; keep further ethics optional unless it becomes a premise or defeater.
+20. Select the remaining genuinely fragile junctions for F2–F3 treatment.
+21. Run the dedicated literature, provenance, and novelty pass.
+22. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

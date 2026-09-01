@@ -81,6 +81,17 @@ Use a breadth-first spiral with selective depth:
 
 The live roadmap and planned depths are maintained in [development-map.md](development-map.md).
 
+### Priority discipline
+
+The spiral does not license novelty-driven drift. Order work by:
+
+1. explicit authorial direction and corrections;
+2. unresolved material already present in the inherited conversation;
+3. prerequisites on which later attributes depend;
+4. only then, newly opened branches.
+
+A session's proposed next question is provisional. It must yield when corpus review reveals an older unintegrated argument or when the author identifies a stronger conceptual dependency.
+
 ## Adversarial method
 
 Apply pressure where the model bears weight:
@@ -139,9 +150,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 1. Compare necessary agent and impersonal necessary structure under shared criteria. F1 cost audit completed in S09; C05 remains preferred.
 2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported. F1 map completed in S10.
 3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. F1 distinction and qualified definition completed in S11; maximality is provisionally favored abductively, with no separate perfection premise adopted.
-4. Develop omnipresence consistently with ACO/MKO, qualified power, atemporality, and existential sovereignty. Next task.
-5. Reconstruct standard unity arguments and deepen relative transcendence toward immateriality.
-6. Make a whole-ontology surface pass to expose missing links and misplaced priorities.
-7. Select the genuinely fragile junctions for F2–F3 treatment.
-8. Run the dedicated literature, provenance, and novelty pass.
-9. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+4. Reconstruct the inherited argument for divine unity/uniqueness, distinguishing uniqueness of the ultimate ground of the contingent order from uniqueness of necessary being simpliciter. Next task.
+5. Develop omnipresence consistently with the resulting unity thesis, ACO/MKO, qualified power, atemporality, and existential sovereignty.
+6. Deepen relative transcendence toward immateriality.
+7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities.
+8. Select the genuinely fragile junctions for F2–F3 treatment.
+9. Run the dedicated literature, provenance, and novelty pass.
+10. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

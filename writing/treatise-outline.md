@@ -85,21 +85,25 @@ Working language: English. Research notes may remain bilingual. The outline deli
 
 ## Part VII — Attributes not yet earned
 
-23. **Can Omnipotence Be Derived?**
-24. **What Could Omnipresence Mean Outside Space?**
-25. **Goodness, Nature, Choice, and Reasons**
+23. **Unity and the Uniqueness of the Ground**
+    - One ground of the contingent order versus one necessary being simpliciter
+    - Independence, non-composition, individuation, and explanatory unity
+24. **Can Omnipotence Be Derived?**
+25. **What Could Omnipresence Mean Outside Space?**
+    - Individual presence versus distributed coverage
+26. **Goodness, Nature, Choice, and Reasons**
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?
-26. **Agency, Development, Suffering, and Evil**
+27. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty
 
 ## Part VIII — Comparison and evaluation
 
-27. **Naturalist and Mathematical-Structural Alternatives**
-28. **Classical Theism, Molinism, Open Theism, and Timeless Models**
-29. **What the Model Explains and Where It Stops**
-30. **Established Elements, New Synthesis, and Remaining Work**
+28. **Naturalist and Mathematical-Structural Alternatives**
+29. **Classical Theism, Molinism, Open Theism, and Timeless Models**
+30. **What the Model Explains and Where It Stops**
+31. **Established Elements, New Synthesis, and Remaining Work**
 
 ## Appendices
 
@@ -109,4 +113,3 @@ Working language: English. Research notes may remain bilingual. The outline deli
 - Argument maps
 - Source and provenance concordance
 - English–Spanish terminology table
-

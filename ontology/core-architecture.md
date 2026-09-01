@@ -384,6 +384,38 @@ Existential dependence and originating authorship are different relations, so un
 
 Eternalist completeness adds no contradiction here. A complete block can depend for its existence on $G$ while having contents whose contrastive sources include created agents. Completeness of the object does not entail uniqueness of its source relation.
 
+## Unity as a prerequisite for presence
+
+Two uniqueness claims must not be conflated. Let $\mathcal C$ be the total contingent order:
+
+\[
+U_G\quad\text{iff}\quad
+\exists!g\,UltimateGround(g,\mathcal C),
+\]
+
+\[
+U_N\quad\text{iff}\quad
+\exists!g\,NecessaryBeing(g).
+\]
+
+$U_G$ says that the contingent order has one ultimate ground. $U_N$ says that exactly one necessary being exists at all. $U_N$ is more globally exclusive, but neither formula by itself entails the other without bridging assumptions. $U_G$ may be sufficient to fix the subject of attributes concerning the created order while leaving open whether other necessary realities exist.
+
+The inherited conversation already sketches a classical route from independence through non-composition and individuation to unity. The next pass must reconstruct that route and determine whether it establishes $U_G$, $U_N$, or only abductive preference for one of them. Full divine simplicity is not assumed in advance; only whatever non-composition premise the argument actually requires should be assessed.
+
+This precedes omnipresence because presence is attributed per subject:
+
+\[
+\forall x\in\mathcal C\;PresentTo(g,x).
+\]
+
+The weaker coverage formula
+
+\[
+\forall x\in\mathcal C\;\exists g\;PresentTo(g,x)
+\]
+
+could be satisfied distributively by many limited beings. It establishes no individual's omnipresence. The unity pass must therefore identify the relevant $g$ before the project decides what $PresentTo$ means.
+
 ## Power, exercise, and existential sovereignty
 
 The power profile must distinguish capacities from their exercises:

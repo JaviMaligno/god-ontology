@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, and agency-respecting providence)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, and personal availability)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -28,6 +28,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
 | Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
 | Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
+| Ontological presence → universal personal availability → exercised regard → shared attention → communion | Established distinction family; project-specific integration | Stump distinguishes general omnipresence, personal presence, and significant presence through joint attention. The local sequence assigns capacity, divine exercise, creaturely co-production, and evaluative union to separate modules. |
 | OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
 | Finite analogous sourcehood → generative $S$ → asymmetric co-production | Established themes; potentially useful project synthesis | Divine freedom, creation for the sake of creatures, image-of-God agency, plural reasons, and non-maximizing world choice all have precedents. Their integration with MKO profiles and exclusion of pre-actual selection counterfactuals needs deeper comparison. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
@@ -82,6 +83,12 @@ The material-continuity alternative reopened after this pass is also established
 The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.stanford.edu/entries/omnipresence/) surveys the established knowledge, power, and cause-of-being approach alongside literal spatial occupation, the world-as-divine-body model, and accounts involving personal presence. [Joseph Jedwab, “God's Omnipresence”](https://doi.org/10.24204/ejpr.v8i2.61) is a contemporary defense of the classical attribute. [Eleonore Stump's treatment of union and presence](https://doi.org/10.1093/acprof:oso/9780199277421.001.0001) motivates distinguishing general presence from stronger second-person or shared-attention relations.
 
 The project's $Present_O$ is therefore not conceptually novel in its three broad ingredients. Its potentially useful feature is the typed integration: grounding reach preserves creaturely contrastive authorship, causal availability does not entail exercise, ACO supplies actuality-indexed access across E+, and $OP_M$ ranges conditionally over possible actualizations without reifying possibilia. This is presently classified as a project-specific synthesis of established components.
+
+## Personal availability: targeted precedent check
+
+[Eleonore Stump, “Omnipresence, Indwelling, and the Second-Personal”](https://doi.org/10.24204/ejpr.v5i4.204) explicitly distinguishes spatial or general omnipresence from being present with and to a person. Her account of joint attention also supports separating unilateral availability from significant reciprocal presence. The project adopts the distinction without importing the paper's specifically Christian claims about incarnation or indwelling.
+
+The S20 formulation is best classified as an organizational synthesis. Its potentially useful feature is the allocation of successive levels to already distinct project modules: $OP_A$ supplies ontological presence, $UPA$ supplies personal capacity, providence contains actual divine exercises, agentic co-production supplies reciprocity, and goodness later evaluates communion. Whether ACO must be extended beyond propositional truth-knowledge is an open burden rather than a claimed solution.
 
 ## Ontological production: targeted precedent check
 

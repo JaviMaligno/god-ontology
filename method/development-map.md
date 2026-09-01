@@ -52,7 +52,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
 | Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | selective F2 | S11 separates capacity, exercise, and global dependence and provisionally favors qualified maximality |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
-| Omnipresence | dependent attribute | F1 | hold after S15 | selective F2 | Ontological presence is preferred; personal presence remains a stronger open extension |
+| Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on the creation bridge, agency, providence, and value theory |
@@ -61,8 +61,8 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Make a short surface decision between personal presence and the goodness/value axis.
-2. Develop the selected branch at F1 without importing perfection.
+1. Open the goodness/value axis by separating meaning, grounds, and scope before evaluating worlds or suffering.
+2. Develop the branch at F1 without importing perfection, optimization, or universal exercised personal regard.
 3. Keep PMC and agency ecology as targeted deepening points rather than reopening their full modules without new support.
 4. Accumulate later hardening questions in the [challenge register](challenge-register.md).
 5. Select formalization triggers and targeted literature or novelty work where load-bearing.

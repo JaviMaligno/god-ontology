@@ -18,6 +18,7 @@ This register accumulates high-pressure questions for a later hardening pass aft
 | --- | --- | --- | --- |
 | CH01 | Could $G$ create a numerically distinct exact copy of itself? | divine uniqueness, qualified omnipotence, creation, necessity, dependence | `scoped` |
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | creative reason, generative structure, providence, later goodness | `scoped` |
+| CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `scoped` |
 
 ## CH01 — Divine self-copy
 
@@ -72,3 +73,18 @@ The later challenge must distinguish:
 5. brute residual parameters or events not explained by any of the above.
 
 Generative derivation may provide metaphysical explanation without yet providing moral justification. The goodness branch must later ask whether foreseeable costs of the selected package require countervailing reasons even when they are not separately chosen.
+
+## CH03 — Knowledge of another subject
+
+S20 derives universal personal availability only at a minimal level: $G$ individuates each actual conscious subject, knows the actual truths about that subject, and can address or respond directly. The challenge asks whether this remains an external third-person profile even when propositionally exhaustive.
+
+The later test must distinguish:
+
+1. knowing every true proposition about $A$;
+2. knowing that conscious states belong to $A$'s first-person perspective;
+3. acquaintance with $A$ as a subject;
+4. empathy or knowledge of what $A$'s experience is like;
+5. phenomenal identity with, or literal sharing of, $A$'s experience;
+6. actual reciprocal second-person engagement.
+
+The framework should neither assume that these collapse nor infer that a distinction automatically limits omniscience. It must decide which relations have truthmakers, which count as kinds of knowledge, which are coherent for numerically distinct subjects, and which are exercises rather than standing capacities.

@@ -723,7 +723,25 @@ Actualizes(G,\mathcal C)
 
 $OP_M$ does not make $G$ present to non-actual possibilia. It says that in any created order $G$ actualizes, the same grounding, epistemic, and causal architecture would make $G$ present to everything actual in that order.
 
-Personal presence is a possible stronger relation. Availability for second-person attention or response can be added for conscious agents, but its universal exercise would introduce claims about divine will, relationship, and perhaps goodness not yet established. It is therefore not part of minimal $OP_A$.
+For a conscious subject, personal presence separates into further levels:
+
+| Level | Relation |
+| --- | --- |
+| P1 | direct personal availability |
+| P2 | exercised divine regard, address, or response |
+| P3 | reciprocal or shared attention |
+| P4 | communion, love, or union |
+
+Minimal personal availability can be represented by:
+
+\[
+UPA(G)\quad\text{iff}\quad
+\forall A\forall t[Subject(A,t)\rightarrow Avail_P(G,A,t)].
+\]
+
+$Avail_P$ combines subject-sensitive epistemic access with the coherent capacity for direct intentional address or response. It is preferred conditionally because $G$ is already modeled as a conscious agent, ACO includes every actual truth about $A$, and $Present_O$ supplies direct causal availability without a spatial intermediary.
+
+This capacity does not entail its universal exercise. Actual regard belongs to divine will and providence; reciprocal attention also requires a creaturely cognitive contribution; loving communion adds evaluative content. Significant personal presence can therefore be asymmetrically co-produced while ontological presence remains universal. Whether ACO's propositional form exhausts acquaintance, empathy, phenomenal access, or irreducible second-person knowledge remains open.
 
 ## Intervention ontology
 
@@ -956,4 +974,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation are provisionally modeled in S04. S05–S15 subsequently develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. The next formal target will be selected after the inherited-corpus audit rather than assumed from this earlier local model.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. The next F1 branch is goodness; PMC, agency ecology, atemporal responsiveness, and interpersonal knowledge remain selective deepening targets.

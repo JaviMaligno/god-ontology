@@ -117,6 +117,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Existing empty regions and ontology-neutral domain scope
     - Actual omnipresence versus modal capacity
     - Ontological presence versus personal presence
+    - Universal personal availability
+    - Exercised regard, response, and atemporal address
+    - Shared attention as asymmetrically co-produced
+    - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?

@@ -91,6 +91,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
 21. **Miracle and Secondary Causation**
 22. **Providence as Architecture**
     - Control without exhaustive pre-programming
+    - A defeasible agency-preservation presumption
+    - Why physical magnitude does not measure source control
+    - Restoring, protecting, influencing, and overriding agency
+    - Token autonomy and the diachronic ecology of agency
     - Response and intervention under atemporality
 
 ## Part VII — Deriving further attributes
@@ -116,6 +120,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
 27. **Goodness, Nature, Choice, and Reasons**
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?
+    - Generative explanation versus moral justification of consequences
 28. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty

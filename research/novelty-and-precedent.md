@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, and the two-axis creation bridge)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, and agency-respecting providence)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -24,6 +24,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | ACO as the minimum, with modal knowledge and counterfactual knowledge treated as separable extensions | Synthesis / potentially distinctive formulation | Nearby theories distinguish omniscience, future contingents, and counterfactual knowledge, but this exact layered package and label were not found in the targeted search. |
 | Generative-structure actualization + asymmetric creaturely co-production + ACO | Synthesis / unassessed as a package | Each component has precedents; a proper search across creation, concurrence, secondary causation, and generative cosmology is still required. |
 | Providence as a global architectural relation rather than a causal mechanism | Synthesis / likely terminological | Closely related to qualified-providence models; distinctness may be expository rather than ontological. |
+| Agency-oriented creative reason → defeasible sourcehood-preserving intervention → qualified providence | Established compatibility family; project-specific typed synthesis | Aquinas relates providence to contingent effects and secondary causes; contemporary qualified-providence models permit libertarian creaturely input. The local contribution is the explicit derivation through feasible options, originable alternatives, capacity effects, source override, and non-agent targets. |
 | One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
 | Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
 | Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
@@ -47,6 +48,12 @@ The synthesis around ACO is closer to existing literature than the assistant ini
 This does not make the project redundant. It changes the productive question from “Has anyone combined atemporality and libertarian freedom?” to:
 
 > Which exact semantic, causal, and modal package does this project endorse, how does it improve on the nearest models, and what follows when it is integrated with generative creation and the intervention taxonomy?
+
+## Agency-respecting providence: targeted precedent check
+
+The S19 result belongs to an established compatibility problem but uses a project-specific derivation. [Aquinas, *Summa Theologiae* I, q. 22](https://www.newadvent.org/summa/1022.htm) allows providence to operate through contingent effects and secondary causes, although the present project does not import his stronger account of universal divine causation. The [Stanford Encyclopedia of Philosophy survey of divine providence](https://plato.stanford.edu/archives/spr2021/entries/providence-divine/) confirms that divine control, secondary causation, libertarian freedom, and free-will defenses are standard parts of the problem. [Rogers (2025)](https://doi.org/10.14428/thl.v9i2.85953) is the closest checked contemporary comparison because it combines eternalism, libertarian creaturely input, divine action, and substantial but non-absolute providence.
+
+The currently unverified contribution is narrower: deriving a defeasible intervention presumption from the S18 reason for creating finite sourcehood, then evaluating interventions through typed effects on feasible options, originable alternatives, capacities, source status, and non-agent targets. The separate diachronic notion of an agency ecology is a research prompt, not a present novelty claim.
 
 ## Divine uniqueness: targeted precedent check
 

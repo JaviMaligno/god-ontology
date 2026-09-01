@@ -423,6 +423,15 @@ Non-agentic reality remains expected. Shared regularity, information, persistent
 
 Reasons for $S$ initially range over $Profile_M(S)$ rather than pre-actual token choices. This preserves principle-guided creation, MKO, and C13. The exact choice terminates in reason-guided agentic settling; a later theory of goodness or perfect rationality may reopen whether a unique optimum or requiring reason exists.
 
+This profile is offered as a satisfying intelligibility model, not as knowledge of $G$'s ultimate actual motive. It neither requires an optimal world nor makes creation necessary. Explanatory coverage can also be generative rather than atomistic:
+
+\[
+ReasonSupported(S^*)\land S^*\models f
+\Rightarrow DerivativelyExplained(f).
+\]
+
+A physical feature that follows from a reason-supported structure need not receive an additional independent creative reason. Stochastic, agent-originated, and intervention-dependent outcomes require their own typed versions of this relation. Derivative explanation also does not yet establish that every foreseeable consequence is morally justified; that belongs to the goodness branch.
+
 ## Causal-role decomposition
 
 Asymmetric co-production requires typed relations rather than one unrestricted notion of grounding:
@@ -875,6 +884,17 @@ The magnitude or visibility of an intervention does not order its effect on free
 
 Manipulation may affect authenticity or moral responsibility even when these minimal libertarian conditions survive. That question is recorded but deferred to the ethical layer.
 
+The agency-oriented creative rationale now supplies a defeasible intervention presumption. If two interventions adequately serve the same relevant aim, and one preserves more originable alternatives, capacities, or sourcehood without another known defeating cost, that intervention is favored *ceteris paribus*. This is a reason relation, not a prohibition or a necessitating decision rule. Intervention can enhance, restore, preserve, reduce, or remove agency; nonintervention therefore has no automatic priority.
+
+The comparison can be represented without forcing its dimensions into a scalar:
+
+\[
+Impact_A(I,A,t)=
+\langle\Delta Feas_I,\Delta Orig_I,\Delta Capacity_I,SourceStatus_I\rangle.
+\]
+
+This local model leaves a diachronic problem open. Repeated context control may preserve token alternatives while engineering the development, salience, commitments, and long-run authorship of the subject. Later F2 work must therefore test an **agency ecology** in addition to token-act autonomy.
+
 ### Intervention, miracle, and providence
 
 These belong to different ontological levels:
@@ -903,6 +923,14 @@ Providence_G(H^*)=
 \]
 
 Providence adds no causal arrow. It organizes the relation of divine contributions to the coproduced history. Membership of a creaturely act in a providential history does not transfer its originating authorship to $G$.
+
+After the creative-reason bridge, the fuller agency-oriented schema is:
+
+\[
+Prov_A=\langle OEC(G,\mathcal C_0,S^*),\mathcal R_G,\mathbf I^*,H^*\rangle.
+\]
+
+This is **qualified agency-respecting providence**: $G$ retains the power to intervene and even to override sourcehood, while the rationale for created sourcehood normally counts against its unnecessary replacement. Providence can be responsive to an actual creaturely condition without temporal learning: the condition, response, and their relation are together constituents of $H^*$ and objects of ACO. The exact grounding relation and any self-consistency constraints remain an F2 problem.
 
 A representative case check preserves the distinctions:
 

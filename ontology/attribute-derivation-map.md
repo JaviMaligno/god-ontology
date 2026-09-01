@@ -36,7 +36,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Actual ontological omnipresence | Preferred conditional integration | Grounding reach, ACO, and direct causal availability extend to every actual created relatum | S15; C90–C92 | F1; selective F2 |
 | Modal omnipresence capacity | Preferred modal extension | The same presence architecture accompanies every possible order actualized by $G$ | S15; C93 | F1 |
 | Minimal personal agency | Earned/constitutive | Conscious subject, intellect, will, and action for reasons; C55–C64, C67 | S06–S07 | F1 |
-| Providence as architectural relation | Adopted downstream relation | `accepted`; C18, C45; S18 now supplies a possible agency-oriented purpose | S04, S18 | Reintegrate creative reason with intervention next; goodness later |
+| Qualified agency-respecting providence | Adopted downstream integration | `preferred`; creation, plural reasons, intervention, and asymmetric co-production are joined by a defeasible sourcehood-preservation presumption without exhaustive divine outcome control | S04, S18–S19; C115–C120 | Hold at F1; later test cumulative context control and atemporal responsiveness at F2 |
 
 ## Attributes not yet earned
 
@@ -62,4 +62,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 finds no omitted traditional attribute that must be inserted at this point. S17 prefers originative existential causation over material-continuity alternatives at F1 while retaining universal PMC as a possible defeater. S18 completes the second axis of the **creation bridge** provisionally: actual finite otherness and analogous sourcehood favor a generative $S$, while plural reasons and exact agentic settling preserve contingency. The next step is to test what this motive implies for intervention and providence. Goodness and stronger personal presence remain downstream rather than serving as premature premises.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17 prefers originative existential causation over material-continuity alternatives at F1 while retaining universal PMC as a possible defeater. S18 completes the second axis of the **creation bridge** provisionally: actual finite otherness and analogous sourcehood favor a generative $S$, while plural reasons and exact agentic settling preserve contingency. S19 reconnects that rationale to intervention and providence: preserving sourcehood is a defeasible consideration, physical intervention size does not measure control, and cumulative context design remains open. The next surface decision is whether to make a short pass over personal presence before opening the larger goodness/value branch.

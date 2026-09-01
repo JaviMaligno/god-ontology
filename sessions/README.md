@@ -24,3 +24,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S16 — Inherited-corpus audit](2026-09-01-inherited-corpus-audit.md)
 - [S17 — Ontological production and material continuity](2026-09-01-ontological-production.md)
 - [S18 — Creative reason without necessitation](2026-09-01-creative-reason.md)
+- [S19 — Agency-preserving intervention and providence](2026-09-01-agency-preserving-providence.md)

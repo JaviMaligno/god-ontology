@@ -157,7 +157,8 @@ These modules remain conditional on the upstream case for a necessary agent. The
 6. Develop omnipresence consistently with unity, non-spatiality, ACO/MKO, qualified power, atemporality, and existential sovereignty. S15 prefers actual ontological omnipresence and modal omnipresence capacity while leaving personal presence open.
 7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities. Completed in S16; the creation bridge is the principal inherited gap.
 8. Develop the creation bridge at F1 along two axes: ontological production and non-necessitating creative reason. S17 prefers OEC while retaining PMC as its decisive defeater; S18 prefers an agency-oriented plural reason profile and exact agentic settling without a maximizing choice function.
-9. Reconnect the completed bridge to providence and intervention. Current task; goodness remains a later evaluative branch.
-10. Select the genuinely fragile junctions for F2–F3 treatment.
-11. Run the dedicated literature, provenance, and novelty pass.
-12. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+9. Reconnect the completed bridge to providence and intervention. S19 derives a defeasible agency-preservation presumption and agency-respecting providence without yet assuming goodness.
+10. Choose between a short personal-presence pass and opening the goodness/value branch. Current task.
+11. Select the genuinely fragile junctions for F2–F3 treatment.
+12. Run the dedicated literature, provenance, and novelty pass.
+13. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

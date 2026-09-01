@@ -61,10 +61,10 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Test whether the agency-oriented reason profile yields a defeasible presumption for agency-preserving and lower-control intervention.
-2. Reconnect creative reason, intervention, and providence without yet assuming divine goodness.
-3. Keep PMC as the decisive production-axis defeater rather than reopening the full comparison without new support.
-4. Determine which conclusions belong to the later goodness and value-theory branch.
+1. Make a short surface decision between personal presence and the goodness/value axis.
+2. Develop the selected branch at F1 without importing perfection.
+3. Keep PMC and agency ecology as targeted deepening points rather than reopening their full modules without new support.
+4. Accumulate later hardening questions in the [challenge register](challenge-register.md).
 5. Select formalization triggers and targeted literature or novelty work where load-bearing.
 
 ## Depth-control rules

@@ -101,11 +101,13 @@ Both remain open. The hybrid fits the typed normative bridge especially well bec
 
 ## Sacrifice is not one evaluative claim
 
-Let $s$ be an act by which $A$ knowingly accepts cost $c$ for end, subject, relation, or project $g$ over interval $I$:
+Let $s$ be an act by which $A$ knowingly accepts cost $c$ for end, subject, relation, or project $g$, with beneficiary set $B$ and evaluative horizon $\tau$:
 
 \[
-Sacrifice(A,s,c,g,C,I).
+Sacrifice(A,s,c,g,B,C,\tau).
 \]
+
+$B$ may contain $A$, contemporaries, later subjects, or several of these; $\tau$ may extend beyond $A$'s life. This extension was made explicit in S25.
 
 At least three assessments must remain distinct:
 
@@ -117,12 +119,12 @@ Sacrifice therefore has no intrinsic positive sign. A fitting sacrifice requires
 
 ## Defeasible diachronic priority
 
-The long-term case is grounded first in temporally extended agency. A subject who forms, revises, and pursues projects over time is not merely a sequence of unrelated momentary appetites. Let $g$ be a stable project or commitment over interval $I$ and $p$ a conflicting transient pleasure. The project adopts a defeasible priority condition:
+The long-term case is grounded first in temporally extended agency. A subject who forms, revises, and pursues projects over time is not merely a sequence of unrelated momentary appetites. Let $g$ be a stable project or commitment, $p$ a conflicting transient pleasure, $B$ the affected or intended beneficiaries, and $\tau$ the relevant horizon. The project adopts a defeasible priority condition:
 
 \[
-DP(g,p;A,C,I)
+DP(g,p;A,B,C,\tau)
 \Rightarrow
-g\triangleright_{A,C,I}p,
+g\triangleright_{A,B,C,\tau}p,
 \]
 
 where $\triangleright$ is normative defeat rather than numerical superiority. $DP$ requires, provisionally:

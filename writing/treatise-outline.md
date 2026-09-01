@@ -135,8 +135,13 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Finite welfare as asymmetrically co-grounded
     - Creature-constructed value and the possibility that $G$ has no native evaluative standpoint
     - Semantic, attitudinal, procedural, intersubjective, and hybrid construction
-    - Sacrifice: cost, agentic excellence, personal welfare, and value for others
-    - Defeasible priority for long-term commitments over transient pleasures
+    - Finite normative pressure: vulnerability, dependence, coordination, and self-preservation
+    - Objective good as a fallibly approximable regulative standard
+    - Objective anchors and constructed personal, moral, and institutional specifications
+    - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
+    - Sacrifice: cost, agentic excellence, personal welfare, and value for contemporary or future others
+    - Defeasible priority for commitments extending beyond the agent's life
+    - Posthumous projects, future beneficiaries, uncertainty, and non-identity
     - Whether objective normativity threatens divine ultimity
     - Semantic, axiological, deontic, epistemic, and institutional voluntarism
     - The limits of unrestricted divine-choice voluntarism

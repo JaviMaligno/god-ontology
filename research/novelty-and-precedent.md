@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, and constructivism)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -37,6 +37,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Relational divine-source account: existential source of finite goods + objective normative fit + restricted norm-instituting choice | Established problem families; project-specific candidate synthesis | Overlaps theological voluntarism, divine-nature theories, the Euthyphro problem, well-being theory, and reasons-first approaches. S21 does not yet solve the ultimate ground of normative fit. |
 | Plural good-for profile + partial dominance + asymmetric co-grounding of token welfare | Established welfare families; project-specific integration | Pro tanto value, plural or objective-list goods, temporal welfare, and partial ordering are established. The local synthesis assigns divine, created-causal, epistemic, and normative-fit roles within the existing co-production model. |
 | $NoNativeNorm(G)$ + creature-constructed norms + defeasible diachronic priority | Established constructivist and temporal-welfare families; project-specific integration | Kantian, Humean, social, constitutivist, and hybrid construction are established. The local comparison connects them to divine ACO, atemporality, sourcehood, sacrifice, and time-indexed welfare. |
+| Objective anchors + fallible approximation + conscious-capacity profiles + extended beneficiaries | Established problem families; project-specific integration | Moral realism and epistemology, capacity-based moral status, animal consciousness, and intergenerational justice are established. S25 connects them to finite construction pressure, ACO/E+, and typed posthumous sacrifice. |
 | Robust agency may require difficulty/suffering not reproducible with vastly less suffering | Unassessed; high burden | Needs engagement with theodicy, soul-making, moral development, modal feasibility, and empirical psychology. |
 
 ## Most important correction to the conversation
@@ -124,6 +125,14 @@ The 2025 revision of the [Stanford Encyclopedia of Philosophy entry on metaethic
 
 S24 introduces no new constructivist family. Its local contribution is organizational: $NoNativeNorm(G)$ separates native divine evaluation from ACO knowledge of created practices; the divine-agent model exposes a scope problem for autonomous-subject construction; infant, animal, and manipulation cases motivate a hybrid; and $PTGF_d(x,A,C,\tau)$ plus normative defeat separates sacrifice's local cost from agentic, diachronic, and moral assessment. The adequacy of this integration remains untested.
 
+## Objective approximation and extended value: targeted precedent check
+
+The 2026 [Stanford Encyclopedia of Philosophy entry on moral realism](https://plato.stanford.edu/entries/moral-realism/) makes clear that realism's minimum commitment does not decide what grounds moral truth or require one substantive ethical theory. The [entry on moral epistemology](https://plato.stanford.edu/entries/moral-epistemology/) surveys disagreement, distortion, reflective methods, and qualified routes to moral knowledge. These are established pressures on any claim of fallible approximation.
+
+The [entry on animal consciousness](https://plato.stanford.edu/entries/consciousness-animal/) emphasizes conceptual plurality and uncertainty about conscious distribution, while the [entry on animal moral status](https://plato.stanford.edu/entries/moral-animal/) challenges sharp species boundaries drawn from allegedly unique capacities. The 2026 [entry on intergenerational justice](https://plato.stanford.edu/entries/justice-intergenerational/) treats duties to future people, epistemic limits, contingent identity, and the non-identity problem.
+
+S25 introduces no new family in any of these areas. Its potentially useful integration distinguishes finite pressure to construct norms from construction capacity, treats objective good as a regulative standard rather than a reified entity, routes welfare, norm construction, and responsibility through different capacity profiles, and extends the local sacrifice notation to explicit beneficiary sets and posthumous horizons. Its metaphysical ground and moral-status consequences remain open.
+
 ## Consciousness and agentive role: targeted precedent check
 
 The [Stanford Encyclopedia of Philosophy entry on consciousness](https://plato.stanford.edu/entries/consciousness/) documents the plurality of phenomenal, access, reflexive, and other consciousness concepts. [Ned Block's “On a Confusion about a Function of Consciousness”](https://doi.org/10.1017/S0140525X00038188) is a primary source for separating phenomenal experience from information availability for reasoning and action. The [Stanford Encyclopedia entry on the neuroscience of consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/) reviews both the distinction and continuing disputes about the relation between its terms.
@@ -150,4 +159,7 @@ No component warrants a novelty claim. The more specific package may be composit
 5. Map goodness proposals against voluntarism, divine nature theory, reasons fundamentalism, and the Euthyphro dilemma.
 6. Test the S23 welfare profile against hedonist, desire, objective-list, perfectionist, capability, variabilist, disability, animal-welfare, and temporal-welfare literature.
 7. Compare S24 with Kantian, Humean, social, constitutivist, hybrid, projectivist, error-theoretic, and theological approaches to constructed value.
-8. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
+8. Compare S25's approximation relation with realist moral epistemology, convergence arguments, reflective equilibrium, moral progress, and debunking objections.
+9. Test $CProf$ against developmental, disability, animal-consciousness, and moral-status literature without deriving status directly from cognitive sophistication.
+10. Test extended beneficiary sets against intergenerational justice, non-identity, population ethics, posthumous interests, and critiques of longtermism.
+11. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.

@@ -183,8 +183,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 13. Type the normative bridge between $G$ and created value bearers. S21–S23 distinguish existential grounding, value constitution, recognition, and institution; the ultimate ground of fit remains open.
 14. Develop good-for for conscious subjects through pro tanto dimensions, partial comparison, temporal scope, and asymmetric co-grounding. Initial F1 pass completed in S23; phenomenal valence is the current test anchor.
 15. Correct welfare notation, open creature-constructed normativity, and test sacrifice and long-term priority. S24 reserves $GF$ for generic or overall claims and adopts dimension- and time-indexed $PTGF_d$ plus defeasible diachronic priority.
-16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. Current task.
-17. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
-18. Select the remaining genuinely fragile junctions for F2–F3 treatment.
-19. Run the dedicated literature, provenance, and novelty pass.
-20. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. S25 prefers an objective-anchor hybrid at the functional level while leaving its ultimate metaphysical realization open.
+17. Identify the smallest objective anchor set and test epistemic approximation, conscious-capacity thresholds, and posthumous or intergenerational value. Current task.
+18. Give qualified omnipotence an F2 blocker analysis when that targeted deepening becomes load-bearing.
+19. Select the remaining genuinely fragile junctions for F2–F3 treatment.
+20. Run the dedicated literature, provenance, and novelty pass.
+21. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

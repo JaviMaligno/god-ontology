@@ -55,18 +55,19 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
-| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 foundations | compare hybrid construction with divine-source fit | selective F2–F3 | S23 adds plural good-for; S24 corrects dimensional/temporal scope and derives defeasible diachronic priority while opening creature-constructed value |
+| Goodness, reasons, suffering, and responsibility | evaluative branch | F1 preferred functional architecture | identify and ground the smallest objective anchor set | selective F2–F3 | S25 prefers objective anchors plus constructed specifications, separates finite construction pressure, and extends value across capacity profiles and future beneficiaries |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Test whether phenomenal valence and temporally extended agency ground a hybrid of non-constructed welfare and constructed personal, moral, or institutional norms.
-2. Compare that hybrid directly with necessary divine-source fit and creature-only global construction.
-3. Stress-test defeasible diachronic priority through sacrifice, self-control, future indifference, manipulation, and harm to others.
-4. Justify or revise each remaining welfare dimension without turning $WProf$ into an arbitrary list.
-5. Develop conflict handling beyond dominance and defeat only when mixed cases make aggregation load-bearing.
-6. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points; grow the leveled [challenge register](challenge-register.md) without interrupting the spine.
+1. Identify the smallest objective anchor set capable of grounding phenomenal harm, correction, and concern beyond self-preservation.
+2. Compare necessary relational fit, fit grounded in independently established features of $G$, and constrained divine-source grounding only where they differ substantively.
+3. Test epistemic approximation without privileged access, convergence as a truth-maker, or a complete metric.
+4. Refine conscious-capacity role thresholds and keep moral status separate unless it becomes load-bearing.
+5. Stress-test transpersonal and intergenerational value through non-identity, uncertainty, future free action, and conflicts with present subjects.
+6. Develop conflict handling beyond dominance and defeat only when mixed cases make aggregation load-bearing.
+7. Retain qualified-power blockers, PMC, and agency ecology as targeted deepening points; grow the leveled [challenge register](challenge-register.md) without interrupting the spine.
 
 ## Depth-control rules
 

@@ -39,6 +39,9 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | ACO, divine agency and goodness, constructivism, welfare, creation | `scoped` |
 | CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | welfare, agency, temporal scope, reasons, morality | `scoped` |
+| CH09 | How can fallible subjects be closer to objective good without possessing a metric, privileged access, or a method that secretly constitutes the standard? | moral epistemology, objective anchors, construction, disagreement | `scoped` |
+| CH10 | Which conscious capacities ground welfare, projects, norm construction, responsibility, and moral status, and why should differences in one role affect another? | consciousness, welfare, agency, moral status, development | `scoped` |
+| CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `scoped` |
 
 ## CH01 — Divine self-copy
 
@@ -156,3 +159,21 @@ The central counterpressures are that $G$ is itself an autonomous subject, non-r
 The challenge separates the cost's local valence, the quality of the agent's exercise, the act's diachronic effect on that agent, and its value for others. It tests voluntary treatment, study, caregiving, fidelity to promises, resistance to addiction, heroic self-sacrifice, coerced sacrifice, futile suffering, and long-term cruel projects.
 
 Any priority rule must explain why temporal location alone is not normatively decisive, why a stable commitment can express an extended agent better than a transient appetite, and when suffering, futility, uncertainty, disproportion, or harm to others defeats the project. C162–C164 supply a preferred defeasible structure rather than a lexical ranking.
+
+## CH09 — Objective approximation without privileged access
+
+The preferred direction treats some good-making facts as independent of actual endorsement while denying finite infallibility. The challenge is to justify $Closer_{Good}(J_2,J_1\mid E,C)$ without first assuming a complete account of good. Factual correction, resistance to manipulation and arbitrary exclusion, cross-case coherence, temporal robustness, affected-subject representation, and adversarial survival are evidence candidates. Each can be distorted or can conflict with another.
+
+The test must distinguish a truth-conducive indicator from a truth-maker. Consensus, reflective equilibrium, survival under criticism, or historical convergence cannot constitute the objective standard without turning the view back into constructivism. Conversely, refusal to admit any comparative evidence would make objective good explanatorily idle. Countermodels should include a coherent oppressive consensus, an isolated correct dissenter, persistent informed disagreement, and a community whose apparent moral improvement merely tracks power.
+
+## CH10 — Capacity profiles and moral status
+
+$CProf(A,t)$ separates phenomenal, access, self, temporal, agentive-source, and normative capacities. The immediate role assignments are deliberately asymmetric: phenomenal valence can suffice for welfare-bearing, while autonomous norm construction and moral responsibility require additional capacities. The challenge is whether those thresholds are defensible and whether any capacity difference grounds degrees of moral status.
+
+Tests include non-human animals with rich affect but limited normative competence, infants and developing children, cognitively impaired adults, temporarily unconscious subjects, agents with sophisticated planning but blunted valence, and artificial or unfamiliar subjects with uneven profiles. The project must avoid both demographic essentialism and a direct inference from lower responsibility to lower welfare importance. Equal, thresholded, relational, and graded status remain F2 competitors.
+
+## CH11 — Posthumous and intergenerational value
+
+The expanded notation $Sacrifice(A,s,c,g,B,C,\tau)$ and $DP(g,p;A,B,C,\tau)$ allows $B$ to include later subjects and $\tau$ to exceed $A$'s life. The challenge is to specify the value type: posthumous effects may fail to improve $A$'s later prudential welfare while expressing a commitment, preserving a relation or institution, or benefiting later subjects.
+
+Tests include anonymous future beneficiaries, policies that alter who will exist, projects with tiny probabilities and enormous claimed benefits, present rights sacrificed to aggregate future welfare, benefits dependent on future free acts, and valuable projects abandoned after the agent's death. Deliberation may use structural descriptions and probabilities without invoking pre-actual counterfactual truths of libertarian choice. Future temporal position supplies standing but neither automatic discount nor lexical dominance.

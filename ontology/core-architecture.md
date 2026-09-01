@@ -1062,19 +1062,50 @@ Knowledge of a constructed standpoint neither constitutes nor endorses it. A cre
 
 Pure actual-attitude construction is therefore disfavored. The strongest constructivist candidates are agency constitutivism and a hybrid in which phenomenal or other subject-affecting welfare facts are not constructed while personal, moral, and institutional norms are partly constituted by autonomous or intersubjective activity.
 
+### Objective anchors and finite normative pressure
+
+Construction must now be divided into capacity, practical pressure, exercise, and endorsement:
+
+\[
+CapConstruct(A,N),\quad PressureConstruct(A,N,C),\quad
+Constructs(A,N,C),\quad Endorses(A,N,C).
+\]
+
+Finite vulnerability, dependence, limited knowledge, inter-agent coordination, and diachronic self-maintenance can create pressure to formulate norms. If $G$ is necessarily existent and not exposed to existential loss, $G$ may lack the self-preservational part of that pressure while retaining the capacity. This is a conditional difference between divine and created agency, not an argument from absence of need to $NoNativeNorm(G)$. Other reasons—truth, recognition, relation, and creation—may still favor a divine evaluative standpoint.
+
+The preferred functional architecture is now an **objective-anchor hybrid**. Phenomenal harm and at least some relational or agentic goods set standards independent of actual endorsement, while temporal subjects construct more specific personal, moral, and institutional norms under those constraints. The metaphysical ground of the anchors remains open among necessary relational structure, fit grounded in independently established features of $G$, and a constrained divine-source relation.
+
+Temporal agents approach the objective standard fallibly. For judgment systems $J_1$ and $J_2$:
+
+\[
+Closer_{Good}(J_2,J_1\mid E,C)
+\]
+
+states a partial, evidence-relative epistemic comparison rather than a numerical distance or a construction of the good. Correction of factual and inferential error, resistance to manipulation and arbitrary exclusion, coherence across relevant cases and times, representation of affected subjects, and survival under informed criticism can support the comparison. Disagreement can lower confidence or leave judgments incomparable without proving that there is no objective truth.
+
+The project will no longer retain every coherent theory as equally active. Coherence and architectural compatibility establish admissibility; divergence cases establish a working preference; multiple metaphysical realizations remain only when the available discriminators leave residual underdetermination.
+
+Conscious subjects are represented by a profile rather than one ladder:
+
+\[
+CProf(A,t)=\langle PCon,Access,Self,Temporal,Source,Norm\rangle_{A,t}.
+\]
+
+Valenced phenomenal experience is the present sufficient anchor for being a phenomenal welfare bearer. Diachronic projects, autonomous norm construction, and moral responsibility require further combinations of temporal representation, access, self-governance, normative competence, epistemic opportunity, and sourcehood. Animals, children, adults, and cognitively impaired humans vary within and across these dimensions; the demographic categories do not assign profile values. Differences in reflective or normative capacity do not by themselves determine moral status or diminish the importance of suffering.
+
 ### Sacrifice and diachronic priority
 
-A sacrifice joins distinct evaluative questions. Its cost can remain $PTBF_d(c,A,C,t_0)$; the act can exhibit agentic excellence; its whole-life effect may benefit or harm $A$; and its moral value for another subject may diverge from its prudential effect. Costliness alone has no positive sign.
+A sacrifice joins distinct evaluative questions. Use $Sacrifice(A,s,c,g,B,C,\tau)$, where beneficiary set $B$ can contain $A$, contemporaries, and later subjects, and horizon $\tau$ may extend past $A$'s death. Its cost can remain $PTBF_d(c,A,C,t_0)$; the act can exhibit agentic excellence; its whole-life effect may benefit or harm $A$; and its value for other members of $B$ may diverge from its prudential effect. Costliness alone has no positive sign.
 
 Long-term priority is modeled through normative defeat rather than an unsupported scalar. For stable project or commitment $g$ and transient attraction $p$:
 
 \[
-DP(g,p;A,C,I)
+DP(g,p;A,B,C,\tau)
 \Rightarrow
-g\triangleright_{A,C,I}p.
+g\triangleright_{A,B,C,\tau}p.
 \]
 
-$DP$ requires informed and non-manipulated endorsement, stability across relevant temporal perspectives, realization or preservation of a justified welfare dimension, due concern for future welfare, proportionality, and no decisive undefeated harm to others. This supports study, caregiving, treatment, promises, or resistance to addiction against some immediate pleasures because the long-term commitment can express the temporally extended agent and preserve future authorship. Duration alone supplies no priority, and severe or futile suffering can defeat a project.
+$DP$ requires informed and non-manipulated endorsement, stability across relevant temporal perspectives, realization or preservation of a justified value dimension, due concern for affected subjects, proportionality, and no decisive undefeated harm. This supports study, caregiving, treatment, promises, or resistance to addiction against some immediate pleasures because the long-term commitment can express the temporally extended agent and preserve future authorship. It also permits commitments to contemporaries and future subjects beyond the agent's life. Posthumous effects need not be prudential goods for a no-longer-living $A$; they may instead express $A$'s commitment, preserve a relation or project, or be good for later members of $B$. Future location supplies neither automatic discount nor lexical priority, and the extension does not commit the project to maximizing longtermism.
 
 Good reasons remain non-necessitating:
 
@@ -1098,4 +1129,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24 corrects its dimensional and temporal notation, opens creature-constructed normativity as a serious alternative, and gives qualified sacrifice and long-term commitment a defeasible priority structure. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, and the ultimate ground of normative fit remain selective deepening targets.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21 opens goodness by distinguishing its targets and selecting a relational divine-source account for further evaluation. S22 separates phenomenal, access, self, and agentive consciousness and makes freedom explicitly token-relative. S23 begins the good-for branch with a plural welfare profile, pro tanto value, partial comparison, and asymmetrically co-grounded finite welfare. S24 corrects its dimensional and temporal notation, opens creature-constructed normativity, and gives qualified sacrifice and long-term commitment a defeasible priority structure. S25 prefers objective anchors with fallible temporal approximation, distinguishes finite construction pressure from capacity, models consciousness through a capacity profile, and extends value to beneficiary sets and posthumous horizons. PMC, the F2 blocker analysis for qualified power, agency ecology, atemporal responsiveness, interpersonal knowledge, moral status, and the ultimate ground of objective fit remain selective deepening targets.

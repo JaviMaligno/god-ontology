@@ -91,3 +91,5 @@ The backlog check places the inherited transition from relative transcendence to
 > What follows from $G$'s grounding of created spacetime and atemporality, and what additional premises would be needed to infer that $G$ is not spatially located or materially constituted?
 
 This order fixes both prerequisites for omnipresence: S13 identifies the subject; the next pass identifies that subject's relation to space.
+
+S14 completes that next F1 pass by distinguishing created-space aspatiality, physical immateriality, and abductive absolute fundamental non-spatiality.

@@ -31,6 +31,8 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Modal knowledge | Supported modal cognitive profile | `preferred`; C12, C48–C54 | S05 | Hold at F2 |
 | Atemporality relative to created time | Supported structural attribute | `preferred`; C14, C26, C28 | S01–S02 | Hold at F2 |
 | Relative transcendence of created spacetime | Earned from grounding and actualizing $S$ | `preferred`; C68 | S10 | F1 |
+| Created-space aspatiality and physical immateriality | Earned conditionally from ultimacy and grounding asymmetry | `preferred`; C84–C85 | S14 | F1 |
+| Absolute fundamental non-spatiality | Preferred abductively | No spatial arena or intrinsic geometry is required by the existing agency, knowledge, or power profile | S14; C86 | F1; selective F2 if challenged |
 | Minimal personal agency | Earned/constitutive | Conscious subject, intellect, will, and action for reasons; C55–C64, C67 | S06–S07 | F1 |
 | Providence as architectural relation | Adopted downstream relation | `accepted`; C18, C45 | S04 | Hold; reasons and goodness later |
 
@@ -41,8 +43,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Non-continuous global dependence | Supported | Existential sovereignty plus E+ permits one atemporal grounding relation without repeated maintenance | Whether a stronger conservation thesis adds anything | S11; hold at F1 |
 | Qualified omnipotence | Preferred definition; satisfaction provisionally favored | Actualizing, enabling, grounding, and intervening powers; no created limiter | Test whether any substantive non-created or internal limit defeats the abductive case for maximality | S11 at F1; selective F2 |
 | Unity/uniqueness | Preferred at the divine-ground level | One integrated contingent order, existential sovereignty, explanatory economy, and qualified maximal power favor $U_G$ and therefore $U_D$ under C04–C05 | Full simplicity and exhaustive perfection are unnecessary for the preferred result; unrestricted uniqueness of all necessary entities is not claimed | S13 at F1; selective F2 only if challenged |
-| Omnipresence | Deferred behind unity and non-spatiality | ACO, causal access, relative transcendence, and existential sovereignty | Define presence of one subject without substituting collective coverage or spatial extension | F1 after the non-spatiality pass |
-| Full immateriality or absolute non-spatiality | Current development | $G$ is not merely an internal constituent of created spacetime | Determine what follows from grounding spacetime and atemporality without importing full simplicity | Next F1 attribute pass |
+| Omnipresence | Current development | ACO, causal access, existential sovereignty, uniqueness, and non-spatiality | Define presence without substituting bodily distribution; determine its relata and modal scope | Next F1 attribute pass |
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
 | Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
@@ -55,8 +56,8 @@ Conditional on provisional C04 and preferred C05, the current cumulative profile
 
 > a necessary conscious and rational agent, preferred as the ultimate ground, capable of contingently actualizing a generative structure, knowing complete actuality and modal possibilities without temporal acquisition, standing in ontological priority to created spacetime, and possibly intervening within the created order.
 
-This is already more than an intermediary factory worker, because $G$ is preferred as the unique ultimate ground and actualizer rather than a contingent operator inside a prior reality. It remains less than the God of full classical theism because omnipresence, full simplicity, immutability, and goodness have not been earned, while qualified omnipotence remains provisional.
+This is already more than an intermediary factory worker, because $G$ is preferred as the unique, physically immaterial, and fundamentally non-spatial ultimate ground and actualizer rather than a contingent operator inside a prior reality. It remains less than the God of full classical theism because omnipresence, full simplicity, immutability, and goodness have not been earned, while qualified omnipotence remains provisional.
 
 ## Next derivation
 
-S13 reconstructs unity at F1 and prefers one necessary ultimate-ground agent without claiming that only one necessary entity of every category exists. The inherited-backlog check identifies the transition from relative transcendence to immateriality or non-spatiality as the next prerequisite. Omnipresence follows because its meaning depends on how the unique ground relates to created space.
+S14 develops relative transcendence into preferred created-space aspatiality, physical immateriality, and abductive absolute fundamental non-spatiality without importing simplicity. Both prerequisites for omnipresence are now available: S13 identifies the subject and S14 fixes its basic relation to space.

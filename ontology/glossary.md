@@ -14,6 +14,10 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Agent causation** | Origination of an action by an agent irreducible, in the intended libertarian version, to a sufficient chain of prior events or to randomness alone. | preferred; [U09](../corpus/transcript.md#user--u09) |
 | **Minimal intellect** | The capacity to apprehend live possibilities and relevant considerations sufficiently to act for reasons; weaker than ACO or unrestricted omniscience. | preferred; C67 |
 | **Relative transcendence** | $G$'s ontological priority to created spacetime and non-reducibility to a constituent wholly located within it; weaker than full immateriality or absolute non-spatiality. | preferred; C68 |
+| **Circumscriptive or fundamental location** | A relation in which an entity's basic mode of existence is bounded, extended, or individuated by a spatial order; stronger than derivative presence to a region. | working distinction; C84 |
+| **Created-space aspatiality** | $G$ is not circumscribed by or fundamentally constituted through a region of created spacetime. | preferred; C84 |
+| **Physical immateriality** | $G$ is not a body, field, or physical system constituted under the spacetime and physical structure it actualizes. | preferred relative to the created order; C85 |
+| **Absolute fundamental non-spatiality $ASP_G$** | No spatial order circumscribes, extends, or spatially individuates $G$ in its basic mode of existence. | preferred abductively; C86 |
 | **Existential sovereignty** | Dependence of every created entity, arena, and agentive power on $G$ for existence, without attributing the originating content of every event or free act to $G$. | preferred conditional thesis; C73 |
 | **Non-continuous global dependence** | Atemporal existential dependence of the created order on $G$ without repeated maintenance actions at each created time. | preferred; C72 |
 | **Qualified omnipotence $OMP_Q$** | Power to perform every action metaphysically coherent under independent necessary constraints and independently established essential features of $G$. | accepted definition; satisfaction provisional under C75 |

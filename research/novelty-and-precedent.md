@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness)
+**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality and immateriality)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -25,6 +25,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Generative-structure actualization + asymmetric creaturely co-production + ACO | Synthesis / unassessed as a package | Each component has precedents; a proper search across creation, concurrence, secondary causation, and generative cosmology is still required. |
 | Providence as a global architectural relation rather than a causal mechanism | Synthesis / likely terminological | Closely related to qualified-providence models; distinctness may be expository rather than ontological. |
 | One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
+| Created-space aspatiality, physical immateriality, and abductive absolute non-spatiality | Established distinction family; project-specific derivation order | Recent literature directly compares aspatial and spatially extended models. The project derives only non-containment by created spacetime, then selects absolute non-spatiality abductively without using simplicity or omnipresence as premises. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Goodness grounded in divine choice/nature while allowing plural reasons and resisting prior objective value | Unassessed and currently unstable | Overlaps voluntarism, divine nature theories, Euthyphro problems, and reasons-first debates. |
@@ -53,6 +54,16 @@ The F1 uniqueness pass found established argument families rather than a new pro
 - The [Stanford Encyclopedia of Philosophy entry on divine simplicity](https://plato.stanford.edu/entries/divine-simplicity/) clarifies that strong classical simplicity identifies God with the divine nature, existence, and attributes. That doctrine is controversial and is not a current premise of this project.
 
 The project-specific move is therefore an adaptation: it prefers $U_G$ after comparing partitioned, jointly organized, and redundantly total plural grounds, then derives $U_D$ conditionally from the existing necessary-agent commitments. Existential sovereignty remains distinct from sufficient causation of every libertarian act. This may be a useful synthesis of grounding, power, and asymmetric co-production, but it is not presently claimed as a novel demonstration.
+
+## Spatiality and immateriality: targeted precedent check
+
+The broad distinction between an aspatial God and a God literally extended throughout space is established:
+
+- The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.stanford.edu/entries/omnipresence/) surveys presence through knowledge, power, causal dependence, higher-dimensional space, and ubiquitous occupation. It shows that immateriality and location are separable questions with several developed answers.
+- [Ross Inman, “Omnipresence and the Location of the Immaterial”](https://doi.org/10.1093/oso/9780198806967.003.0008) maps historical and contemporary models and tests ubiquitous entension against accounts of material objects.
+- [William Lane Craig, “God and Space”](https://doi.org/10.3390/rel15030276) explicitly compares divine aspatiality with omnispatial extension.
+
+The project's contribution at this stage is organizational rather than a new spacelessness proof. It separates: (1) non-circumscription by the created spacetime $G$ grounds, (2) physical immateriality relative to that created order, and (3) absolute fundamental non-spatiality. Only the first two are treated as conditional consequences of the architecture; the third is selected abductively after a cost comparison. This ordering prevents omnipresence or full simplicity from entering circularly as premises.
 
 ## Research backlog
 

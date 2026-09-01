@@ -105,6 +105,8 @@ Apply pressure where the model bears weight:
 
 Likewise, compare the project with a named position once per substantive issue or in a dedicated literature section. Repeat the comparison only when a new inference depends on the difference. Molinism is relevant to the provenance of the rejected pre-actual counterfactual account, not a standing frame for discussions of ACO.
 
+A named author supplied as an example is a research pointer, not an instruction to inherit that author's derivation. Reconstruct the argument from the project's own accepted or preferred premises first. Historical premises may be borrowed only when independently supported here and when they do not make the attribute order circular.
+
 Do not manufacture symmetry. A well-supported working choice need not be suspended merely because an imaginable alternative exists. Record why it is preferred and what evidence could overturn it.
 
 ## Provenance and novelty
@@ -151,8 +153,8 @@ These modules remain conditional on the upstream case for a necessary agent. The
 2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported. F1 map completed in S10.
 3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. F1 distinction and qualified definition completed in S11; maximality is provisionally favored abductively, with no separate perfection premise adopted.
 4. Reconstruct the inherited argument for divine unity/uniqueness. S13 prefers one ultimate ground and, conditionally, one necessary ultimate-ground agent; it does not claim that only one necessary entity of every category exists.
-5. Deepen relative transcendence toward immateriality or non-spatiality, because the account of presence depends on $G$'s relation to created space. Current task.
-6. Develop omnipresence consistently with unity, the non-spatiality result, ACO/MKO, qualified power, atemporality, and existential sovereignty.
+5. Deepen relative transcendence toward immateriality or non-spatiality. S14 prefers created-space aspatiality and physical immateriality, and favors absolute fundamental non-spatiality abductively without importing simplicity.
+6. Develop omnipresence consistently with unity, non-spatiality, ACO/MKO, qualified power, atemporality, and existential sovereignty. Current task.
 7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities.
 8. Select the genuinely fragile junctions for F2–F3 treatment.
 9. Run the dedicated literature, provenance, and novelty pass.

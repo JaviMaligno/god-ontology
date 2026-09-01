@@ -448,6 +448,71 @@ The weaker coverage formula
 
 could be satisfied distributively by many limited beings. It establishes no individual's omnipresence. The unity pass must therefore identify the relevant $g$ before the project decides what $PresentTo$ means.
 
+## Spatial mode and physical immateriality
+
+Let $ST_{\mathcal C}$ be the spacetime of the contingent created order. Three claims must be distinguished:
+
+1. $G$ is not circumscribed by or fundamentally constituted through a region of $ST_{\mathcal C}$;
+2. $G$ is not constituted by the physical ontology governed by the created structure $S$;
+3. $G$ has no fundamental spatial extension or container in any possible order.
+
+The first two concern created spacetime and created matter. The third is absolute fundamental non-spatiality and carries a stronger modal burden.
+
+Define $CircumscribedBy(x,\Sigma)$ as the relation in which $x$'s basic mode of existence is spatially bounded, extended, or individuated by spatial order $\Sigma$. This is stronger than a derivative relation of presence to a region. Its dependence-bearing content is explicit:
+
+\[
+CircumscribedBy(x,\Sigma)
+\;\Rightarrow\;
+ModeDepends(x,\Sigma).
+\]
+
+Given C73 and preferred $U_G$, grounding asymmetry supplies:
+
+\[
+UltimateGround(G,\mathcal C)
+\land
+ST_{\mathcal C}\subseteq\mathcal C
+\;\Rightarrow\;
+\neg ModeDepends(G,ST_{\mathcal C}).
+\]
+
+Therefore:
+
+\[
+\neg CircumscribedBy(G,ST_{\mathcal C}).
+\]
+
+The inference uses the asymmetry of ultimate grounding: if created spacetime constituted $G$'s extension, boundaries, or spatial individuation, then $G$ would depend in its basic mode of existence on part of the order for which it is the ultimate ground. A contingent derivative location relation does not create that problem. The model can later say that $G$ is immediately related to a region through grounding, knowledge, power, or action without treating the region as a container or constituent of $G$.
+
+For this project, created-order materiality is the more precise thesis:
+
+\[
+Material_{\mathcal C}(x)
+\;\Rightarrow\;
+CircumscribedBy(x,ST_{\mathcal C})
+\land
+ConstitutedUnder(x,S_{\mathrm{phys}}).
+\]
+
+It follows conditionally that:
+
+\[
+\neg Material_{\mathcal C}(G).
+\]
+
+This is physical immateriality relative to the created order. It says that $G$ is not a body, field, or physical system constituted under the laws and ontology it actualizes.
+
+Absolute fundamental non-spatiality is stronger:
+
+\[
+ASP_G\quad\text{iff}\quad
+\neg\exists\Sigma\,CircumscribedBy(G,\Sigma).
+\]
+
+$ASP_G$ does not follow deductively from grounding created spacetime. A higher-dimensional arena, an uncreated spatial container, or intrinsic divine geometry remains describable. Each adds fundamental metric, topological, extended, or part-like structure. An external arena would either condition $G$ or require another unexplained necessary item; intrinsic geometry would add structure to $G$ without any current explanatory role. Since reason-guided agency, ACO, actualization, and intervention require no spatial organs, transmission, or movement, the project prefers $ASP_G$ abductively at F1.
+
+Neither physical immateriality nor $ASP_G$ entails full divine simplicity. A non-spatial agent may still have distinct powers, reasons, modal capacities, or other metaphysical structure. The only result required for the next module is that divine presence cannot be analyzed as bodily distribution through created space.
+
 ## Power, exercise, and existential sovereignty
 
 The power profile must distinguish capacities from their exercises:

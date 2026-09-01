@@ -92,8 +92,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
 25. **Immateriality and the Ground of Created Space**
-    - Relative transcendence versus absolute non-spatiality
+    - Created-space aspatiality, physical immateriality, and absolute non-spatiality
     - What grounding spacetime and atemporality do and do not entail
+    - Higher-dimensional, intrinsic-geometric, and ubiquitous-occupation alternatives
+    - Why non-spatiality does not entail full simplicity
 26. **What Could Omnipresence Mean Outside Space?**
     - Individual presence versus distributed coverage
 27. **Goodness, Nature, Choice, and Reasons**

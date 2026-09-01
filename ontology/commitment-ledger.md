@@ -110,6 +110,10 @@ This is the normative center of the repository. It records what the project curr
 | C81 | Conditional on C04–C05 and C80, there is exactly one necessary agent that is the ultimate ground of the contingent order: $U_D$. | `preferred` | This is the monotheistic uniqueness relevant to later divine attributes. It does not deny necessary abstracta or other derivative necessary items. | [S13](../sessions/2026-09-01-divine-uniqueness.md) |
 | C82 | Aquinas's simplicity and perfection arguments for divine unity are conditional resources rather than current premises. | `accepted` | Strong identity of God with the divine nature and exhaustive perfection have not been established; the unity-of-order route is usable as abductive support. | [S13](../sessions/2026-09-01-divine-uniqueness.md) |
 | C83 | Qualified omnipotence reinforces divine uniqueness: independently maximal divine agents would face possible conflict, reciprocal restriction, or an unexplained necessary concordance. | `preferred` | The argument is strong but depends on the independence and modal action domains of the proposed agents, so it is not treated as an unconditional demonstration. | [S13](../sessions/2026-09-01-divine-uniqueness.md) |
+| C84 | $G$ is not circumscribed by or fundamentally constituted through any region of created spacetime. | `preferred` | Created spacetime depends on its ultimate ground; making it constitutive of $G$'s basic mode of existence would reverse that dependence. Derivative relations of presence remain possible. | [S14](../sessions/2026-09-01-spatiality-and-immateriality.md) |
+| C85 | $G$ is physically immaterial relative to the created order: it is not a body, field, or physical system constituted under $S_{\mathrm{phys}}$. | `preferred` | The physical ontology and its spacetime belong to the order actualized and grounded by $G$. This qualified conclusion does not require full simplicity. | [S14](../sessions/2026-09-01-spatiality-and-immateriality.md) |
+| C86 | $G$ has no fundamental spatial extension or external spatial container in any order: $ASP_G$. | `preferred` | This is abductively favored rather than deduced. Uncreated space, higher dimensions, or intrinsic divine geometry add fundamental structure not required by agency, knowledge, actualization, or intervention. | [S14](../sessions/2026-09-01-spatiality-and-immateriality.md) |
+| C87 | Divine non-spatiality and physical immateriality do not entail full divine simplicity or absence of all metaphysical structure. | `accepted` | Powers, reasons, knowledge, and modal capacities may remain distinguishable without being spatial or material parts. | [S14](../sessions/2026-09-01-spatiality-and-immateriality.md) |
 
 ## Explicitly rejected or corrected moves
 
@@ -132,11 +136,14 @@ This is the normative center of the repository. It records what the project curr
 | R15 | “Necessary + simple → unique” is sufficient without further individuation or identity premises. | `rejected` | Minimal non-composition alone does not exclude primitively distinct simple beings; Aquinas's argument uses the stronger identity of God with the divine nature. |
 | R16 | The observed unity of the world deductively proves that there is exactly one designer or ground. | `rejected` | Unity of order also permits cooperating causes or unity of counsel; it supports C80 abductively when combined with economy and the grounding analysis. |
 | R17 | Total divine causality requires $G$ to be the strongly sufficient cause of every creaturely token act. | `rejected` | Existential sovereignty concerns the existence of agents, powers, and arena; asymmetric co-production preserves creaturely originating contributions. |
+| R18 | Grounding created spacetime deductively proves that $G$ cannot have any spatial structure in any possible order. | `rejected` | The grounding relation directly excludes created spacetime as constitutive of $G$; absolute non-spatiality requires a further abductive comparison. |
+| R19 | If $G$ is non-spatial, $G$ cannot be genuinely related or present to spatial creatures. | `rejected` | Non-containment is compatible with immediate grounding, epistemic, causal, and agentive relations to spatial entities. |
+| R20 | Immateriality or non-spatiality entails full divine simplicity. | `rejected` | Non-spatial powers and other metaphysical distinctions remain possible; C87. |
 
 ## Highest-priority open questions
 
-1. How far can relative transcendence be developed toward immateriality or non-spatiality without importing full divine simplicity?
-2. Once that relation to space is fixed, should omnipresence be understood through causal reach, epistemic access, grounding dependence, spatial presence, or some combination?
+1. Should omnipresence be understood through causal reach, epistemic access, grounding dependence, personal availability, or some combination?
+2. Does omnipresence range over empty spatial regions, only existing entities, every possible created order, or actuality alone?
 3. Which remaining inherited claims, if any, are still absent from the live architecture?
 4. What substantive defeater, if any, would motivate an essential boundary on divine power and overturn C75?
 5. What additional premise, if any, would promote preferred $U_G$–$U_D$ from an abductive conclusion to a stronger modal result?

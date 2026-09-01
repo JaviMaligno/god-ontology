@@ -24,7 +24,7 @@ unity.
 
 It was stated there in the compressed form “necessary + simple → unique.” The next substantive pass should reconstruct the strongest version rather than merely repeat that slogan, using standard historical arguments where they fit this ontology.
 
-## Two uniqueness theses
+## Initial scoping of two uniqueness theses
 
 Let $\mathcal C$ denote the total contingent order:
 
@@ -37,6 +37,15 @@ U_G\quad\text{iff}\quad
 U_N\quad\text{iff}\quad
 \exists!g\,NecessaryBeing(g).
 \]
+
+This was the scope distinction available at the start of S12. S13 corrects the second target: unrestricted $U_N$ is broader than divine uniqueness and would unnecessarily range over necessary truths, properties, abstracta, or other derivative necessary items. The live divine thesis is instead:
+
+\[
+U_D\quad\text{iff}\quad
+\exists!g\,[Necessary(g)\land Agent(g)\land UltimateGround(g,\mathcal C)].
+\]
+
+Accordingly, the $U_N$ row below is retained as a historical contrast, not as a current project target.
 
 | Thesis | Content | Immediate role |
 | --- | --- | --- |
@@ -74,11 +83,11 @@ The breadth-first spiral is subordinate to three controls:
 | Decision | Status | Reason | Provenance |
 | --- | --- | --- | --- |
 | Move unity/uniqueness ahead of omnipresence | accepted | It is inherited work and a conceptual prerequisite | Current discussion |
-| Distinguish $U_G$ from $U_N$ | accepted | They have different scope and argumentative burden | Current discussion |
+| Distinguish $U_G$ from unrestricted $U_N$ | accepted | Historical scope correction: S13 replaces $U_N$ with $U_D$ as the live divine thesis | Current discussion, S13 |
 | Reject collective coverage as individual omnipresence | accepted | Quantifier order distinguishes the claims | Current discussion |
 | Reconstruct rather than reinvent standard unity arguments | accepted method | The original conversation already identified the classical route and historical precedent | [A06](../corpus/transcript.md#assistant--a06), current discussion |
 | Adopt full simplicity as a premise | open | Only the minimum non-composition needed by a successful unity argument should be assessed | Current discussion |
 
 ## Next question
 
-Which inherited and standard arguments best support $U_G$ and $U_N$, and what minimum premises—independence, ultimacy, non-composition, unlimited power, or explanatory unity—does each require?
+S13 answers the next question at F1: the cumulative case supports $U_G$ abductively and $U_D$ conditionally on C04–C05. It does not support or require unrestricted $U_N$.

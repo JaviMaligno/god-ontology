@@ -17,8 +17,8 @@ Definitions are local to this project unless explicitly attributed. They are mea
 | **Existential sovereignty** | Dependence of every created entity, arena, and agentive power on $G$ for existence, without attributing the originating content of every event or free act to $G$. | preferred conditional thesis; C73 |
 | **Non-continuous global dependence** | Atemporal existential dependence of the created order on $G$ without repeated maintenance actions at each created time. | preferred; C72 |
 | **Qualified omnipotence $OMP_Q$** | Power to perform every action metaphysically coherent under independent necessary constraints and independently established essential features of $G$. | accepted definition; satisfaction provisional under C75 |
-| **Ground uniqueness $U_G$** | Exactly one being is the ultimate ground of the total contingent order. | open substantive thesis; scope accepted under C78 |
-| **Necessary-being uniqueness $U_N$** | Exactly one necessary being exists simpliciter; more globally exclusive than $U_G$ but not entailed by it without bridging premises. | open substantive thesis; scope accepted under C78 |
+| **Ground uniqueness $U_G$** | Exactly one being is the ultimate ground of the total contingent order. | preferred abductively; C80 |
+| **Divine-agent uniqueness $U_D$** | Exactly one necessary agent is the ultimate ground of the total contingent order. It does not imply that every necessary truth, property, abstract object, or derivative necessary item is identical with that agent. | preferred conditional on C04–C05 and $U_G$; C81 |
 | **Agentic settling** | The exercise by which a conscious agent makes one live option actual without the token act being sufficiently settled by the action-relevant antecedent conditions. | preferred; C55–C57 |
 | **Action-relevant antecedent $C_A^-$** | The agent's relevant nature, powers, reasons, circumstances, and causal background, excluding the token settling and its consequences. | provisional formal device; S06 |
 | **Non-necessitating reasons** | Reasons that support, rank, attract, inhibit, or make an act intelligible without entailing the agent's token selection. | accepted role; C56 |

@@ -1,6 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
-**Assessment date:** 2026-08-31  
+**Initial assessment date:** 2026-08-31
+**Latest targeted update:** 2026-09-01 (divine uniqueness)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -23,6 +24,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | ACO as the minimum, with modal knowledge and counterfactual knowledge treated as separable extensions | Synthesis / potentially distinctive formulation | Nearby theories distinguish omniscience, future contingents, and counterfactual knowledge, but this exact layered package and label were not found in the targeted search. |
 | Generative-structure actualization + asymmetric creaturely co-production + ACO | Synthesis / unassessed as a package | Each component has precedents; a proper search across creation, concurrence, secondary causation, and generative cosmology is still required. |
 | Providence as a global architectural relation rather than a causal mechanism | Synthesis / likely terminological | Closely related to qualified-providence models; distinctness may be expository rather than ontological. |
+| One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$ | Established argument family; project-specific synthesis | Aquinas supplies simplicity, perfection, and unity-of-order routes. The project uses the last abductively and combines it with existential sovereignty, qualified power, and a stress test of plural grounding without adopting full divine simplicity. |
 | Six-part intervention taxonomy integrated with changes in agency status | Potentially useful synthesis | Individual categories are familiar; completeness and precedent have not been systematically checked. |
 | Creation as “intervention zero” | Potentially distinctive phrase, unassessed concept | Likely close to standard creation/continuous-creation distinctions; phrase-level novelty has little philosophical weight. |
 | Goodness grounded in divine choice/nature while allowing plural reasons and resisting prior objective value | Unassessed and currently unstable | Overlaps voluntarism, divine nature theories, Euthyphro problems, and reasons-first debates. |
@@ -42,6 +44,16 @@ This does not make the project redundant. It changes the productive question fro
 
 > Which exact semantic, causal, and modal package does this project endorse, how does it improve on the nearest models, and what follows when it is integrated with generative creation and the intervention taxonomy?
 
+## Divine uniqueness: targeted precedent check
+
+The F1 uniqueness pass found established argument families rather than a new proof:
+
+- [Aquinas, *Summa Theologiae* I, q. 11, a. 3](https://www.newadvent.org/summa/1011.htm#article3) argues for divine unity through strong simplicity and individuation, exhaustive perfection, and the unity of the world's order.
+- The [Stanford Encyclopedia of Philosophy entry on monotheism](https://plato.stanford.edu/archives/spr2018/entries/monotheism/) surveys simplicity, perfection, sovereignty or total causality, and omnipotence arguments. It also exposes the extra premises behind each route: world-order can indicate unity of counsel without deductively excluding cooperation, while power arguments depend on whether distinct wills can conflict or must necessarily agree.
+- The [Stanford Encyclopedia of Philosophy entry on divine simplicity](https://plato.stanford.edu/entries/divine-simplicity/) clarifies that strong classical simplicity identifies God with the divine nature, existence, and attributes. That doctrine is controversial and is not a current premise of this project.
+
+The project-specific move is therefore an adaptation: it prefers $U_G$ after comparing partitioned, jointly organized, and redundantly total plural grounds, then derives $U_D$ conditionally from the existing necessary-agent commitments. Existential sovereignty remains distinct from sufficient causation of every libertarian act. This may be a useful synthesis of grounding, power, and asymmetric co-production, but it is not presently claimed as a novel demonstration.
+
 ## Research backlog
 
 1. Compare the E and F models formally with De Florio–Frigerio, Law–Miller–Rasmussen, Rogers, Ockhamism, Molinism, and open theism.
@@ -50,4 +62,3 @@ This does not make the project redundant. It changes the productive question fro
 4. Test whether “generating structure” adds ontology or only a useful systems vocabulary for laws plus boundary conditions.
 5. Map goodness proposals against voluntarism, divine nature theory, reasons fundamentalism, and the Euthyphro dilemma.
 6. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
-

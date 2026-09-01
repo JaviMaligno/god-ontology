@@ -51,21 +51,20 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
 | Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | selective F2 | S11 separates capacity, exercise, and global dependence and provisionally favors qualified maximality |
-| Unity/uniqueness | attribute prerequisite | F0–F1 inherited sketch | reconstruct and integrate at F1 | selective F2 | **Current substantive priority**; older corpus material and a prerequisite for non-collective omnipresence |
-| Omnipresence | dependent attribute | F0 | address only after the unity pass | F1 then selective F2 | Must be predicated of an identified subject, not satisfied by distributed coverage across a plurality |
+| Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
+| Omnipresence | dependent attribute | F0 | address after the non-spatiality pass | F1 then selective F2 | Its subject is now fixed, but the mode of presence depends on whether $G$ is spatially located |
+| Immateriality/non-spatiality | attribute prerequisite | F0–F1 | deepen relative transcendence at F1 | selective F2 | **Current substantive priority**; inherited gap between grounding spacetime and being present to it |
 | Goodness, reasons, suffering, and responsibility | evaluative branch | F0–F1 | later F1 | selective F2–F3 | Depends on agency, providence, and value theory |
 | Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 records the constraint without choosing a theory |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Reconstruct divine unity/uniqueness at F1 from the inherited independence, non-composition, individuation, and explanatory-unity arguments.
-2. Distinguish one ultimate ground of the total contingent order from one necessary being simpliciter, and decide how far the available premises reach.
-3. Develop omnipresence only after the subject of that attribution is fixed.
-4. Deepen relative transcendence toward immateriality.
-5. Audit the remaining inherited corpus before opening further new branches.
-6. Select formalization triggers and F2–F3 targets.
-7. Systematic literature and novelty mapping.
+1. Deepen relative transcendence toward immateriality or non-spatiality at F1, without importing full classical simplicity.
+2. Develop omnipresence once both its unique subject and its possible relation to created space are clear.
+3. Audit the remaining inherited corpus before opening further new branches.
+4. Select formalization triggers and F2–F3 targets.
+5. Systematic literature and novelty mapping.
 
 ## Depth-control rules
 

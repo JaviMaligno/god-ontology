@@ -386,7 +386,7 @@ Eternalist completeness adds no contradiction here. A complete block can depend 
 
 ## Unity as a prerequisite for presence
 
-Two uniqueness claims must not be conflated. Let $\mathcal C$ be the total contingent order:
+Let $\mathcal C$ be the total contingent order. The two relevant claims are:
 
 \[
 U_G\quad\text{iff}\quad
@@ -394,13 +394,45 @@ U_G\quad\text{iff}\quad
 \]
 
 \[
-U_N\quad\text{iff}\quad
-\exists!g\,NecessaryBeing(g).
+U_D\quad\text{iff}\quad
+\exists!g\,[Necessary(g)\land Agent(g)\land UltimateGround(g,\mathcal C)].
 \]
 
-$U_G$ says that the contingent order has one ultimate ground. $U_N$ says that exactly one necessary being exists at all. $U_N$ is more globally exclusive, but neither formula by itself entails the other without bridging assumptions. $U_G$ may be sufficient to fix the subject of attributes concerning the created order while leaving open whether other necessary realities exist.
+$U_G$ is ground uniqueness. $U_D$ is divine-agent uniqueness. Given C04–C05, $U_G$ supports $U_D$. Neither thesis says that only one necessary truth, property, abstract object, or derivative necessary being exists. That unrestricted claim is not needed for monotheism in this architecture.
 
-The inherited conversation already sketches a classical route from independence through non-composition and individuation to unity. The next pass must reconstruct that route and determine whether it establishes $U_G$, $U_N$, or only abductive preference for one of them. Full divine simplicity is not assumed in advance; only whatever non-composition premise the argument actually requires should be assessed.
+### Standard routes and their local force
+
+The inherited “necessary + simple → unique” route compresses several additional premises. Aquinas offers three arguments: individuation through divine simplicity, exhaustive perfection, and the unity of the world's order. Their roles here differ:
+
+| Route | Premises not yet available | Local result |
+| --- | --- | --- |
+| Simplicity and individuation | God is identical with the divine nature or existence in the strong classical sense | Conditional route only; minimal non-composition does not by itself exclude two primitively distinct simple beings |
+| Exhaustive perfection | God contains the whole perfection of being | Conditional route only; perfection cannot enter through rejected move R03 |
+| Unity of cosmic order | The contingent order is one integrated causal and nomic system | Abductive support for unity of its ultimate source |
+| Total causality or sovereignty | Every created entity and arena depends existentially on the divine ground | Strong support for one total ground, provided existential dependence is not confused with sufficient determination of every free act |
+| Qualified omnipotence | Distinct ultimate agents have independently maximal action domains | Strong support for one ultimate agent unless necessary concordance is independently grounded |
+
+### Plurality stress test
+
+A plural ultimate model has three principal forms:
+
+1. **Partitioned grounding:** each $G_i$ grounds only a suborder $\mathcal C_i$. Any real cross-domain laws, relations, or coordination then require a further ground. Without them, the plurality does not ground one integrated $\mathcal C$.
+2. **Joint grounding:** $\{G_1,\ldots,G_n\}$ grounds $\mathcal C$ only collectively. The coordination or collective structure becomes an additional fundamental fact; if it performs the unifying explanatory work, the plurality as organized is closer to the ground than any member is.
+3. **Redundant total grounding:** every $G_i$ grounds the whole $\mathcal C$. This adds explanatorily idle duplication and, when the agents possess contingent will and maximal power, requires either possible conflict or a primitive necessary concordance.
+
+None of these descriptions is formally contradictory without further premises. Each adds a partition, coordination structure, redundancy, or modal harmony absent from the one-ground model. The cumulative inference is therefore abductive:
+
+\[
+U_G\quad\text{is preferred}.
+\]
+
+Conditional on C04–C05, the unique total ground is the necessary agent already developed by the project:
+
+\[
+U_G\land C04\land C05\;\Rightarrow\;U_D.
+\]
+
+$U_D$ is consequently preferred as well. Qualified omnipotence reinforces the result: a second independently maximal agent would either restrict the first agent's coherent action domain or require their possible wills to be necessarily coordinated. The former compromises maximality; the latter introduces a further modal constraint needing explanation. This is supporting pressure, not a premise-free proof.
 
 This precedes omnipresence because presence is attributed per subject:
 

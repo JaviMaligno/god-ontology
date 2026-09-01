@@ -150,9 +150,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 1. Compare necessary agent and impersonal necessary structure under shared criteria. F1 cost audit completed in S09; C05 remains preferred.
 2. Build the high-level attribute derivation map: intellect, knowledge, power, presence, atemporality, goodness, and personhood must each be marked as derived, supported, optional, or unsupported. F1 map completed in S10.
 3. Examine the scope of divine power, beginning with actualization, sustenance, and intervention before assessing omnipotence. F1 distinction and qualified definition completed in S11; maximality is provisionally favored abductively, with no separate perfection premise adopted.
-4. Reconstruct the inherited argument for divine unity/uniqueness, distinguishing uniqueness of the ultimate ground of the contingent order from uniqueness of necessary being simpliciter. Next task.
-5. Develop omnipresence consistently with the resulting unity thesis, ACO/MKO, qualified power, atemporality, and existential sovereignty.
-6. Deepen relative transcendence toward immateriality.
+4. Reconstruct the inherited argument for divine unity/uniqueness. S13 prefers one ultimate ground and, conditionally, one necessary ultimate-ground agent; it does not claim that only one necessary entity of every category exists.
+5. Deepen relative transcendence toward immateriality or non-spatiality, because the account of presence depends on $G$'s relation to created space. Current task.
+6. Develop omnipresence consistently with unity, the non-spatiality result, ACO/MKO, qualified power, atemporality, and existential sovereignty.
 7. Make a whole-ontology surface pass to expose further inherited material, missing links, and misplaced priorities.
 8. Select the genuinely fragile junctions for F2–F3 treatment.
 9. Run the dedicated literature, provenance, and novelty pass.

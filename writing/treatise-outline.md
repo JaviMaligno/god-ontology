@@ -83,27 +83,32 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Control without exhaustive pre-programming
     - Response and intervention under atemporality
 
-## Part VII — Attributes not yet earned
+## Part VII — Deriving further attributes
 
 23. **Unity and the Uniqueness of the Ground**
-    - One ground of the contingent order versus one necessary being simpliciter
-    - Independence, non-composition, individuation, and explanatory unity
+    - One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$
+    - Why monotheism need not deny necessary abstracta or derivative necessary items
+    - Partitioned, joint, and redundantly total plural-ground models
+    - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
-25. **What Could Omnipresence Mean Outside Space?**
+25. **Immateriality and the Ground of Created Space**
+    - Relative transcendence versus absolute non-spatiality
+    - What grounding spacetime and atemporality do and do not entail
+26. **What Could Omnipresence Mean Outside Space?**
     - Individual presence versus distributed coverage
-26. **Goodness, Nature, Choice, and Reasons**
+27. **Goodness, Nature, Choice, and Reasons**
     - Are reasons prior to the agent?
     - Can reasons be plural without arbitrariness?
-27. **Agency, Development, Suffering, and Evil**
+28. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty
 
 ## Part VIII — Comparison and evaluation
 
-28. **Naturalist and Mathematical-Structural Alternatives**
-29. **Classical Theism, Molinism, Open Theism, and Timeless Models**
-30. **What the Model Explains and Where It Stops**
-31. **Established Elements, New Synthesis, and Remaining Work**
+29. **Naturalist and Mathematical-Structural Alternatives**
+30. **Classical Theism, Molinism, Open Theism, and Timeless Models**
+31. **What the Model Explains and Where It Stops**
+32. **Established Elements, New Synthesis, and Remaining Work**
 
 ## Appendices
 

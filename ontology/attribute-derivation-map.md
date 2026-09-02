@@ -51,7 +51,7 @@ This is the F1 control map for the transition from necessary agent to a fuller G
 | Divine simplicity | Not adopted | Some explanatory unification may be useful | Show which identity claims are coherent and necessary | Optional F1; full doctrine not presumed |
 | Full immutability | Deferred | No temporal learning or epistemic update | Establish why a stronger invariance thesis is needed before developing it | Later classical-attribute pass |
 | Full classical personhood | Open beyond minimal agency | Subjectivity, intellect, will, reasons | Relational, affective, moral, and theological content | Later |
-| Goodness or omnibenevolence | Open attribute; minimal interface closed at F1 | S27 supplies $\mathcal A_{min}$, objective $Fit_*$, typed evil, sacrifice, minimal longtermism, species continuity, and provisionally $G$-grounded fit | Show that $G$ perfectly satisfies the standard; test the grounding bridge non-circularly only when this attribute becomes load-bearing | S21, S23–S27; local F2 only if ontologically required |
+| Goodness or omnibenevolence | Open attribute; minimal interface closed with local F2 repair | S27–S28 supply $\mathcal A_{min}$, decomposed objective $Fit_*$, due-good privation, sacrifice under belief or faith, positive long-term preference, species continuity, and provisionally $G$-grounded fit | Show that $G$ perfectly satisfies the standard; test the grounding bridge non-circularly only when this attribute becomes load-bearing | S21, S23–S28; further F2 only if ontologically required |
 | Perfection | Rejected as an automatic inference | None required by necessity or creatorhood alone | Independent account would be needed | Do not use as a bridge |
 
 ## Present stopping point
@@ -64,4 +64,4 @@ This is already more than an intermediary factory worker, because $G$ is preferr
 
 ## Next derivation
 
-S16 finds no omitted traditional attribute that must be inserted at this point. S17–S20 complete the creation bridge, agency-respecting providence, and personal availability at F1. S21–S27 build and close the minimal axiological interface without yet earning divine goodness. Priority now returns to the ontological trunk: audit OEC/PMC, qualified-power blockers, interpersonal knowledge, and cumulative agency effects, then select the most load-bearing junction for F2.
+S16 finds no omitted traditional attribute that must be inserted at this point. S17–S20 complete the creation bridge, agency-respecting providence, and personal availability at F1. S21–S28 build, close, and locally repair the minimal axiological interface without yet earning divine goodness. Priority now returns to the ontological trunk through divine constitution and material production: clarify composition, substrate, and substance for $G$, then use the result to deepen OEC/PMC before the remaining qualified-power, interpersonal-knowledge, and cumulative-agency gaps.

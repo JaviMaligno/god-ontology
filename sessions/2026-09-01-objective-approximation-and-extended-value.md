@@ -72,7 +72,7 @@ Candidate indicators include:
 2. resistance to manipulation, arbitrary exclusion, and self-serving distortion;
 3. coherence across relevantly similar cases and temporal perspectives;
 4. better representation of the experiences, interests, agency, and relations of affected subjects;
-5. survival under informed adversarial criticism and a broader evidential base;
+5. survival under adversarial criticism responsive to a broader evidential base;
 6. capacity to explain sacrifice, moral error, and concern beyond the evaluator's own lifetime.
 
 These indicators are defeasible evidence of approximation, not what makes the objective good true. Otherwise consensus or method would silently become the constructor of the standard. Persistent disagreement therefore weakens confidence and may block a ranking; it does not by itself prove that no objective answer exists.
@@ -134,7 +134,7 @@ DP(g,p;A,B,C,\tau)
 g\triangleright_{A,B,C,\tau}p.
 \]
 
-$B$ may contain $A$, contemporaries, later subjects, or a mixture; $\tau$ may extend past $A$'s death. The expanded condition retains information, non-manipulation, causal suitability, temporal robustness, proportionality, and undefeated effects on affected subjects.
+$B$ may contain $A$, contemporaries, later subjects, or a mixture; $\tau$ may extend past $A$'s death. The expanded condition retains sincere orientation, non-culpable attention to accessible reasons, non-manipulation, causal suitability, temporal robustness, proportionality, and undefeated effects on affected subjects. S28 clarifies that information is a defeasible input rather than a universal threshold.
 
 This creates an important typing distinction. A costly act may:
 

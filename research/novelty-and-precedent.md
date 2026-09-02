@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-01 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, evil, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine simplicity, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -38,7 +38,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Plural good-for profile + partial dominance + asymmetric co-grounding of token welfare | Established welfare families; project-specific integration | Pro tanto value, plural or objective-list goods, temporal welfare, and partial ordering are established. The local synthesis assigns divine, created-causal, epistemic, and normative-fit roles within the existing co-production model. |
 | $NoNativeNorm(G)$ + creature-constructed norms + defeasible diachronic priority | Established constructivist and temporal-welfare families; project-specific integration | Kantian, Humean, social, constitutivist, and hybrid construction are established. The local comparison connects them to divine ACO, atemporality, sourcehood, sacrifice, and time-indexed welfare. |
 | Objective anchors + fallible approximation + conscious-capacity profiles + extended beneficiaries | Established problem families; project-specific integration | Moral realism and epistemology, capacity-based moral status, animal consciousness, and intergenerational justice are established. S25 connects them to finite construction pressure, ACO/E+, and typed posthumous sacrifice. |
-| $\mathcal A_{min}=\{P,S,R\}$ + $Fit_*$ + typed evil + minimal longtermism | Established components; project-specific compression | Plural value, fittingness, broad/grave and natural/moral evil, future standing, and strong longtermism are established. S27 compresses them into one interface with consciousness, sourcehood, personal relation, E+, ACO, and divine grounding. |
+| $\mathcal A_{min}=\{P,S,R\}$ + decomposed $Fit_*$ + due-good privation + positive long-term preference | Established components; project-specific compression | Fittingness, privation of due good, faith or trust under uncertainty, future standing, and strong longtermism are established. S27–S28 compress them into one interface with consciousness, sourcehood, personal relation, E+, ACO, and divine grounding. |
 | Robust agency may require difficulty/suffering not reproducible with vastly less suffering | Unassessed; high burden | Needs engagement with theodicy, soul-making, moral development, modal feasibility, and empirical psychology. |
 
 ## Most important correction to the conversation
@@ -142,6 +142,14 @@ The 2026 [entry on intergenerational justice](https://plato.stanford.edu/entries
 
 S27 claims no new theory of value, evil, or future generations. Its local synthesis applies one admitted $Fit_*$ relation to three independently developed ontological domains, then uses typed causal authorship for moral evil and E+ for long-horizon standing. Provisional essential grounding of $Fit_*$ in $G$ remains a research burden rather than a novelty claim.
 
+## Long-term fit, faith, privation, and divine constitution: targeted precedent check
+
+The [Stanford Encyclopedia of Philosophy entry on faith](https://plato.stanford.edu/entries/faith/) treats faith through relations among belief, trust, hope, desire, practical commitment, risk, and vulnerability. This supports separating the orientation of a sacrifice from knowledge of its success. The archived [entry on fitting-attitude theories](https://plato.stanford.edu/archives/spr2023/entries/fitting-attitude-theories/) confirms that fittingness is an established normative notion rather than a reduction of normativity to physical description.
+
+[Aquinas, *Summa Theologiae* I, q. 48](https://www.newadvent.org/summa/1048.htm) distinguishes privation from mere negation through absence of a naturally due good. S28 borrows the due-good restriction without importing Aquinas's full teleology, convertibility of being and good, or divine simplicity. The [Stanford Encyclopedia entry on divine simplicity](https://plato.stanford.edu/entries/divine-simplicity/) locates the question of divine composition within established material–form, act–potency, essence–existence, and related identity claims.
+
+S28 makes no novelty claim for these elements. Its local synthesis distinguishes agentic or faithful worth, objective fit, and causal success; decomposes $Fit_*$ into eligibility, directedness, apt response, scope, and defeat; treats positive pains or actions as possible vehicles of due-good privation; interprets hell-like absence through the existing levels of divine presence; and routes divine composition directly into OEC/PMC. The non-circular ground of directedness and the production of matter remain open.
+
 ## Consciousness and agentive role: targeted precedent check
 
 The [Stanford Encyclopedia of Philosophy entry on consciousness](https://plato.stanford.edu/entries/consciousness/) documents the plurality of phenomenal, access, reflexive, and other consciousness concepts. [Ned Block's “On a Confusion about a Function of Consciousness”](https://doi.org/10.1017/S0140525X00038188) is a primary source for separating phenomenal experience from information availability for reasoning and action. The [Stanford Encyclopedia entry on the neuroscience of consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/) reviews both the distinction and continuing disputes about the relation between its terms.
@@ -171,5 +179,6 @@ No component warrants a novelty claim. The more specific package may be composit
 8. Compare S25's approximation relation with realist moral epistemology, convergence arguments, reflective equilibrium, moral progress, and debunking objections.
 9. Test $CProf$ against developmental, disability, animal-consciousness, and moral-status literature without deriving status directly from cognitive sophistication.
 10. Test extended beneficiary sets against intergenerational justice, non-identity, population ethics, posthumous interests, and critiques of longtermism.
-11. Test the proposed $\mathcal A_{min}$ and $Fit_*$ compression against fitting-attitude, reasons-first, privation, natural-law, divine-nature, and plural-value theories only if divine goodness becomes load-bearing.
-12. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
+11. Test the proposed $\mathcal A_{min}$, decomposed $Fit_*$, and due-good privation against fitting-attitude, reasons-first, natural-law, divine-nature, and plural-value theories only if divine goodness becomes load-bearing.
+12. Compare non-composite and structured divine substance, creation *ex nihilo* and *ex deo*, emanation, hylomorphic and substrate models, and contemporary accounts of divine causal production as the next load-bearing search.
+13. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.

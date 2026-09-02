@@ -120,7 +120,7 @@ Apply pressure where the model bears weight:
 - demand exact truth conditions when verbal reconciliation hides a modal problem;
 - stop repeating an objection once answered unless a new dependency or source reopens it.
 
-Ontology governs the research order. Ethics is developed as a minimal axiological interface sufficient for good, evil, sacrifice, minimal longtermism, species or transpersonal continuity, and their relation to $G$. Detailed moral status, population ethics, complete aggregation, strong or maximizing longtermism, and applied ethics remain optional unless they become prerequisites or expose an ontological inconsistency.
+Ontology governs the research order. Ethics is developed as a minimal axiological interface sufficient for good, evil, sacrifice, positive defeasible long-term preference, species or transpersonal continuity, and their relation to $G$. Detailed moral status, population ethics, complete aggregation, a complete strong or maximizing longtermism, and applied ethics remain optional unless they become prerequisites or expose an ontological inconsistency.
 
 Scientific and other empirical work may inform examples, actual-world realization, and abductive comparison. It constrains a metaphysical claim when an explicit bridge derives an empirically testable consequence that conflicts with robust evidence. Operational definitions, present non-detection, or methodological exclusion do not by themselves define or veto metaphysical categories; genuine empirical contradictions cannot be dismissed merely by labeling a claim metaphysical.
 
@@ -188,9 +188,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 14. Develop good-for for conscious subjects through pro tanto dimensions, partial comparison, temporal scope, and asymmetric co-grounding. Initial F1 pass completed in S23; phenomenal valence is the current test anchor.
 15. Correct welfare notation, open creature-constructed normativity, and test sacrifice and long-term priority. S24 reserves $GF$ for generic or overall claims and adopts dimension- and time-indexed $PTGF_d$ plus defeasible diachronic priority.
 16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. S25 prefers an objective-anchor hybrid at the functional level while leaving its ultimate metaphysical realization open.
-17. Close the minimal axiological interface with only the anchors needed for good and evil, sacrifice, minimal longtermism, species continuity, and relation to $G$. Completed at F1 in S27.
-18. Return to the ontological spine and audit OEC/PMC, qualified-power blockers, ACO's interpersonal knowledge gap, and cumulative agency effects by load-bearingness. Current task.
-19. Give the selected ontological junction an F2 pass; retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-20. Select the remaining genuinely fragile junctions for F2–F3 treatment.
-21. Run the dedicated literature, provenance, and novelty pass.
-22. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+17. Close the minimal axiological interface with only the anchors needed for good and evil, sacrifice, long-term preference, species continuity, and relation to $G$. Completed at F1 in S27.
+18. Apply the requested local F2 repair: make long-term preference positive, replace informational thresholds with an epistemic-orientation profile, decompose $Fit_*$, and formulate evil through due-good privation. Completed in S28.
+19. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Current task.
+20. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+21. Select the remaining genuinely fragile junctions—qualified-power blockers, interpersonal knowledge, cumulative agency, and any residual creation gap—for F2–F3 treatment.
+22. Run the dedicated literature, provenance, and novelty pass.
+23. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

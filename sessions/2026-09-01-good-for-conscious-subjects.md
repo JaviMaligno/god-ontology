@@ -65,7 +65,7 @@ No dimension is unrestricted. More options can burden rather than benefit; painf
 
 Current desire is neither necessary nor sufficient for good-for. A subject may want what is based on deception, addiction, manipulation, transient compulsion, or ignorance, and infants or some animals can fare well or badly without reflective endorsement.
 
-For a capable agent, however, informed and non-manipulated endorsement is important evidence and can itself contribute to authored well-being. A purported objective benefit that the subject could not value from any adequately informed and undistorted standpoint faces an alienation defeater. This is a constraint on objective-list reasoning, not a reduction to actual preference.
+For a capable agent, however, sincere, reflective, and non-manipulated endorsement responsive to accessible reasons is important evidence and can itself contribute to authored well-being. A purported objective benefit that the subject could not value from any such undistorted standpoint faces an alienation defeater. This is a constraint on objective-list reasoning, not a reduction to actual preference or a requirement of complete or true information. S28 makes this epistemic correction explicit.
 
 ## Case matrix
 
@@ -129,7 +129,7 @@ The strongest live form of “normativity emerges from $G$” would make the pri
 | Separate pro tanto and all-things-considered good-for | accepted | Benefits and harms can coexist across dimensions and time |
 | Use a plural welfare profile without a total scalar | provisional | It captures current cases while avoiding premature commensuration |
 | Equate current desire or pleasure with total good-for | rejected | Deception, addiction, manipulation, and diachronic damage provide counterexamples |
-| Treat informed non-alienated endorsement as evidence and sometimes a constituent | preferred | Preserves the subject connection without making preference infallible |
+| Treat sincere, reflective, non-alienated endorsement responsive to accessible reasons as evidence and sometimes a constituent | preferred; clarified in S28 | Preserves the subject connection without making preference infallible or complete information necessary |
 | Treat finite welfare facts as asymmetrically co-grounded | provisional | Integrates value with creation and creaturely causal authorship without divine token determination |
 | Ground principles of normative fit directly in $G$'s necessary nature | open candidate | Promising for the author's direction, but no independently established divine feature yet supplies the required valence |
 | Treat empirical inquiry as necessary for applying the welfare account | accepted | Actual profiles and effects require evidence, although evidence alone does not derive their normative valence |

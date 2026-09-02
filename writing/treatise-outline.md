@@ -114,10 +114,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Incoherent, created, internal, and non-created external blockers
 25. **Immateriality and the Ground of Created Space**
     - Created-space aspatiality, physical immateriality, and absolute non-spatiality
+    - What is $G$ made of? Composition, substrate, constitution, and analogical substance
+    - Non-composite source, structured non-material substance, *ex deo*, and co-fundamental substrate models
     - What grounding spacetime and atemporality do and do not entail
     - Higher-dimensional, intrinsic-geometric, and ubiquitous-occupation alternatives
     - Why non-spatiality does not entail full simplicity
-    - Cross-category production and material-continuity alternatives
+    - Cross-category production, OEC/PMC, and material-continuity alternatives
 26. **What Could Omnipresence Mean Outside Space?**
     - Grounding reach, epistemic access, and causal availability
     - Individual presence versus distributed coverage
@@ -134,7 +136,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Welfare bearers and why good-for can precede good simpliciter
     - Phenomenal valence, functioning, agency, truth, relationship, and diachronic integrity
     - Pro tanto value, multidimensional dominance, and unresolved trade-offs
-    - Desire, informed endorsement, and alienation
+    - Desire, epistemically responsible endorsement, and alienation
     - Finite welfare as asymmetrically co-grounded
     - Creature-constructed value and the possibility that $G$ has no native evaluative standpoint
     - Semantic, attitudinal, procedural, intersubjective, and hybrid construction
@@ -142,10 +144,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Objective good as a fallibly approximable regulative standard
     - Objective anchors and constructed personal, moral, and institutional specifications
     - The minimum anchor domain: conscious valence, sourcehood, and truthful recognition
-    - Objective fit as the single axiological bridge
+    - Objective fit as the single axiological bridge: eligibility, directed profile, apt response, scope, and defeat
+    - The remaining normative burden in what is due to a bearer, capacity, or relation
+    - Due-good privation and positive experiential or causal vehicles of evil
     - Broad and grave evil; moral and non-agentic causal origins
     - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
-    - Sacrifice: cost, agentic excellence, personal welfare, and value for contemporary or future others
+    - Sacrifice: cost, belief, trust, hope or faith, agentic excellence, objective fit, causal success, and value for contemporary or future others
     - Defeasible priority for commitments extending beyond the agent's life
     - Posthumous projects, future beneficiaries, uncertainty, and non-identity
     - Whether objective normativity threatens divine ultimity
@@ -160,7 +164,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Can reasons be plural without arbitrariness?
     - Generative explanation versus moral justification of consequences
     - Species survival as transpersonal continuity rather than unconditional biological supremacy
-    - Minimal longtermism from E+ and the boundary with strong longtermism
+    - Positive defeasible long-term preference from E+ and the boundary with complete strong longtermism
+    - Hell-like absence as privation of communion rather than absence of ontological grounding
     - Provisional essential grounding of objective fit in $G$
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**

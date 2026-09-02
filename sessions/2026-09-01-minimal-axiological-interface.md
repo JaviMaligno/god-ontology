@@ -8,14 +8,15 @@
 
 ## Correction to the S26 boundary
 
-Longtermism is partly internal to the required interface because sacrifice, species survival, and projects extending beyond an agent all depend on the standing of temporally distant goods. What remains optional is **strong longtermism**: the claim that effects on the far future dominate a wide class of our most important decisions or should be maximized through a comprehensive population ethics.
+Longtermism is partly internal to the required interface because sacrifice, species survival, and projects extending beyond an agent all depend on the standing and defeasible priority of temporally distant goods. The system of goodness must positively favor durable and transpersonal goods over conflicting transient benefits under suitable conditions. What does not follow automatically is a complete **strong-longtermist** doctrine, far-future dominance across a wide class of decisions, or comprehensive population maximization. S28 makes this authorial correction explicit.
 
 The project therefore includes a minimal long-horizon thesis derived from its metaphysics:
 
 1. temporal distance alone does not erase or discount an otherwise identical value relation;
 2. future subjects and future instances of agency, consciousness, and relation can matter now;
-3. effects beyond the acting agent's life can sometimes defeat immediate self-interest;
-4. no total aggregation, maximizing rule, or automatic far-future dominance follows.
+3. durable, generative, or transpersonal goods receive defeasible priority over otherwise comparable transient benefits;
+4. effects beyond the acting agent's life can therefore defeat immediate self-interest;
+5. no total aggregation or maximizing rule follows solely from this preference.
 
 ## Ontological economy: three domains and one bridge
 
@@ -81,7 +82,7 @@ Evil^{grave}(x,C,\tau)
 
 is reserved for severe, non-trivial destruction, corruption, or violation of conscious life, sourcehood, or truthful relation.
 
-Evil is an evaluative status, not presently a second fundamental substance opposed to $G$. The account also declines to reduce every case to pure absence. Severe pain can be a positive phenomenal occurrence; deprivation can be an absence; domination can be a corruption of agency; betrayal can be a damaged relation. Privation is one realization of evil, not its universal definition at this depth.
+Evil is an evaluative status, not presently a second fundamental substance opposed to $G$. S28 refines this through due-good privation: evil qua evil is absence, frustration, or corruption of a good due to a bearer, capacity, or relation, rather than every missing possible good. Severe pain can remain a positive phenomenal occurrence that bears or manifests damaged $P$; domination can positively occur while corrupting $S$; betrayal can occur while depriving $R$ of truthful recognition. The positive vehicle and the privative evaluative structure are compatible.
 
 The natural/moral division is causal rather than a division between two value predicates:
 
@@ -112,9 +113,9 @@ Long-horizon standing is the metaphysical core of the project's moderate longter
 
 The earlier structure can now be explained through anchors. A sacrifice can be fitting when:
 
-1. $A$ knowingly accepts a real cost in $P$, $S$, or another good;
+1. $A$ knowingly accepts a real cost in $P$, $S$, or another good and acts from sincere belief, trust, hope, or faith directed toward the protected good;
 2. the act protects or realizes an undefeated anchor for $A$ or beneficiaries $B$;
-3. the link between act and protected good is causally credible;
+3. the link between act and protected good is sincerely believed or trusted without culpable disregard of accessible counterevidence; knowledge and complete or accurate information are not required;
 4. the cost is proportionate under uncertainty and available alternatives;
 5. the act is not produced by source-undermining coercion or manipulation.
 
@@ -164,7 +165,7 @@ Once created subjects exist, $G$ need not share their pressure for self-preserva
 | --- | --- |
 | Why these three anchors rather than an arbitrary list? | Each blocks a distinct collapse already exposed by the ontology: suffering into endorsement, agency into experience, and other-regarding or divine relation into solitary welfare. Minimality remains defeasible. |
 | Does $Fit_*$ merely rename good? | It would if left untyped. Its content is constrained by specific bearers, capacities, causal effects, context, and horizon, but the normativity of fit remains one admitted primitive bridge. |
-| Does future standing imply strong longtermism? | No. Standing and temporal non-discount do not entail aggregation, maximization, or far-future dominance. |
+| Does long-term preference imply a complete strong-longtermist theory? | No. The system positively favors durable or transpersonal goods over conflicting transient benefits under suitable conditions, while aggregation, maximization, and general far-future dominance require further premises. |
 | Is extinction bad for a nonexistent person? | The present claim concerns irreversible loss of conditions for future anchor instantiation; exact person-affecting rights and population comparisons are unnecessary at F1. |
 | Does grounding fit in $G$ make anything $G$ does good? | No. Grounding a standard differs from satisfying it, and arbitrary willing does not constitute its content. |
 | Does evil refute the current $G$? | Not yet deductively: full goodness and qualified omnipotence remain unearned. Evil now supplies a later integration test for any stronger divine-attribute claim. |
@@ -173,8 +174,8 @@ Once created subjects exist, $G$ need not share their pressure for self-preserva
 
 | Decision | Status | Reason |
 | --- | --- | --- |
-| Include minimal longtermism within the axiological interface | accepted correction | Sacrifice and species continuity require future goods to retain standing across temporal distance |
-| Adopt strong or maximizing longtermism | not adopted/optional | Standing does not establish far-future dominance or a population calculus |
+| Include defeasible long-term preference within the axiological interface | accepted correction | The goodness system must favor durable or transpersonal goods over conflicting transient benefits under suitable conditions |
+| Adopt a complete strong or maximizing longtermism | not required | Some stronger conclusions may follow, but the present preference does not by itself establish far-future dominance or a population calculus |
 | Use $\mathcal A_{min}=\{P,S,R\}$ as the minimum anchor domain | preferred at F1 | Conscious valence, sourcehood, and truthful recognition each prevent a distinct explanatory collapse |
 | Add one objective relation $Fit_*$ | provisional/preferred | It gives the anchors normative direction without multiplying primitive goods, while admitting a real is–ought bridge |
 | Treat good as undefeated contextual fit | preferred | It preserves mixed cases and partial ordering without a total scalar |

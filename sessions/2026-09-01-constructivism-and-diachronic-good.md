@@ -112,10 +112,10 @@ $B$ may contain $A$, contemporaries, later subjects, or several of these; $\tau$
 At least three assessments must remain distinct:
 
 1. $c$ can remain $PTBF_d(c,A,C,t_0)$; accepting pain or loss does not make the token pleasant or harmless.
-2. $s$ can instantiate agentic excellence through informed sourcehood, self-governance, fidelity, courage, or care.
+2. $s$ can instantiate agentic excellence through sincere and epistemically responsible sourcehood, self-governance, fidelity, courage, or care.
 3. $s$ may improve $A$'s diachronic welfare, may reduce it for the sake of another, or may be pointless or destructive.
 
-Sacrifice therefore has no intrinsic positive sign. A fitting sacrifice requires at least informed and non-manipulated authorship, a worthwhile target under the relevant evaluative theory, causal suitability, and proportionality between cost, probability, alternatives, and target. These conditions do not yet supply a complete moral theory, but they prevent costliness from manufacturing value.
+Sacrifice therefore has no intrinsic positive sign. A fitting sacrifice requires at least sincere and non-manipulated authorship without culpable disregard of accessible reasons, a worthwhile target under the relevant evaluative theory, causal suitability, and proportionality between cost, probability, alternatives, and target. Belief, trust, hope, or faith can orient it without knowledge of success or complete information. These conditions do not yet supply a complete moral theory, but they prevent costliness from manufacturing value. S28 further separates agentic or faithful worth, objective fit, and causal success.
 
 ## Defeasible diachronic priority
 
@@ -129,7 +129,7 @@ g\triangleright_{A,B,C,\tau}p,
 
 where $\triangleright$ is normative defeat rather than numerical superiority. $DP$ requires, provisionally:
 
-1. reflective and sufficiently informed endorsement of $g$;
+1. sincere and reflective endorsement of $g$, responsive without culpable disregard to the reasons accessible to the agent;
 2. absence of source-undermining manipulation;
 3. stability across relevant temporal perspectives rather than one compulsive episode;
 4. realization or preservation of agency, identity, relationship, understanding, or another justified dimension;

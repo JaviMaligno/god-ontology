@@ -1081,7 +1081,7 @@ Temporal agents approach the objective standard fallibly. For judgment systems $
 Closer_{Good}(J_2,J_1\mid E,C)
 \]
 
-states a partial, evidence-relative epistemic comparison rather than a numerical distance or a construction of the good. Correction of factual and inferential error, resistance to manipulation and arbitrary exclusion, coherence across relevant cases and times, representation of affected subjects, and survival under informed criticism can support the comparison. Disagreement can lower confidence or leave judgments incomparable without proving that there is no objective truth.
+states a partial, evidence-relative epistemic comparison rather than a numerical distance or a construction of the good. Correction of factual and inferential error, resistance to manipulation and arbitrary exclusion, coherence across relevant cases and times, representation of affected subjects, and survival under adversarial criticism responsive to a broad evidential base can support the comparison. Disagreement can lower confidence or leave judgments incomparable without proving that there is no objective truth.
 
 The project will no longer retain every coherent theory as equally active. Coherence and architectural compatibility establish admissibility; divergence cases establish a working preference; multiple metaphysical realizations remain only when the available discriminators leave residual underdetermination.
 
@@ -1105,7 +1105,7 @@ DP(g,p;A,B,C,\tau)
 g\triangleright_{A,B,C,\tau}p.
 \]
 
-$DP$ requires informed and non-manipulated endorsement, stability across relevant temporal perspectives, realization or preservation of a justified value dimension, due concern for affected subjects, proportionality, and no decisive undefeated harm. This supports study, caregiving, treatment, promises, or resistance to addiction against some immediate pleasures because the long-term commitment can express the temporally extended agent and preserve future authorship. It also permits commitments to contemporaries and future subjects beyond the agent's life. Posthumous effects need not be prudential goods for a no-longer-living $A$; they may instead express $A$'s commitment, preserve a relation or project, or be good for later members of $B$. Future location supplies neither automatic discount nor lexical priority, and the extension does not commit the project to maximizing longtermism.
+$DP$ requires sincere orientation, non-culpable attention to accessible reasons, non-manipulation, stability across relevant temporal perspectives, realization or preservation of a justified value dimension, due concern for affected subjects, proportionality, and no decisive undefeated harm. This supports study, caregiving, treatment, promises, or resistance to addiction against some immediate pleasures because the long-term commitment can express the temporally extended agent and preserve future authorship. It also permits commitments to contemporaries and future subjects beyond the agent's life. Posthumous effects need not be prudential goods for a no-longer-living $A$; they may instead express $A$'s commitment, preserve a relation or project, or be good for later members of $B$. Future location supplies neither automatic discount nor lexical priority, and the extension does not commit the project to maximizing longtermism.
 
 Good reasons remain non-necessitating:
 
@@ -1136,17 +1136,29 @@ S27 closes that interface at F1 through three ontological anchor domains and one
 \mathcal A_{min}=\{P,S,R\},
 \]
 
-where $P$ is conscious valence, $S$ agentive sourcehood, and $R$ truthful recognition or relation. The proposed necessary relation:
+where $P$ is conscious valence, $S$ agentive sourcehood, and $R$ truthful recognition or relation. S28 refines the proposed necessary relation as:
 
 \[
-Fit_*(x,a,B,C,\tau),\qquad a\in\mathcal A_{min},
+Fit_*(x,a,B,C,\tau)
+\leftrightarrow
+Eligible(a,B,C)\land Directed_a(B,C)\land AptResponse(x,a,B,C,\tau),
 \]
 
-states that $x$ realizes, protects, restores, or appropriately responds to anchor $a$ for bearer or beneficiary $B$. $Misfit_*$ covers frustration, corruption, destruction, or inappropriate response. This is an admitted axiological bridge rather than a claimed deduction of ought from physical description. Its economy consists in applying one typed relation to domains already developed by the ontology.
+where $a\in\mathcal A_{min}$. Bearer eligibility, the anchor's directed or due profile, an objectively pertinent and proportionate response, and explicit context and horizon make the claim contestable at several distinct points. An apt response can fail through external circumstances, so it must be distinguished from causal success. In ordinary language, it is an appropriate way of sustaining or answering how that kind of bearer, capacity, or relation can be realized rather than damaged in that situation. For $P$, the initial direction concerns conscious integrity and protection from grave involuntary suffering; for $S$, effective reason-responsive authorship rather than coercion or replacement; for $R$, truthful recognition, reciprocity, and fidelity rather than deception, betrayal, or instrumentalization. $Fit_*$ supplies pro tanto fit; defeat is assessed afterwards. This is an admitted axiological bridge rather than a claimed deduction of ought from physical description. Its remaining primitive burden lies in $Directed_a$: physical frequency, biological function, or causal success alone cannot determine what is due to a bearer. The preferred provisional grounding combines the ontological profiles of $P$, $S$, and $R$ with $G$ as their necessary rational and relational ground, while still owing a non-circular bridge.
 
-Pro tanto good and bad are fit and misfit relative to anchor, bearer, context, and horizon. Generic good is undefeated objective fit across the relevant scope without requiring a total scalar. Broad evil is objective misfit, including minor and severe cases; grave evil is severe non-trivial destruction, corruption, or violation of $P$, $S$, or $R$. Evil need be neither a fundamental rival substance nor universally a pure privation: pain, deprivation, domination, and betrayal instantiate different ontological forms. Moral evil adds culpable agent origination; non-agentic or natural evil does not.
+Pro tanto good and bad are fit and misfit relative to anchor, bearer, context, and horizon. Generic good is undefeated objective fit across the relevant scope without requiring a total scalar. S28 prefers a constrained privation account:
 
-Minimal longtermism remains inside the interface. E+ gives actual later subjects the same ontological actuality as earlier subjects within the complete history, although temporal deliberators lack ACO. Actual future bearers—and possible bearer types conditionally upon actualization—are eligible for the same fit relations without discount based solely on temporal distance. This grounds long-horizon sacrifice and species continuity without entailing aggregation, maximizing strong longtermism, or automatic far-future dominance.
+\[
+Priv_a(B,C,\tau)
+\leftrightarrow
+Due_a(B,C,\tau)\land \neg Realized_a(B,C,\tau).
+\]
+
+Evil qua evil is absence, frustration, or corruption of a good due to the relevant bearer, capacity, or relation, rather than absence of any possible enhancement. Broad evil includes minor and severe cases; grave evil is severe non-trivial privation or corruption of $P$, $S$, or $R$. Pain, coercion, and deception can be positive events or experiences that bear, manifest, or cause such privation; they need not be a rival evil substance. Moral evil adds culpable agent origination; non-agentic or natural evil does not.
+
+Defeasible long-term preference remains inside the interface as a positive adequacy test, not merely a standing condition. E+ gives actual later subjects the same ontological actuality as earlier subjects within the complete history, although temporal deliberators lack ACO. Actual future bearers—and possible bearer types conditionally upon actualization—are eligible for the same fit relations without discount based solely on temporal distance. Durable, generative, or transpersonal realization of $P$, $S$, or $R$ should defeat an otherwise comparable transient benefit when grave present misfit, weak causal connection, disproportionality, and a less costly alternative do not defeat that preference. This can ground long-horizon sacrifice and species continuity. A complete strong-longtermist theory is not presupposed, although stronger conclusions may follow in particular cases from scale, probability, and the anchors.
+
+Sacrifice does not require knowledge of success or a threshold quantity of information. Its epistemic orientation may instead involve belief, trust, hope, faith, accessible evidence, and non-culpable attention to counterevidence. Agentic or faithful worth, objective fit, and causal success are therefore assessed separately: a sincere mistaken sacrifice may exhibit fidelity without benefiting its target, while accidental success need not establish epistemic or agentic excellence.
 
 Species continuity is valuable insofar as it preserves conditions for future $P$, $S$, and $R$, inherited projects, and further goods. The species is not treated as a conscious super-subject, and biological persistence containing only extreme suffering or systematic destruction of agency is not good merely because it is persistence.
 
@@ -1157,6 +1169,8 @@ EssentialGround(G,Fit_*).
 \]
 
 This differs from arbitrary divine willing and from divine satisfaction of the standard. Only the conditional fit structure need be necessary: MKO can include its application to possible subject-types, while actual value instances require actual bearers and enter ACO with $H^*$. $G$ already grounds actual bearers and knows all obtaining fit or misfit through ACO. Grounding $Fit_*$ in established divine features remains a non-circular bridge to be tested only when an ontological module needs it; contingent norm-institution is permitted, while divine goodness and omnibenevolence remain unearned.
+
+The privation account also supplies a conditional interpretation of hell as “absence of God.” Under ontological omnipresence, an existing subject cannot lack $G$'s existential grounding, knowledge, and causal availability. A hell-like absence can instead mean privation of communion, reciprocity, truthful recognition, or freely accepted personal relation. This establishes only coherence with the presence architecture; it does not establish an afterlife, hell's existence, permanence, punitive character, or cause.
 
 ### Science as input and constraint
 
@@ -1185,4 +1199,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1 through $\mathcal A_{min}$, $Fit_*$, typed evil, minimal longtermism, species continuity, and a provisional $G$-grounding relation. The active sequence now returns to a load-bearing audit of PMC/OEC, qualified-power blockers, interpersonal knowledge, and cumulative agency effects.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. The active sequence now returns to the ontological trunk through divine constitution and the production of matter, joining the new “what is $G$ made of?” challenge to OEC/PMC.

@@ -34,15 +34,15 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P08 | ¿Qué tipo de Dios es ese? | `respondida` | mapa de atributos; C06, C81, C84–C91, C122 | — |
 | P09 | ¿Es el Dios de alguna religión concreta? | `fuera de alcance` | C21; comparación planificada en la parte VIII del tratado | — |
 | P10 | ¿Dios es una persona? | `parcial` | C55–C67, C121–C126; personalidad clásica completa abierta | CH03 |
-| P11 | ¿Hay un solo Dios? | `respondida` | C78–C83; S13 | CH01 |
+| P11 | ¿Hay un solo Dios? | `respondida con extensión modal provisional` | C78–C83, C586–C594; S13, S73 (un solo fundamento del orden contingente; se propone además que todo concreto distinto dependa de él, sin negar abstractos necesarios) | CH01, CH25 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
 | P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
 | P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
-| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 (toda tarea de la ontología actual queda cubierta; la forma irrestricta espera el test de relata no creados y nuevos tipos de acción) | CH05 |
+| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 (toda tarea actual queda cubierta; $UCD_G$ cierra condicionalmente los relata no creados; faltan tipos de acción genuinamente nuevos) | CH05, CH25 |
 | P47 | ¿Está el mundo hecho de Dios? ¿Es Dios el universo? | `respondida` | C559–C572; S71, S74 (no: las variantes de reparto, transformación, cuerpo y modo fallan; la constitución no destructiva es una capacidad condicional, no el modelo actual, que mantiene creador y criatura sin mezcla) | CH24 |
 | P48 | ¿Puede Dios cambiar, o darse a sí mismo algo que no tenga ya? | `abierta` | C580–C584; S72 (lo que hace con los poderes que ya tiene está cubierto; una cualidad o un poder nuevos son una extensión de la ontología, pregunta abierta 2 del ledger) | — |
-| P49 | ¿Puede haber algo que Dios no haya hecho, aparte de él? | `respondida` | C603–C609; S75 (las verdades necesarias no son cosas; una cosa no creada que limite a Dios exige negar la cobertura modal o la unicidad de la fuente; emanaciones y necesarios inertes no limitan y no se adoptan) | CH05 |
+| P49 | ¿Puede haber algo que Dios no haya hecho, aparte de él? | `respondida` | C586–C600, C603–C610; S73, S75–S76 (creado quiere decir dependiente, no empezado; las verdades necesarias no son cosas; una cosa independiente exigiría negar la dependencia universal de lo concreto, que se prefiere sin demostrarla; existir no basta para limitar) | CH25 |
 | P50 | ¿Por qué Dios no se muestra más claramente? | `abierta` | C466–C471, C295–C296; S46 (el acceso experiencial y la comunicación asimétrica dan el marco; la razón de la discreción no está tratada) | CH20 |
 | P51 | ¿Necesita Dios que le recemos o le adoremos? | `parcial` | C111, C132, C462–C465, C521–C526; S18, S48, S56 (no necesita; sus razones para crear son justificantes, no obligantes; qué añade la relación a quien reza cae en la parte del bien que no está derivada) | CH19 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `fusionada en P44` | C74–C76, C142; S11 | CH05 |

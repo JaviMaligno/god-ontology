@@ -61,6 +61,9 @@
 | $Adm_C(S)$ (trunk) | constitutive admissibility | $WF\land Cons_{LM}\land EssSat\land PowSat\land Comp\land DepSat_C$; $Poss_C^{ind}(S)\leftrightarrow Adm_C(S)$ | preferred (C344–C345) | S38 |
 | $Poss_C^{ind}$ (qd five-clause) | independent possibility | merged into $Adm_C$; model existence explicit; $E_G$ clause relocated to B4 | reconciled (C542) | S56, S59 |
 | $CMU_G$, MGC, MUU, GOL (trunk) | conditional modal ultimity | $\Box\forall C[(Exists(C)\land FundCreatedBasis(C))\rightarrow UltimateOrigin(G,C)]$ | preferred (C360–C362) | S39 |
+| $Created_G(x)$, $NCC_G(L)$ | creation; non-created concrete | $Created_G(x):=x\neq G\land DependsExistentially(x,G)$; $NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L)$ | proposed clarification (C586–C590) | S73 |
+| $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred F2, abductive (C591–C594) | S73 |
+| $LTask_G(a,L)$, $NCCBlock_G(L,a)$ | non-created task; blocker | an eligible divine task genuinely concerning $L$; an underived $L$-boundary plus failure of $StrongCan$ | proposed diagnostic (C597–C600) | S73 |
 | $RCB(C,S)$, $AOR$, $Elig_C^G$, $CP_G^{elig}$ (trunk) | root creation; plenitude | root created basis; agentic-origin realization; essence-compatible eligibility; $\forall S[Elig_C^G(S)\rightarrow CanCreate(G,S)]$ | preferred (C369–C376) | S40 |
 | $CC_G=CC_G^{+}\land CC_G^{pers}\land CC_G^{ann}$ (trunk) | constitutive control | positive, persistence-sensitive, annihilative ranges | preferred (C385–C401) | S41–S42 |
 | $Life_H(x)$, $Ann(G,x,t_1)$ (trunk) | life-set; annihilation | bounded temporal profile; direct terminal boundary with no specified created remainder | preferred (C392–C395) | S42 |

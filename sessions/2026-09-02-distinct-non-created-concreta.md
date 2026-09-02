@@ -6,6 +6,7 @@
 **Dependencies:** S13 ($U_G$, $U_D$, C78–C83); S32 (blocker taxonomy, C255–C265); S39 ($CMU_G$ and its decomposition into $MGC$, $MUU$, and the grounding–origin link, C358–C364); S40 (direct-root lemma, C369–C371); S44 (C430–C433); S47 (necessitation lemma and the partition of stopping points, C457–C461); S51 (C490–C491); S71–S72 (C559–C572, C573–C585); C32 (typed grounding relations); C111, C132, C363 (contingency of divine exercise)
 **Origin:** the author's instruction to continue with the active queue after S74
 **Target depth:** F2; a taxonomy, one diagnostic definition, one explicit strengthening of a preferred premise, and one conditional lemma; no new primitive
+**Reconciliation:** written in parallel with the author's S73, which is canonical (creation as existential dependence, $UCD_G$, $NCCBlock$); see S76 for what here is merged, superseded, or retained. In particular, under C586 the emanation cell below is a necessary creature *ab alio*, not a non-created concrete.
 
 ## Outcome
 

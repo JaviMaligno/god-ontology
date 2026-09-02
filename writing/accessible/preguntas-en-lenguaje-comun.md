@@ -90,7 +90,9 @@ Lo que hay que explicar es qué pasa con las cosas que «no puede». Hay descrip
 
 Dos cosas más. Puede también deshacer lo que ha hecho, incluso hacer que algo deje de existir del todo, porque para quien ve la historia entera un ser con principio y fin es un perfil completo, no algo que hubiera que ir manteniendo y luego soltar. Y que pueda no significa que lo haga: lo normal es que las cosas del mundo las produzcan las causas del mundo, y que Dios actúe directamente solo al crear y en las intervenciones que decida. Su poder es una capacidad, no una descripción de lo que hace a cada momento.
 
-Lo que no afirmo con la misma seguridad es que no tenga ningún límite bajo cualquier ontología rival imaginable. Podría proponerse otro ser concreto no creado o una forma de acción divina realmente distinta de todas las que hemos definido; habría que mostrar primero que eso es posible y luego ver qué relación tiene con Dios. Creo que no aparecerá un límite así, pero esa es precisamente la siguiente prueba, no algo que ya haya demostrado.
+La prueba del otro ser concreto ya está hecha y ha aclarado bastante. «Creado» quiere decir que depende de Dios, aunque exista siempre o incluso necesariamente; no quiere decir que empiece en un momento. Si Dios fundamenta todo lo contingente, un ser concreto que de verdad no dependiera de él tendría que ser necesario e independiente. Mis argumentos anteriores excluían que fuera otra fuente de un mundo, pero no demostraban que no pudiera existir aislado. Prefiero una extensión más fuerte: todo ser concreto distinto de Dios, si existe, depende de él. La prefiero porque deja un solo fondo concreto de la realidad, no para proteger el poder de Dios; no puedo demostrarla y una metafísica con dos fondos necesarios sigue siendo describible.
+
+Incluso si hubiera ese segundo ser, no sería un límite solo por existir. Crear al mismo ser conservándolo «no creado», destruirlo conservándolo necesario, o fabricar su decisión y conservarla libre son descripciones incoherentes. El caso que sí pondría un límite sería uno concreto: que hubiera una acción que Dios pudiera realizar de manera coherente sobre ese ser, que el ser la bloqueara por un poder propio e independiente y que Dios no pudiera aportar el resultado que le corresponde. No tenemos un caso así. Con la tesis de un solo fondo concreto, esta rama queda cerrada de forma provisional; falta todavía comprobar si existe algún tipo genuino de acción divina que no haya entrado en las clases ya construidas.
 
 ### ¿De qué está hecho Dios?
 
@@ -120,11 +122,13 @@ Depende de qué sea ese «algo», y la pregunta se aclara separando dos casos.
 
 Las ideas, los números, las verdades como «dos y dos son cuatro»: eso no lo ha hecho Dios, y no hace falta. No son cosas; son la forma que tiene que tener cualquier cosa. No compiten con él ni le ponen límites; son el marco dentro del cual cualquier acción, también la suya, tiene sentido.
 
-Lo que sí sería una novedad es una *cosa*: algo concreto, con poderes o con estados, que existiera sin que Dios lo hubiera hecho. Una materia eterna que Dios solo ordenara; un segundo principio, como el mal de algunas religiones antiguas; almas que hubieran existido desde siempre por su cuenta. Todo eso es pensable. Pero si uno acepta lo que ya he dicho, que todo lo que podría no existir necesita un fundamento y que el único fundamento que no necesita otro es Dios, entonces cualquier cosa así o bien depende de Dios, y entonces es criatura suya en el sentido que importa, o bien tendría estados o hechos que no dependen de nadie, y eso es justo lo que descarto cuando digo que Dios es el fondo de todo. Así que no puede haber una cosa que limite a Dios desde fuera sin que antes falle esa idea de fondo; el que quiera esa cosa tiene que quitar el fundamento, no añadir un detalle.
+Lo que sí sería una novedad es una *cosa*: algo concreto, con poderes o con estados, que existiera sin depender de Dios. Conviene fijar antes qué quiero decir con «hecho por Dios»: no que empezara en un momento, sino que depende de él para existir. Algo que hubiera existido siempre, o incluso que no pudiera no existir, sería criatura suya si existe por él; no creo que haya nada así, porque Dios crea porque quiere, pero si lo hubiera, sería suyo. Así que la única cosa que de verdad no sería suya es una que fuera necesaria e independiente: una materia eterna que Dios solo ordenara; un segundo principio, como el mal de algunas religiones antiguas; almas que hubieran existido desde siempre por su cuenta.
 
-Quedan dos casos raros que menciono por honradez. Uno: algo que existiera necesariamente y que no hiciera nada ni tuviera estados; no sé si eso merece llamarse una cosa, y en cualquier caso no limita a nadie. Otro: algo que existiera desde siempre porque Dios no pudiera dejar de producirlo, como la luz sale del sol. Tampoco lo limitaría; pero no lo creo, porque Dios crea porque quiere, no porque no pueda evitarlo, y esa diferencia es de las que más me importan.
+Todo eso es pensable. Mis argumentos anteriores excluyen que una cosa así sea el origen de un mundo, porque el fondo del mundo es uno; no demuestran que no pudiera existir aparte, sin hacer nada. Lo que sostengo, y lo digo como preferencia y no como demostración, es que todo lo concreto distinto de Dios, si existe, depende de él. Lo prefiero porque deja un solo fondo de la realidad en vez de dos que no se explican; no lo prefiero para proteger el poder de Dios, y lo mantendría aunque no estuviera hablando de poder.
 
-En resumen: verdades no hechas, sí; cosas no hechas que limiten a Dios, no, salvo que se quite el fundamento; y lo que Dios hace, lo hace queriendo.
+Y aun si hubiera esa cosa independiente, no limitaría a Dios solo por existir. Crearla conservándola «no creada», destruirla conservándola necesaria, o decidir por ella conservando su decisión libre son descripciones que no describen nada. El único caso que sí lo limitaría sería este: una acción con sentido sobre esa cosa, que la cosa bloqueara por un poder suyo que no viene de Dios, y en la que Dios no pudiera poner su parte. Ese caso no lo tenemos, y quien lo quiera tiene que construirlo entero, no solo nombrar un segundo ser.
+
+En resumen: verdades no hechas, sí; cosas independientes, no las creo posibles, aunque no lo pueda demostrar; y una cosa así, de existir, solo limitaría a Dios en un caso muy concreto que nadie ha dado.
 
 ### ¿Por qué creó Dios el mundo?
 
@@ -294,7 +298,7 @@ Para que quede junto y a la vista:
 - Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
-- Si la idea de fondo, que todo lo que podría no existir se apoya al final en Dios y solo en él, se puede demostrar o es solo la mejor explicación; de ella depende que nada no creado pueda limitarlo.
+- Si se puede demostrar, y no solo preferir como la mejor explicación, que todo lo concreto distinto de Dios depende de él; de eso depende que nada no creado pueda limitarlo.
 - Si Dios puede darse a sí mismo una cualidad o un poder que no tenga ya; lo que hace con los poderes que tiene está cubierto, y lo demás no lo sé.
 
 ---
@@ -318,8 +322,8 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
 | Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S74 |
-| Puede haber algo no hecho por Dios | preferido, condicional a F2: la cobertura modal y la unicidad de la fuente son preferencias abductivas, no demostraciones | C603–C609; S75 |
-| Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; provisional frente a relata no creados o tipos de acción de ontologías rivales | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 |
+| Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración | C586–C600, C603–C610; S73, S75–S76 |
+| Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; la rama de relata no creados queda condicionalmente cerrada mediante $UCD_G$ y la forma irrestricta sigue pendiente de tipos de acción genuinamente nuevos | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
 | Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S52 | C18, C119, C297–C308, C497–C505, C541; S35, S52, S60 |

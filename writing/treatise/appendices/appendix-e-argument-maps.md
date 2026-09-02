@@ -66,12 +66,14 @@ Response without succession: RespondsTo; WFR; agent-neutrality for anticipatory 
 
 ```
 Unity: U_G (preferred, abductive) → U_D given the agentic stopping point                [C80–C83]
-  └─ individuation of G by necessity and role; no exact duplicate                        [C516, C266]
+  ├─ individuation of G by necessity and role; no exact duplicate                        [C516, C266]
+  └─ UCD_G: every distinct concrete depends on G (proposed abductive extension)           [C586–C594]
 Omnipotence: qualified; range vs strength; OMP_C preferred, OMP_Q provisional            [C74, C257, C261–C262]
   ├─ four range components: CP_G, CC_G, HI_G, exhaustion                                 [C272]
   ├─ CP_G^elig via Adm_C + CMU_G + RCB + AOR + relevant witness                          [C344–C345, C360, C369–C376]
   ├─ CC_G and HI_G^elig                                                                  [C385–C401, C406–C418]
-  └─ CAN_G closes pure created-directed tasks; ontology-relative maximality fragmentwise [C420–C433]
+  ├─ CAN_G closes pure created-directed tasks; ontology-relative maximality fragmentwise [C420–C433]
+  └─ UCD_G conditionally closes NCC; otherwise only a full NCCBlock defeats OMP_Q         [C595–C600]
 Immateriality: aspatiality, physical immateriality, absolute non-spatiality (abductive)  [C84–C87]
   └─ positive account of material production (E.2)                                      [C88, C487–C490]
 Omnipresence: Present_O = grounding reach + epistemic access + causal availability       [C90–C91]

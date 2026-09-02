@@ -1,17 +1,17 @@
 # Session: Identity — definition and impact
 
 **Date:** 2026-09-02
-**Session ID:** S49
+**Session ID:** S52
 **Primary question:** What does the ontology mean by identity, which distinct notions travel under that word, what status does each have, and which modules depend on it?
-**Dependencies:** C52–C53, C81, C122, C212, C223, C226, C266–C267, C283–C291, C390–C396, C402, C405, C416–C423, S13, S30, S33–S34, S47–S48
-**Origin:** Author's request of 2026-09-02, after S47 used identity without defining it, to define what identity is and trace its impact
+**Dependencies:** C52–C53, C81, C122, C212, C223, C226, C266–C267, C283–C291, C426–C432, C438, C441, C452–C459, S13, S30, S33–S34, S50–S51
+**Origin:** Author's request of 2026-09-02, after S50 used identity without defining it, to define what identity is and trace its impact
 **Target depth:** F2 definitions; impact map at F1
 
 ## Starting position and review of S34
 
-S47 derived simple persistence for created subjects and used “identity” in several senses without separating them: the logical relation, what makes a subject the one it is, what makes it the same over time, and how a knower tells. The author asks for the definition and its impact.
+S50 derived simple persistence for created subjects and used “identity” in several senses without separating them: the logical relation, what makes a subject the one it is, what makes it the same over time, and how a knower tells. The author asks for the definition and its impact.
 
-The author's S34 bears on this directly. It adds actual subject acquaintance $ASA(G,A)$ as a direct, factive, subject-indexed mode of divine access to every actual subject (C284), actuality-indexed (C285), qualitatively discriminating (C286), and source-preserving (C287). Reviewed against the question-driven sessions it is consistent and strengthening: the “de re subject recognition” level of S34's table is the individuation notion defined below; $ASA$ is the epistemic side of the de re targeting S47 needed (C419); C287 and C421 say the same thing from the epistemic and the agentive side. S34's next question, cumulative context control, was completed on this branch in S46, which discharges the priority recorded in C293. S34's CH14 on imagination is preserved and is not touched here.
+The author's S34 bears on this directly. It adds actual subject acquaintance $ASA(G,A)$ as a direct, factive, subject-indexed mode of divine access to every actual subject (C284), actuality-indexed (C285), qualitatively discriminating (C286), and source-preserving (C287). Reviewed against the question-driven sessions it is consistent and strengthening: the “de re subject recognition” level of S34's table is the individuation notion defined below; $ASA$ is the epistemic side of the de re targeting S50 needed (C455); C287 and C457 say the same thing from the epistemic and the agentive side. S34's next question, cumulative context control, was completed on this branch in S49, which discharges the priority recorded in C293. S34's CH14 on imagination is preserved and is not touched here.
 
 ## Four notions under one word
 
@@ -19,42 +19,42 @@ The author's S34 bears on this directly. It adds actual subject acquaintance $AS
 | --- | --- | --- | --- |
 | **numerical identity** | is $x$ the very same thing as $y$? | $x=y$, governed by the logical and identity constraints of $N_L$ (C52); indiscernibility of identicals holds | accepted logical primitive |
 | **individuation** | what makes $x$ the one it is, as distinct from any other of its kind? | for actual subjects: de re, as the source of its exercises; for possible subjects: types only (C53); for $G$: necessity and sole-ground role; for material non-subjects: instantiation of $\Pi_{phys}$ at a location | accepted, kind-relative |
-| **persistence** | what makes $x$ at $t_1$ the same as $x$ at $t_2$? | for subjects: simple persistence (C416); for material non-subjects: continuity-based persistence is permitted | preferred for subjects; permissive for non-subjects |
-| **identification** | how does a knower tell which one $x$ is? | finite knowers: continuity and profile as evidence (C417); $G$: $ASA$, direct and subject-indexed (C284) | accepted epistemic notion; never constitutive |
+| **persistence** | what makes $x$ at $t_1$ the same as $x$ at $t_2$? | for subjects: simple persistence (C452); for material non-subjects: continuity-based persistence is permitted | preferred for subjects; permissive for non-subjects |
+| **identification** | how does a knower tell which one $x$ is? | finite knowers: continuity and profile as evidence (C453); $G$: $ASA$, direct and subject-indexed (C284) | accepted epistemic notion; never constitutive |
 
-The four are related but not reducible to one another. Individuation is about the entity at a time or across histories; persistence is about the entity across times; identification is epistemic and presupposes both. Conflating identification with persistence is the standard error that produces continuity criteria: what tells us that this is the same subject is taken for what makes it the same subject. The project rejects that conflation (R138).
+The four are related but not reducible to one another. Individuation is about the entity at a time or across histories; persistence is about the entity across times; identification is epistemic and presupposes both. Conflating identification with persistence is the standard error that produces continuity criteria: what tells us that this is the same subject is taken for what makes it the same subject. The project rejects that conflation (R159).
 
 ## Numerical identity
 
-Identity is the relation each thing bears to itself and to nothing else. The project takes it as primitive within the logical layer $N_L$ (C52): identity constraints are constitutive of any coherent model and are not products of divine choice (C264). The indiscernibility of identicals holds without restriction. The converse, the identity of indiscernibles, is **rejected for subjects** (R137): C420 and C423 already require that two identity units can share a complete qualitative profile and still be two, and act differently. For material non-subjects the question is left to the physics of $\Pi_{phys}$ and is not load-bearing.
+Identity is the relation each thing bears to itself and to nothing else. The project takes it as primitive within the logical layer $N_L$ (C52): identity constraints are constitutive of any coherent model and are not products of divine choice (C264). The indiscernibility of identicals holds without restriction. The converse, the identity of indiscernibles, is **rejected for subjects** (R158): C456 and C459 already require that two identity units can share a complete qualitative profile and still be two, and act differently. For material non-subjects the question is left to the physics of $\Pi_{phys}$ and is not load-bearing.
 
 ## Individuation, by kind
 
-**Actual created subjects.** An actual subject is individuated de re, as the source of its own exercises. This is not a qualitative principle: no description picks out $B$ rather than a replica (C420). It is the identity-unit sense of thin substance (C223, C405): the bearer of powers that originates acts. Because sourcehood is what individuates, individuation is prior to the acts and to the history; that is the premise from which S47 derived simple persistence.
+**Actual created subjects.** An actual subject is individuated de re, as the source of its own exercises. This is not a qualitative principle: no description picks out $B$ rather than a replica (C456). It is the identity-unit sense of thin substance (C223, C441): the bearer of powers that originates acts. Because sourcehood is what individuates, individuation is prior to the acts and to the history; that is the premise from which S50 derived simple persistence.
 
-**Merely possible subjects.** Only types are available (C53). There is no fact of the matter which possible individual would be actualized under a given specification until actualization, and no pre-actual truth about its choices (C13, C50). Individuation of subjects therefore begins with actuality, which is why $ASA$ is actuality-indexed (C285) and why re-realization targets an already actual individual (C419).
+**Merely possible subjects.** Only types are available (C53). There is no fact of the matter which possible individual would be actualized under a given specification until actualization, and no pre-actual truth about its choices (C13, C50). Individuation of subjects therefore begins with actuality, which is why $ASA$ is actuality-indexed (C285) and why re-realization targets an already actual individual (C455).
 
-**$G$.** $G$ is individuated by necessary existence and the sole-ground role (C04–C05, C81). Its transworld identity is presupposed by the power bridge of S33 (the condition $SameEssentialAgent(w,G)$ in B4 and the sole-source invariance B2) and by every de re modal claim about $G$'s exercises (C58). No qualitative principle individuates $G$ either: an exact qualitative duplicate that is also underived is incoherent (C266), and a dependent near-copy would be a second identity unit, not $G$ (C267). $G$'s identity is not grounded in its aspect-powers (C402): they are its ways of acting, not its individuators.
+**$G$.** $G$ is individuated by necessary existence and the sole-ground role (C04–C05, C81). Its transworld identity is presupposed by the power bridge of S33 (the condition $SameEssentialAgent(w,G)$ in B4 and the sole-source invariance B2) and by every de re modal claim about $G$'s exercises (C58). No qualitative principle individuates $G$ either: an exact qualitative duplicate that is also underived is incoherent (C266), and a dependent near-copy would be a second identity unit, not $G$ (C267). $G$'s identity is not grounded in its aspect-powers (C438): they are its ways of acting, not its individuators.
 
-**Material non-subjects.** Objects that are not identity units in the source sense are individuated by their instantiation of $\Pi_{phys}$ at spatiotemporal locations (C397). Nothing in the ontology requires more, and nothing forbids conventional or vague individuation for artifacts and aggregates.
+**Material non-subjects.** Objects that are not identity units in the source sense are individuated by their instantiation of $\Pi_{phys}$ at spatiotemporal locations (C433). Nothing in the ontology requires more, and nothing forbids conventional or vague individuation for artifacts and aggregates.
 
 ## Persistence, by kind
 
-**Subjects.** Simple persistence (C416): numerical identity over time is not constituted by physical or psychological continuity; continuity is evidence and normal realization (C417). The derivation runs from de re modal identity, whole-agent attribution, and source-indexed authorship. The scope is exactly the class of identity units that are sources. This session makes the scope explicit so that the simple view is not read as a general theory of persistence.
+**Subjects.** Simple persistence (C452): numerical identity over time is not constituted by physical or psychological continuity; continuity is evidence and normal realization (C453). The derivation runs from de re modal identity, whole-agent attribution, and source-indexed authorship. The scope is exactly the class of identity units that are sources. This session makes the scope explicit so that the simple view is not read as a general theory of persistence.
 
-**Material non-subjects.** Continuity-based persistence, with whatever conventions physics and practice supply, is permitted. Ships, rivers, and organisms considered as organisms rather than as subjects may persist by continuity. The ontology does not need a simple view for them and does not adopt one. Where an organism is the realization base of a subject (S29), the organism's continuity is evidence for the subject's persistence, not its constitution (C417).
+**Material non-subjects.** Continuity-based persistence, with whatever conventions physics and practice supply, is permitted. Ships, rivers, and organisms considered as organisms rather than as subjects may persist by continuity. The ontology does not need a simple view for them and does not adopt one. Where an organism is the realization base of a subject (S29), the organism's continuity is evidence for the subject's persistence, not its constitution (C453).
 
 **$G$.** Persistence is not the right category: $G$ is atemporal with respect to created time (C14). What replaces it is transworld identity across possible exercises, treated above under individuation.
 
 ## Identification
 
-Finite knowers identify subjects by continuity, memory, testimony, and profile; these are defeasible evidence (C417). A replica is in principle undetectable by finite means (C420); that is an epistemic limit.
+Finite knowers identify subjects by continuity, memory, testimony, and profile; these are defeasible evidence (C453). A replica is in principle undetectable by finite means (C456); that is an epistemic limit.
 
-$G$ identifies without criterion. $ASA$ is direct, factive, and subject-indexed access to the numerically particular actual subject (C284–C286). It tracks the individuation and persistence facts and does not make them, on the same logic that keeps ACO from causing what it knows (C10, C30, C283). This is what licenses de re targeting in re-realization (C419): the act is directed at what $G$ is acquainted with, not at a description.
+$G$ identifies without criterion. $ASA$ is direct, factive, and subject-indexed access to the numerically particular actual subject (C284–C286). It tracks the individuation and persistence facts and does not make them, on the same logic that keeps ACO from causing what it knows (C10, C30, C283). This is what licenses de re targeting in re-realization (C455): the act is directed at what $G$ is acquainted with, not at a description.
 
 ## Modal identity
 
-The de re alternatives of C53 require that the same agent exist in histories $h_a$ and $h_b$ that diverge at $t$. This modal identity is not qualitative, since the agent's qualitative future differs between the histories, and it is not constituted by continuity, since the continuities differ. It is the same primitive as individuation: the source is the same, whatever it does. This is what makes “could have done otherwise” well-formed (C27) and what the necessitation lemma needs when it distinguishes the same necessary $G$ exercising differently (C368, C58).
+The de re alternatives of C53 require that the same agent exist in histories $h_a$ and $h_b$ that diverge at $t$. This modal identity is not qualitative, since the agent's qualitative future differs between the histories, and it is not constituted by continuity, since the continuities differ. It is the same primitive as individuation: the source is the same, whatever it does. This is what makes “could have done otherwise” well-formed (C27) and what the necessitation lemma needs when it distinguishes the same necessary $G$ exercising differently (C404, C58).
 
 ## Impact
 
@@ -62,16 +62,16 @@ The de re alternatives of C53 require that the same agent exist in histories $h_
 | --- | --- | --- |
 | libertarian sourcehood (C08, C55–C60) | modal identity of the agent across alternatives | without it, alternatives belong to different agents and freedom collapses into a difference among agents (R09-type collapse) |
 | ACO and $ASA$ (C11, C284) | propositions about subjects are de re; acquaintance is subject-indexed | identity facts are known, not made; no criterion is supplied or needed by divine knowledge |
-| objective fit and welfare (C187, C149, C421) | anchors are bearer-indexed; whole-life welfare presupposes one bearer over the horizon | identity is what matters for a source; Parfitian substitution of continuity is excluded |
-| diachronic authorship (C410–C411) | a profile is authored by one persisting subject | manipulation damages the authorship of the same person; it does not create a new one (C417) |
+| objective fit and welfare (C187, C149, C457) | anchors are bearer-indexed; whole-life welfare presupposes one bearer over the horizon | identity is what matters for a source; Parfitian substitution of continuity is excluded |
+| diachronic authorship (C446–C447) | a profile is authored by one persisting subject | manipulation damages the authorship of the same person; it does not create a new one (C453) |
 | responsibility (C38, CH22) | the later subject is the earlier agent | grading remains deferred, but the persistence premise is now fixed |
-| continuation and the P-gap (C388, C390–C391, C416) | bearer-level closure requires numerical identity | simple persistence discharges the burden; replicas and successors do not count |
+| continuation and the P-gap (C424, C426–C427, C452) | bearer-level closure requires numerical identity | simple persistence discharges the burden; replicas and successors do not count |
 | divine uniqueness (C78–C83) | $G$ individuated by necessity and role; two necessary agents would be two identity units | the uniqueness case remains abductive (S13); identity supplies the individuation it presupposed |
-| $UPSS$ and aspects (C226, C402) | $G$ is the identity unit; aspects do not individuate | minimal constitutive simplicity survives the parts objection |
+| $UPSS$ and aspects (C226, C438) | $G$ is the identity unit; aspects do not individuate | minimal constitutive simplicity survives the parts objection |
 | exact divine self-copy (C266–C267, CH01) | exactness including underivedness is incoherent; a dependent copy is a second unit | resolved as recorded; identity of indiscernibles plays no role |
-| communion, privation, hell-like absence (C208, C396) | relations hold de re between identity units | availability, address, and communion are with this subject; privation is this subject's |
+| communion, privation, hell-like absence (C208, C432) | relations hold de re between identity units | availability, address, and communion are with this subject; privation is this subject's |
 | the power bridge (S33, C286 of main's numbering, C288) | transworld identity of $G$ in B2 and B4 | the bridge presupposes what this session records as $G$'s individuation; it does not derive it |
-| empirical bridges (C183–C184, C417) | fission, dissociation, amnesia | evidence about the subject's condition, never a change of subject without the reductive premise |
+| empirical bridges (C183–C184, C453) | fission, dissociation, amnesia | evidence about the subject's condition, never a change of subject without the reductive premise |
 
 ## Adversarial tests
 
@@ -88,15 +88,15 @@ The de re alternatives of C53 require that the same agent exist in histories $h_
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C424 | — | `accepted` | Identity divides into numerical identity, individuation, persistence, and identification; the first is a logical primitive of $N_L$ and the others are kind-relative questions about what settles or reveals it | this session; C52 |
-| C425 | — | `accepted` | Actual created subjects are individuated de re as sources of their exercises; possible subjects only as types; material non-subjects by instantiation of $\Pi_{phys}$ at locations | this session; C53, C223, C397, C405 |
-| C426 | — | `accepted` | $G$ is individuated by necessary existence and the sole-ground role; its transworld identity is presupposed by every de re modal claim about its exercises and by the power bridge, and no qualitative principle supplies it | this session; C04–C05, C58, C81, C266–C267, S33 |
-| C427 | — | `accepted scope` | Simple persistence is scoped to identity units that are sources; continuity-based persistence is permitted for material non-subjects | this session; C416 |
-| C428 | — | `accepted` | Identification is epistemic and never constitutive: finite knowers use continuity as evidence; $G$ identifies by $ASA$, which tracks identity facts as ACO tracks truths | this session; C10, C30, C283–C286, C417, C419 |
-| C429 | — | `accepted` | Modal identity of an agent across diverging histories is the same primitive as its individuation; it is what makes alternatives the same agent's | this session; C27, C53, C58 |
-| C430 | — | `accepted consequence` | Manipulation and funnelling damage the authorship of the same persisting subject; they do not produce a new subject | this session; C410, C417 |
-| R137 | — | `rejected` | The identity of indiscernibles for subjects | this session; C420, C423 |
-| R138 | — | `rejected` | Criteria of identification are persistence conditions | this session; C417, C428 |
+| C460 | — | `accepted` | Identity divides into numerical identity, individuation, persistence, and identification; the first is a logical primitive of $N_L$ and the others are kind-relative questions about what settles or reveals it | this session; C52 |
+| C461 | — | `accepted` | Actual created subjects are individuated de re as sources of their exercises; possible subjects only as types; material non-subjects by instantiation of $\Pi_{phys}$ at locations | this session; C53, C223, C433, C441 |
+| C462 | — | `accepted` | $G$ is individuated by necessary existence and the sole-ground role; its transworld identity is presupposed by every de re modal claim about its exercises and by the power bridge, and no qualitative principle supplies it | this session; C04–C05, C58, C81, C266–C267, S33 |
+| C463 | — | `accepted scope` | Simple persistence is scoped to identity units that are sources; continuity-based persistence is permitted for material non-subjects | this session; C452 |
+| C464 | — | `accepted` | Identification is epistemic and never constitutive: finite knowers use continuity as evidence; $G$ identifies by $ASA$, which tracks identity facts as ACO tracks truths | this session; C10, C30, C283–C286, C453, C455 |
+| C465 | — | `accepted` | Modal identity of an agent across diverging histories is the same primitive as its individuation; it is what makes alternatives the same agent's | this session; C27, C53, C58 |
+| C466 | — | `accepted consequence` | Manipulation and funnelling damage the authorship of the same persisting subject; they do not produce a new subject | this session; C446, C453 |
+| R158 | — | `rejected` | The identity of indiscernibles for subjects | this session; C456, C459 |
+| R159 | — | `rejected` | Criteria of identification are persistence conditions | this session; C453, C464 |
 
 ## Literature and novelty notes
 
@@ -118,4 +118,4 @@ Classification: established distinctions; the project-specific work is the assig
 
 ## Next question
 
-Identity is defined and its dependencies are mapped; CH03 is integrated. The queue returns to the item S48 placed first: a selective F2 pass on creative reason (S18), which carries the goodness chain, the diachronic presumption, and the source cover while remaining at F1.
+Identity is defined and its dependencies are mapped; CH03 is integrated. The queue returns to the item S51 placed first: a selective F2 pass on creative reason (S18), which carries the goodness chain, the diachronic presumption, and the source cover while remaining at F1.

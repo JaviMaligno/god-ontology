@@ -1,15 +1,15 @@
 # Session: Personal continuation and bearer horizons
 
 **Date:** 2026-09-02
-**Session ID:** S44
+**Session ID:** S47
 **Primary question:** Can the ontology support an extended bearer horizon — the numerically same conscious subject existing after the cessation of its embodied realization base, with undefeated fit — and what would that require of E+, ACO, divine power, the embodied subject of S29, and the privative model of S28?
-**Dependencies:** C15, C22–C28, C47, C53, C71–C75, C98–C103, C122–C124, C183–C184, C208–C209, C212–C221, C387–C389, S28–S29, S43
+**Dependencies:** C15, C22–C28, C47, C53, C71–C75, C98–C103, C122–C124, C183–C184, C208–C209, C212–C221, C423–C425, S28–S29, S46
 **Origin:** Author's instruction of 2026-09-02 to proceed with CH20
 **Target depth:** F1 with local F2 notation; no afterlife doctrine is asserted
 
 ## Starting position
 
-S43 derived that, for a bearer $B$ whose life ends in uncovered suffering, closure of the P-gap requires undefeated $P$-fit within a horizon extending beyond $B$'s life (C388). The requirement arrived as a dependency, not as a doctrine. This session asks whether the architecture can carry it, and refuses in advance two shortcuts: settling personal identity by stipulation, and treating continuation as established because the argument needs it.
+S46 derived that, for a bearer $B$ whose life ends in uncovered suffering, closure of the P-gap requires undefeated $P$-fit within a horizon extending beyond $B$'s life (C424). The requirement arrived as a dependency, not as a doctrine. This session asks whether the architecture can carry it, and refuses in advance two shortcuts: settling personal identity by stipulation, and treating continuation as established because the argument needs it.
 
 The author's inherited line is thin here. U16 mentions, from the traditions, that humans can choose or not choose God and that hell is the representation of not choosing; S28 turned that into a coherence model of hell-like absence as privation of communion, explicitly without asserting an afterlife. C21 requires the project to discover how far the argument reaches before comparing with religious concepts.
 
@@ -24,9 +24,9 @@ The author's inherited line is thin here. U16 mentions, from the traditions, tha
 | re-realization route | $B$ ceases and is later made to exist again by $G$ as the same individual |
 | $Ident(B,B^+)$ | The relation that makes a post-mortem subject the same bearer as $B$; its criterion is the open burden |
 
-## Step 1: what continuation must be, given S43
+## Step 1: what continuation must be, given S46
 
-Three conditions follow directly from C387–C388:
+Three conditions follow directly from C423–C424:
 
 1. **Same bearer.** Transpersonal continuity (C181), memory in others, descendants, replicas, or a qualitatively identical successor do not satisfy the requirement, because the remainder is bearer-indexed and $R$ forbids substituting a vehicle for the subject.
 2. **Fit, not mere existence.** Survival in a hell-like privation (C208) would not close anything; $ContHorizon$ requires undefeated $P$-fit for $B$, and for $S$-capable bearers also availability of $R$.
@@ -68,7 +68,7 @@ The robust evidence is that in every observed case conscious life depends on bra
 NoObserved(PCon\ \text{without}\ RB)\;\Rightarrow\;\neg\Diamond\,PCon\ \text{without this}\ RB,
 \]
 
-which is the non-detection inference R27 forbids, and which every realization model except the reductive one rejects as a matter of what the subject is. Honesty cuts the other way too: no evidence supports continuation, re-realization is unobservable in principle, and near-death and similar reports are not admitted as evidence for the architecture (C378). Continuation is therefore empirically undefeated and empirically unsupported; its status is fixed by metaphysics and by the P-gap, not by data.
+which is the non-detection inference R27 forbids, and which every realization model except the reductive one rejects as a matter of what the subject is. Honesty cuts the other way too: no evidence supports continuation, re-realization is unobservable in principle, and near-death and similar reports are not admitted as evidence for the architecture (C414). Continuation is therefore empirically undefeated and empirically unsupported; its status is fixed by metaphysics and by the P-gap, not by data.
 
 ## Step 5: what the ontology does and does not establish
 
@@ -78,7 +78,7 @@ No established premise entails $Continues(B)$. The only support internal to the 
 GoodOrient_P(G)\;\Rightarrow\;\forall B\,[\text{uncovered }s\text{ for }B\Rightarrow ContHorizon(B)].
 \]
 
-So the belief in divine goodness toward valence and the belief in continuation stand or fall together, and both are held under C389 as faith with stated content. The session neither strengthens nor weakens that conditional; it shows that the consequent is coherent, within divine power, and empirically undefeated, so the conditional does not collapse into a contradiction. That is the honest maximum at F1.
+So the belief in divine goodness toward valence and the belief in continuation stand or fall together, and both are held under C425 as faith with stated content. The session neither strengthens nor weakens that conditional; it shows that the consequent is coherent, within divine power, and empirically undefeated, so the conditional does not collapse into a contradiction. That is the honest maximum at F1.
 
 ## Step 6: consequences if continuation obtains
 
@@ -93,29 +93,29 @@ The second consequence connects the argument back to U16: the choice of God or n
 
 | Objection | Result |
 | --- | --- |
-| This is an ad hoc rescue of divine goodness | The requirement was derived in S43 from bearer-indexed fit and the $R$ anchor; this session shows only that it is coherent and within power, and states that it may still fail |
-| Neuroscience shows consciousness ends with the brain | It shows base-dependence in the embodied regime; the inference to impossibility is the non-detection inference R27 forbids (R126) |
+| This is an ad hoc rescue of divine goodness | The requirement was derived in S46 from bearer-indexed fit and the $R$ anchor; this session shows only that it is coherent and within power, and states that it may still fail |
+| Neuroscience shows consciousness ends with the brain | It shows base-dependence in the embodied regime; the inference to impossibility is the non-detection inference R27 forbids (R147) |
 | Gappy existence of one individual is incoherent | The strongest live objection; it is the identity burden under the reductive and re-realization routes, recorded as CH21 rather than answered |
 | A replica made by $G$ would be a new person | Agreed; that is why $Continues$ requires numerical identity and why the identity criterion is the open burden |
-| This is heaven and hell by the back door | The argument reaches a role — an extended bearer horizon with fit or its privation — not a doctrine; no punishment, place, mechanism, or permanence is asserted (R127) |
-| If $G$ can give fit later, why permit uncovered suffering now? | The policy-level covers of S43 answer for the regime; continuation answers for the bearer; the threshold residue remains recorded |
+| This is heaven and hell by the back door | The argument reaches a role — an extended bearer horizon with fit or its privation — not a doctrine; no punishment, place, mechanism, or permanence is asserted (R148) |
+| If $G$ can give fit later, why permit uncovered suffering now? | The policy-level covers of S46 answer for the regime; continuation answers for the bearer; the threshold residue remains recorded |
 | Universal continuation makes death unimportant | No; death remains the end of the embodied regime in which sourcehood, relation, and projects are exercised, and the bearer-level remainder is real before any closure |
 
 ## Decisions
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C390 | — | `accepted definition` | Continuation is the numerically same conscious bearer existing after the cessation of its realization base, with an undefeated $P$-fit horizon; location may be any domain within $\mathfrak R^*$ | this session; C47, C387–C388 |
-| C391 | — | `accepted` | Transpersonal continuity, memory, descendants, replicas, or qualitative successors do not satisfy the bearer-level requirement | this session; C181, C387 |
-| C392 | — | `provisional` | Continuation is coherent under every open realization model, by persistence or re-realization; each model relocates the burden to the identity criterion | this session; C219 |
-| C393 | — | `accepted conditional` | Continuation is within divine power as an intervention or further creative act iff its identity condition is coherent; nothing in $S$ entails it and capacity does not entail exercise | this session; C15, C71–C75, C98–C100 |
-| C394 | — | `accepted` | Empirical base-dependence constrains the embodied regime and does not defeat continuation; no evidence supports it either | this session; C183–C184, C378 |
-| C395 | — | `provisional conditional` | Continuation follows from no established premise; it follows conditionally from $GoodOrient_P(G)$, so the two beliefs stand or fall together under C389 | this session; C388–C389 |
-| C396 | — | `preferred consequence` | If continuation obtains, it is available to every bearer, and post-mortem communion for $S$-capable bearers is co-produced rather than imposed; S28's privative model is its negative case | this session; C122–C124, C208 |
+| C426 | — | `accepted definition` | Continuation is the numerically same conscious bearer existing after the cessation of its realization base, with an undefeated $P$-fit horizon; location may be any domain within $\mathfrak R^*$ | this session; C47, C423–C424 |
+| C427 | — | `accepted` | Transpersonal continuity, memory, descendants, replicas, or qualitative successors do not satisfy the bearer-level requirement | this session; C181, C423 |
+| C428 | — | `provisional` | Continuation is coherent under every open realization model, by persistence or re-realization; each model relocates the burden to the identity criterion | this session; C219 |
+| C429 | — | `accepted conditional` | Continuation is within divine power as an intervention or further creative act iff its identity condition is coherent; nothing in $S$ entails it and capacity does not entail exercise | this session; C15, C71–C75, C98–C100 |
+| C430 | — | `accepted` | Empirical base-dependence constrains the embodied regime and does not defeat continuation; no evidence supports it either | this session; C183–C184, C414 |
+| C431 | — | `provisional conditional` | Continuation follows from no established premise; it follows conditionally from $GoodOrient_P(G)$, so the two beliefs stand or fall together under C425 | this session; C424–C425 |
+| C432 | — | `preferred consequence` | If continuation obtains, it is available to every bearer, and post-mortem communion for $S$-capable bearers is co-produced rather than imposed; S28's privative model is its negative case | this session; C122–C124, C208 |
 | CH20 | `scoped` | `tested` (partial) | Coherence, power, and empirical status settled at F1; identity and existence remain open | this session |
 | CH21 | — | `scoped` | Personal identity across the cessation of the realization base | this session |
-| R126 | — | `rejected` | Inferring the impossibility of continuation from the absence of observed consciousness without a brain | this session; R27 |
-| R127 | — | `rejected` | Importing heaven, hell, resurrection, judgment, or punishment content from tradition as established by this argument | this session; C21 |
+| R147 | — | `rejected` | Inferring the impossibility of continuation from the absence of observed consciousness without a brain | this session; R27 |
+| R148 | — | `rejected` | Importing heaven, hell, resurrection, judgment, or punishment content from tradition as established by this argument | this session; C21 |
 
 ## Literature and novelty notes
 

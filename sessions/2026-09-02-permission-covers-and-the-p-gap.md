@@ -1,15 +1,15 @@
 # Session: Permission, covers, and the P-gap
 
 **Date:** 2026-09-02
-**Session ID:** S43
+**Session ID:** S46
 **Primary question:** Under what conditions could a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence, and what exactly remains open?
-**Dependencies:** C32, C39–C46, C104–C118, C122–C124, C186–C196, C200–C202, C206–C209, C372–C375, S18–S19, S27–S28, S42
+**Dependencies:** C32, C39–C46, C104–C118, C122–C124, C186–C196, C200–C202, C206–C209, C408–C411, S18–S19, S27–S28, S45
 **Origin:** Author's instruction of 2026-09-02 to proceed with the P-gap (CH18) as the next question-driven item
 **Target depth:** F1 with local F2 notation; no theodicy is claimed
 
 ## Starting position and authorial line
 
-S42 leaves $GoodOrient_P(G)$ open. The inherited authorial line supplies three constraints that this session keeps separate:
+S45 leaves $GoodOrient_P(G)$ open. The inherited authorial line supplies three constraints that this session keeps separate:
 
 1. [U16](../corpus/transcript.md#user--u16): the reason evil exists is that, in order for autonomous agents to exist, there are other consequences in the world, particularly those we call evil. This is the structural line and is the primary material.
 2. [U16](../corpus/transcript.md#user--u16): struggle may be needed for people to become better, as spoiling children does not. The author explicitly marks this as an extra, more theological and people-grounded layer that must not be mixed with the argument. It is therefore recorded as optional and not used in the derivation.
@@ -95,7 +95,7 @@ This is the session's structural result. In this ontology the problem of evil do
 
 ## Step 4: what a positive $P$-orientation would add
 
-The covers above are permissions. A positive divine disposition toward $P$ would be exercised regard toward sufferers: address, accompaniment, consolation, response (C121–C123, C376). The ontology establishes the capacity and not the exercise. If $G$ has valence, co-suffering would be a further $P$-relation; divine valence remains open (S42). These are recorded as what would extend $GoodOrient_P$ positively, not as results.
+The covers above are permissions. A positive divine disposition toward $P$ would be exercised regard toward sufferers: address, accompaniment, consolation, response (C121–C123, C412). The ontology establishes the capacity and not the exercise. If $G$ has valence, co-suffering would be a further $P$-relation; divine valence remains open (S45). These are recorded as what would extend $GoodOrient_P$ positively, not as results.
 
 ## Step 5: the exact content of the remaining belief
 
@@ -117,26 +117,26 @@ This belief is held under the S28 epistemic-orientation profile (C200–C202): b
 | A good $G$ would prevent at least the horrendous cases | Admitted as the threshold residue; the arbitrary-threshold reply is recorded as contested, not adopted |
 | The bearer-level remainder makes the sufferer a means to others' agency | Agreed, unless a bearer-level cover exists; this is why R forces continuation onto the trunk instead of allowing a transpersonal balance |
 | Post-mortem compensation is an ad hoc rescue | It is not introduced here as a rescue but derived as a dependency; whether the ontology can support it is CH20 and may fail |
-| Skeptical theism dissolves the problem | Rejected as blanket (R124); C168 keeps apparent gratuitousness as defeasible evidence |
-| Inability to see a cover shows there is none | Rejected as inference (R125); the same fallibility that blocks blanket skeptical theism blocks the noseeum inference |
+| Skeptical theism dissolves the problem | Rejected as blanket (R145); C168 keeps apparent gratuitousness as defeasible evidence |
+| Inability to see a cover shows there is none | Rejected as inference (R146); the same fallibility that blocks blanket skeptical theism blocks the noseeum inference |
 | The developmental thesis would close the gap | It is optional by the author's own classification and has not been assessed |
 
 ## Decisions
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C382 | — | `accepted` | Divine relations to a token suffering are typed as origination, arena grounding, permission, knowledge, and response; permission is the load-bearing relation for the P-gap | this session; C32, C114, C191 |
-| C383 | — | `accepted definitions` | $Permits$, $Cover$, and $Gratuitous$ as defined; $GoodOrient_P(G)$ entails no actual gratuitous suffering | this session |
-| C384 | — | `preferred` | Source cover: systematic prevention of moral harm would conflict with the creation reason, agency ecology, and truthful relation; the cover is policy-level and leaves a threshold residue | this session; U16, C106, C115, C118 |
-| C385 | — | `preferred` | Regularity cover: constant prevention of natural suffering would erode the regularity that sourcehood and truthful relation require | this session; C107 |
-| C386 | — | `accepted status` | The developmental thesis remains an optional theological layer and is not used in the derivation | U16 authorial classification |
-| C387 | — | `accepted` | Policy-level covers do not close bearer-level misfit; $R$ forbids treating a bearer as a mere vehicle; bearer-level closure requires fit within the bearer's own horizon | this session; S27, C149 |
-| C388 | — | `accepted dependency` | Full closure of the P-gap for bearers whose lives end in uncovered suffering requires an extended bearer horizon; personal continuation becomes a load-bearing open question (CH20) | this session; C208–C209 |
-| C389 | — | `accepted specification` | The belief that $G$'s goodness extends to $P$ has the content that no actual suffering is gratuitous and that bearer horizons suffice; it is held as faith in the C200–C202 sense with apparently gratuitous cases as attended counterevidence | this session |
-| C374 | `accepted` | `accepted`, structured | The P-gap now has a permission–cover–remainder structure; it is not closed | this session |
+| C418 | — | `accepted` | Divine relations to a token suffering are typed as origination, arena grounding, permission, knowledge, and response; permission is the load-bearing relation for the P-gap | this session; C32, C114, C191 |
+| C419 | — | `accepted definitions` | $Permits$, $Cover$, and $Gratuitous$ as defined; $GoodOrient_P(G)$ entails no actual gratuitous suffering | this session |
+| C420 | — | `preferred` | Source cover: systematic prevention of moral harm would conflict with the creation reason, agency ecology, and truthful relation; the cover is policy-level and leaves a threshold residue | this session; U16, C106, C115, C118 |
+| C421 | — | `preferred` | Regularity cover: constant prevention of natural suffering would erode the regularity that sourcehood and truthful relation require | this session; C107 |
+| C422 | — | `accepted status` | The developmental thesis remains an optional theological layer and is not used in the derivation | U16 authorial classification |
+| C423 | — | `accepted` | Policy-level covers do not close bearer-level misfit; $R$ forbids treating a bearer as a mere vehicle; bearer-level closure requires fit within the bearer's own horizon | this session; S27, C149 |
+| C424 | — | `accepted dependency` | Full closure of the P-gap for bearers whose lives end in uncovered suffering requires an extended bearer horizon; personal continuation becomes a load-bearing open question (CH20) | this session; C208–C209 |
+| C425 | — | `accepted specification` | The belief that $G$'s goodness extends to $P$ has the content that no actual suffering is gratuitous and that bearer horizons suffice; it is held as faith in the C200–C202 sense with apparently gratuitous cases as attended counterevidence | this session |
+| C410 | `accepted` | `accepted`, structured | The P-gap now has a permission–cover–remainder structure; it is not closed | this session |
 | CH18 | `scoped` | `tested` (partial) | Structural covers stated; closure depends on CH20 | this session |
-| R124 | — | `rejected` | Skeptical theism as blanket dissolution of apparent gratuitous suffering | this session; C168, C184 |
-| R125 | — | `rejected` | The inference from inability to identify a cover to gratuitousness | this session; C168 |
+| R145 | — | `rejected` | Skeptical theism as blanket dissolution of apparent gratuitous suffering | this session; C168, C184 |
+| R146 | — | `rejected` | The inference from inability to identify a cover to gratuitousness | this session; C168 |
 
 ## Literature and novelty notes
 
@@ -145,8 +145,8 @@ Cited from memory; not verified online in this session.
 - Richard Swinburne, *Providence and the Problem of Evil* (Oxford, 1998): natural-law and free-will theodicies; the regularity cover belongs to that family.
 - John Hick, *Evil and the God of Love* (1966): soul-making; corresponds to the optional developmental layer.
 - Peter van Inwagen, *The Problem of Evil* (Oxford, 2006): the no-minimum or arbitrary-threshold reply, recorded here as contested.
-- William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979): the evidential argument from apparently gratuitous suffering; Stephen Wykstra and Michael Bergmann on skeptical theism. R124–R125 reject both blanket moves as inferences.
-- Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999): argues that a good God must defeat horrendous evils within the sufferer's own life, including post-mortem. This is the closest precedent for C387–C388; the project reaches the bearer-level requirement from the bearer-indexed $Fit_*$ and the $R$ anchor rather than from a perfection premise.
+- William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979): the evidential argument from apparently gratuitous suffering; Stephen Wykstra and Michael Bergmann on skeptical theism. R145–R146 reject both blanket moves as inferences.
+- Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999): argues that a good God must defeat horrendous evils within the sufferer's own life, including post-mortem. This is the closest precedent for C423–C424; the project reaches the bearer-level requirement from the bearer-indexed $Fit_*$ and the $R$ anchor rather than from a perfection premise.
 - Eleonore Stump, *Wandering in Darkness* (Oxford, 2010): second-person accounts of suffering and union; relevant to Step 4.
 
 Classification: established families; the project-specific element is the derivation of the bearer-level remainder from bearer-indexed fit and the $R$ anchor, and the resulting promotion of personal continuation to a trunk dependency without a perfection or omnibenevolence premise.

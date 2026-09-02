@@ -27,6 +27,10 @@ From [U18](../corpus/transcript.md#user--u18) onward, the author comments select
 
 The conversation between author and assistant is the primary deliberative instrument of the project. Proposals, objections, revisions, and reasons must be made visible in the conversation so the author can shape them. Repository documents preserve memory, decisions, provenance, and continuity across sessions or context compaction; they do not replace the discussion or function as a hidden venue in which the ontology advances without the author.
 
+## Two registers and the accessible track
+
+The project maintains two registers of exposition over one set of commitments. The argumentative register builds, tests, and records the ontology. The accessible register, governed by [accessible-track.md](accessible-track.md), expresses the same commitments in ordinary first-person language, states their status in plain words, and connects them with the experiential layer described below. The accessible register is downstream and may not claim more than the ledger supports. It is not passive: a plain question the ledger cannot answer faithfully becomes a research item under the priority discipline, filled in the argumentative register under the author's criteria and then translated. The popular image of an analytic left hemisphere and an experiential right one is used only as a metaphor for the two registers.
+
 ## Four evidential layers
 
 1. **Authorial direction:** preferences, corrections, acceptances, and questions in user turns and later session decisions.
@@ -210,9 +214,40 @@ These modules remain conditional on the upstream case for a necessary agent. The
 34. Test $HI_G$ through fixed-prefix histories, identity and law preservation, autonomous source roles, and terminal-boundary tasks. Completed at F2 in S43 conditional on explicit essential-retention and local prefix-composability bridges.
 35. Test action-domain exhaustion across residual created-order, self-directed, and non-created-relational task types. Completed conditionally in S44 for pure created-directed tasks through $CAN_G$; established self-executive types are separated from self-reconstitution, while their exhaustive range, mixed *ex deo*, non-created concreta, and unrestricted $OMP_Q$ remain open.
 36. Develop identity at F2 as the next promoted trunk module. Completed in S45: absolute primitive identity is combined with anchored hylomorphic-organismic persistence, a one-bearer person-phase interpretation, constrained gappy careers, and distinct divine identity conditions.
-37. Apply $PP_G$ and the distinct-created-relatum requirement to strict non-destructive *ex deo*. Completed in S71: destructive variants are excluded, $ANDC$ is conditionally admitted, eligible relational whole-presence roots normalize under $CP_G^{elig}$, and intrinsic divine modes remain separate.
-38. Test self-executive action-range exhaustion, including intrinsic non-destructive manifestation, without defining task eligibility through omnipotence.
-39. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-40. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, $ANDC$'s deeper constitutive content, $LPC_G$, self-executive exhaustion, and the F3 consciousness burdens—for selective treatment.
-41. Run the dedicated literature, provenance, and novelty pass.
-42. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+37. Apply $PP_G$ and the distinct-created-relatum requirement to strict non-destructive *ex deo*. Completed in S71: destructive variants are excluded, $ANDC$ is conditionally admitted, eligible relational whole-presence roots normalize under $CP_G^{elig}$, and intrinsic divine modes return to self-executive action-range exhaustion.
+38. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+39. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, $ANDC$'s deeper constitutive content, $LPC_G$, self-executive exhaustion, and the F3 consciousness burdens—for selective treatment.
+40. Run the dedicated literature, provenance, and novelty pass.
+41. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+
+### Question-driven track (from 2026-09-02)
+
+42. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S46.
+43. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S47.
+44. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S48.
+45. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH19). Completed at F1 in S49: permission, source and regularity covers, bearer-level remainder, and the promotion of personal continuation to a trunk dependency.
+46. Treat personal continuation (CH21): what the ontology can say about an extended bearer horizon given E+, ACO, the embodied subject, and the privative model. Completed at F1 in S50: coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; identity across cessation becomes CH22.
+47. Return to divine constitution and material production (CH12), which shares the substance question with CH22. S30–S33 on the trunk already supply the F2 result; S51 deepens it at the author's direction. CH22 is queued behind it.
+48. Give the constitution/production junction its F3 pass: materiality as instantiated profile, the level distinction for conservation, the derivation of $\neg PMC_U$, aspect-powers, and the non-inheritance condition for strict *ex deo*. Completed in S51; the queue returns to CH03.
+49. Structure cumulative context control: funnelling, evaluative authorship, the two levels of agency, the diachronic agency-preservation presumption, and the ecology conditions. Completed at F2 in S52 while CH03 is held by the author; CH23 opened for created-level curation and responsibility.
+50. Open CH22: derive the persistence conditions of created subjects from the agency model, test gappy existence under E+, de re re-realization, the replica objection, fission, and Parfit. Completed at F2 in S53; the reductive realization is disfavored and four models remain live.
+51. Run a section-level coherence audit of the trunk from S30 to S53. Completed in S54: no contradiction; C483 discharged, C513 recorded, accessible omnipotence rendering corrected; creative reason (S18) identified as the weakest load-bearing link.
+52. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity.
+53. Define identity and map its impact: numerical identity, individuation, persistence, and identification, scoped by kind, with the modules that depend on them. Completed at F2 in S55.
+54. Give creative reason (S18) a selective F2 pass: typed reasons, eligibility filter, attraction order, the requiring reading of the agency reason, and the relocation of the P-gap to the reason profile. Completed in S56.
+55. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Completed in S57: five-clause definition, non-circularity, B2 reduced to modal uniqueness of necessary agents, creative plenitude conditional.
+56. Answer the author's question on other universes: possible worlds, cosmological multiverses, and plural created orders. Completed at F1 in S58 with one bridge constraint on branching at settlement.
+57. Consolidate Parts III–IV in the treatise. Completed as first-pass prose in S59; no inconsistency found; the P-gap is the single unearned point in the chapter-10 audit.
+58. Reconcile the question-driven sessions with the author's S35–S38 after the merge: canonical formulations, merged duplicates, retained refinements, one relocated clause. Completed in S60 (C541–C545).
+59. Continue the consolidation into Part V (knowledge, time, and freedom). Completed as first-pass prose in S61; no inconsistency found; temporal passage recorded as an open item not needed by the argument.
+60. Incorporate the author's first review of the accessible answers and reconcile with S40–S42. Completed in S62 (C547–C548); no gap in the ontology exposed.
+61. Consolidate Part VI (divine action). Completed as first-pass prose in S63; no inconsistency found; the self-consistency of responsive loops recorded as open and adjacent to $HI_G$.
+62. Test whether the self-consistency of responsive interventions is absorbed by $HI_G$. Completed in S64: not absorbed; closed by well-founded responsiveness (C550–C553) with no new primitive.
+63. Consolidate Part VII (further attributes, the P-gap, continuation). Completed as first-pass prose in S65; no inconsistency found.
+64. Consolidate Part VIII (comparison and evaluation). Completed as first-pass prose in S66; Part VII updated for S44; the branch's identity work offered as a candidate framework (C555).
+65. Consolidate Parts I–II (motivation and method). Completed as first-pass prose in S67, drafted to be overwritten in the author's voice.
+66. Reconcile the question-driven identity results with the author's S45. Completed in S68 (C556): the trunk's two-level account is canonical; the branch's derivation from the agency model is retained as a refinement; two accessible answers revised.
+67. Give the appendices a first pass. Completed in S69: A, C, F generated by `scripts/build-appendices.mjs`; B, D, E, G, H hand-written; the author's reflexive purpose for the accessible register recorded (C557).
+68. Whole-treatise coherence pass after the trunk's S39–S45. Completed in S70: Parts III, IV, V, and VI corrected where they carried the branch's provisional results in place of the trunk's canonical ones; no contradiction between Parts.
+69. The question-track provenance pass was completed locally on 2026-09-02 and recorded in `research/provenance-checklist.md`; the author's deeper second passes remain. Nothing is promoted merely by citation verification (C324).
+70. Apply S45 after the S46–S70 branch is reconciled. Completed in S71: CH24 tests the strict-*ex-deo* variants, C558–C572 record the result, and the active trunk returns to self-executive action-range exhaustion.

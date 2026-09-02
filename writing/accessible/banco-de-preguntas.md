@@ -40,7 +40,9 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
 | P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
 | P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 (toda tarea de la ontología actual queda cubierta; la forma irrestricta espera el test de relata no creados y nuevos tipos de acción) | CH05 |
-| P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
+| P47 | ¿Está el mundo hecho de Dios? ¿Es Dios el universo? | `respondida` | C559–C572; S71, S73 (no: las variantes de reparto, transformación, cuerpo y modo fallan; la constitución no destructiva es una capacidad condicional, no el modelo actual, que mantiene creador y criatura sin mezcla) | CH24 |
+| P48 | ¿Puede Dios cambiar, o darse a sí mismo algo que no tenga ya? | `abierta` | C580–C584; S72 (lo que hace con los poderes que ya tiene está cubierto; una cualidad o un poder nuevos son una extensión de la ontología, pregunta abierta 2 del ledger) | — |
+| P15 | ¿Puede Dios hacer cualquier cosa? | `fusionada en P44` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
 

@@ -6,13 +6,13 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 585 |
+| Working commitments (C) | 586 |
 | Rejected or corrected moves (R) | 224 |
 | Challenges (CH) | 24 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 246 |
+| accepted | 247 |
 | preferred | 242 |
 | other | 44 |
 | provisional | 25 |
@@ -524,7 +524,7 @@
 | C491 | Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter. | `accepted dilemma` |
 | C492 | Integrated divine powers are aspects: essential, incapable of existing without $G$, not grounding $G$'s identity, and individuated by manifestation-type. Aspects are not ingredients, so $MCS(G)$ is preserved. | `preferred` |
 | C493 | Subject-level and aspect-level causal descriptions of a divine exercise are not rival causes. | `accepted` |
-| C494 | A non-destructive strict *ex deo* manifestation is coherent with $UPSS$, $CT$, and $ASP_G$ only under a non-inheritance principle $NI$ on which a mode or constituent may instantiate $\Pi_{phys}$ while its subject does not; $NI$ is unmotivated within the project. | `conditional result` |
+| C494 | A non-destructive strict *ex deo* manifestation is coherent with $UPSS$, $CT$, and $ASP_G$ only under a non-inheritance principle $NI$ on which a mode or constituent may instantiate $\Pi_{phys}$ while its subject does not; $NI$ is unmotivated within the project. | `conditional result; superseded by S71` |
 | C495 | Created subjects are $Substance_T$ whose material profile is instantiated by their realization base; re-realization would be re-instantiation of $\Pi_{phys}$ by the same identity unit. | `accepted scope` |
 | C496 | Under the weak explanatory preference, $OEC^+$ with $CCD$ leaves fewer and less fundamental unexplained residues than co-fundamental matter or non-destructive strict *ex deo*. | `preferred comparison` |
 | C497 | Token autonomy at every moment is compatible with a curator policy under which every originable sequence of choices yields a profile in a target set; such funnelling removes diachronic authorship. | `accepted` |
@@ -616,6 +616,7 @@
 | C583 | The intrinsic-mode *ex deo* family divides into executive-token $ED_{IM}^{exec}$ and qualitative self-modificatory $ED_{IM}^{qual}$. | `proposed accepted refinement` |
 | C584 | A jointly admissible $ED_{IM}^{exec}$ specification is conditionally within divine capacity through token unity, $FEG_G$, and $CP_G^{elig}$; $ED_{IM}^{qual}$ remains open. | `proposed preferred conditional F2 capacity` |
 | C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure` |
+| C586 | Reconciliation after the trunk's S71–S72 and the citation pass: C494's $NI$ condition is superseded by S71; WFR (C550) rests on the project's own well-foundedness of the grounding order (C29–C30, S39) and is recorded as a project commitment, not as a theorem of the grounding literature; S48 and S53 are project-specific derivations with direct precedents (Murphy, Merricks); no other branch row changes status. | `accepted reconciliation` |
 
 ## Rejected or corrected moves
 

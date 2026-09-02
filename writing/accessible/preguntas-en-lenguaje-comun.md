@@ -106,6 +106,14 @@ Hay algo más fuerte que puedo decir. La materia podría haber sido distinta, co
 
 Lo que no sé, y lo digo claro: cómo funciona por dentro el poder de hacer existir. Sé lo que tiene que cumplir, no cómo opera. Es el mismo tipo de límite que tengo con nuestra propia capacidad de elegir: la reconozco y no la reduzco a un mecanismo.
 
+### ¿Está el mundo hecho de Dios? ¿Es Dios el universo?
+
+No. Y la pregunta merece separar lo que junta. «Hecho de Dios» puede querer decir varias cosas: que Dios se repartió y una parte suya es el mundo; que Dios se convirtió en el mundo; que el mundo es el cuerpo de Dios; o que el mundo es un estado de Dios, como una ola es un estado del mar. Las he mirado una por una, y ninguna cabe con el Dios del que hablo. Repartirse exige tener trozos, y Dios no los tiene: sus capacidades son aspectos suyos, no piezas. Convertirse en el mundo exige dejar de ser el que lo hace, y entonces no quedaría quien lo sostuviera. Que el mundo sea su cuerpo pone a lo creado sosteniendo a quien lo crea, al revés de como es. Y que el mundo sea un estado suyo, como la ola del mar, dejaría al mundo sin ser propio, y entonces nada de lo que hacemos sería nuestro.
+
+Lo que sí digo es esto: Dios sostiene el mundo entero, entero él y en cada cosa, sin que ninguna cosa sea un pedazo suyo. Creador y criatura son dos, y lo creado tiene su propio origen, su unidad y sus actos. El mundo no está hecho de Dios; está hecho por Dios, y se apoya en él.
+
+Queda una posibilidad más fina, que menciono porque la he estudiado: que Dios, sin dividirse, sin perder nada y sin pasar a depender de la criatura, «constituyera» algo distinto de él, de modo que ese algo fuera aparte y a la vez estuviera hecho de su presencia. No he encontrado contradicción en ello, con condiciones; podría estar en su poder. Pero no creo que lo haya hecho: el mundo que conocemos se explica mejor con dos que no se mezclan, y esa es la lectura que mantengo. Que Dios pueda es una cosa; que lo haya hecho, otra.
+
 ### ¿Por qué creó Dios el mundo?
 
 No pretendo saber el motivo real; lo que puedo dar es una explicación que hace la creación inteligible, y decir qué parte de ella tengo y qué parte no.
@@ -275,6 +283,7 @@ Para que quede junto y a la vista:
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 - Si puede existir otro ser concreto que no haya sido creado por Dios y que limite su poder; nuestra ontología no contiene ninguno, pero todavía no he descartado todas las ontologías rivales.
+- Si Dios puede darse a sí mismo una cualidad o un poder que no tenga ya; lo que hace con los poderes que tiene está cubierto, y lo demás no lo sé.
 
 ---
 
@@ -296,6 +305,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C521–C526; S18, S56 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
+| Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S73 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; provisional frente a relata no creados o tipos de acción de ontologías rivales | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |

@@ -78,3 +78,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S70 — Whole-treatise coherence pass after the trunk's S39–S45](2026-09-02-treatise-coherence-pass.md)
 - [S71 — Strict ex deo and mixed constitution after identity](2026-09-02-strict-ex-deo-and-mixed-constitution.md)
 - [S72 — Self-executive action and intrinsic manifestation](2026-09-02-self-executive-action-and-intrinsic-manifestation.md)
+- [S73 — Reconciliation with the trunk's S71–S72 and the citation pass](2026-09-02-reconciliation-after-s71-s72-and-citations.md)

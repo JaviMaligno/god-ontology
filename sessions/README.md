@@ -77,3 +77,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S69 — Appendices, first pass, and a generator for the mechanical ones](2026-09-02-appendices-first-pass.md)
 - [S70 — Whole-treatise coherence pass after the trunk's S39–S45](2026-09-02-treatise-coherence-pass.md)
 - [S71 — Strict ex deo and mixed constitution after identity](2026-09-02-strict-ex-deo-and-mixed-constitution.md)
+- [S72 — Self-executive action and intrinsic manifestation](2026-09-02-self-executive-action-and-intrinsic-manifestation.md)

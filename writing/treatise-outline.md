@@ -244,11 +244,17 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The divine persistence profile $PP_G$ and de re identity across possible histories
     - Why an exact created divine analogue remains numerically distinct and dependent
     - Why relational whole-presence creation can normalize to root creation
-    - Why intrinsic divine modes remain a self-executive range question
+    - Self-executive action defined before capacity: direct settlement, no distinct patient, preservation of $PP_G$
+    - The established executive grammar and $SEForm_G$: kind, content, polarity, role, and compossibility
+    - Independent $SEAdm_G$ and formal executive generality $FEG_G$
+    - Intentional refraining versus mere non-occurrence or inability
+    - Atemporal action: logical order without a divine temporal sequence
+    - Executive intrinsic modes versus qualitative self-modification
+    - Conditional coverage of $ED_{IM}^{exec}$ and the open $ED_{IM}^{qual}$ extension
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Ontology-relative maximality and possible non-created concrete relata
-    - The remaining self-executive and mixed-action exhaustion problems
+    - Ontology-relative $OMP_Q^{\mathcal O_*}$ and the remaining cross-ontology problem
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge fallback if unrestricted maximality fails

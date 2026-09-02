@@ -6,17 +6,17 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 572 |
-| Rejected or corrected moves (R) | 214 |
+| Working commitments (C) | 585 |
+| Rejected or corrected moves (R) | 224 |
 | Challenges (CH) | 24 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 246 |
-| preferred | 243 |
-| other | 29 |
+| preferred | 242 |
+| other | 44 |
 | provisional | 25 |
-| open | 12 |
+| open | 11 |
 | merged | 9 |
 | deferred | 4 |
 | rejected | 2 |
@@ -299,7 +299,7 @@
 | C266 | Creating an exact divine duplicate is incoherent when exactness includes both created dependence and underived ultimate-ground status. | `preferred resolution of strict CH01` |
 | C267 | Creation of a dependent qualitative or derivative near-copy of $G$ remains open. | `open` |
 | C268 | Actual $CCD(G,\mathcal C_0)$ does not establish that every possible divine creative act must be constitutively disjoint. | `accepted modal distinction` |
-| C269 | If a non-destructive strict-*ex-deo* manifestation is coherent with the independent divine essence, qualified power places it within $G$'s capacity; self-annihilating variants are incoherent. | `refined in S71` |
+| C269 | If a non-destructive strict-*ex-deo* manifestation is coherent with the independent divine essence, qualified power places it within $G$'s capacity; self-annihilating variants are incoherent. | `refined in S71–S72` |
 | C270 | The interpersonal-knowledge gap in ACO required testing after the qualified-power branch. | `completed priority` |
 | C271 | S32's distinction between $OMP_C$ and $OMP_Q$ is accepted, and finding a non-circular universal-range bridge is an explicit research task. | `accepted author direction` |
 | C272 | Universal power range decomposes into creative plenitude $CP_G$, constitutive control $CC_G$, history-sensitive intervention $HI_G$, and a further task-domain-exhaustion condition for unrestricted $OMP_Q$. | `accepted analytic decomposition` |
@@ -456,14 +456,14 @@
 | C423 | Conditional on $CAN_G$ and the earlier range bridges, $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust pure created-directed tasks at F2. | `preferred F2 domain-closure result` |
 | C424 | Self-executive action exercises a divine power while preserving $E_G^{ind}$; it is distinct from treating $G$ as a patient whose essential constitution is replaced. | `preferred distinction` |
 | C425 | The architecture establishes a positive fragment $SE_G^{est}$ containing the self-executive types already used in creation, no-creation, intervention, and communication. | `preferred F2 partial range` |
-| C426 | Universal range over every independently eligible self-executive action remains open. | `open range burden` |
+| C426 | Universal range over every independently eligible self-executive action remained open after S44. | `historical burden resolved within $\mathcal O_*$ by C573–C585` |
 | C427 | A self-reconstituting description fails $Task_G$ when its result removes an independently established identity condition of the same $G$ to whom the complete action is attributed. | `preferred identity qualification` |
 | C428 | Divine states and relations are not automatically further divine actions. | `accepted analytic distinction` |
 | C429 | Logical, mathematical, modal, and identity necessities constrain task coherence but are not thereby causal patients or resistant non-created agents. | `preferred application` |
 | C430 | The preferred ontology contains no distinct non-created concrete relatum, but its modal impossibility has not been demonstrated. | `preferred actual ontology; open modal rival` |
 | C431 | Strict non-destructive $ED_S$ is grammatically mixed and required an identity-and-overlap audit before power classification. | `historical S44 classification; split by C569–C571` |
 | C432 | Ontology-relative qualified maximality $OMP_Q^{\mathcal O_*}$ quantifies over tasks licensed by the current ontology's independently accepted kinds, relata, identity conditions, and source roles. | `preferred diagnostic definition` |
-| C433 | The created-directed fragment, eligible relational $ANDC$, and established self-executive fragment of $OMP_Q^{\mathcal O_*}$ are supported, but neither the whole ontology-relative formula nor unrestricted $OMP_Q$ is yet established. | `preferred calibrated result through S71` |
+| C433 | The created-directed fragment, eligible relational $ANDC$, and established self-executive fragment of $OMP_Q^{\mathcal O_*}$ were supported before the whole ontology-relative formula was closed. | `historical calibrated result superseded by C585` |
 | C434 | Identity is promoted to the next F2 trunk priority. | `explicit author priority confirmed by dependency audit` |
 | C435 | Synchronic individuation, numerical identity, diachronic persistence, reidentification evidence, and survival-relevant continuity are distinct questions. | `accepted analytic framework` |
 | C436 | Numerical identity $=_N$ is absolute, determinate in a complete history, and metaphysically fundamental rather than reducible to qualitative, material, psychological, or causal similarity. | `preferred at F2` |
@@ -601,8 +601,21 @@
 | C568 | The preferred actual creation remains constitutively disjoint $OEC^+_{CCD}$ even if $ANDC$ is an eligible divine capacity. | `preferred actual/capacity distinction` |
 | C569 | An eligible $ANDC$ creation whose divine-side result is only relational normalizes to $RootForm$ rather than requiring an intrinsic self-reconstitution power. | `preferred S71 application of S45 identity` |
 | C570 | $CP_G^{elig}$ covers every independently admissible $ANDC$ root specification satisfying $Elig_{ANDC}^G$. | `preferred at F2 conditional on prior bridges` |
-| C571 | A genuinely intrinsic contingent divine mode that constitutes creation is not yet covered by $CP_G^{elig}$ and passes to the self-executive or self-modificatory range audit. | `open residual variant` |
+| C571 | A genuinely intrinsic contingent divine mode that constitutes creation was not covered by $CP_G^{elig}$ alone and passed to the self-executive or self-modificatory range audit. | `historical residual split by C581–C584` |
 | C572 | S71 establishes neither actual panentheism, actual strict *ex deo*, world embodiment, nor incarnation. | `accepted scope limit` |
+| C573 | Self-executive action is defined on the action side through $G$'s direct executive sourcehood, with no distinct bearer or causal patient required for its executive result and with $PP_G$ preserved. | `proposed preferred refinement` |
+| C574 | The established divine executive grammar $\mathcal K_G^{est}$ contains cognitive-attentional, rational-volitional, communicative-address, originative-existential, and interventive manifestation kinds. | `proposed preferred F2 taxonomy` |
+| C575 | $SEForm_G(a)=\langle G,k,q,\epsilon,\rho,\pi\rangle$ normalizes self-executive descriptions by source, established manifestation kind, content, exercise/refraining polarity, pure/mixed role, and preservation/compossibility profile. | `proposed preferred F2 normal form` |
+| C576 | $SEAdm_G$ independently filters self-executive tokens by the established grammar, coherent content, divine role and reason compatibility, joint compossibility, $PP_G$ preservation, and absence of a new divine constitutive basis. | `proposed preferred anti-circular filter` |
+| C577 | Intentional refraining requires an otherwise eligible optional positive act and $G$'s settled non-exercise; mere non-occurrence and inability are not negative actions. | `proposed preferred distinction` |
+| C578 | Formal executive generality $FEG_G$ assigns strong capacity to every token satisfying $SEAdm_G$. | `proposed preferred F2 bridge` |
+| C579 | $FEG_G$ closes $SE_G^{est}$ but does not extend to arbitrary compatible manifestations, novel power kinds, or every intrinsic description of $G$. | `proposed accepted scope limit` |
+| C580 | Divine reasons-apprehension, selection, and execution may be logically ordered aspects of one atemporal action; contingent specification and a created manifestation at $t$ do not require temporal succession in $G$. | `proposed preferred E+ integration` |
+| C581 | An executive intrinsic mode $ExecMode_G$ is an occurrent intrinsic aspect of an established power's token exercise that preserves $PP_G$ and adds no new constitutive basis. | `proposed preferred F2 distinction` |
+| C582 | A qualitative intrinsic mode $QualMode_G$ adds a new quality, power, part, substrate-state, or determinant not reducible to an established exercise token. | `open ontology extension` |
+| C583 | The intrinsic-mode *ex deo* family divides into executive-token $ED_{IM}^{exec}$ and qualitative self-modificatory $ED_{IM}^{qual}$. | `proposed accepted refinement` |
+| C584 | A jointly admissible $ED_{IM}^{exec}$ specification is conditionally within divine capacity through token unity, $FEG_G$, and $CP_G^{elig}$; $ED_{IM}^{qual}$ remains open. | `proposed preferred conditional F2 capacity` |
+| C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure` |
 
 ## Rejected or corrected moves
 
@@ -822,6 +835,16 @@
 | R212 | Non-material divine–world overlap satisfies the universal material-causality challenge. | `rejected` |
 | R213 | If $G$ can create through $ANDC$, the actual world must overlap constitutively with $G$. | `rejected` |
 | R214 | Root creative plenitude automatically covers a task that intrinsically modifies $G$. | `rejected` |
+| R215 | Every compatible manifestation of an established divine power is within its range merely because one manifestation occurs. | `rejected` |
+| R216 | Selection, intention, attention, address, exercise, and refraining must each be a primitive divine power. | `rejected` |
+| R217 | Every truth known under ACO is a further act by which $G$ produces or attends to that truth. | `rejected` |
+| R218 | Every divine non-performance is an intentional refraining. | `rejected` |
+| R219 | Capacity for each of two actions entails capacity for their conjunction. | `rejected` |
+| R220 | Atemporal divine action must be necessary because $G$ has no temporal transition from undecided to decided. | `rejected` |
+| R221 | Every contingent intrinsic property or relation of $G$ is an action token. | `rejected` |
+| R222 | Any intrinsic divine mode is automatically a non-destructive manifestation of an established power. | `rejected` |
+| R223 | Conditional capacity for $ED_{IM}^{exec}$ makes actual creation strict *ex deo*. | `rejected` |
+| R224 | Ontology-relative qualified omnipotence establishes unrestricted qualified omnipotence across every rival ontology. | `rejected` |
 
 ## Challenges
 
@@ -831,7 +854,7 @@
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | `scoped` |
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | `tested` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | `scoped` |
-| CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | `tested` |
+| CH05 | Does the current power argument establish only maximality over the created order, ontology-relative qualified omnipotence, or unrestricted qualified omnipotence; what could ground a coherent limiter? | `tested F2 within the preferred ontology; unrestricted form open` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | `scoped` |
 | CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | `tested` |

@@ -368,6 +368,18 @@ S71 refines overlap after identity rather than adopting one panentheist family w
 
 The principal local move is not a new overlap theory. It is the use of $PP_G$, created persistence profiles, and source separation to define $NSED$, followed by the claim that eligible $ANDC$ with no divine intrinsic result normalizes to a root-created task. Whether `ConstitutesWhole` has enough independent content to sustain this result remains a deeper burden; the novelty status is therefore only project-specific synthesis.
 
+## Self-executive action and intrinsic manifestation: targeted precedent check
+
+S72 closes a project-internal action grammar rather than proposing a general theory of action:
+
+- [Robert Ellis, “God and ‘Action’”](https://doi.org/10.1017/S0034412500019557) argues that ordinary action analysis must precede theological predication. This supports S72's action-side definition before any range inference.
+- [Frank G. Kirkpatrick, “Is the Notion of a Divine Basic Act a Necessary and Sufficient Way of Talking about God's Actions in the World?”](https://doi.org/10.1017/S0034412500001475) questions the thesis that every divine action must be basic. S72 allows mixed and non-basic descriptions while treating direct self-settlement as basic for $G$.
+- [Don Lodzinski, “The Eternal Act”](https://doi.org/10.1017/S0034412598004478) argues that divine deliberation, decision, and execution need not make God temporal. S72 treats them as logically ordered aspects and does not adopt Lodzinski's pantheistic execution model.
+- [Randolph Clarke, *Omissions: Agency, Metaphysics, and Responsibility*](https://doi.org/10.1093/acprof:oso/9780199347520.001.0001) and [Jonathan Payton, “The Logical Form of Negative Action Sentences”](https://doi.org/10.1080/00455091.2016.1193406) display the live disagreement over omission ontology. S72 stays neutral on events versus absences and requires intentional negative settlement only when refraining is actional.
+- [Tomis Kapitan, “Agency and Omniscience”](https://doi.org/10.1017/S0034412500001359) connects knowledge, will, intention, and planning in divine agency. S72's grammar instead separates epistemic states from selective exercises and expressive or productive termini.
+
+The local synthesis is $SEForm_G+SEAdm_G+FEG_G$, integrated with aspect-powers, $PP_G$, created-action normal forms, and the split between executive and qualitative $ED_{IM}$. Each ingredient has clear precedent; no novelty claim is warranted before a systematic comparison with theories of basic action, mental action, manifestations, and divine intrinsic change.
+
 ## Research backlog
 
 1. Compare the E and F models formally with De Florio–Frigerio, Law–Miller–Rasmussen, Rogers, Ockhamism, Molinism, and open theism.
@@ -405,3 +417,4 @@ The principal local move is not a new overlap theory. It is the use of $PP_G$, c
 33. Test the now-verified S53 derivation against Merricks's direct precedent, the wider simple-view literature, and Parfit's fission cases.
 34. Deepen the now-verified S50 comparison across materialist-survival, constitution, hylomorphic, and dualist routes; retain the corrected Aquinas reference.
 35. Compare S71's $ANDC$, $NSED$, and root-task normalization with mereological panentheism, grounding panentheism, constitution theories, world-body models, emanation, and accounts of intrinsic versus extrinsic divine change.
+36. Compare S72's $SEForm_G$, $SEAdm_G$, $FEG_G$, and executive/qualitative intrinsic-mode split with theories of basic and mental action, intentional omission, powers and manifestations, timeless divine action, and intrinsic versus Cambridge change.

@@ -76,7 +76,7 @@ No el que uno hereda de la catequesis, con todas sus propiedades ya puestas. Emp
 - **Sabe todo lo que ocurre de hecho, sin tener que esperar a que ocurra.** Para él la historia entera está a la vista; pero saber lo que hago no es hacer que lo haga.
 - **No está en el tiempo ni en el espacio.** No está en ningún sitio como está una mesa, porque el espacio y el tiempo son parte de lo que él sostiene. Y sin embargo no hay ningún sitio, cosa ni instante que no esté sosteniendo y conociendo.
 - **Está al alcance de cualquiera.** Todo ser consciente puede dirigirse a él y puede ser respondido. Que eso ocurra de hecho es otra cuestión.
-- **Puede hacer con lo creado cualquier cosa que tenga sentido hacer**, y nada de lo que ha creado puede limitarlo. Que no tenga ningún límite en absoluto, ni siquiera alguno que no venga de lo creado, es lo que creo, pero con menos apoyo que el resto.
+- **Puede hacer cualquier cosa que tenga sentido dentro de la ontología que hemos construido**, tanto sobre lo creado como en sus propios actos; nada de lo que ha creado puede limitarlo. Que no tenga ningún límite bajo cualquier otra ontología posible es lo que creo, pero con menos apoyo que el resto.
 - **Puede intervenir en el mundo, pero tiende a respetar nuestra libertad**, porque una de las razones por las que creó seres libres es que fueran libres.
 - **No estaba obligado a crear.** Tenía razones para hacerlo, pero razones que invitan, no que fuerzan.
 
@@ -84,13 +84,13 @@ Y esto es lo que **no** uso, porque no lo he derivado: la idea de que Dios es pe
 
 ### ¿Puede Dios hacer cualquier cosa?
 
-Con lo creado, sí: cualquier cosa que tenga sentido hacer. Y puede crear cualquier mundo posible, en el sentido de posible que expliqué antes. Lo creo con razones, aunque dependen de una premisa que prefiero sin poder demostrar: que la fuente última de cualquier mundo creado es el mismo Dios y no otro. Si eso se acepta, lo demás se sigue: todo mundo que pudiera existir es un mundo que él puede hacer.
+Dentro de la ontología que he construido, sí: cualquier cosa que tenga sentido hacer. Eso incluye actuar sobre lo creado, crear cualquier mundo admisible y realizar sus propios actos de conocer atentamente, decidir, abstenerse, dirigirse a alguien, crear o intervenir. No he metido esta conclusión en la definición: cada clase de acción se ha definido primero y después se ha buscado qué capacidad la cubre. La parte creadora depende de una premisa que prefiero sin poder demostrar: que la fuente última de cualquier mundo creado es el mismo Dios y no otro.
 
 Lo que hay que explicar es qué pasa con las cosas que «no puede». Hay descripciones que suenan a tareas y no lo son. Un círculo cuadrado no es algo difícil de hacer; es una descripción que no describe nada. Lo mismo pasa con «un mundo en el que Dios está metido dentro del espacio como una mesa»: esa descripción no habla de un mundo raro, habla de Dios y le pide que deje de ser lo que es. Que eso no cuente como tarea no es un límite de su poder, igual que no lo es el círculo cuadrado. Y aquí soy estricto conmigo mismo: solo vale excluir así lo que choca con algo que ya sé de Dios por otro camino; no vale inventarse una «esencia» para tapar una incapacidad.
 
 Dos cosas más. Puede también deshacer lo que ha hecho, incluso hacer que algo deje de existir del todo, porque para quien ve la historia entera un ser con principio y fin es un perfil completo, no algo que hubiera que ir manteniendo y luego soltar. Y que pueda no significa que lo haga: lo normal es que las cosas del mundo las produzcan las causas del mundo, y que Dios actúe directamente solo al crear y en las intervenciones que decida. Su poder es una capacidad, no una descripción de lo que hace a cada momento.
 
-Lo que no afirmo con la misma seguridad es que no tenga ningún límite en absoluto, ni siquiera alguno que no venga de lo creado. Lo creo, pero con menos apoyo que el resto.
+Lo que no afirmo con la misma seguridad es que no tenga ningún límite bajo cualquier ontología rival imaginable. Podría proponerse otro ser concreto no creado o una forma de acción divina realmente distinta de todas las que hemos definido; habría que mostrar primero que eso es posible y luego ver qué relación tiene con Dios. Creo que no aparecerá un límite así, pero esa es precisamente la siguiente prueba, no algo que ya haya demostrado.
 
 ### ¿De qué está hecho Dios?
 
@@ -274,6 +274,7 @@ Para que quede junto y a la vista:
 - Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
+- Si puede existir otro ser concreto que no haya sido creado por Dios y que limite su poder; nuestra ontología no contiene ninguno, pero todavía no he descartado todas las ontologías rivales.
 
 ---
 
@@ -295,7 +296,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C521–C526; S18, S56 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
-| Puede Dios hacer cualquier cosa | preferido para el poder sobre lo creado y la plenitud creadora cualificada; provisional para la ausencia de todo límite | C261–C262, C372, C375–C376, C380, C398–C401; S32, S40–S42 |
+| Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; provisional frente a relata no creados o tipos de acción de ontologías rivales | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
 | Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S52 | C18, C119, C297–C308, C497–C505, C541; S35, S52, S60 |

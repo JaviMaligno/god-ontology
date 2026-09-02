@@ -337,3 +337,7 @@ Mereological panentheism, grounding panentheism, emanation, world-body language,
 ## Next question
 
 Which independently eligible self-executive divine action types remain after selection, intention, attention, address, refraining, and non-destructive intrinsic manifestation are normalized, and does their range close without defining eligibility through omnipotence?
+
+## Later resolution
+
+[S72](2026-09-02-self-executive-action-and-intrinsic-manifestation.md) closes the established executive grammar through $SEForm_G$, independently filtered $SEAdm_G$, and formal executive generality $FEG_G$. It divides intrinsic modes into executive exercise tokens and qualitative self-modifications. A jointly admissible $ED_{IM}^{exec}$ task is conditionally covered through token unity plus $FEG_G$ and $CP_G^{elig}$; $ED_{IM}^{qual}$ remains an ontology extension.

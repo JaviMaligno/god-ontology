@@ -193,8 +193,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 19. Repair the consciousness model for embodied and potentially pre-conscious decision processes: distinguish preparation, access, settlement, execution, and report while attributing sourcehood to the whole subject. Completed at local F2 in S29; realization remains open.
 20. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Completed in S30 through $UPSS$, $MCS$, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ split.
 21. Refine the creator–creation boundary before the power analysis. Completed in S31: constitutive transcendence, relational immanence, explicit $CCD$, and four typed senses of *ex deo* separate direct presence from substantial overlap.
-22. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. This is the current task; distinguish maximality over the created order from unrestricted qualified maximality and test possible constitutive manifestations separately.
-23. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-24. Select the remaining genuinely fragile junctions—interpersonal knowledge, cumulative agency, and the residual $PMC_U$ challenge—for F2–F3 treatment.
-25. Run the dedicated literature, provenance, and novelty pass.
-26. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+22. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. Completed in S32: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains more provisional, and non-destructive strict-*ex-deo* capacity is conditional on independent coherence.
+23. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. This is the current task.
+24. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+25. Select the remaining genuinely fragile junctions—cumulative agency, residual $PMC_U$, and strict-*ex-deo* coherence—for F2–F3 treatment.
+26. Run the dedicated literature, provenance, and novelty pass.
+27. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

@@ -777,33 +777,86 @@ DependsExistentially(x,G)
 
 Call this **non-continuous global dependence**: the relation obtains across the created history without a sequence of divine acts that re-create each moment. Token interventions remain additional exercises rather than components of routine maintenance.
 
-### Candidate qualified omnipotence
+### Qualified omnipotence at F2
 
-Do not define the power domain as whatever $G$ can do, because that would make omnipotence tautological. Let:
-
-\[
-\mathcal A_M(G)=
-\{a:Coherent(a,N,E_G)\},
-\]
-
-where $N$ contains independently specified necessary constraints and $E_G$ contains only essential features of $G$ established elsewhere. Then:
+Do not define the power domain as whatever $G$ can do, because that would make omnipotence tautological. Let $E_G^{ind}$ contain only essential features established independently of omnipotence and of the incapacity under examination. The eligible task relation is:
 
 \[
-OMP_Q(G)\quad\text{iff}\quad
-\forall a\in\mathcal A_M(G)\;CanPerform(G,a).
+\begin{aligned}
+Task_G(a)\leftrightarrow{}&WellFormedAction(a)
+\land AgentOf(a,G)\\
+&\land Coherent(a,N_L,N_M,N_G)\\
+&\land CompatibleWith(a,E_G^{ind}).
+\end{aligned}
 \]
 
-$OMP_Q$ is qualified omnipotence: power to perform every action metaphysically coherent for the independently characterized agent. The qualification cannot be used to redescribe any discovered incapacity as part of $E_G$.
+This quantifies over actions attributable to $G$, not every possible state. A creature's originating act can be possible without being something $G$ can strongly produce while preserving the creature as its contrastive source.
 
-The domain excludes contradictory task descriptions. For example, sufficiently determining a creature's token act while preserving that same act as libertarian-originated is not one coherent action. $G$ may preserve the freedom, or may override it as allowed by C16 and C39; inability to realize both descriptions together is not a loss of power.
+Power has both **range** and **strength or control**. $StrongCan(G,a)$ means that $G$ can settle and produce the contribution assigned to $G$ without another autonomous source supplying that same contrastive content. This allows secondary causes and asymmetric co-production while distinguishing:
 
-This candidate aligns power with the existing epistemic architecture. MKO includes complete knowledge of $\mathcal A_M(G)$ and the relevant capacities; ACO includes complete knowledge of which powers are actually exercised. Knowledge neither constitutes the power nor necessitates its exercise.
+\[
+StronglyProduces(G,q)
+\]
 
-Current commitments establish actualizing power, existential sovereignty conditionally on C04–C05, and possible intervention. They support $OMP_Q$ as the preferred definition of omnipotence.
+from:
 
-Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created reality can be the ultimate source of that limit on its own ground. A non-created external limiter or an essential internal limit remains coherent, but either requires independent motivation and the former would add another item to the fundamental ontology. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise, presupposing uniqueness, or pretending that ultimate grounding deductively entails omnipotence.
+\[
+Enables(G,A,q)\land Originates(A,q).
+\]
 
-Strengthening this result requires more than additional notation. A later F2 pass must classify every candidate blocker as logical incoherence, a created constraint, an independently established internal feature of $G$, or a non-created external limit. Existential sovereignty excludes a created item as the ultimate limiter but does not by itself eliminate the latter two possibilities. That pass should also distinguish maximal power concerning the created order from unrestricted $OMP_Q$: the former may be supported even if an independently motivated coherent limit prevents the latter.
+Define the created-target domain and its maximality:
+
+\[
+\mathcal A_C(G)=\{a:Task_G(a)\land CreatedTarget(a)\},
+\]
+
+\[
+OMP_C(G)
+\leftrightarrow
+\forall a\in\mathcal A_C(G)\;StrongCan(G,a).
+\]
+
+Unrestricted qualified omnipotence is:
+
+\[
+OMP_Q(G)
+\leftrightarrow
+\forall a[Task_G(a)\rightarrow StrongCan(G,a)].
+\]
+
+The architecture supports three evidentially ordered levels:
+
+1. explicit actualizing, $P_{OEC}$, grounding, enabling, and intervening powers;
+2. $OMP_C$, preferred at F2;
+3. unrestricted $OMP_Q$, preferred but more provisional.
+
+Conditional on sole divine ultimity:
+
+\[
+Created(L)\rightarrow\neg UltimateBlocks(L,G).
+\]
+
+A created law, object, agent, or arena may condition a task description but cannot independently ground the final boundary of its own existential ground's power. $P_{OEC}$, variable $S$-specification, and intervention across laws, boundaries, states, circumstances, powers, and acts provide positive cross-category evidence for $OMP_C$.
+
+This is not a deduction of universal range. Absence of an external blocker does not supply a missing power, and $\Sigma_G$ cannot prove omnipotence because it was defined through powers established independently. $RI$ also cannot supply an independent proof because its universal causal-availability component partly inherited provisional C75. A coherent inability with no basis in $E_G^{ind}$ would defeat $OMP_C$.
+
+Blockers divide as follows:
+
+| Candidate | Result |
+| --- | --- |
+| contradiction, identity failure, or source-role mismatch | no eligible divine task |
+| created resistance or law | dependent condition, not ultimate blocker |
+| preservation condition internal to a task | constrains that task without limiting every alternative action |
+| independently established essential feature | legitimately types $Task_G$ |
+| brute incapacity relabeled essential | circular and potentially defeats $OMP_Q$ |
+| necessary abstract truth or structure | modal constraint, not automatically a causal competitor |
+| non-created concrete limiter | genuine defeater for $OMP_Q$ or sole divine ultimity |
+
+A non-created concrete $L$ that independently blocks an eligible task changes the ultimate basis to $\langle G,L\rangle$, makes $L$ prior in the relevant respect, or yields a bounded demiurgic $G$. These are coherent but disfavored competitor architectures. No such $L$ has been established, so $OMP_Q$ remains preferred; its status is not upgraded to demonstrated.
+
+Actual creator–creation disjointness is not an essential modal policy. If a non-destructive strict-*ex-deo* manifestation is coherent with $E_G^{ind}$, $OMP_Q$ conditionally places it within divine capacity. A formulation in which necessary $G$ ceases to be the same subject is incoherent. Either way, capacity does not require exercise, and constitutively disjoint $OEC^+$ remains the preferred actual creation model.
+
+The strict self-copy challenge is similarly typed. A $G'$ cannot be both created and underived in the same respect, so an exact dependent-and-ultimate duplicate is not an eligible task. A dependent qualitative near-copy remains open.
 
 ## Ontological omnipresence
 
@@ -1330,4 +1383,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 then distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness to the preferred $OEC^+$ model, and separates causal, virtual, participatory, and strict constitutive senses of *ex deo*. The active sequence now tests qualified omnipotence against coherent internal and non-created external blockers while retaining $PMC_U$ and strict-overlap variants as live alternatives.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.

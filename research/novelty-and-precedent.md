@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -32,6 +32,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
 | $UPSS+MCS+P_{OEC}+OEC^+$ | Established component families; project-specific typed synthesis | Thin subject/substance language, weaker simplicity doctrines, power ontologies, creation without material input, emanation, and panentheism have precedents. The local package makes constitution, originative power, specification, effect, and epistemic limits explicit; no novelty or possibility proof is claimed. |
 | Constitutive transcendence + relational immanence + $CCD$ + four-level *ex deo* | Established distinction families; project-specific taxonomy | Non-spatial presence, transcendence/immanence, participation, emanation, panentheism, and world-as-body models are established. S31 types causal, virtual, participatory, and strict constitutive derivation and prevents omnipresence or intervention from silently entailing overlap. |
+| Established powers $<OMP_C<OMP_Q$ + task/range/strength typing | Established omnipotence problems; project-specific integration | Absolute possibility, essence-relative action domains, maximal power, strong/weak actualization, and range/strength distinctions have precedents. S32 integrates them with creaturely sourcehood, $P_{OEC}$, interventions, $RI$, $CCD$, and typed *ex deo*. |
 | Finite analogous sourcehood → generative $S$ → asymmetric co-production | Established themes; potentially useful project synthesis | Divine freedom, creation for the sake of creatures, image-of-God agency, plural reasons, and non-maximizing world choice all have precedents. Their integration with MKO profiles and exclusion of pre-actual selection counterfactuals needs deeper comparison. |
 | Phenomenal, access, self, and agentive consciousness within token-relative freedom | Established distinctions; project-specific integration | Phenomenal/access and reflexive distinctions are standard. $AgCon$ is a local role joining conscious participation to the existing agent-causal conditions; it is not presented as a newly discovered kind of consciousness. |
 | Unified embodied agent + episodic preparation/control/settlement distinction | Established empirical and embodied-agency pressures; project-specific integration | Readiness potentials, intention-timing disputes, veto, and arbitrary/deliberate task differences are established. S29 integrates them with whole-agent sourcehood and explicit empirical bridge premises without claiming that neuroscience demonstrates libertarianism. |
@@ -188,6 +189,18 @@ The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.st
 Recent [grounding-panentheist work](https://doi.org/10.1017/S0034412525100978) treats divine–world ontological overlap as an additional theory rather than as an automatic meaning of grounding. S31 similarly makes $CCD$ independent of numerical distinction and $MCS$: immediate grounding and intervention do not entail disjointness, but neither do they entail overlap.
 
 The conceptual families are established. The local taxonomy may be useful for preventing equivocation, especially its observations that strict *ex deo* does not satisfy $PMC_U$ unless the shared divine reality supplies a material cause, and that $MCS$ alone tracks the wrong direction of constitution to exclude every overlap model. No novelty claim is made.
+
+## Qualified omnipotence and blockers: targeted precedent check
+
+[Aquinas, *Summa Theologiae* I, q. 25](https://www.newadvent.org/summa/1025.htm) explicitly rejects defining omnipotence as ability to do whatever falls within divine power because that is circular. He ranges power over what is absolutely possible and derives unlimited scope through an account of infinite divine being and perfection. The project adopts the anti-circularity lesson but not those unearned positive premises.
+
+[Thomas Flint and Alfred Freddoso, “Maximal Power”](https://www3.nd.edu/~afreddos/papers/mp.htm) distinguish maximal power in a secular sense from having all power compatible with a specifically divine nature. Their strong/weak actualization distinction also exposes a local choice: S32 does not count divine enabling of a libertarian token act as strong divine production of its contrastive content.
+
+[Wes Morriston](https://spot.colorado.edu/~morristo/omnipotence-and-necesary-moral-perfection.pdf) argues that essence-based exclusions can leave another agent with an active power unavailable to a necessarily morally perfect God. [Scott Hill](https://philpapers.org/archive/HILGUO.pdf) generalizes the pressure from essential properties and treats abandonment of the omnipotence label as compatible with retaining immense divine power. These objections support keeping $OMP_Q$ more provisional than $OMP_C$ rather than hiding every incapacity inside $E_G^{ind}$.
+
+[Ben Page, “Eternal Omni-Powers”](https://philarchive.org/archive/PAGEOKv1) develops a fundamental-powers treatment and separates maximal strength from maximal range while leaving parts of the range problem open. This directly supports S32's two-dimensional diagnosis, although its exact $StrongCan$ and agent-source typing are local.
+
+No novelty claim is made for qualified definitions, blocker classes, maximality distinctions, or power metaphysics. The potentially useful synthesis is the three-level evidential ordering together with an action rather than state domain, anti-circular $E_G^{ind}$, strong production versus creaturely origination, and the result that actual $CCD$ leaves coherent non-destructive strict-*ex-deo* capacity conditionally open.
 
 ## Creative reason and divine freedom: targeted precedent check
 

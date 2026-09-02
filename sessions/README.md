@@ -37,3 +37,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S29 — Embodied agency and decision episodes](2026-09-02-embodied-agency-and-decision-episodes.md)
 - [S30 — Divine constitution and material production](2026-09-02-divine-constitution-and-material-production.md)
 - [S31 — Constitutive transcendence, relational immanence, and ex deo](2026-09-02-transcendence-immanence-and-ex-deo.md)
+- [S32 — Qualified omnipotence, range, strength, and blockers](2026-09-02-qualified-omnipotence-blockers.md)

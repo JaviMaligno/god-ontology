@@ -115,8 +115,19 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Partitioned, joint, and redundantly total plural-ground models
     - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
-    - Maximal power over the created order versus unrestricted qualified maximality
-    - Incoherent, created, internal, and non-created external blockers
+    - Established powers, created-order maximality $OMP_C$, and unrestricted $OMP_Q$
+    - Eligible divine actions versus every possible state of affairs
+    - The independent divine essence profile and the anti-circularity rule
+    - Range versus strength or control
+    - Strong divine production versus enabling creaturely origination
+    - Why no created relatum can be the ultimate blocker of its ground
+    - Why absence of a blocker does not supply every power
+    - Incoherent, role-mismatched, created, internal, abstract, and non-created concrete blockers
+    - The circularity of using $\Sigma_G$ or relational immanence to prove maximality
+    - Why $OMP_C$ is better supported than unrestricted $OMP_Q$
+    - The exact-copy paradox and derivative near-copies
+    - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
+    - The bounded-demiurge fallback if unrestricted maximality fails
 25. **Immateriality and the Ground of Created Space**
     - Created-space aspatiality, physical immateriality, and absolute non-spatiality
     - What is $G$ made of? Material input, parts, substrate, constitutive profile, and ontological category

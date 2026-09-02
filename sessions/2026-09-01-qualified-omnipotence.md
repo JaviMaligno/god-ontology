@@ -81,6 +81,10 @@ The remaining gap is not definitional but justificatory: ultimate grounding does
 
 C75 is therefore provisionally favored on abductive and preferential grounds. It is not obtained through an imported perfection premise and is not presented as a demonstration. No additional maximality axiom is adopted at this stage; a substantive internal-limit defeater could reopen the result.
 
+## Later F2 refinement in S32
+
+[S32](2026-09-02-qualified-omnipotence-blockers.md) distinguishes established powers, created-order maximality $OMP_C$, and unrestricted $OMP_Q$. It types eligible divine actions independently, separates range from strength, and refuses to count enabling a creaturely libertarian act as strong divine production of its content. No created relatum is an ultimate blocker under sole divine grounding; $OMP_C$ is preferred at F2, while $OMP_Q$ remains preferred but more provisional because the universal-range bridge and exclusion of non-created concrete limiters are not deductively available.
+
 ## Decisions
 
 | Claim | Status | Reason | Provenance |

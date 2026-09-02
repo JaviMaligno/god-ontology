@@ -226,6 +226,10 @@ The answer to the third question is presently no: omnipotence does not require e
 
 The transcendence/immanence distinction, causal versus constitutive dependence, panentheism, emanation, and world-as-body models are established families. The local four-level *ex deo* taxonomy and its integration with $Present_O$, $MCS$, $CCD$, and $OEC^+$ are organizational refinements. No novelty claim is made.
 
+## Later power refinement in S32
+
+[S32](2026-09-02-qualified-omnipotence-blockers.md) preserves $ED_C$, $ED_V$, and $ED_P$ and keeps $ED_S$ open by authorial decision. Actual $CCD$ is not promoted into an essential creative policy. If a non-destructive strict-*ex-deo* manifestation is independently coherent with $UPSS$, unrestricted $OMP_Q$ conditionally includes it as a capacity; self-annihilating variants are incoherent, and capacity never entails exercise.
+
 ## Next question
 
 Proceed to the F2 qualified-omnipotence blocker analysis. Use the new distinctions to test maximal power over the created order, internally coherent limits imposed by $UPSS$, non-created external limiters, and the status of possible constitutive manifestations.

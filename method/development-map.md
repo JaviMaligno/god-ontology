@@ -50,7 +50,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | **active targeted F2 blocker analysis** | targeted F2 blocker analysis | S11 separates capacity, exercise, and dependence; S30–S31 supply $UPSS$, $P_{OEC}$, $CT/RI$, and $CCD$ for classifying blockers and testing possible constitutive manifestations |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F2 | hold after S32; retain evidential asymmetry | selective F3 if challenged | S32 prefers $OMP_C$ at F2, retains unrestricted $OMP_Q$ more provisionally, and classifies incoherent, created, internal, abstract, and non-created concrete blockers |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence and personal availability | dependent attribute | F1 with local F2 boundary refinement | hold after S31 | selective F2 | S31 interprets omnipresence as relational immanence compatible with constitutive transcendence and disjointness; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
@@ -61,9 +61,9 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Use $UPSS$, $P_{OEC}$, $CT/RI$, and $CCD$ for the qualified-power F2 blocker analysis: distinguish created-order maximality from limits arising from incoherence, essential internal structure, or a non-created external condition, including possible constitutive manifestations.
-2. Retain ACO's interpersonal knowledge gap and cumulative intervention effects on agency as the following trunk candidates.
-3. Hold divine constitution and $OEC^+$ at F2 while preserving $PMC_U$ as a live defeater and a selective F3 trigger.
+1. Test ACO's interpersonal knowledge gap: does complete propositional truth-knowledge suffice for knowing a creature as a subject, or is acquaintance or irreducible second-person knowledge another capacity?
+2. Retain cumulative intervention effects on agency as the following trunk candidate.
+3. Hold divine constitution, $OEC^+$, and the qualified-power hierarchy at F2 while preserving $PMC_U$, non-created concrete limiters, and strict-*ex-deo* coherence as selective F3 triggers.
 4. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
 5. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
 6. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.

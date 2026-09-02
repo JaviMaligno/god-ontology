@@ -31,11 +31,11 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 
 | ID | Question | Threatened modules | Status |
 | --- | --- | --- | --- |
-| CH01 | Could $G$ create a numerically distinct exact copy of itself? | divine uniqueness, qualified omnipotence, creation, necessity, dependence | `scoped` |
+| CH01 | Could $G$ create a numerically distinct exact copy of itself? | divine uniqueness, qualified omnipotence, creation, necessity, dependence | `tested` |
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | creative reason, generative structure, providence, later goodness | `scoped` |
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `scoped` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | goodness, divine ultimity, reasons, divine nature and choice | `scoped` |
-| CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `scoped` |
+| CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `tested` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | ACO, divine agency and goodness, constructivism, welfare, creation | `scoped` |
 | CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | welfare, agency, temporal scope, reasons, morality | `tested` |
@@ -51,7 +51,9 @@ Ontology governs the active sequence. S27–S28 complete the current interface r
 
 S29 gives CH13 a local F2 response without displacing CH12: action belongs to an embodied subject across a decision episode; neural preparation and reported awareness do not by themselves locate settlement; and sufficient pre-conscious settlement remains a genuine token-level defeater.
 
-S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. CH05 is now the active priority because this constitution model permits a more exact analysis of internal and non-created external limits on qualified power.
+S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
+
+S31 refines the creator boundary, and S32 completes the CH05 F2 pass. Created ultimate blockers are excluded conditionally; $OMP_C$ is preferred at F2; unrestricted $OMP_Q$ remains preferred but more provisional because a universal-range bridge and exclusion of non-created concrete limiters are not deductively available. CH01's exact dependent-and-underived copy is incoherent, while derivative near-copies remain open. CH03 is now the active trunk priority.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -85,6 +87,8 @@ Independent(G')\land UltimateGround(G').
 If dependence and aseity or ultimate independence are incompatible, “a created exact divine duplicate” is an incoherent task and therefore no counterexample to qualified omnipotence. This is only a preliminary diagnosis: the framework must later test which properties are genuinely essential to $G$, whether derivative necessity is possible, and whether two maximal agents could have coherent overlapping action domains.
 
 The second and third variants remain more serious live possibilities. They may not threaten $U_G$ or $U_D$ because a dependent being is not a second ultimate ground, but they can expose whether current language about omnipotence, omnipresence, or “Godlike” agency is too coarse.
+
+S32 resolves only the strict version. Created dependence and underived ultimate-ground status cannot belong to the same $G'$ in the same respect. A dependent qualitative or derivative near-copy may still be coherent, but it would not duplicate ultimity; whether every intrinsic power can be reproduced remains open.
 
 ### Dependencies for the later test
 
@@ -144,7 +148,7 @@ S23 adds three constraints. The account must distinguish local and diachronic we
 
 ## CH05 — Qualified power and possible blockers
 
-The F1 case for qualified omnipotence is abductive. Existential sovereignty prevents a created item from being the ultimate source of a limit on $G$, but it does not yet exclude an independently established internal feature or a non-created external condition. The later F2 test must distinguish:
+The F1 case for qualified omnipotence is abductive. Existential sovereignty prevents a created item from being the ultimate source of a limit on $G$, but it does not exclude an independently established internal feature or a non-created external condition. S32's F2 test distinguishes:
 
 1. logically or metaphysically incoherent task descriptions, which are outside a genuine action domain;
 2. constraints belonging to the created order, which cannot ultimately limit its ground;
@@ -152,7 +156,9 @@ The F1 case for qualified omnipotence is abductive. Existential sovereignty prev
 4. non-created external limits, whose status and explanatory cost must be assessed;
 5. brute incapacities disguised as “essential features,” which would make $OMP_Q$ circular.
 
-The test should first formulate maximal power over every coherent target in the created order, then ask what additional premise licenses unrestricted qualified maximality. Failure of the latter would revise C75 without erasing the actualizing, grounding, or intervening powers already established.
+The test formulates $Task_G(a)$ through well-formed actions attributable to $G$, necessary constraints, and an independently established essence profile. This prevents both power-relative circularity and the demand that every possible state be strongly produced by $G$. Range and strength are distinct, and enabling an autonomous creature is not strong divine production of its token choice.
+
+S32 conditionally establishes that no created relatum is an ultimate blocker and finds broad positive evidence in $P_{OEC}$, $S$-specification, and intervention. This favors created-order maximality $OMP_C$ at F2 but does not entail its universal range. Unrestricted $OMP_Q$ remains preferred with weaker support: a brute incapacity cannot be hidden in essence, while a non-created concrete limiter would defeat either $OMP_Q$ or sole divine ultimity and remains a coherent rival architecture.
 
 S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
 

@@ -1,15 +1,15 @@
 # Session: The modal basis — independent possibility of a created specification
 
 **Date:** 2026-09-02
-**Session ID:** S46
-**Primary question:** Can the possibility of a created specification $S$ be defined independently of imaginability and of divine capacity, so that it constrains rather than presupposes creative range, and what does that definition do to the modal-source bridge of S33, the eligible set of S45, and CH14?
-**Dependencies:** C12–C13, C48–C53, C73, C78–C83, C104–C111, C255, C263, C273–C282, C294–C298, C324, C358–C360, S05, S13, S33–S34, S36, S45
-**Origin:** Author direction C281; next item in the queue after S45
+**Session ID:** S50
+**Primary question:** Can the possibility of a created specification $S$ be defined independently of imaginability and of divine capacity, so that it constrains rather than presupposes creative range, and what does that definition do to the modal-source bridge of S33, the eligible set of S49, and CH14?
+**Dependencies:** C12–C13, C48–C53, C73, C78–C83, C104–C111, C255, C263, C273–C282, C358–C362, C388, C422–C424, S05, S13, S33–S34, S40, S49
+**Origin:** Author direction C281; next item in the queue after S49
 **Target depth:** F2 definition; the ultimate ground of mathematical structure remains open (C52)
 
 ## Starting position
 
-Three modules presuppose a notion of possible created specification that none of them defines. S33's modal-source bridge needs B1, $Poss_C^{ind}(S)$, and records that C48 cannot supply it if possibility is read as what $G$ can actualize (C274). S45's eligible set ranges over coherent structures without saying what coherence beyond consistency amounts to. S34's CH14 asks how imagined content relates to possibility and forbids inferring possibility from imaginability (R77). The author's direction (C281) sets the target: a metaphysical definition independent enough to constrain creative range.
+Three modules presuppose a notion of possible created specification that none of them defines. S33's modal-source bridge needs B1, $Poss_C^{ind}(S)$, and records that C48 cannot supply it if possibility is read as what $G$ can actualize (C274). S49's eligible set ranges over coherent structures without saying what coherence beyond consistency amounts to. S34's CH14 asks how imagined content relates to possibility and forbids inferring possibility from imaginability (R77). The author's direction (C281) sets the target: a metaphysical definition independent enough to constrain creative range.
 
 The glossary still lists metaphysical possibility as “genuine compatibility with the constitutive conditions of reality, ground open.” The session keeps that phrase and gives it clauses.
 
@@ -44,7 +44,7 @@ Each clause does distinct work:
 1. **Consistency** is necessary and, as C281 says, insufficient: a consistent set of laws may admit no history with the stated boundaries.
 2. **Model existence** is the structural core: $S$ is possible only if it admits at least one complete history under the mathematics it specifies. This is realizability, not syntax. The ultimate ontology of $N_M$ stays open (C52); the clause uses only that mathematical consequence is not up to anyone.
 3. **Compossibility of powers** is the power-grounded clause of C48–C49 restricted to *created* powers. A specification with a power-type that could never manifest, or with two power-types that preclude each other in every admitted history, specifies nothing possible. Because the powers in question are those $S$ specifies, not $G$'s, the clause does not mention divine capacity.
-4. **Createdness** fixes the domain: contingent orders of instantiable profiles (C324), with no self-existent constituent. This excludes co-fundamental matter and second ultimate grounds from the range of created specifications by definition of the range, not by an appeal to what $G$ can do.
+4. **Createdness** fixes the domain: contingent orders of instantiable profiles (C388), with no self-existent constituent. This excludes co-fundamental matter and second ultimate grounds from the range of created specifications by definition of the range, not by an appeal to what $G$ can do.
 5. **Essence-compatibility** is the only clause that mentions $G$, and it uses $E_G^{ind}$, not power. C255 and C263 already license typing the action domain by independently established essential features and forbid smuggling incapacities into the essence. A specification requiring, for instance, that $G$ be spatially contained in it fails this clause without any claim about range.
 
 ## Step 2: non-circularity
@@ -59,7 +59,7 @@ S33's bridge has four premises: B1 independent possibility, B2 modal sole-source
 
 B2 says that in every possible fundamental created basis, the same necessary $G$ is the ultimate originative source. Two observations reduce it to one premise:
 
-- **Impersonal grounds are excluded by createdness.** A contingent order grounded by an impersonal necessary structure through chance or plenitude (the IN stopping point, C296) is not a created order in the sense of clause 4, since it is not agent-originated. So B2 needs only to exclude *other necessary agents* as sources of created orders.
+- **Impersonal grounds are excluded by createdness.** A contingent order grounded by an impersonal necessary structure through chance or plenitude (the IN stopping point, C360) is not a created order in the sense of clause 4, since it is not agent-originated. So B2 needs only to exclude *other necessary agents* as sources of created orders.
 - **Necessary existence transfers across worlds.** If a necessary agent $G'$ existed in any world, it would exist in the actual world (C58's logic in reverse: $\Box E(G')$ is world-invariant). An actual necessary agent other than $G$ that grounds no actual order would be an idle necessary agent: an extra necessary existent with no explanatory role, and a second bearer of qualified maximal power with the conflict costs of C83.
 
 Hence:
@@ -70,7 +70,7 @@ MUNA\;\Rightarrow\;B2,
 MUNA:\ \exists!x\,[\Box E(x)\land Agent(x)].
 \]
 
-$MUNA$ is not entailed by $U_D$ (C81), which concerns the ultimate-ground agent of the actual order and explicitly leaves other necessary entities open (C78). But it is supported by exactly the considerations that support $U_D$ — economy under the weak explanatory preference (C294), the conflict of overlapping maximal domains (C83) — applied to necessary *agents* rather than to all necessary entities. Its status is therefore $U_D$'s: preferred, abductive. S33 had B2 as open; it is now a preferred premise with an identified residue, which is a smaller thing to hold than sole-source invariance stated bare.
+$MUNA$ is not entailed by $U_D$ (C81), which concerns the ultimate-ground agent of the actual order and explicitly leaves other necessary entities open (C78). But it is supported by exactly the considerations that support $U_D$ — economy under the weak explanatory preference (C358), the conflict of overlapping maximal domains (C83) — applied to necessary *agents* rather than to all necessary entities. Its status is therefore $U_D$'s: preferred, abductive. S33 had B2 as open; it is now a preferred premise with an identified residue, which is a smaller thing to hold than sole-source invariance stated bare.
 
 With B1 supplied and B2 reduced, creative plenitude is a conditional theorem of preferred premises:
 
@@ -82,7 +82,7 @@ $OMP_C$ still needs the constitutive-control and history-sensitive bridges of C2
 
 ## Step 4: what the definition does to the eligible set
 
-S45's eligible set ranged over “coherent” structures. Coherence is now $Poss_C^{ind}$:
+S49's eligible set ranged over “coherent” structures. Coherence is now $Poss_C^{ind}$:
 
 \[
 \mathcal E_G=\bigcap_{r\in\mathcal R_G^{req}}Adm_r\cap\{S:Poss_C^{ind}(S)\}.
@@ -94,7 +94,7 @@ And $\Sigma_G$, the structures within $G$'s power (C51), which S05 deliberately 
 
 CH14 separates the actual imaginative act, its content, any represented object, the modal status of the content, and the act's causal role. The present definition supplies the fourth: the modal status of an imagined specification is fixed by $Poss_C^{ind}$, whatever the act's actuality. An imaginative episode is an actual event in $H^*$; its content is a specification or a fragment of one; the content's possibility is a matter of clauses 1–5; and the act neither confers nor detects possibility by itself.
 
-This gives imagination the same epistemic role that continuity has for identity (C344): **imaginability is defeasible finite evidence of possibility, never its constitution.** Imagining a scenario in detail can supply evidence that clauses 1–3 are met, because a detailed imagining is a partial model; it supplies no evidence for clause 5 and can be defeated by any clause. MKO knows the modal facts directly (C12, C48); created imagination is a fallible finite approximation to them, on the pattern of C168 for value. The remaining parts of CH14 — the ontology of content, the reference of imaginings to fictions and impossibilities, and the causal efficacy of thought — are not addressed.
+This gives imagination the same epistemic role that continuity has for identity (C408): **imaginability is defeasible finite evidence of possibility, never its constitution.** Imagining a scenario in detail can supply evidence that clauses 1–3 are met, because a detailed imagining is a partial model; it supplies no evidence for clause 5 and can be defeated by any clause. MKO knows the modal facts directly (C12, C48); created imagination is a fallible finite approximation to them, on the pattern of C168 for value. The remaining parts of CH14 — the ontology of content, the reference of imaginings to fictions and impossibilities, and the causal efficacy of thought — are not addressed.
 
 ## Adversarial tests
 
@@ -112,15 +112,15 @@ This gives imagination the same epistemic role that continuity has for identity 
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C365 | — | `preferred` | $Poss_C^{ind}(S)$ is consistency under $N_L$, non-empty admitted histories under $N_M$, compossibility of the specified created powers, createdness, and compatibility with $G$'s independently established essence | this session; C48–C52, C255, C263, C281 |
-| C366 | — | `accepted` | The definition is non-circular: no clause quantifies over divine power; the only $G$-clause uses $E_G^{ind}$; imaginability appears in no clause | this session; C274, R77 |
-| C367 | — | `accepted` | Imaginability is defeasible finite evidence of possibility, never its constitution; a detailed imagining is a partial model bearing on clauses 1–3 only | this session; C168, C344, CH14 |
-| C368 | — | `preferred` | $MUNA$: exactly one necessary agent exists, in every world; supported by the considerations that support $U_D$ applied to necessary agents, and it entails B2 | this session; C78–C83, C294 |
-| C369 | — | `preferred conditional` | Creative plenitude follows from $MUNA$, essential originative power (B3), and agent-relative accessibility (B4): every independently possible created specification is within $G$'s creative capacity | this session; C273, C276, C365, C368 |
-| C370 | — | `accepted` | The eligible set of S45 ranges over $Poss_C^{ind}$ structures; $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$, with equality exactly when creative plenitude holds | this session; C51, C359 |
-| C371 | — | `accepted partial` | The modal status of imagined content is fixed by $Poss_C^{ind}$; the act is actual, the content may be impossible; the ontology of content and the reference of imaginings remain CH14's open parts | this session; C282 |
-| C48 | `preferred with open refinement` | `preferred`, refined | The non-circular criterion C48 called for is C365 | this session |
-| R99 | — | `rejected` | Logical consistency of a specification suffices for its metaphysical possibility | this session; C281, C365 |
+| C429 | — | `preferred` | $Poss_C^{ind}(S)$ is consistency under $N_L$, non-empty admitted histories under $N_M$, compossibility of the specified created powers, createdness, and compatibility with $G$'s independently established essence | this session; C48–C52, C255, C263, C281 |
+| C430 | — | `accepted` | The definition is non-circular: no clause quantifies over divine power; the only $G$-clause uses $E_G^{ind}$; imaginability appears in no clause | this session; C274, R77 |
+| C431 | — | `accepted` | Imaginability is defeasible finite evidence of possibility, never its constitution; a detailed imagining is a partial model bearing on clauses 1–3 only | this session; C168, C408, CH14 |
+| C432 | — | `preferred` | $MUNA$: exactly one necessary agent exists, in every world; supported by the considerations that support $U_D$ applied to necessary agents, and it entails B2 | this session; C78–C83, C358 |
+| C433 | — | `preferred conditional` | Creative plenitude follows from $MUNA$, essential originative power (B3), and agent-relative accessibility (B4): every independently possible created specification is within $G$'s creative capacity | this session; C273, C276, C429, C432 |
+| C434 | — | `accepted` | The eligible set of S49 ranges over $Poss_C^{ind}$ structures; $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$, with equality exactly when creative plenitude holds | this session; C51, C423 |
+| C435 | — | `accepted partial` | The modal status of imagined content is fixed by $Poss_C^{ind}$; the act is actual, the content may be impossible; the ontology of content and the reference of imaginings remain CH14's open parts | this session; C282 |
+| C48 | `preferred with open refinement` | `preferred`, refined | The non-circular criterion C48 called for is C429 | this session |
+| R135 | — | `rejected` | Logical consistency of a specification suffices for its metaphysical possibility | this session; C281, C429 |
 
 ## Literature and novelty notes
 
@@ -128,7 +128,7 @@ Cited from memory; not verified online in this session.
 
 - Kit Fine, “Essence and Modality” (1994): modality grounded in essences; the closest precedent for clause 5 and for the project's general refusal to define possibility by capacity.
 - Barbara Vetter, *Potentiality* (Oxford, 2015), and Alexander Bird, *Nature's Metaphysics* (2007): possibility grounded in powers or potentialities; the precedent for clause 3 and for C48.
-- Stephen Yablo, “Is Conceivability a Guide to Possibility?” (1993), and David Chalmers, “Does Conceivability Entail Possibility?” (2002): the conceivability debate; C367 takes the evidential side.
+- Stephen Yablo, “Is Conceivability a Guide to Possibility?” (1993), and David Chalmers, “Does Conceivability Entail Possibility?” (2002): the conceivability debate; C431 takes the evidential side.
 - Timothy Williamson, *Modal Logic as Metaphysics* (2013), on necessitism and the transfer of necessary existence across worlds, relevant to the reduction of B2.
 - Alexander Pruss, *Actuality, Possibility, and Worlds* (2011), on grounding possibility in the powers of actual beings including God; the project restricts the power clause to created powers precisely to avoid the circularity Pruss's view would import into the bridge.
 
@@ -143,4 +143,4 @@ Classification: established families (essence-based and power-based modality; co
 
 ## Next question
 
-The trunk from contingency to constitution, the power bridge's creative-plenitude component, the creation bridge at both axes, and identity are now at F2 or better. The remaining bridges (constitutive control, history-sensitive intervention, task-domain exhaustion) are selective F3 items. The consolidation pass of Parts III–IV in the treatise, which S43 judged ready, is proposed as the next task; the alternative is to complete CH14's remaining parts.
+The trunk from contingency to constitution, the power bridge's creative-plenitude component, the creation bridge at both axes, and identity are now at F2 or better. The remaining bridges (constitutive control, history-sensitive intervention, task-domain exhaustion) are selective F3 items. The consolidation pass of Parts III–IV in the treatise, which S47 judged ready, is proposed as the next task; the alternative is to complete CH14's remaining parts.

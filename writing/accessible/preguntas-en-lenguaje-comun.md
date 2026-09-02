@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S47, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S42–S51, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -255,30 +255,30 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 
 | Pregunta | Tipo | Compromisos y sesiones |
 | --- | --- | --- |
-| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C294–C297; S09, S36 |
-| No basta con que exista | preferido | C294, C296; S36 |
+| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C358–C361; S09, S40 |
+| No basta con que exista | preferido | C358, C360; S40 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
-| Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C295–C298; S09, S36 |
-| Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C372–C377; S47 |
-| Qué es posible | preferido; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C365–C369; S46 |
+| Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C359–C362; S09, S40 |
+| Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C436–C441; S51 |
+| Qué es posible | preferido; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C429–C433; S50 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
-| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S36 |
+| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S40 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
-| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C358–C363; S18, S45 |
-| De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C324–C333; S30–S31, S40 |
+| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C422–C427; S18, S49 |
+| De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C388–C397; S30–S31, S44 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |
-| Plan para mi vida; manipulación | preferido/aceptado | C18, C119, C334–C342; S41 |
+| Plan para mi vida; manipulación | preferido/aceptado | C18, C119, C398–C406; S45 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C299–C302, C316; S21, S37–S38 |
-| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C309–C316; S38; CH15, CH17 |
-| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C351–C357; S44 |
-| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C317–C323, C343–C349; S39, S42; CH17, CH18 |
+| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C363–C366, C380; S21, S41–S42 |
+| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C373–C380; S42; CH17, CH19 |
+| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C415–C421; S48 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C381–C387, C407–C413; S43, S46; CH19, CH20 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
-| Sentir y pensar | preferido/aceptado | C122–C124, C303–C307; S20, S35 |
-| Experiencia real o ilusión | aceptado | C304–C305; S35 |
-| Gente que no siente nada | aceptado | C123–C124, C307 |
-| Música y arte | abierto en su punto central | C308; S35 |
+| Sentir y pensar | preferido/aceptado | C122–C124, C367–C371; S20, S39 |
+| Experiencia real o ilusión | aceptado | C368–C369; S39 |
+| Gente que no siente nada | aceptado | C123–C124, C371 |
+| Música y arte | abierto en su punto central | C372; S39 |

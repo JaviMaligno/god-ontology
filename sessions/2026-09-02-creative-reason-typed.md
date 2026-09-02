@@ -1,15 +1,15 @@
 # Session: Creative reason at F2 — typed reasons, eligibility, and the missing P-reason
 
 **Date:** 2026-09-02
-**Session ID:** S53
-**Primary question:** Can the agency-oriented plural reason profile of S18 be given a formal structure sufficient for the claims that now rest on it — good-orientation (C409), the diachronic agency-preservation presumption (C447), and the source cover (C420) — without turning reasons into a choice function, and what does that structure reveal about the P-gap?
-**Dependencies:** C55–C60, C96–C97, C104–C115, C187–C189, C405–C406, C409–C411, C420, C443–C451, S06, S18–S19, S27, S45–S46, S49, S51
-**Origin:** S51 identified creative reason as the weakest load-bearing transition; the author approved the queue
+**Session ID:** S54
+**Primary question:** Can the agency-oriented plural reason profile of S18 be given a formal structure sufficient for the claims that now rest on it — good-orientation (C426), the diachronic agency-preservation presumption (C464), and the source cover (C437) — without turning reasons into a choice function, and what does that structure reveal about the P-gap?
+**Dependencies:** C55–C60, C96–C97, C104–C115, C187–C189, C422–C423, C426–C428, C437, C460–C468, S06, S18–S19, S27, S46–S47, S50, S52
+**Origin:** S52 identified creative reason as the weakest load-bearing transition; the author approved the queue
 **Target depth:** F2 for the reason architecture; the actual divine motive remains unknown (C113)
 
 ## Starting position
 
-S18 gives a plural, layered profile at F1: creation for actual finite otherness, an architecture for finite analogues of conscious sourcehood, exact specification by reason-guided settling among an eligible set. Its formal apparatus is thin: $Supported_G$, $Defeated_G$, and $Favors_G$ are undefined; the relation between reasons and the value anchors of S27 is not stated; and “favoring rather than necessitating” is asserted rather than modelled. Three later results rest on it. S51 therefore marked it as the weakest link.
+S18 gives a plural, layered profile at F1: creation for actual finite otherness, an architecture for finite analogues of conscious sourcehood, exact specification by reason-guided settling among an eligible set. Its formal apparatus is thin: $Supported_G$, $Defeated_G$, and $Favors_G$ are undefined; the relation between reasons and the value anchors of S27 is not stated; and “favoring rather than necessitating” is asserted rather than modelled. Three later results rest on it. S52 therefore marked it as the weakest link.
 
 The session keeps every S18 decision and gives the profile the structure the later claims need. It does not add goodness, perfection, or a maximizing norm.
 
@@ -37,7 +37,7 @@ This gives “favoring rather than necessitating” a model. Necessitation would
 |Und_G|\geq 2\;\Rightarrow\;\mathcal R_G\not\Rightarrow\Box Actualizes(G,S^*).
 \]
 
-The residue is exactly the one C109 and C406 accept: a reason-guided exercise, not a selector. Wilson's objection that satisficing requires brute preferences does not apply, because settling within $Und_G$ is not satisficing under a maximizing norm that the agent declines to apply; it is sourcehood where no norm selects.
+The residue is exactly the one C109 and C423 accept: a reason-guided exercise, not a selector. Wilson's objection that satisficing requires brute preferences does not apply, because settling within $Und_G$ is not satisficing under a maximizing norm that the agent declines to apply; it is sourcehood where no norm selects.
 
 ## Step 2: the levels, formally
 
@@ -70,11 +70,11 @@ Every reason S18 attributes to $G$ has a target that is either an anchor of $\ma
 | intelligible order and variety | non-axiological | favoring | specification |
 | enactive play or appreciation | expressive; open | favoring, not preferred | creation |
 
-The typing shows two things at once. First, C409 is secured formally: the established profile's targets are $S$ and $R$, so every established creative disposition is fit-directed toward those anchors by construction, not by a separate inspection. Second, **no reason in the established profile has $P$ as its target.** There is no reason directed at the conscious valence of created subjects: none that creation be for the sake of their felt good, none that the architecture protect it, none that specification favor it.
+The typing shows two things at once. First, C426 is secured formally: the established profile's targets are $S$ and $R$, so every established creative disposition is fit-directed toward those anchors by construction, not by a separate inspection. Second, **no reason in the established profile has $P$ as its target.** There is no reason directed at the conscious valence of created subjects: none that creation be for the sake of their felt good, none that the architecture protect it, none that specification favor it.
 
 ## Step 4: the P-gap is located in the reason profile
 
-S45 found the P-gap by inspecting dispositions; the present typing shows why it is there. The gap is not a failure of S45's inference; it is the absence of a **P-reason** in S18's profile:
+S46 found the P-gap by inspecting dispositions; the present typing shows why it is there. The gap is not a failure of S46's inference; it is the absence of a **P-reason** in S18's profile:
 
 \[
 \neg\exists r\in\mathcal R_G\,[target(r)=P]
@@ -97,17 +97,17 @@ The accessible register's belief that God is good “also in what we feel” is,
 
 ## Step 5: securing the downstream claims
 
-**Good-orientation (C409).** Follows from Step 3 by typing, for $S$ and $R$; the P-gap is Step 4.
+**Good-orientation (C426).** Follows from Step 3 by typing, for $S$ and $R$; the P-gap is Step 4.
 
-**Diachronic agency-preservation presumption (C447).** The requiring reason $r_S$ targets sourcehood. S49 showed that sourcehood has a diachronic level. A reason targeting sourcehood targets it at both levels, since a life whose profile is funnelled instantiates token sourcehood without the authorship the target names. Hence the admissibility set of $r_S$ excludes curator policies at the intervention level, and C447 follows from the same reason as C115 without a new premise:
+**Diachronic agency-preservation presumption (C464).** The requiring reason $r_S$ targets sourcehood. S50 showed that sourcehood has a diachronic level. A reason targeting sourcehood targets it at both levels, since a life whose profile is funnelled instantiates token sourcehood without the authorship the target names. Hence the admissibility set of $r_S$ excludes curator policies at the intervention level, and C464 follows from the same reason as C115 without a new premise:
 
 \[
 r_S\in\mathcal R_G^{req}\;\Rightarrow\;Excluded_{Adm}(Funnel)\land Excluded_{Adm}(StandardInstallation).
 \]
 
-**Source cover (C420).** The non-agentic-domain reason requires a real field of consequences; a policy of preventing every harmful outcome of created choice conflicts with a requiring reason, not merely with a favored one. This strengthens the cover's status from a conflict with a preference to a conflict with an admissibility condition, while the threshold residue remains: token prevention does not violate the filter, only a policy does.
+**Source cover (C437).** The non-agentic-domain reason requires a real field of consequences; a policy of preventing every harmful outcome of created choice conflicts with a requiring reason, not merely with a favored one. This strengthens the cover's status from a conflict with a preference to a conflict with an admissibility condition, while the threshold residue remains: token prevention does not violate the filter, only a policy does.
 
-**Agency-preservation presumption (C115).** Same derivation as C447 at the token level.
+**Agency-preservation presumption (C115).** Same derivation as C464 at the token level.
 
 ## Step 6: what the structure does not do
 
@@ -123,7 +123,7 @@ r_S\in\mathcal R_G^{req}\;\Rightarrow\;Excluded_{Adm}(Funnel)\land Excluded_{Adm
 | --- | --- |
 | A requiring architecture reason makes creation of agents necessary | No; requiring reasons filter at the architecture level given creation; non-creation remains live at the creation level, where the reasons are justifying and favoring |
 | Typing reasons by anchors assumes the value theory in the creation theory | The anchors are used as targets, not as goods; that some reasons happen to be fit-directed is a result about the profile, and the absence of a P-reason is a cost the typing exposes rather than hides |
-| Partial orders with settling are just arbitrariness | Answered at S06, S18, and S44: reason-guided settling within an undominated set is the same terminus the project accepts for every free act |
+| Partial orders with settling are just arbitrariness | Answered at S06, S18, and S45: reason-guided settling within an undominated set is the same terminus the project accepts for every free act |
 | Reading otherness as for-the-sake-of is obvious, so the P-reason is already there | It is natural, which is why the accessible register believes it; it is not entailed by C105, and adopting it is an addition at C105's evidential level, recorded as the content of open question 9 |
 | $ASA$ already gives regard for valence | It gives cognitive regard; a P-reason needs conative orientation, which knowledge does not supply (C96) |
 | The requiring reading of C106 contradicts S18's “favors” | It refines it: S18 rejected necessitation of the exact structure, which the requiring reading preserves, since it filters the eligible set without selecting within it |
@@ -132,15 +132,15 @@ r_S\in\mathcal R_G^{req}\;\Rightarrow\;Excluded_{Adm}(Funnel)\land Excluded_{Adm
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C467 | — | `accepted` | A creative reason is typed by target, mode (favoring, justifying, requiring), and level (creation, architecture, specification); requiring reasons filter eligibility, favoring reasons induce a partial attraction order, justifying reasons make an option intelligible | this session; C104, C108 |
-| C468 | — | `accepted` | The eligible set is the intersection of the admissibility sets of the requiring reasons with coherence; the undominated set under the partial order is where $G$ settles; plural favoring reasons typically leave more than one undominated structure, so reasons do not necessitate the exact specification | this session; C108–C109, C406 |
-| C469 | — | `preferred refinement` | The organizing agency reason is requiring at the architecture level: given creation for finite otherness and analogous sourcehood, every eligible $S$ enables autonomous agents; C106 follows, while non-creation remains live at the creation level | this session; C105–C106, C111 |
-| C470 | — | `accepted` | The established S18 profile has targets $S$ and $R$ only; good-orientation toward $S$ and $R$ (C409) follows by typing | this session; C409 |
-| C471 | — | `accepted diagnosis` | The P-gap is the absence of a P-directed reason in the established profile; $GoodOrient_P(G)$ holds iff the profile contains an exercised P-reason | this session; C410, C425 |
-| C472 | — | `open` | Two candidate routes to a P-reason: otherness read as for-the-sake-of, and regard internal to truthful relation; each is an abductive addition at C105's evidential level and neither is adopted | this session; C105, C284–C286 |
-| C473 | — | `accepted` | The diachronic agency-preservation presumption and the token presumption follow from the requiring sourcehood reason, whose target includes the diachronic level of agency; the source cover conflicts with an admissibility condition, not only a preference | this session; C115, C420, C447 |
-| C106 | `preferred` | `preferred`, now derived | Consequence of C469 | this session |
-| R160 | — | `rejected` | Reasons that favor creation of agents thereby necessitate creation or the exact structure | this session; C467–C469 |
+| C484 | — | `accepted` | A creative reason is typed by target, mode (favoring, justifying, requiring), and level (creation, architecture, specification); requiring reasons filter eligibility, favoring reasons induce a partial attraction order, justifying reasons make an option intelligible | this session; C104, C108 |
+| C485 | — | `accepted` | The eligible set is the intersection of the admissibility sets of the requiring reasons with coherence; the undominated set under the partial order is where $G$ settles; plural favoring reasons typically leave more than one undominated structure, so reasons do not necessitate the exact specification | this session; C108–C109, C423 |
+| C486 | — | `preferred refinement` | The organizing agency reason is requiring at the architecture level: given creation for finite otherness and analogous sourcehood, every eligible $S$ enables autonomous agents; C106 follows, while non-creation remains live at the creation level | this session; C105–C106, C111 |
+| C487 | — | `accepted` | The established S18 profile has targets $S$ and $R$ only; good-orientation toward $S$ and $R$ (C426) follows by typing | this session; C426 |
+| C488 | — | `accepted diagnosis` | The P-gap is the absence of a P-directed reason in the established profile; $GoodOrient_P(G)$ holds iff the profile contains an exercised P-reason | this session; C427, C442 |
+| C489 | — | `open` | Two candidate routes to a P-reason: otherness read as for-the-sake-of, and regard internal to truthful relation; each is an abductive addition at C105's evidential level and neither is adopted | this session; C105, C284–C286 |
+| C490 | — | `accepted` | The diachronic agency-preservation presumption and the token presumption follow from the requiring sourcehood reason, whose target includes the diachronic level of agency; the source cover conflicts with an admissibility condition, not only a preference | this session; C115, C437, C464 |
+| C106 | `preferred` | `preferred`, now derived | Consequence of C486 | this session |
+| R170 | — | `rejected` | Reasons that favor creation of agents thereby necessitate creation or the exact structure | this session; C484–C486 |
 
 ## Literature and novelty notes
 
@@ -161,4 +161,4 @@ Classification: established distinctions in the theory of reasons; the project-s
 
 ## Next question
 
-The reason architecture now rests on the same primitives as every free act. Two candidates remain for the next session: the independent modal basis that both the power bridge (B1) and the eligible set presuppose, which the author's CH14 on imagination and possibility also requires; or the P-reason routes of C472. The first is more load-bearing and is proposed.
+The reason architecture now rests on the same primitives as every free act. Two candidates remain for the next session: the independent modal basis that both the power bridge (B1) and the eligible set presuppose, which the author's CH14 on imagination and possibility also requires; or the P-reason routes of C489. The first is more load-bearing and is proposed.

@@ -1,17 +1,17 @@
 # Session: Cumulative context control and the diachronic ecology of agency
 
 **Date:** 2026-09-02
-**Session ID:** S49
+**Session ID:** S50
 **Primary question:** Can repeated non-determining interventions on an agent's deliberative context undermine agency even when every token act retains originable alternatives and sourcehood, and what does agency-respecting providence require at the diachronic level?
-**Dependencies:** C36–C46, C55–C60, C104–C119, C166, C168, C187, C412, C420–C421, S04, S06, S19, S43, S46
-**Origin:** Next trunk item in the active queue after S48; CH03 is held by the author locally
+**Dependencies:** C36–C46, C55–C60, C104–C119, C166, C168, C187, C429, C437–C438, S04, S06, S19, S44, S47
+**Origin:** Next trunk item in the active queue after S49; CH03 is held by the author locally
 **Target depth:** F2 for the diachronic extension of the intervention model; C118 from `open` to a structured answer
 
 ## Starting position
 
 S04 and S19 model intervention at the token level. C42 says that divine control of a deliberative context does not entail control of the resulting act; C115–C117 give a defeasible presumption favoring interventions that preserve sourcehood. C118 records the residual worry as open: repeated context manipulation could preserve formal alternatives at each moment while engineering development, salience, commitments, and long-run authorship. C44 defers the related question about manipulation and authenticity.
 
-The worry is load-bearing in three places. Providence, if it works largely through circumstances, is cumulative context control by construction. Divine direct address (C412) is a circumstantial contribution, and repeated address is context control. The source cover of S46 assumes that prevention by circumstantial intervention is cheap at the token level; if cumulative circumstantial prevention has a diachronic cost, that cost belongs in the cover.
+The worry is load-bearing in three places. Providence, if it works largely through circumstances, is cumulative context control by construction. Divine direct address (C429) is a circumstantial contribution, and repeated address is context control. The source cover of S47 assumes that prevention by circumstantial intervention is cheap at the token level; if cumulative circumstantial prevention has a diachronic cost, that cost belongs in the cover.
 
 ## Definitions
 
@@ -79,10 +79,10 @@ The agency-oriented creation reason (C104–C106) is not satisfied by token auto
 Three consequences follow for existing modules:
 
 1. **Providence is not curation.** C18 and C119 already deny that providence is exhaustive outcome control; the present result adds that it is not exhaustive profile control either. The global relation may include interventions and structural design, but not a funnel. This is the precise content of the plain-language claim that providence is a prepared board rather than a script.
-2. **Direct address is rational influence.** C412 types divine address as a circumstantial or regard-level contribution. Address that supplies recognition, reasons, or an opportunity to respond engages the agent's evaluation and preserves both levels; address engineered to install standards or to funnel would not. This also explains why availability without imposed communion (C432) is the right shape at the diachronic level.
-3. **The source cover has a diachronic component.** S46 noted that token prevention by circumstantial intervention is cheap, leaving a threshold residue. The present result adds the diachronic cost: a policy of preventing grave harms by repeated context selection is a curator policy over the agent's field of consequences, and past some density it funnels. This does not remove the threshold residue; it explains why lowering the threshold is not free even when each intervention is agency-neutral at the token level.
+2. **Direct address is rational influence.** C429 types divine address as a circumstantial or regard-level contribution. Address that supplies recognition, reasons, or an opportunity to respond engages the agent's evaluation and preserves both levels; address engineered to install standards or to funnel would not. This also explains why availability without imposed communion (C449) is the right shape at the diachronic level.
+3. **The source cover has a diachronic component.** S47 noted that token prevention by circumstantial intervention is cheap, leaving a threshold residue. The present result adds the diachronic cost: a policy of preventing grave harms by repeated context selection is a curator policy over the agent's field of consequences, and past some density it funnels. This does not remove the threshold residue; it explains why lowering the threshold is not free even when each intervention is agency-neutral at the token level.
 
-The regularity cover of S46 receives the same reading: a stable, truthful world is an ecology condition, because an agent cannot become the author of its standards in an environment that rearranges itself around it.
+The regularity cover of S47 receives the same reading: a stable, truthful world is an ecology condition, because an agent cannot become the author of its standards in an environment that rearranges itself around it.
 
 ## Step 5: ecology conditions
 
@@ -92,9 +92,9 @@ The conditions under which the diachronic level can be satisfied, collected from
 | --- | --- | --- |
 | profile-level openness: no funnel | Step 1 | $DAuth$ |
 | rational rather than a-rational cumulative influence | Step 2 | $EvAuth$ |
-| a stable and truthful environment | C107, C421, the $R$ anchor | the possibility of learning what one's choices do |
+| a stable and truthful environment | C107, C438, the $R$ anchor | the possibility of learning what one's choices do |
 | opportunity for self-formation over time | C166, S25 | the agent's becoming an evaluator |
-| a real field of consequences | C420 | that choices matter |
+| a real field of consequences | C437 | that choices matter |
 
 None of these requires that the agent be free of influence, difficulty, or dependence. They require that the long-run shape of a life be something the agent did rather than something done to it.
 
@@ -120,19 +120,19 @@ C38 remains deferred: whether reduced $DAuth$ or $EvAuth$ reduces moral responsi
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
 | C118 | `open` | `preferred`, structured | Meaningful agency has a diachronic level that can fail while token autonomy holds | this session |
-| C443 | — | `accepted` | Token autonomy at every moment is compatible with a curator policy that funnels the agent's profile; funnelling removes diachronic authorship (diachronic option closure) | this session; C36, C39 |
-| C444 | — | `accepted` | Cumulative a-rational influence that installs an agent's evaluative standards removes evaluative authorship while leaving token autonomy intact; this is the typed content of manipulation | this session; C44, C57–C60 |
-| C445 | — | `accepted distinction` | Rational influence supplies materials the agent evaluates; a-rational influence shapes the evaluative apparatus without passing through evaluation; only the latter, cumulatively, threatens evaluative authorship | this session; C166 |
-| C446 | — | `preferred` | Meaningful agency requires both token autonomy and the diachronic pair $DAuth\land EvAuth$ | this session |
-| C447 | — | `preferred` | Diachronic agency-preservation presumption: prefer intervention patterns that leave profile space open and evaluative standards the agent's own; funnelling conflicts with the creation reason | this session; C104–C106, C115 |
-| C448 | — | `accepted` | Providence is not curation: agency-respecting providence excludes funnels and standard-installation as well as exhaustive outcome control | this session; C18, C119 |
-| C449 | — | `accepted` | Divine direct address preserves both levels when it is rational influence; repeated address engineered to funnel or install standards would not | this session; C412, C432 |
-| C450 | — | `accepted refinement` | The source cover of S46 has a diachronic component: a policy of preventing grave harms by repeated context selection is a curator policy and past some density funnels; the threshold residue remains | this session; C420 |
-| C451 | — | `accepted` | Ecology conditions: profile-level openness, rational cumulative influence, a stable and truthful environment, opportunity for self-formation, and a real field of consequences | this session; C107, C166, C420–C421 |
+| C460 | — | `accepted` | Token autonomy at every moment is compatible with a curator policy that funnels the agent's profile; funnelling removes diachronic authorship (diachronic option closure) | this session; C36, C39 |
+| C461 | — | `accepted` | Cumulative a-rational influence that installs an agent's evaluative standards removes evaluative authorship while leaving token autonomy intact; this is the typed content of manipulation | this session; C44, C57–C60 |
+| C462 | — | `accepted distinction` | Rational influence supplies materials the agent evaluates; a-rational influence shapes the evaluative apparatus without passing through evaluation; only the latter, cumulatively, threatens evaluative authorship | this session; C166 |
+| C463 | — | `preferred` | Meaningful agency requires both token autonomy and the diachronic pair $DAuth\land EvAuth$ | this session |
+| C464 | — | `preferred` | Diachronic agency-preservation presumption: prefer intervention patterns that leave profile space open and evaluative standards the agent's own; funnelling conflicts with the creation reason | this session; C104–C106, C115 |
+| C465 | — | `accepted` | Providence is not curation: agency-respecting providence excludes funnels and standard-installation as well as exhaustive outcome control | this session; C18, C119 |
+| C466 | — | `accepted` | Divine direct address preserves both levels when it is rational influence; repeated address engineered to funnel or install standards would not | this session; C429, C449 |
+| C467 | — | `accepted refinement` | The source cover of S47 has a diachronic component: a policy of preventing grave harms by repeated context selection is a curator policy and past some density funnels; the threshold residue remains | this session; C437 |
+| C468 | — | `accepted` | Ecology conditions: profile-level openness, rational cumulative influence, a stable and truthful environment, opportunity for self-formation, and a real field of consequences | this session; C107, C166, C437–C438 |
 | C44 | `deferred` | `structured`, grading deferred | Manipulation is typed as cumulative a-rational influence removing evaluative authorship; its effect on responsibility remains with C38 | this session |
-| R152 | — | `rejected` | Token autonomy at every moment suffices for meaningful agency | this session |
-| R153 | — | `rejected` | Every influence on an agent's standards is manipulation, or none is | this session |
-| R154 | — | `rejected` | Providence may curate lives into target profiles provided each act remains free | this session |
+| R162 | — | `rejected` | Token autonomy at every moment suffices for meaningful agency | this session |
+| R163 | — | `rejected` | Every influence on an agent's standards is manipulation, or none is | this session |
+| R164 | — | `rejected` | Providence may curate lives into target profiles provided each act remains free | this session |
 
 ## Literature and novelty notes
 
@@ -154,4 +154,4 @@ Classification: established families; the project-specific elements are the sepa
 
 ## Next question
 
-With C118 structured, the remaining queued trunk items are CH03, held by the author locally, and CH21, the identity criterion for continuation, which waits on the mind–body branch. The next session on this branch should therefore either receive the author's CH03 result for integration or open CH21 with the constraint from S48 that re-realization is re-instantiation of the same identity unit.
+With C118 structured, the remaining queued trunk items are CH03, held by the author locally, and CH21, the identity criterion for continuation, which waits on the mind–body branch. The next session on this branch should therefore either receive the author's CH03 result for integration or open CH21 with the constraint from S49 that re-realization is re-instantiation of the same identity unit.

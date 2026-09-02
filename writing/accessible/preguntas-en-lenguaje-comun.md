@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S46–S58, integrando S30–S31 y S34–S42 del tronco, y con la primera revisión del autor incorporada en S59. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S47–S59, integrando S30–S31 y S34–S42 del tronco, y con la primera revisión del autor incorporada en S60. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -275,33 +275,33 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 
 | Pregunta | Tipo | Compromisos y sesiones |
 | --- | --- | --- |
-| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C403–C406; S09, S44 |
-| No basta con que exista | preferido | C403, C405; S44 |
+| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C420–C423; S09, S45 |
+| No basta con que exista | preferido | C420, C422; S45 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
-| Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C404–C407, C459; S09, S44, S59 |
-| Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C481–C486; S55 |
-| Qué es posible | preferido; el criterio es el del tronco (S38), con la formulación de S54 reconciliada en S57; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C343–C348, C477–C478, C488; S38, S54, S57 |
+| Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C421–C424, C476; S09, S45, S60 |
+| Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C498–C503; S56 |
+| Qué es posible | preferido; el criterio es el del tronco (S38), con la formulación de S55 reconciliada en S58; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C343–C348, C494–C495, C505; S38, S55, S58 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
-| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S44 |
+| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S45 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
-| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C467–C472; S18, S53 |
-| De qué está hecho Dios | preferido | C222–C238, C438–C439; S30–S31, S48 |
-| Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C433–C437, C442; S48 |
+| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C484–C489; S18, S54 |
+| De qué está hecho Dios | preferido | C222–C238, C455–C456; S30–S31, S49 |
+| Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C450–C454, C459; S49 |
 | Puede Dios hacer cualquier cosa | preferido para el poder sobre lo creado y la plenitud creadora cualificada; provisional para la ausencia de todo límite | C261–C262, C372, C375–C376, C380, C398–C401; S32, S40–S42 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
-| Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S49 | C18, C119, C297–C308, C443–C451, C487; S35, S49, S57 |
+| Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S50 | C18, C119, C297–C308, C460–C468, C504; S35, S50, S58 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C408–C411, C425; S21, S45–S46 |
-| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C418–C425, C300, C451; S46, S49; CH18, CH20 |
-| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C460–C466; S52 |
-| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C426–C432, C452–C458, C321, C430; S47, S50; CH20, CH21 |
+| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C425–C428, C442; S21, S46–S47 |
+| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C435–C442, C300, C468; S47, S50; CH18, CH20 |
+| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C477–C483; S53 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C443–C449, C469–C475, C321, C447; S48, S51; CH20, CH21 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
-| Sentir y pensar | preferido/aceptado | C122–C124, C412–C416; S20, S43 |
-| Dos caminos o uno | dirección del autor; consistente con la comunicación asimétrica y los dos registros | C295–C296, C415, C417, C493; S35, S43, S59 |
-| Experiencia real o ilusión | aceptado | C413–C414; S43 |
-| Gente que no siente nada | aceptado | C123–C124, C416 |
-| Música y arte | abierto en su punto central | C417; S43 |
+| Sentir y pensar | preferido/aceptado | C122–C124, C429–C433; S20, S44 |
+| Dos caminos o uno | dirección del autor; consistente con la comunicación asimétrica y los dos registros | C295–C296, C432, C434, C510; S35, S44, S60 |
+| Experiencia real o ilusión | aceptado | C430–C431; S44 |
+| Gente que no siente nada | aceptado | C123–C124, C433 |
+| Música y arte | abierto en su punto central | C434; S44 |

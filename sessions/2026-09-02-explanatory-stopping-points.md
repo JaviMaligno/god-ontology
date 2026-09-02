@@ -1,10 +1,10 @@
 # Session: Explanatory stopping points and the necessitation lemma
 
 **Date:** 2026-09-02
-**Session ID:** S44
+**Session ID:** S45
 **Primary question:** Can the ordinary answer to “Why do you believe in God?” — that a reality which merely exists because it exists is an unsatisfying stopping point, and that of the two ways beyond it the agentic one is more satisfying — be given a formal backbone consistent with C04–C05 and the S09 constructive standard?
 **Dependencies:** C01–C05, C08, C55–C60, C108–C109, S09
-**Origin:** Question-driven gap filling requested by the author in the 2026-09-02 brief for the accessible track (S43)
+**Origin:** Question-driven gap filling requested by the author in the 2026-09-02 brief for the accessible track (S44)
 **Target depth:** F2 for the contingency/ground junction; the C05 comparison remains abductive and preferential
 
 ## Starting position
@@ -112,11 +112,11 @@ Reversal conditions from S09 still apply. In addition, the lemma exposes a speci
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C403 | — | `accepted` | WEP, not a strong PSR, is the motivation for seeking a ground beyond brute contingency | author brief 2026-09-02; C01–C04 |
-| C404 | — | `accepted` | Necessitation lemma is a theorem of normal modal logic applied to a necessary ground | this session |
-| C405 | — | `accepted classification` | Four stopping points B, Nec, IN, AN partition the options given the lemma | this session |
-| C406 | — | `preferred` | Only AN supplies contrastive, reason-guided, non-necessitating explanation; this is the formal core of C05 | this session; S09 |
-| C407 | — | `accepted exclusion` | Necessitarianism is excluded as a working option because it denies the contingency datum and C08 | this session |
+| C420 | — | `accepted` | WEP, not a strong PSR, is the motivation for seeking a ground beyond brute contingency | author brief 2026-09-02; C01–C04 |
+| C421 | — | `accepted` | Necessitation lemma is a theorem of normal modal logic applied to a necessary ground | this session |
+| C422 | — | `accepted classification` | Four stopping points B, Nec, IN, AN partition the options given the lemma | this session |
+| C423 | — | `preferred` | Only AN supplies contrastive, reason-guided, non-necessitating explanation; this is the formal core of C05 | this session; S09 |
+| C424 | — | `accepted exclusion` | Necessitarianism is excluded as a working option because it denies the contingency datum and C08 | this session |
 | C04 | `provisional` | `provisional` at F2 | The hypothesis now has an explicit comparative argument; brute contingency and IN remain live opponents | this session |
 | C05 | `preferred` | `preferred` at F2 | The comparison is now stated formally; its preferential residue is identified exactly | this session |
 
@@ -124,8 +124,8 @@ Reversal conditions from S09 still apply. In addition, the lemma exposes a speci
 
 Sources are cited from memory; no online verification was possible in this session, and the citations should be checked in the literature pass.
 
-- The modal-collapse argument against a strong PSR is due to Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6, and is discussed in the Stanford Encyclopedia entry on the principle of sufficient reason. C404 is the same inference applied to a necessary ground rather than to the PSR.
-- Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008), argues that a necessary being can explain a contingent order only by non-necessitating agent causation. C406 is the closest possible precedent and the project's argument should be read as a reconstruction within its own premises, as the research method requires for named authors.
+- The modal-collapse argument against a strong PSR is due to Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6, and is discussed in the Stanford Encyclopedia entry on the principle of sufficient reason. C421 is the same inference applied to a necessary ground rather than to the PSR.
+- Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008), argues that a necessary being can explain a contingent order only by non-necessitating agent causation. C423 is the closest possible precedent and the project's argument should be read as a reconstruction within its own premises, as the research method requires for named authors.
 - Alexander Pruss and Joshua Rasmussen, *Necessary Existence* (Oxford, 2018), defend necessary being through weaker-than-PSR explanatory principles; WEP belongs to that family but is explicitly comparative and authorial.
 - Necessitarianism and plenitude are treated in the Spinoza and Leibniz literature; the four-way table is an expository compression, not a novelty claim.
 
@@ -137,8 +137,8 @@ Classification: established components (modal collapse, O'Connor's agentic neces
 - [x] core architecture and glossary
 - [x] development and research maps
 - [x] novelty map and treatise outline
-- [x] accessible track answers (S43)
+- [x] accessible track answers (S44)
 
 ## Next question
 
-Use the same question-driven method on the second public question that outruns the ledger: “Is God good?” Determine which part of divine goodness the established profile already earns (S45).
+Use the same question-driven method on the second public question that outruns the ledger: “Is God good?” Determine which part of divine goodness the established profile already earns (S46).

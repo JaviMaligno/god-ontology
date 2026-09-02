@@ -1,15 +1,15 @@
 # Session: Identity across the cessation of the realization base
 
 **Date:** 2026-09-02
-**Session ID:** S50
+**Session ID:** S51
 **Primary question:** What secures the identity of a post-mortem subject with its embodied predecessor, under each open realization model of the subject, without adopting primitive haecceities by stipulation; and can the gappy existence of one individual be coherent?
-**Dependencies:** C08, C33, C53, C55–C60, C122, C183–C184, C212, C219, C223, C426–C432, C441, S03, S05, S29, S47, S48
+**Dependencies:** C08, C33, C53, C55–C60, C122, C183–C184, C212, C219, C223, C443–C449, C458, S03, S05, S29, S48, S49
 **Origin:** Author's instruction of 2026-09-02 to open CH21 while CH03 is completed locally
 **Target depth:** F2 for the persistence conditions of created subjects; realization model not selected
 
 ## Starting position
 
-S47 showed that continuation is coherent under every open realization model and relocated the burden to the identity relation $Ident(B,B^+)$. S48 sharpened the target: a created subject is a $Substance_T$, an identity unit that bears powers, whose material profile is instantiated by its realization base; re-realization would be re-instantiation of $\Pi_{phys}$ by the same identity unit (C441). CH21 forbids settling identity by stipulation and asks specifically about the replica objection, gappy existence, and the Parfitian claim that identity is not what matters.
+S48 showed that continuation is coherent under every open realization model and relocated the burden to the identity relation $Ident(B,B^+)$. S49 sharpened the target: a created subject is a $Substance_T$, an identity unit that bears powers, whose material profile is instantiated by its realization base; re-realization would be re-instantiation of $\Pi_{phys}$ by the same identity unit (C458). CH21 forbids settling identity by stipulation and asks specifically about the replica objection, gappy existence, and the Parfitian claim that identity is not what matters.
 
 The session's method is to ask what persistence conditions the ontology is already committed to for created subjects within a life, and then to test whether those conditions extend across a gap. If the within-life account is reductive — persistence as physical or psychological continuity — the gap is fatal or nearly so. If it is not, the gap is a different problem from the one usually posed.
 
@@ -22,7 +22,7 @@ The session's method is to ask what persistence conditions the ontology is alrea
 | $PsyCont(B_1,B_2)$ | Psychological continuity: overlapping chains of memory, intention, character, and other psychological connections |
 | reductive persistence | $Ident(B_1,B_2)$ is constituted by, or analyzable as, $PhysCont$, $PsyCont$, or a combination, possibly with a non-branching clause |
 | simple persistence | $Ident(B_1,B_2)$ is not analyzable in terms of continuity relations; continuity relations are evidence for, and normal realization conditions of, persistence, not its constitution |
-| identity unit | The $Substance_T$ subject that bears powers and originates acts (C223, C441); “source” when the emphasis is on origination |
+| identity unit | The $Substance_T$ subject that bears powers and originates acts (C223, C458); “source” when the emphasis is on origination |
 | replica | A subject qualitatively identical to $B$ at some time but numerically distinct |
 | gappy existence | One individual located at temporally disconnected intervals of created time |
 
@@ -56,7 +56,7 @@ So the coherence question is settled in the ontology's own terms: given simple p
 
 ## Step 3: the divine act and de re targeting
 
-$G$ individuates each actual conscious subject (C122); ACO tracks identity facts and does not make them (by the same logic as C10 and C30). Re-realization is an exercise of $P_{OEC}$ or a further creative act (C429) whose immediate effect is that an identity unit is realized at $t^+$. The question is whether that act can have $B$ *de re* as its target rather than a qualitative specification that any replica would satisfy.
+$G$ individuates each actual conscious subject (C122); ACO tracks identity facts and does not make them (by the same logic as C10 and C30). Re-realization is an exercise of $P_{OEC}$ or a further creative act (C446) whose immediate effect is that an identity unit is realized at $t^+$. The question is whether that act can have $B$ *de re* as its target rather than a qualitative specification that any replica would satisfy.
 
 Under simple persistence the answer is yes, for two reasons. First, $B$ is not a qualitative type; C53 already distinguishes de re identity of actual agents from the qualitative types available for merely possible ones. $B$, being actual, has de re identity in the model. Second, the divine act is not a description that something must fit; it is an exercise directed at what $G$ individuates. The act makes the later stage actual; it does not decide which individual it is by comparing candidates, because there is no independent later candidate to compare. The later stage is $B$'s because the act that makes it actual is $B$'s re-realization, and there is no further identity-making fact.
 
@@ -92,7 +92,7 @@ The mind–body branch remains deferred, but with a new constraint: any realizat
 1. The choice between the persistence route and the re-realization route, which depends on the realization model.
 2. Whether an identity unit can exist wholly unrealized, which the persistence route requires.
 3. Fission at the created level, where simple persistence gives a determinate but epistemically inaccessible answer.
-4. Whether the realization base's material profile is the same or a different instance after re-realization; S48's constraint requires only that the same identity unit instantiate $\Pi_{phys}$ again, not the same instance.
+4. Whether the realization base's material profile is the same or a different instance after re-realization; S49's constraint requires only that the same identity unit instantiate $\Pi_{phys}$ again, not the same instance.
 
 None of these reopens the coherence of continuation; each concerns its mode.
 
@@ -111,19 +111,19 @@ None of these reopens the coherence of continuation; each concerns its mode.
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C452 | — | `preferred derivation` | Created subjects have simple persistence: identity is not constituted by physical or psychological continuity, because libertarian sourcehood, de re modal identity, and whole-agent attribution require the identity unit to be prior to the history it produces | this session; C33, C53, C212 |
-| C453 | — | `accepted` | Continuity relations are evidence for and normal realization conditions of persistence, not its constitution; empirical disruptions of continuity are evidence about the subject's condition | this session; C183–C184 |
-| C454 | — | `accepted` | Under simple persistence and E+, gappy existence is temporally disconnected location of one object in $\mathfrak R^*$; the intuition that a gap is fatal is presentist | this session; C22–C28, C47 |
-| C455 | — | `preferred` | Re-realization can target $B$ de re: the divine act makes the later stage actual as $B$'s; ACO tracks the identity fact and does not make it; no further identity-making fact is required | this session; C10, C30, C53, C122, C429 |
-| C456 | — | `accepted` | A replica is a numerically distinct identity unit with $B$'s qualitative profile; it is not $B$, and finite indistinguishability is an epistemic limit | this session |
-| C457 | — | `accepted` | Identity is what matters for a source: the anchors are subject-indexed and sourcehood cannot attach to continuity chains without forking contrastive authorship | this session; C33, C187 |
-| C458 | — | `preferred constraint` | Any realization model must treat the subject as an identity unit whose persistence is not constituted by continuity; the reductive organismic or neural model is disfavored on this ground, independently of continuation | this session; C219 |
+| C469 | — | `preferred derivation` | Created subjects have simple persistence: identity is not constituted by physical or psychological continuity, because libertarian sourcehood, de re modal identity, and whole-agent attribution require the identity unit to be prior to the history it produces | this session; C33, C53, C212 |
+| C470 | — | `accepted` | Continuity relations are evidence for and normal realization conditions of persistence, not its constitution; empirical disruptions of continuity are evidence about the subject's condition | this session; C183–C184 |
+| C471 | — | `accepted` | Under simple persistence and E+, gappy existence is temporally disconnected location of one object in $\mathfrak R^*$; the intuition that a gap is fatal is presentist | this session; C22–C28, C47 |
+| C472 | — | `preferred` | Re-realization can target $B$ de re: the divine act makes the later stage actual as $B$'s; ACO tracks the identity fact and does not make it; no further identity-making fact is required | this session; C10, C30, C53, C122, C446 |
+| C473 | — | `accepted` | A replica is a numerically distinct identity unit with $B$'s qualitative profile; it is not $B$, and finite indistinguishability is an epistemic limit | this session |
+| C474 | — | `accepted` | Identity is what matters for a source: the anchors are subject-indexed and sourcehood cannot attach to continuity chains without forking contrastive authorship | this session; C33, C187 |
+| C475 | — | `preferred constraint` | Any realization model must treat the subject as an identity unit whose persistence is not constituted by continuity; the reductive organismic or neural model is disfavored on this ground, independently of continuation | this session; C219 |
 | C219 | `deferred` | `deferred`, constrained | Reductive identification of the subject with its base or organization is disfavored; four models remain live | this session |
-| C428 | `provisional` | `preferred` | Continuation is coherent under every live realization model; the identity burden is discharged by simple persistence rather than by a criterion | this session |
+| C445 | `provisional` | `preferred` | Continuation is coherent under every live realization model; the identity burden is discharged by simple persistence rather than by a criterion | this session |
 | CH21 | `scoped` | `tested` (partial) | Coherence, de re targeting, replica, and Parfit answered; route choice, unrealized existence, and fission remain open | this session |
-| R155 | — | `rejected` | Personal identity over time is constituted by physical or psychological continuity | this session; C452 |
-| R156 | — | `rejected` | A subject qualitatively identical to $B$ and made by $G$ with the intention that it be $B$ is thereby $B$ | this session; C456 |
-| R157 | — | `rejected` | Gappy existence is incoherent as such | this session; C454 |
+| R165 | — | `rejected` | Personal identity over time is constituted by physical or psychological continuity | this session; C469 |
+| R166 | — | `rejected` | A subject qualitatively identical to $B$ and made by $G$ with the intention that it be $B$ is thereby $B$ | this session; C473 |
+| R167 | — | `rejected` | Gappy existence is incoherent as such | this session; C471 |
 
 ## Literature and novelty notes
 
@@ -147,4 +147,4 @@ Classification: the simple view and its rivals are established; the project-spec
 
 ## Next question
 
-The identity result gives the mind–body branch a constraint and leaves four realization models live. The next item on this branch is the integration of the author's CH03 result on knowing a creature as a subject, which bears on the same identity units from the side of divine knowledge; after that, a section-level coherence audit of the trunk from S30 to S50 would be timely, since seven sessions have been added since the last whole-ontology pass (S16).
+The identity result gives the mind–body branch a constraint and leaves four realization models live. The next item on this branch is the integration of the author's CH03 result on knowing a creature as a subject, which bears on the same identity units from the side of divine knowledge; after that, a section-level coherence audit of the trunk from S30 to S51 would be timely, since seven sessions have been added since the last whole-ontology pass (S16).

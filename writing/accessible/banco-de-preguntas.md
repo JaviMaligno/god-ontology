@@ -24,6 +24,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P05 | ¿Puedes demostrarlo? | `respondida` | estándar constructivo; S09 | — |
 | P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S36 | — |
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
+| P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida` | C365–C369; S46 (posible no es imaginable ni «lo que Dios puede»; cinco condiciones; el mundo podría haber sido de muchas maneras, y lo que Dios puede crear abarca todas ellas si se aceptan unas premisas preferidas) | CH14 |
 
 ## B. Qué Dios
 

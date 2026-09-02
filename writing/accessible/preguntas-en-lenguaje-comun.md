@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S45, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S46, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -33,6 +33,16 @@ No, y ese es justamente el error que intento evitar. Que la ciencia no haya expl
 Porque un «algo» sin voluntad solo tiene dos maneras de producir el mundo: o lo produce necesariamente, y entonces todo está fijado desde siempre y nada podría haber sido distinto, o lo produce por azar, y entonces no hay ninguna razón de que el mundo sea así. Un «alguien» tiene una tercera manera, que es la que conocemos por dentro: elegir por motivos sin estar obligado. Cuando yo elijo algo, hay razones, pero las razones no me obligan; soy yo quien decide. Creo que en el fondo de la realidad hay eso, y no una máquina ni una lotería.
 
 Alguien puede decir que «eligió por motivos» es solo ponerle nombre al azar. Es la objeción más seria, y no tengo un argumento que la elimine. Lo que tengo es que la elección es de alguien, responde a razones y es la misma clase de cosa que necesito de todos modos para explicar que nosotros seamos libres. Prefiero una realidad cuyo fondo es un autor a una cuyo fondo es un dado.
+
+### ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera?
+
+«Posible» se usa de tres maneras que conviene no mezclar. Que algo se pueda imaginar; que no sea contradictorio; y que de verdad pudiera existir. Las dos primeras no bastan. Se pueden imaginar cosas que no podrían existir, y hay descripciones sin contradicción que no describen ningún mundo completo: unas leyes coherentes con unas condiciones iniciales que no dejan ninguna historia posible.
+
+Lo que yo entiendo por posible, para un mundo, son cinco cosas: que sus reglas no se contradigan; que esas reglas, con sus constantes y su punto de partida, admitan al menos una historia completa; que las capacidades que ese mundo contiene puedan ejercerse de verdad y no se anulen entre sí; que sea un mundo creado, hecho de cosas con la organización que sus reglas fijan y sin nada que exista por sí mismo dentro de él; y que no exija de Dios algo que Dios no puede ser, como estar contenido en el espacio. Lo importante es lo que no está en la lista: no dice «lo que Dios puede hacer». Si lo dijera, decir que Dios puede crear cualquier mundo posible sería decir nada. Dicho así, es una afirmación con contenido, y creo que es verdad, aunque depende de premisas que prefiero sin poder demostrar; la principal es que solo hay un ser necesario que decide.
+
+Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes, otras leyes, otros seres, o ninguno. Que sea este es una elección, no una consecuencia.
+
+Imaginar sigue sirviendo: cuando uno imagina algo con detalle está construyendo un trozo de mundo, y eso es una pista de que es posible. Pero es una pista, no una prueba, igual que reconocer a alguien por su cara es una pista de que es él y no lo que le hace ser él.
 
 ### ¿Puedes demostrarlo?
 
@@ -239,6 +249,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | No basta con que exista | preferido | C294, C296; S36 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C295–C298; S09, S36 |
+| Qué es posible | preferido; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C365–C369; S46 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S36 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |

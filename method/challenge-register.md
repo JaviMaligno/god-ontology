@@ -46,7 +46,8 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
 | CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `scoped` |
 
-| CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `active F2` |
+| CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
+| CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `active F1–F2` |
 
 ## Priority gate after S26
 
@@ -56,7 +57,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 opens CH15 at F2 by distinguishing token freedom, robust capacity, and realized diachronic authorship and by modeling adaptive governance capture. Its capacity/achievement resolution awaits author assessment, with practical accessibility still requiring precision. CH14 remains preserved for later integration with modality and consciousness.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. The author's next question opens CH16 as the active trunk priority. CH14 remains preserved and now has an explicit future dependency on the consciousness bearer/content analysis.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -293,4 +294,46 @@ S35 proposes that possible revision and actual self-formation are not rival requ
 \langle FreeTok(A,a,t),RobustCap(A,t),DiaAuth(A,\tau)\rangle.
 \]
 
-Token freedom concerns one settlement; robust capacity requires at least one actual and practically accessible uncaptured route of revision or resistance; realized diachronic authorship requires actual self-formative contributions. This permits a newly created mature agent to be free and robustly capable before it has accumulated an authored biography. CH15 remains active pending author assessment and a non-arbitrary account of practical accessibility.
+Token freedom concerns one settlement; robust capacity requires at least one actual and practically accessible uncaptured route of revision or resistance; realized diachronic authorship requires actual self-formative contributions. This permits a newly created mature agent to be free and robustly capable before it has accumulated an authored biography. S35 initially left CH15 pending author assessment and a non-arbitrary account of practical accessibility.
+
+The author's following reply raises no objection to this proposed resolution, so CH15 is retained at local F2 under the default-acceptance rule. Practical accessibility remains open for selective refinement rather than blocking the ontological trunk.
+
+## CH16 — Consciousness production, time, and person
+
+S36 first distinguishes:
+
+\[
+\langle A,CapCon(A,t),c,Content(c)\rangle,
+\]
+
+the persisting bearer, conscious capacity, token episode, and phenomenal or intentional content. “When consciousness begins” is ambiguous until the target is fixed; phenomenal, access, self, and agentive consciousness can have different onset and loss conditions.
+
+For actual embodied creatures, conscious episodes occur within created time even though they are tenseless constituents of $H^*$ and are known atemporally by $G$:
+
+\[
+PartOf(c,H^*)\land LocatedAt(c,[t_1,t_2])
+\not\Rightarrow AtemporalMode(c).
+\]
+
+The preferred minimal subject connection is:
+
+\[
+PersonalState(c,A,t)\rightarrow
+Bears(A,c,t)
+\land PresentedTo(c,A)
+\land IntegratedWith(c,Life_A,t).
+\]
+
+It does not require uninterrupted consciousness, reflective self-representation, or a separate Cartesian soul. A bearer may persist through non-conscious intervals, while whether a pre-conscious bearer already counts as a person remains open.
+
+Production itself divides into existential grounding of the subject, grounding of its capacity, the realization bridge for a token episode, the episode's causal production, and any agentive contribution to its content. Reductive identity, weak or strong emergence, non-reductive embodiment, hylomorphism, dual aspect, substance dualism, and fundamental-experiential approaches must be compared rather than grouped under “emergence.”
+
+CH16 also records an edge case:
+
+\[
+Created(x)\not\Rightarrow\exists t\,BeginsToExist(x,t).
+\]
+
+Actual human consciousness remains temporal and embodied, but creation as dependence does not definitionally exclude an atemporally dependent created subject. Such a subject would require separate individuation, uniqueness, and modal analysis.
+
+The active F2 task is to compare realization families against phenomenal presence, subject and temporal unity, causal efficacy, individuation, creation dependence, ASA truthmaking, graded development, and empirical compatibility.

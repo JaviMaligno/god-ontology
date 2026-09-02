@@ -296,3 +296,9 @@ The historical relevance of manipulation is not novel. The local contribution is
 ## Next question
 
 Does the capacity/achievement distinction close CH15 satisfactorily? The principal remaining precision is what makes a revision route practically accessible without importing an arbitrary probability threshold, ideal rationality, or a complete ethical theory.
+
+## Later author response
+
+The next author message did not object to the capacity/achievement distinction. Under the standing default-acceptance rule, CH15 is therefore locally accepted at its proposed F2 depth. Practical accessibility remains available for selective refinement rather than blocking the trunk.
+
+The next trunk challenge is CH16: when and how consciousness is produced, whether creaturely consciousness is temporal or atemporal, and what connects a conscious episode to a person. See [S36](2026-09-02-consciousness-production-time-and-person.md).

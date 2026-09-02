@@ -66,6 +66,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Libertarian branches and truthmakers
     - Why indeterminism is not yet freedom
     - Phenomenal, access, self, and agentive consciousness
+    - Conscious bearer, conscious capacity, token episode, and content
+    - Temporal occurrence, tenseless actuality, and atemporal divine knowledge
+    - Existential production, capacity production, realization, episode causation, and subject contribution
+    - Bearer–presentation–integration and persistence through non-conscious intervals
+    - Whether the bearer before first consciousness already counts as a person
     - Determined conscious states and token-relative freedom
     - The unified embodied subject rather than a mental or bodily homunculus
     - Decision episodes: preparation, access, control, settlement, execution, and retrospective ownership
@@ -73,6 +78,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Conscious participation without requiring consciousness to be the first causal event
     - Organismic behaviour, embodied agency, and conscious reason-guided freedom
     - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
+    - Weak and strong emergence, causal efficacy, and cross-level non-competition
+    - Created atemporal consciousness as a modal edge case rather than the actual human model
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles
 14. **Actuality and Possible Histories**

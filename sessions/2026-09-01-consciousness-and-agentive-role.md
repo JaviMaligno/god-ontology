@@ -117,3 +117,7 @@ The $AgCon$ layer is a project-specific integration of established consciousness
 ## Next question
 
 Return to goodness and type the proposed normative bridge from $G$ to created conscious subjects: existential grounding, constitutive value, recognition, approval, and institution must not be collapsed.
+
+## Later expansion
+
+[S36](2026-09-02-consciousness-production-time-and-person.md) returns to the deferred realization problem. It separates the conscious bearer, conscious capacity, token episode, and content; distinguishes temporal occurrence from tenseless actuality and atemporal divine knowledge; and makes the bearer–presentation–integration relation the provisional connection between consciousness and the person. The final mind–body realization remains open but is now a trunk priority.

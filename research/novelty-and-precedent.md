@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, diachronic agency and manipulation, personal availability, subject acquaintance and second-personal knowledge, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, diachronic agency and manipulation, personal availability, subject acquaintance and second-personal knowledge, goodness, consciousness production and temporal status, personal identity, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -173,6 +173,14 @@ S28 makes no novelty claim for these elements. Its local synthesis distinguishes
 The [Stanford Encyclopedia of Philosophy entry on consciousness](https://plato.stanford.edu/entries/consciousness/) documents the plurality of phenomenal, access, reflexive, and other consciousness concepts. [Ned Block's “On a Confusion about a Function of Consciousness”](https://doi.org/10.1017/S0140525X00038188) is a primary source for separating phenomenal experience from information availability for reasoning and action. The [Stanford Encyclopedia entry on the neuroscience of consciousness](https://plato.stanford.edu/entries/consciousness-neuroscience/) reviews both the distinction and continuing disputes about the relation between its terms.
 
 S22 uses these established distinctions to prevent two local conflations: phenomenal experience does not by definition entail causal openness, and access to reasons does not by itself originate an act. The added $AgCon$ predicate marks conscious contents participating in the whole subject's efficacious exercise, while the separately stated $Originates$ condition bears the libertarian claim. This is an architectural integration, not a novelty claim or a settled theory of consciousness.
+
+## Consciousness production, temporal unity, and the personal bearer: targeted primary-source check
+
+[David Chalmers, “Strong and Weak Emergence”](https://consc.net/papers/emergence.pdf) distinguishes weak emergence, in which higher-level truths remain derivable in principle from lower-level facts, from strong emergence requiring further fundamental principles. This supports S36's refusal to use “emergence” as an unanalyzed production relation. [Tim Bayne and David Chalmers, “What Is the Unity of Consciousness?”](https://consc.net/papers/unity.html) distinguish subject, object, access, and phenomenal forms of unity, and directly motivate separating one bearer's unity from mere co-occurrence of contents.
+
+[Eric Olson, “Was I Ever a Fetus?”](https://eprints.whiterose.ac.uk/id/eprint/772/) presses the consequences of psychological accounts of personal persistence and supplies precedent for distinguishing the organism or bearer from occurrent psychology. [Holly Andersen, “The Development of the ‘Specious Present’ and James' Views on Temporal Experience”](https://philsci-archive.pitt.edu/10721/) reconstructs temporally extended experience and supports distinguishing an episode's objective location, experienced duration, and report time.
+
+S36 combines these established problem families with the project's eternalist history, ACO/ASA, OEC production hierarchy, and embodied sourcehood. Its distinctive contribution is architectural: temporal creaturely episodes can be tenselessly actual and atemporally known without acquiring an atemporal mode; ASA tracks a bearer–presentation relation; and creation as dependence leaves a created atemporal subject conceptually open without treating it as the actual human model. No claim of historical novelty is presently made for that synthesis.
 
 ## Embodied decision episodes: targeted primary-source check
 

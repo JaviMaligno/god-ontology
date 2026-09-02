@@ -159,3 +159,7 @@ This asymmetry also explains why the created-agent model needs an episode while 
 ## Next question
 
 Return to the current ontological priority: divine constitution and material production. S29 leaves the created subject's realization open but supplies distinctions—whole versus part, constitution versus causation, and cross-level non-competition—that will also matter when asking what $G$ is and how a non-material source can produce material substances.
+
+## Later expansion
+
+[S36](2026-09-02-consciousness-production-time-and-person.md) resumes the realization issue after the divine-constitution sequence. It retains the unified embodied subject as the actual human model, distinguishes the persisting bearer from its capacity and token episodes, and turns the open realization families into CH16. The episode model constrains those families: a candidate must explain phenomenal and subject unity, temporal continuity through conscious gaps, causal efficacy, individuation, creation dependence, ASA truthmaking, development, and empirical compatibility.

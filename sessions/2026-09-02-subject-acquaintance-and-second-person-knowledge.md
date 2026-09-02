@@ -265,3 +265,7 @@ Acquaintance, de se knowledge, phenomenal understanding, empathy, and second-per
 ## Next question
 
 Return to cumulative agency control: can a sequence of individually agency-preserving interventions nevertheless engineer an agent's development, salience landscape, commitments, and long-run authorship so strongly that meaningful freedom is undermined?
+
+## Later expansion
+
+[S36](2026-09-02-consciousness-production-time-and-person.md) supplies a provisional truthmaker for ASA's subject index. A token experience belongs to $A$ through a bearer–presentation–integration relation, and $G$ grasps it as presented to that actual bearer. Atemporal acquaintance therefore tracks a temporally located episode without transferring the episode to $G$, reproducing it in $G$, or changing its temporal mode.

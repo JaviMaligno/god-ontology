@@ -196,9 +196,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 22. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. Completed in S32: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains more provisional, and non-destructive strict-*ex-deo* capacity is conditional on independent coherence.
 23. Search for the non-circular universal-range bridge requested after S32. S33 decomposes $OMP_C$ into creative plenitude, constitutive control, and history-sensitive intervention; the modal-source plus specification-transparency route is the preferred F3 research direction but remains incomplete.
 24. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. Completed locally at F2 in S34 through actuality-indexed $ASA$ and separation from reciprocal second-personal presence.
-25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. S35 distinguishes token freedom, robust capacity, and realized diachronic authorship; proposes the $AE$ profile and adaptive governance capture; and leaves practical accessibility as the active precision burden pending author assessment.
-26. Preserve CH14 on imagination, thought, intentional content, and possibility for a later cross-cutting pass; the eventual modal account must not infer possibility from imaginability.
-27. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-28. Select the remaining genuinely fragile junctions—CH15's historical threshold, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and CH14—for F2–F3 treatment.
-29. Run the dedicated literature, provenance, and novelty pass.
-30. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. Completed locally at F2 in S35 through the distinction among token freedom, robust capacity, and realized diachronic authorship; practical accessibility remains selectively open.
+26. Partition consciousness production, temporal status, and relation to its bearer. S36 distinguishes subject, capacity, episode, and content; temporal location from tenseless actuality and atemporal knowledge; and existential production from realization and token causation. Realization comparison is the current trunk task.
+27. Preserve CH14 on imagination, thought, intentional content, and possibility for a later cross-cutting pass; the eventual modal account must not infer possibility from imaginability.
+28. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+29. Select the remaining genuinely fragile junctions—consciousness realization, CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and CH14—for F2–F3 treatment.
+30. Run the dedicated literature, provenance, and novelty pass.
+31. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

@@ -2,7 +2,7 @@
 
 *Generated 2026-09-02 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
 
-Entries: 318.
+Entries: 322.
 
 | Term | Working definition | Status/source |
 | --- | --- | --- |
@@ -323,4 +323,8 @@ Entries: 318.
 | **Modal uniqueness of necessary agents ($MUNA$)** | Exactly one necessary agent exists, in every world. Stronger than $U_D$; supported by the same considerations; entails modal sole-source invariance for created orders. | preferred; C531 |
 | **Creative plenitude (conditional)** | Every independently possible created specification is within $G$'s creative capacity, given $MUNA$, essential originative power, and agent-relative accessibility. | preferred conditional; C532 |
 | **World, physical universe, created order** | A world is a represented complete way things could be; a physical universe is a maximal causally connected spacetime domain within a created order; a created order is a domain specified by some $S_i$ and produced by $OEC^+$, with its own time and history. Complete actual reality $\mathfrak R^*$ may contain several orders. | accepted distinction; C535, S58 |
+| **Distinct non-created concrete relatum $NCC(L)$** | $Concrete(L)\land\neg Created(L)\land L\neq G$, partitioned by modal status and dependence into underived necessary, derived necessary (emanation), and underived contingent (brute); derived contingent concreta are created. | accepted classification; C588, S74 |
+| **Limiter $Limiter_G(L)$** | A non-created concrete some contingent fact about which has no ultimate existential or originative ground in $G$. Necessary features are constraints, $G$-grounded contingent features are dependent conditions, and a dependent agent's own settlings are role mismatches; only the named case is S32's external blocker. | accepted diagnostic definition; C589, S74 |
+| **Extended modal grounding coverage $MGC^+$** | Necessarily, every contingent fact concerning a concrete has an underived concrete ultimate existential ground. The modal form of $U_G$'s quantification over the total contingent order; stronger in scope than $MGC$, equal in status. | preferred, not demonstrated; C590, S74 |
+| **No-limiter lemma $NLL$** | $MGC^+\land MUU\rightarrow\neg\Diamond\exists L\,Limiter_G(L)$: under extended coverage and modal uniqueness of the underived source, no non-created concrete can limit $G$; the non-created-relatum condition on unrestricted $OMP_Q$ reduces to those two premises. | preferred F2 conditional consequence; C591, C594, S74 |
 | **Theistic plenitude** | The thesis that $G$ actualizes every eligible or undominated structure. Coherent; not preferred, since it needs a requiring reason for maximal variety. | open; C540 |

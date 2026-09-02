@@ -114,6 +114,18 @@ Lo que sí digo es esto: Dios sostiene el mundo entero, entero él y en cada cos
 
 Queda una posibilidad más fina, que menciono porque la he estudiado: que Dios, sin dividirse, sin perder nada y sin pasar a depender de la criatura, «constituyera» algo distinto de él, de modo que ese algo fuera aparte y a la vez estuviera hecho de su presencia. No he encontrado contradicción en ello, con condiciones; podría estar en su poder. Pero no creo que lo haya hecho: el mundo que conocemos se explica mejor con dos que no se mezclan, y esa es la lectura que mantengo. Que Dios pueda es una cosa; que lo haya hecho, otra.
 
+### ¿Puede haber algo que Dios no haya hecho, aparte de él?
+
+Depende de qué sea ese «algo», y la pregunta se aclara separando dos casos.
+
+Las ideas, los números, las verdades como «dos y dos son cuatro»: eso no lo ha hecho Dios, y no hace falta. No son cosas; son la forma que tiene que tener cualquier cosa. No compiten con él ni le ponen límites; son el marco dentro del cual cualquier acción, también la suya, tiene sentido.
+
+Lo que sí sería una novedad es una *cosa*: algo concreto, con poderes o con estados, que existiera sin que Dios lo hubiera hecho. Una materia eterna que Dios solo ordenara; un segundo principio, como el mal de algunas religiones antiguas; almas que hubieran existido desde siempre por su cuenta. Todo eso es pensable. Pero si uno acepta lo que ya he dicho, que todo lo que podría no existir necesita un fundamento y que el único fundamento que no necesita otro es Dios, entonces cualquier cosa así o bien depende de Dios, y entonces es criatura suya en el sentido que importa, o bien tendría estados o hechos que no dependen de nadie, y eso es justo lo que descarto cuando digo que Dios es el fondo de todo. Así que no puede haber una cosa que limite a Dios desde fuera sin que antes falle esa idea de fondo; el que quiera esa cosa tiene que quitar el fundamento, no añadir un detalle.
+
+Quedan dos casos raros que menciono por honradez. Uno: algo que existiera necesariamente y que no hiciera nada ni tuviera estados; no sé si eso merece llamarse una cosa, y en cualquier caso no limita a nadie. Otro: algo que existiera desde siempre porque Dios no pudiera dejar de producirlo, como la luz sale del sol. Tampoco lo limitaría; pero no lo creo, porque Dios crea porque quiere, no porque no pueda evitarlo, y esa diferencia es de las que más me importan.
+
+En resumen: verdades no hechas, sí; cosas no hechas que limiten a Dios, no, salvo que se quite el fundamento; y lo que Dios hace, lo hace queriendo.
+
 ### ¿Por qué creó Dios el mundo?
 
 No pretendo saber el motivo real; lo que puedo dar es una explicación que hace la creación inteligible, y decir qué parte de ella tengo y qué parte no.
@@ -282,7 +294,7 @@ Para que quede junto y a la vista:
 - Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
-- Si puede existir otro ser concreto que no haya sido creado por Dios y que limite su poder; nuestra ontología no contiene ninguno, pero todavía no he descartado todas las ontologías rivales.
+- Si la idea de fondo, que todo lo que podría no existir se apoya al final en Dios y solo en él, se puede demostrar o es solo la mejor explicación; de ella depende que nada no creado pueda limitarlo.
 - Si Dios puede darse a sí mismo una cualidad o un poder que no tenga ya; lo que hace con los poderes que tiene está cubierto, y lo demás no lo sé.
 
 ---
@@ -306,6 +318,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
 | Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S73 |
+| Puede haber algo no hecho por Dios | preferido, condicional a F2: la cobertura modal y la unicidad de la fuente son preferencias abductivas, no demostraciones | C588–C594; S74 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; provisional frente a relata no creados o tipos de acción de ontologías rivales | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |

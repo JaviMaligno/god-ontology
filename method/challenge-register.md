@@ -201,6 +201,8 @@ S45 and S71 then remove two mixed-action ambiguities. $PP_G$ excludes identity-b
 
 The cumulative result is $OMP_Q^{\mathcal O_*}$ at F2: every task kind licensed by the preferred ontology has a conditional range assignment. CH05 remains open across rival ontologies because a distinct non-created concrete relatum or an independently motivated new action kind could defeat unrestricted $OMP_Q$. The next test addresses the former directly.
 
+S74 supplies that test. It partitions distinct non-created concreta by modal status and dependence, defines a limiter as a non-created concrete some contingent fact about which has no ultimate ground in $G$, and proves from extended modal grounding coverage $MGC^+$ and $MUU$ that no limiter is possible ($NLL$, C589–C591). Emanations and inert necessary concreta survive as non-limiting possibilities outside $\mathcal O_*$ (C592). The non-created-relatum branch of CH05 therefore reduces to the abductive status of $CMU_G$'s components (C594); what keeps CH05 open across rival ontologies is now only an independently motivated novel action kind.
+
 S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
 
 ## CH06 — Designed welfare reversal

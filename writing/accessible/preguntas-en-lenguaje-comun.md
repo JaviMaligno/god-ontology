@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S42, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S44, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -164,6 +164,18 @@ Lo que no sé: si algo de mí sigue existiendo entre medias o si vuelvo a existi
 
 Y lo que no digo: nada sobre cielo, infierno, castigo o cómo sería. Lo que sale del argumento es un papel que algo tendría que cumplir, no una descripción. Dos cosas sí se siguen: que si hay algo después, tiene que estar al alcance de todos, no solo de quienes lo necesitaron; y que no puede ser impuesto. Seguimos siendo libres también ahí, y por eso puede haber quien no lo acepte. Eso es lo único que entiendo por «infierno»: no un lugar, sino no querer la relación que está disponible.
 
+### ¿Qué me hace ser yo?
+
+Hay cuatro preguntas escondidas en esa, y conviene separarlas. Una es lógica: si esto y aquello son la misma cosa; de eso no hay más que decir, salvo que si son lo mismo tienen todo en común. Otra es qué me hace ser este y no otro. Otra es qué me hace ser el mismo a lo largo del tiempo. Y otra es cómo sabe alguien, yo incluido, que soy yo.
+
+A la segunda: lo que me hace ser yo es ser la fuente de mis actos, el que decide, no una descripción. Podría haber otro exactamente igual que yo, con mis mismos gustos y recuerdos, y sería otro; y, como dije antes, no haría necesariamente lo que yo hago. Así que no hay ninguna lista de rasgos que me identifique; soy este porque soy este.
+
+A la tercera: no son las células, que cambian toda la vida, ni los recuerdos, que se pierden y se recuperan, ni el carácter, que puede cambiar del todo. Son las señales normales de que sigo siendo el mismo, y por ellas me reconocen los demás, pero no son lo que me hace el mismo. Eso vale para las personas, no para todo: un río o un barco son el mismo por continuidad, y no hace falta más. Para alguien que decide hace falta más, porque para poder haber hecho otra cosa tengo que ser el mismo en las dos vidas.
+
+A la cuarta: los demás me reconocen por la continuidad, y pueden equivocarse. Dios no: me conoce directamente como quien soy, no por señas. Y ese conocimiento no me hace ser yo; solo lo sabe. Esto es lo que hace que, si Dios me hiciera existir de nuevo, me hiciera existir a mí y no a una copia.
+
+Una consecuencia que me parece importante: cuando a alguien lo manipulan o lo encauzan, no lo convierten en otra persona. Es la misma persona a la que le han quitado la autoría de su vida. Por eso se le puede devolver.
+
 ### ¿Por qué merece la pena sacrificarse?
 
 Porque uno no es solo lo que siente ahora. Un sacrificio tiene sentido cuando alguien acepta un coste real por un bien que va más allá de ese momento, o de esa persona: por un hijo, por alguien que vendrá, por una verdad, por una forma de vida. No es el dolor lo que lo hace valioso; es la respuesta de alguien que elige a algo que de verdad importa. Y no hace falta tener la certeza de que saldrá bien: muchos de los sacrificios que más admiramos se hicieron sin saber. Basta con creer, confiar o esperar con honestidad, sin cerrar los ojos a lo que uno sabe.
@@ -232,6 +244,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C299–C302, C316; S21, S37–S38 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C309–C316; S38; CH15, CH17 |
+| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C351–C357; S44 |
 | Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C317–C323, C343–C349; S39, S42; CH17, CH18 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C303–C307; S20, S35 |

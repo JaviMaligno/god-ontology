@@ -1582,6 +1582,10 @@ Ident(B_1,B_2)\not\equiv PhysCont(B_1,B_2)\lor PsyCont(B_1,B_2)\lor\ldots
 
 Continuity relations are evidence and normal realization (C344). Under E+ a temporal gap is disconnected location of one object within $\mathfrak R^*$ (C345); re-realization targets $B$ de re, with ACO tracking and the act making the later stage actual (C346); a replica is a distinct identity unit (C347); identity is what matters for a source (C348). Any realization model must respect simple persistence, which disfavors the reductive identification of the subject with its base (C349) while leaving four models live. Open: route choice, wholly unrealized existence, and fission.
 
+### Identity: four notions and their scope
+
+[S44](../sessions/2026-09-02-identity-definition-and-impact.md) separates numerical identity (a logical primitive of $N_L$; the indiscernibility of identicals holds, the identity of indiscernibles fails for subjects), individuation (de re for actual subjects as sources; by type for possible subjects; by necessity and role for $G$; by $\Pi_{phys}$ and location for material non-subjects), persistence (simple for sources, C343; continuity-based permitted for non-subjects, C354), and identification (epistemic; finite knowers by evidence, $G$ by $ASA$; never constitutive, C355). Modal identity across diverging histories is the same primitive as individuation (C356). Every module that quantifies de re over subjects — sourcehood, ACO and $ASA$, bearer-indexed fit, diachronic authorship, continuation, uniqueness, and the power bridge's transworld identity of $G$ — depends on these notions in the way the session's impact table records.
+
 ### Experiential access and the two registers
 
 [S35](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C303). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:

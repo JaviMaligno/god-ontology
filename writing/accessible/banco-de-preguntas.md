@@ -49,6 +49,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C303–C307; S20, S35 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH16 |
 | P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C338–C340; S41 (providencia como tablero preparado, no guion ni embudo) | — |
+| P40 | ¿Qué me hace ser yo? | `respondida` | C343–C357; S42, S44 (ser la misma fuente de mis actos; ni las células ni los recuerdos; una copia no sería yo; Dios me conoce como quien soy, no por descripción) | CH18 |
 | P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C334–C337, C342; S41 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH19 |
 
 ## D. El bien y el mal

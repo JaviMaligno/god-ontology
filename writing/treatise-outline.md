@@ -80,7 +80,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Conscious participation without requiring consciousness to be the first causal event
     - Organismic behaviour, embodied agency, and conscious reason-guided freedom
     - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
+    - Identity: numerical identity, individuation, persistence, and identification
     - Simple persistence: why a source cannot be a continuity chain
+    - Why the identity of indiscernibles fails for subjects
     - Continuity as evidence and realization, not constitution
     - Why the reductive identification of the subject with its base is disfavored
 13. **Asymmetric Co-production of History**
@@ -134,6 +136,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - One ultimate ground $U_G$ and one necessary ultimate-ground agent $U_D$
     - Why monotheism need not deny necessary abstracta or derivative necessary items
     - Partitioned, joint, and redundantly total plural-ground models
+    - How $G$ is individuated: necessity and role, not qualitative profile; transworld identity as presupposition
     - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
     - Established powers, created-order maximality $OMP_C$, and unrestricted $OMP_Q$

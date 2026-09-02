@@ -219,4 +219,6 @@ These modules remain conditional on the upstream case for a necessary agent. The
 38. Structure cumulative context control: funnelling, evaluative authorship, the two levels of agency, the diachronic agency-preservation presumption, and the ecology conditions. Completed at F2 in S41 while CH03 is held by the author; CH19 opened for created-level curation and responsibility.
 39. Open CH18: derive the persistence conditions of created subjects from the agency model, test gappy existence under E+, de re re-realization, the replica objection, fission, and Parfit. Completed at F2 in S42; the reductive realization is disfavored and four models remain live.
 40. Run a section-level coherence audit of the trunk from S30 to S42. Completed in S43: no contradiction; C320 discharged, C350 recorded, accessible omnipotence rendering corrected; creative reason (S18) identified as the weakest load-bearing link.
-41. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity. Then give creative reason (S18) a selective F2 pass or begin the consolidation of Parts III–IV.
+41. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity.
+42. Define identity and map its impact: numerical identity, individuation, persistence, and identification, scoped by kind, with the modules that depend on them. Completed at F2 in S44.
+43. Give creative reason (S18) a selective F2 pass or begin the consolidation of Parts III–IV. Proposed next task.

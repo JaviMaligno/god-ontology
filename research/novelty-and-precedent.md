@@ -234,16 +234,16 @@ No component warrants a novelty claim. The more specific package may be composit
 
 ## Stopping points, good-orientation, and experiential access: notes pending verification
 
-No online verification was possible in the S34–S36 session; the following are recorded from memory and must be checked in the literature pass.
+No online verification was possible in the S35–S37 session; the following are recorded from memory and must be checked in the literature pass.
 
-- Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6: the modal-collapse argument against a strong principle of sufficient reason. C282 applies the same inference to a necessary ground.
-- Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008): a necessary being explains a contingent order only through non-necessitating agent causation. Closest precedent for C284; the project reconstructs the point from its own premises per the research method.
+- Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6: the modal-collapse argument against a strong principle of sufficient reason. C295 applies the same inference to a necessary ground.
+- Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008): a necessary being explains a contingent order only through non-necessitating agent causation. Closest precedent for C297; the project reconstructs the point from its own premises per the research method.
 - Alexander Pruss and Joshua Rasmussen, *Necessary Existence* (Oxford, 2018): weaker-than-PSR explanatory principles supporting a necessary being. WEP belongs to that family but is comparative and explicitly authorial.
-- Robert M. Adams, *Finite and Infinite Goods* (Oxford, 1999) and Mark Murphy, *God's Own Ethics* (Oxford, 2017): comparison targets for the S36 grounding route and the P-gap.
+- Robert M. Adams, *Finite and Infinite Goods* (Oxford, 1999) and Mark Murphy, *God's Own Ethics* (Oxford, 2017): comparison targets for the S37 grounding route and the P-gap.
 - William Alston, *Perceiving God* (Cornell, 1991); Richard Swinburne, *The Existence of God*, 2nd ed. (Oxford, 2004), principle of credulity; William James, *The Varieties of Religious Experience* (1902); Rudolf Otto, *Das Heilige* (1917); Eleonore Stump, *Wandering in Darkness* (Oxford, 2010); the Stanford Encyclopedia entry on religious experience.
-- Iain McGilchrist, *The Master and His Emissary* (Yale, 2009): cultural reference for the hemisphere image only; not a premise (R74).
-- For S38: Peter van Inwagen, “The Possibility of Resurrection” (1978); Dean Zimmerman, “The Compatibility of Materialism and Survival” (1999); Lynne Rudder Baker, *Persons and Bodies* (Cambridge, 2000); Aquinas, *Summa Theologiae* I.75–76, 89; Richard Swinburne, *The Evolution of the Soul* (Oxford, 1986); Derek Parfit, *Reasons and Persons* (Oxford, 1984); John Hick, *Death and Eternal Life* (1976); Stanford Encyclopedia entries on personal identity and the afterlife.
-- For S37: Richard Swinburne, *Providence and the Problem of Evil* (Oxford, 1998); John Hick, *Evil and the God of Love* (1966); Peter van Inwagen, *The Problem of Evil* (Oxford, 2006); William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979); Stephen Wykstra and Michael Bergmann on skeptical theism; Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999); Eleonore Stump, *Wandering in Darkness* (Oxford, 2010).
+- Iain McGilchrist, *The Master and His Emissary* (Yale, 2009): cultural reference for the hemisphere image only; not a premise (R81).
+- For S39: Peter van Inwagen, “The Possibility of Resurrection” (1978); Dean Zimmerman, “The Compatibility of Materialism and Survival” (1999); Lynne Rudder Baker, *Persons and Bodies* (Cambridge, 2000); Aquinas, *Summa Theologiae* I.75–76, 89; Richard Swinburne, *The Evolution of the Soul* (Oxford, 1986); Derek Parfit, *Reasons and Persons* (Oxford, 1984); John Hick, *Death and Eternal Life* (1976); Stanford Encyclopedia entries on personal identity and the afterlife.
+- For S38: Richard Swinburne, *Providence and the Problem of Evil* (Oxford, 1998); John Hick, *Evil and the God of Love* (1966); Peter van Inwagen, *The Problem of Evil* (Oxford, 2006); William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979); Stephen Wykstra and Michael Bergmann on skeptical theism; Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999); Eleonore Stump, *Wandering in Darkness* (Oxford, 2010).
 
 ## Research backlog
 
@@ -261,11 +261,11 @@ No online verification was possible in the S34–S36 session; the following are 
 12. Extend S30's initial comparison of minimal and absolute simplicity, *ex nihilo* and *ex deo*, emanation, co-fundamental substrate, and grounding-panentheist models only if $PMC_U$ or a qualified-power blocker makes it load-bearing.
 13. Compare S29's embodied episode model with enactive, hylomorphic, non-reductive, dual-aspect, interventionist causal, and skilled-action accounts; test whether agent-level causation can avoid both reduction and duplication.
 14. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
-15. Verify the S35 citations and compare the four-way stopping-point table with O'Connor, Pruss–Rasmussen, Leibniz on contingency, and Spinozist necessitarianism.
-16. Compare the S36 partial good-oriented profile with Adams, Murphy, and divine-nature theories; search for any existing treatment of a partial, earned divine orientation distinct from omnibenevolence.
-17. Verify the S34 citations on religious experience and compare the three-way veridicality distinction with Alston's doxastic-practice defeaters and Swinburne's credulity conditions.
-18. Verify the S37 citations and compare the bearer-level remainder with Adams's defeat-within-a-life requirement, Stump's second-person account, and the skeptical-theism debate on noseeum inferences.
-19. Verify the S39 references: add a physics source for the profile account and Noether's theorem, and compare the aspect criterion with dispositional ontologies and Brower's truthmaker simplicity; test $NI$ against Spinozist and panentheist mode ontologies.
-20. Verify the S40 citations and test the funnel and evaluative-authorship distinctions against Raz, Mele, Pereboom, Fischer–Ravizza, and the choice-architecture literature.
-21. Verify the S41 citations and test the derivation of simple persistence against Merricks, the simple-view literature, and Parfit's fission cases.
-22. Verify the S38 citations and compare the persistence and re-realization routes with the materialist-survival, constitution, hylomorphic, and dualist literatures; test the identity criterion (CH17) against Parfit and the replica objection.
+15. Verify the S36 citations and compare the four-way stopping-point table with O'Connor, Pruss–Rasmussen, Leibniz on contingency, and Spinozist necessitarianism.
+16. Compare the S37 partial good-oriented profile with Adams, Murphy, and divine-nature theories; search for any existing treatment of a partial, earned divine orientation distinct from omnibenevolence.
+17. Verify the S35 citations on religious experience and compare the three-way veridicality distinction with Alston's doxastic-practice defeaters and Swinburne's credulity conditions.
+18. Verify the S38 citations and compare the bearer-level remainder with Adams's defeat-within-a-life requirement, Stump's second-person account, and the skeptical-theism debate on noseeum inferences.
+19. Verify the S40 references: add a physics source for the profile account and Noether's theorem, and compare the aspect criterion with dispositional ontologies and Brower's truthmaker simplicity; test $NI$ against Spinozist and panentheist mode ontologies.
+20. Verify the S41 citations and test the funnel and evaluative-authorship distinctions against Raz, Mele, Pereboom, Fischer–Ravizza, and the choice-architecture literature.
+21. Verify the S42 citations and test the derivation of simple persistence against Merricks, the simple-view literature, and Parfit's fission cases.
+22. Verify the S39 citations and compare the persistence and re-realization routes with the materialist-survival, constitution, hylomorphic, and dualist literatures; test the identity criterion (CH18) against Parfit and the replica objection.

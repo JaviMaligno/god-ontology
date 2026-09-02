@@ -51,7 +51,7 @@ These are deliberately numbered as candidates until the formal semantics is sele
 
 ## Explanatory stopping points and the necessitation lemma
 
-The upstream junction C04–C05 receives an F2 comparison in [S35](../sessions/2026-09-02-explanatory-stopping-points.md). The motivation is a weak explanatory preference (WEP), not a strong principle of sufficient reason: other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. Brute contingency remains admissible and is only ranked lowest.
+The upstream junction C04–C05 receives an F2 comparison in [S36](../sessions/2026-09-02-explanatory-stopping-points.md). The motivation is a weak explanatory preference (WEP), not a strong principle of sufficient reason: other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. Brute contingency remains admissible and is only ranked lowest.
 
 For a necessary $N$ and any contingent $\phi$, normal modal logic gives:
 
@@ -69,7 +69,7 @@ IN:\;NNProd(N,\mathcal C)\land\neg\exists e\,CExp(e,\mathcal C,\mathcal C'),
 AN:\;NNProd(N,\mathcal C)\land CExp\big(Exercise(N,\mathcal C,\mathbf R),\mathcal C,\mathcal C'\big),
 \]
 
-where $Exercise$ is the agentic settling of C109. AN is the only stopping point that supplies contrastive, reason-guided, non-necessitating explanation; Nec is excluded (C285); B and IN remain live opponents. The residue of the preference — that a subject's reason-guided exercise is a better terminus than chance — is recorded as preferential (C284), consistent with S09.
+where $Exercise$ is the agentic settling of C109. AN is the only stopping point that supplies contrastive, reason-guided, non-necessitating explanation; Nec is excluded (C298); B and IN remain live opponents. The residue of the preference — that a subject's reason-guided exercise is a better terminus than chance — is recorded as preferential (C297), consistent with S09.
 
 ## Preferred temporal semantics: E+
 
@@ -592,7 +592,7 @@ A physical feature that follows from a reason-supported structure need not recei
 
 ### Materiality as instantiated profile and the status of $PMC_U$
 
-[S39](../sessions/2026-09-02-materiality-as-instantiated-profile.md) pushes the constitution/production result from coherence toward derivation. Matter is a profile:
+[S40](../sessions/2026-09-02-materiality-as-instantiated-profile.md) pushes the constitution/production result from coherence toward derivation. Matter is a profile:
 
 \[
 Mat(x)\leftrightarrow Instantiates(x,\Pi_{phys}),
@@ -602,13 +602,13 @@ S_{phys}\models Conserv(S),
 \neg H(S)\text{-internal}(I_0)\Rightarrow Conserv(S)\ \text{does not constrain}\ I_0 .
 \]
 
-The first re-describes the cross-category worry as $PMC_U$; the second and third remove $PMC_U$'s evidential base, which is $S$-internal transformation (C311–C313). From sole ultimity, the contingency of the material order, the necessitation lemma, and physical immateriality:
+The first re-describes the cross-category worry as $PMC_U$; the second and third remove $PMC_U$'s evidential base, which is $S$-internal transformation (C324–C326). From sole ultimity, the contingency of the material order, the necessitation lemma, and physical immateriality:
 
 \[
 U_D\land Cont(\mathcal C_0)\land\neg Mat(G)\land CCD(G,\mathcal C_0)\;\Rightarrow\;\neg PMC_U,
 \]
 
-and without $CCD$ the same follows unless $G$ is material (C314). Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter (C315). Integrated powers are aspects — essential, incapable of existing without $G$, not grounding $G$'s identity, individuated by manifestation-type — so $MCS$ survives the parts objection (C316), and subject-level and aspect-level descriptions of an exercise are not rival causes (C317). A non-destructive strict *ex deo* model is coherent with $UPSS$, $CT$, and $ASP_G$ only under the non-inheritance principle $NI$, which nothing in the project motivates (C318). Under WEP, $OEC^+$ leaves the fewest residues (C320); the residue it leaves is C232's.
+and without $CCD$ the same follows unless $G$ is material (C327). Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter (C328). Integrated powers are aspects — essential, incapable of existing without $G$, not grounding $G$'s identity, individuated by manifestation-type — so $MCS$ survives the parts objection (C329), and subject-level and aspect-level descriptions of an exercise are not rival causes (C330). A non-destructive strict *ex deo* model is coherent with $UPSS$, $CT$, and $ASP_G$ only under the non-inheritance principle $NI$, which nothing in the project motivates (C331). Under WEP, $OEC^+$ leaves the fewest residues (C333); the residue it leaves is C232's.
 
 ## Causal-role decomposition
 
@@ -1208,7 +1208,7 @@ This local model leaves a diachronic problem open. Repeated context control may 
 
 ### Cumulative context control and the diachronic level
 
-[S40](../sessions/2026-09-02-cumulative-context-control-and-agency-ecology.md) extends the intervention model from tokens to lives. Let $\pi$ be a curator policy over an agent's deliberative situations and $Prof(A,\tau)$ the agent's profile over an interval. Then:
+[S41](../sessions/2026-09-02-cumulative-context-control-and-agency-ecology.md) extends the intervention model from tokens to lives. Let $\pi$ be a curator policy over an agent's deliberative situations and $Prof(A,\tau)$ the agent's profile over an interval. Then:
 
 \[
 \forall t\in\tau\,[TokenAut(A,t)]\land Funnel(\pi,A,\tau,T)
@@ -1216,7 +1216,7 @@ This local model leaves a diachronic problem open. Repeated context control may 
 CExp(\pi,Prof(A,\tau)\in T,Prof(A,\tau)\in T')\Rightarrow\neg DAuth(A,\tau),
 \]
 
-and independently, cumulative a-rational influence can yield $\neg EvAuth(A,\tau)$ with token autonomy intact. Meaningful agency therefore requires $TokenAut\land DAuth\land EvAuth$ (C324). The agency-preservation presumption extends diachronically (C325): providence is not curation (C326), divine address preserves both levels when it is rational influence (C327), and the source cover of S37 acquires a diachronic cost that explains why lowering the prevention threshold is not free (C328). The ecology conditions are profile-level openness, rational cumulative influence, a stable and truthful environment, opportunity for self-formation, and a real field of consequences (C329).
+and independently, cumulative a-rational influence can yield $\neg EvAuth(A,\tau)$ with token autonomy intact. Meaningful agency therefore requires $TokenAut\land DAuth\land EvAuth$ (C337). The agency-preservation presumption extends diachronically (C338): providence is not curation (C339), divine address preserves both levels when it is rational influence (C340), and the source cover of S38 acquires a diachronic cost that explains why lowering the prevention threshold is not free (C341). The ecology conditions are profile-level openness, rational cumulative influence, a stable and truthful environment, opportunity for self-formation, and a real field of consequences (C342).
 
 ### Intervention, miracle, and providence
 
@@ -1465,7 +1465,7 @@ This applies to psychology and other sciences as well as physics. Their findings
 
 ### Good-oriented divine profile
 
-[S36](../sessions/2026-09-02-good-oriented-divine-profile.md) gives C195 its content. The anchors of $\mathcal A_{min}$ take their fit conditions from kinds that $G$ instantiates or grounds, and each of those divine features was established without evaluative premises:
+[S37](../sessions/2026-09-02-good-oriented-divine-profile.md) gives C195 its content. The anchors of $\mathcal A_{min}$ take their fit conditions from kinds that $G$ instantiates or grounds, and each of those divine features was established without evaluative premises:
 
 \[
 Inst_{\Box}(G,K_S)\land Inst_{\Box}(G,K_R)\land
@@ -1480,11 +1480,11 @@ GoodOrient_S(G)\land GoodOrient_R(G),
 GoodOrient_a(G):=\forall d\in Disp^{est}(G)\,[Relevant(d,a)\to Fit_*(d,a,B,C,\tau)].
 \]
 
-No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C288, CH14). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C289). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
+No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C301, CH15). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C302). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
 
 ### Permission, covers, and the bearer-level remainder
 
-[S37](../sessions/2026-09-02-permission-covers-and-the-p-gap.md) structures the P-gap without closing it. The load-bearing divine relation to a token suffering $s$ is permission:
+[S38](../sessions/2026-09-02-permission-covers-and-the-p-gap.md) structures the P-gap without closing it. The load-bearing divine relation to a token suffering $s$ is permission:
 
 \[
 Permits(G,s):=Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s),
@@ -1496,7 +1496,7 @@ Gratuitous(s):=Permits(G,s)\land\neg\exists r\,Cover(r,s),
 GoodOrient_P(G)\Rightarrow\neg\exists s\in H^*\,Gratuitous(s).
 \]
 
-Two policy-level covers follow from existing commitments. The source cover: a policy of preventing every harmful outcome of created choice conflicts with C106, C115, and C118 and misrepresents what choices are. The regularity cover: constant prevention of natural suffering erodes the regularity that C107 assigns to non-agentic domains. Both leave a threshold residue, since token prevention remains available. The developmental thesis that robust agency requires difficulty is optional and unused (C300).
+Two policy-level covers follow from existing commitments. The source cover: a policy of preventing every harmful outcome of created choice conflicts with C106, C115, and C118 and misrepresents what choices are. The regularity cover: constant prevention of natural suffering erodes the regularity that C107 assigns to non-agentic domains. Both leave a threshold residue, since token prevention remains available. The developmental thesis that robust agency requires difficulty is optional and unused (C313).
 
 Because $Fit_*$ is bearer-indexed and $R$ forbids treating a bearer as a mere vehicle:
 
@@ -1508,11 +1508,11 @@ PolicyCover(s)\not\Rightarrow\neg Misfit_*(s,P,B,C,\tau_B),
 \exists\tau_B\supsetneq Life(B)\,[\text{undefeated }P\text{-fit for }B].
 \]
 
-The problem of evil therefore pushes personal continuation onto the trunk (C302, CH16). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C303). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R76–R77).
+The problem of evil therefore pushes personal continuation onto the trunk (C315, CH17). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C316). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R83–R84).
 
 ### Personal continuation as a conditional consequence
 
-[S38](../sessions/2026-09-02-personal-continuation-and-bearer-horizons.md) tests the dependency C302 opened. Define:
+[S39](../sessions/2026-09-02-personal-continuation-and-bearer-horizons.md) tests the dependency C315 opened. Define:
 
 \[
 Continues(B):=\exists t^+\!>\!Death(B)\,[Exists(B,t^+)\land PCon(B,t^+)],
@@ -1520,27 +1520,27 @@ Continues(B):=\exists t^+\!>\!Death(B)\,[Exists(B,t^+)\land PCon(B,t^+)],
 ContHorizon(B):=Continues(B)\land\exists\tau_B\supsetneq Life(B)\,[Fit_*(x,P,B,C,\tau_B)\ \text{undefeated}],
 \]
 
-with numerical identity of the bearer required and location anywhere in $\mathfrak R^*$. Each open realization model of the subject (C219) admits continuation by persistence or by re-realization and relocates the burden to the identity criterion $Ident(B,B^+)$ (CH17). Continuation is typed as an intervention or a further creative act, coherent under C15, OEC, and non-continuous dependence, and within qualified power iff its identity condition is coherent (C307). Empirical base-dependence constrains the embodied regime without defeating it (C308). The only internal support is conditional:
+with numerical identity of the bearer required and location anywhere in $\mathfrak R^*$. Each open realization model of the subject (C219) admits continuation by persistence or by re-realization and relocates the burden to the identity criterion $Ident(B,B^+)$ (CH18). Continuation is typed as an intervention or a further creative act, coherent under C15, OEC, and non-continuous dependence, and within qualified power iff its identity condition is coherent (C320). Empirical base-dependence constrains the embodied regime without defeating it (C321). The only internal support is conditional:
 
 \[
 GoodOrient_P(G)\Rightarrow\forall B\,[\text{uncovered }s\text{ for }B\Rightarrow ContHorizon(B)],
 \]
 
-so the two beliefs stand or fall together under C303 (C309). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C310).
+so the two beliefs stand or fall together under C316 (C322). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C323).
 
 ### Simple persistence and identity across the gap
 
-[S41](../sessions/2026-09-02-identity-across-cessation.md) discharges the identity burden left by S38 without a criterion. The freedom model's de re identity across histories (C53, S03), whole-agent attribution (C212), and source-indexed contrastive authorship (C33) jointly entail that a created subject's identity is not constituted by continuity:
+[S42](../sessions/2026-09-02-identity-across-cessation.md) discharges the identity burden left by S39 without a criterion. The freedom model's de re identity across histories (C53, S03), whole-agent attribution (C212), and source-indexed contrastive authorship (C33) jointly entail that a created subject's identity is not constituted by continuity:
 
 \[
 Ident(B_1,B_2)\not\equiv PhysCont(B_1,B_2)\lor PsyCont(B_1,B_2)\lor\ldots
 \]
 
-Continuity relations are evidence and normal realization (C331). Under E+ a temporal gap is disconnected location of one object within $\mathfrak R^*$ (C332); re-realization targets $B$ de re, with ACO tracking and the act making the later stage actual (C333); a replica is a distinct identity unit (C334); identity is what matters for a source (C335). Any realization model must respect simple persistence, which disfavors the reductive identification of the subject with its base (C336) while leaving four models live. Open: route choice, wholly unrealized existence, and fission.
+Continuity relations are evidence and normal realization (C344). Under E+ a temporal gap is disconnected location of one object within $\mathfrak R^*$ (C345); re-realization targets $B$ de re, with ACO tracking and the act making the later stage actual (C346); a replica is a distinct identity unit (C347); identity is what matters for a source (C348). Any realization model must respect simple persistence, which disfavors the reductive identification of the subject with its base (C349) while leaving four models live. Open: route choice, wholly unrealized existence, and fission.
 
 ### Experiential access and the two registers
 
-[S34](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C290). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
+[S35](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C303). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
 
 | Case | Truthmaker |
 | --- | --- |
@@ -1548,7 +1548,7 @@ Continuity relations are evidence and normal realization (C331). Under E+ a temp
 | veridical of exercised regard | $Address(G,A,t)$ or a response |
 | non-veridical | neither, although $Present_O$ still holds |
 
-Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C292). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C293). Absence of experience refutes nothing; presence entails no miracle (C294). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C295).
+Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C305). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C306). Absence of experience refutes nothing; presence entails no miracle (C307). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C308).
 
 ## Current formal status
 
@@ -1566,4 +1566,4 @@ Therefore exact specification of laws, boundaries, and powers does not entail a 
 
 Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining the power bridge, cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.
 
-S30–S33 develop divine constitution ($UPSS$, $OEC^+$), the creator boundary ($CT/RI$, $CCD$, typed *ex deo*), the qualified-power hierarchy ($OMP_C$ preferred, $OMP_Q$ provisional), and the range-bridge search. S34–S41, on the question-driven track, add experiential access, the F2 stopping-point comparison, the good-oriented divine profile and the P-gap, permission and covers, conditional continuation, the F3 profile account of matter with the derivation of $\neg PMC_U$, the diachronic level of agency, and simple persistence. [S42](../sessions/2026-09-02-trunk-coherence-audit.md) audits these transitions and finds them consistent; the weakest load-bearing link is creative reason (S18), still at F1 while production is at F3.
+S30–S33 develop divine constitution ($UPSS$, $OEC^+$), the creator boundary ($CT/RI$, $CCD$, typed *ex deo*), the qualified-power hierarchy ($OMP_C$ preferred, $OMP_Q$ provisional), and the range-bridge search. S35–S42, on the question-driven track, add experiential access, the F2 stopping-point comparison, the good-oriented divine profile and the P-gap, permission and covers, conditional continuation, the F3 profile account of matter with the derivation of $\neg PMC_U$, the diachronic level of agency, and simple persistence. [S43](../sessions/2026-09-02-trunk-coherence-audit.md) audits these transitions and finds them consistent; the weakest load-bearing link is creative reason (S18), still at F1 while production is at F3.

@@ -289,7 +289,7 @@ S38 combines established debates rather than supplying a new general theory of m
 The local synthesis is constitutive-admissibility actualism: complete created specifications must jointly satisfy logical, identity, essence, power, dependence, and compossibility constraints; possible histories add token-event and shared-past conditions; MKO tracks rather than constitutes those truths; and imagination is an actual embodied act whose target need not exist or be possible. This is useful for S33 because the truth condition omits the divine capacity being derived. No novelty claim is warranted until it is compared more systematically with actualist, combinatorial, essentialist, potentialist, and theistic conceptualist accounts.
 ## Stopping points, good-orientation, and experiential access: notes pending verification
 
-No online verification was possible in the S46–S48 session; the following are recorded from memory and must be checked in the literature pass.
+No online verification was possible in the S46–S48 session; the following are recorded from memory and must be checked in the literature pass. A consolidated checklist for the author's local pass, covering every memory-cited session, is in [provenance-checklist.md](provenance-checklist.md).
 
 - Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6: the modal-collapse argument against a strong principle of sufficient reason. C458 applies the same inference to a necessary ground.
 - Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008): a necessary being explains a contingent order only through non-necessitating agent causation. Closest precedent for C460; the project reconstructs the point from its own premises per the research method.

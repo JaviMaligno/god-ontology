@@ -1,9 +1,9 @@
 # Session: Consolidation pass of Parts I–II
 
 **Date:** 2026-09-02
-**Session ID:** S66
+**Session ID:** S67
 **Primary question:** Can the motivation and method be written as connected prose from the original conversation and the research method, in a form the author can overwrite in their own voice?
-**Dependencies:** the normalized transcript (U01–U04); the research method; S09 (constructive standard); S26 (science and ontology, C183–C185); S38 and S54–S56 (modal basis); the precedent map; ledger C01–C05, C24, C29–C30, C52, C77, C201, C274, C281, C324, C344–C355, C435, C457, C514, R27
+**Dependencies:** the normalized transcript (U01–U04); the research method; S09 (constructive standard); S26 (science and ontology, C183–C185); S38 and S55–S57 (modal basis); the precedent map; ledger C01–C05, C24, C29–C30, C52, C77, C201, C274, C281, C324, C344–C355, C457, C479, C536, R27
 **Origin:** the author's approval (“ambas me valen”)
 **Target depth:** consolidation; drafted to be overwritten; no new commitments
 
@@ -19,7 +19,7 @@ Part I is written from the author's opening turns: the mathematician's quote and
 | --- | --- |
 | Part I has no ledger rows of its own beyond C01–C03; its content is the transcript's, and the draft cites the turns directly | none; the concordance appendix will carry the mapping |
 | The author's early lean toward naturalism (U04) is worth keeping in the treatise as a fact about the construction's honesty; the outline did not list it | added to Chapter 3 as a recorded fact; the author may remove it |
-| Chapter 5 is the only place the modal vocabulary is stated as vocabulary rather than derived; it draws on the author's S38 as canonical and on the branch's reconciled refinements | none; consistent with C520 |
+| Chapter 5 is the only place the modal vocabulary is stated as vocabulary rather than derived; it draws on the author's S38 as canonical and on the branch's reconciled refinements | none; consistent with C542 |
 | The outline's preface items (constructive rather than proof, personal commitment and faith, two registers, novelty not the aim) are covered by Chapter 4 and Part VIII Chapter 33; a separate preface can be extracted later | outline note |
 | No contradiction found; nothing in Parts I–II asserts a result | none |
 

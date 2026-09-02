@@ -2,7 +2,7 @@
 
 Working language: English. Research notes may remain bilingual. The outline deliberately separates the original motivation from the ontology that later emerged.
 
-First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-i-ii-motivation-and-method.md) (S66, drafted to be overwritten in the author's voice), [Part III](treatise/part-iii-from-contingent-reality-to-a-necessary-agent.md) and [Part IV](treatise/part-iv-the-minimal-ontology.md) (S58), [Part V](treatise/part-v-knowledge-time-and-freedom.md) (S60), [Part VI](treatise/part-vi-divine-action.md) (S62; constitutive control and annihilation are placed there rather than under omnipotence in Part VII), [Part VII](treatise/part-vii-deriving-further-attributes.md) (S64), and [Part VIII](treatise/part-viii-comparison-and-evaluation.md) (S65). The appendices are at outline.
+First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-i-ii-motivation-and-method.md) (S67, drafted to be overwritten in the author's voice), [Part III](treatise/part-iii-from-contingent-reality-to-a-necessary-agent.md) and [Part IV](treatise/part-iv-the-minimal-ontology.md) (S59), [Part V](treatise/part-v-knowledge-time-and-freedom.md) (S61), [Part VI](treatise/part-vi-divine-action.md) (S63; constitutive control and annihilation are placed there rather than under omnipotence in Part VII), [Part VII](treatise/part-vii-deriving-further-attributes.md) (S65), and [Part VIII](treatise/part-viii-comparison-and-evaluation.md) (S66). The appendices are at outline.
 
 ## Preface: Scope and epistemic posture
 

@@ -17,15 +17,15 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
-| P01 | ¿Por qué crees en Dios? | `respondida` | C01–C05, C435–C438; S09, S46 | — |
-| P02 | ¿No basta con decir que el universo simplemente existe? | `respondida` | C435, C437; S46 | — |
+| P01 | ¿Por qué crees en Dios? | `respondida` | C01–C05, C457–C460; S09, S47 | — |
+| P02 | ¿No basta con decir que el universo simplemente existe? | `respondida` | C457, C459; S47 | — |
 | P03 | ¿No es «Dios» solo un nombre para lo que la ciencia aún no explica? | `respondida` | C01–C03, R02; S26 | — |
-| P04 | ¿Por qué un «alguien» y no un «algo», como una estructura matemática? | `respondida` | C05, C436–C439; S09, S46 | — |
+| P04 | ¿Por qué un «alguien» y no un «algo», como una estructura matemática? | `respondida` | C05, C458–C461; S09, S47 | — |
 | P05 | ¿Puedes demostrarlo? | `respondida` | estándar constructivo; S09 | — |
-| P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S46 | — |
+| P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S47 | — |
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
-| P42 | ¿Existen otros universos? | `respondida` | C513–C518; S57 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
-| P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida` | C343–C348, C509–C510, C520; S38, S56, S59 (posible no es imaginable ni «lo que Dios puede»; cinco condiciones; el mundo podría haber sido de muchas maneras, y lo que Dios puede crear abarca todas ellas si se aceptan unas premisas preferidas) | CH14 |
+| P42 | ¿Existen otros universos? | `respondida` | C535–C540; S58 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
+| P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida` | C343–C348, C531–C532, C542; S38, S57, S60 (posible no es imaginable ni «lo que Dios puede»; cinco condiciones; el mundo podría haber sido de muchas maneras, y lo que Dios puede crear abarca todas ellas si se aceptan unas premisas preferidas) | CH14 |
 
 ## B. Qué Dios
 
@@ -37,25 +37,25 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P11 | ¿Hay un solo Dios? | `respondida` | C78–C83; S13 | CH01 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
-| P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C470–C471; S30–S31, S50 (sujeto único con capacidades que son aspectos, no partes) | — |
-| P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C465–C469, C474; S50 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
+| P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
+| P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
 | P44 | ¿Puede Dios hacer cualquier cosa? | `respondida` | C261–C262, C372, C375–C376, C380, C398–C401; S32, S40–S42 (poder sobre lo creado; plenitud creadora cualificada; las «tareas» incoherentes sobre Dios no son límites; capacidad no es ejercicio) | CH05 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
-| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C499–C504; S18, S55 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
+| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
 
 ## C. Libertad, conocimiento e intervención
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
-| P46 | ¿Puede Dios responder a una oración antes de que la haga? | `respondida` | C120, C417, C527–C531; S19, S43, S63 (sí, si la respuesta no entra en la situación de quien pide antes de pedir; una respuesta nunca es causa de lo que responde) | — |
+| P46 | ¿Puede Dios responder a una oración antes de que la haga? | `respondida` | C120, C417, C549–C553; S19, S43, S64 (sí, si la respuesta no entra en la situación de quien pide antes de pedir; una respuesta nunca es causa de lo que responde) | — |
 | P18 | Si Dios sabe lo que voy a hacer, ¿soy libre? | `respondida` | C10–C13, C22–C30; S01–S03 | — |
 | P19 | ¿Somos libres de verdad, o decide el cerebro antes que nosotros? | `respondida` | C08, C57, C212–C221; S22, S29 | CH13 |
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |
-| P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C444–C448; S20, S45 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
-| P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C479–C481; S51 (providencia como tablero preparado, no guion ni embudo) | — |
-| P40 | ¿Qué me hace ser yo? | `respondida` | C484–C498; S52, S54 (ser la misma fuente de mis actos; ni las células ni los recuerdos; una copia no sería yo; Dios me conoce como quien soy, no por descripción) | CH22 |
-| P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C475–C478, C483; S51 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH23 |
+| P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C466–C470; S20, S46 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
+| P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C501–C503; S52 (providencia como tablero preparado, no guion ni embudo) | — |
+| P40 | ¿Qué me hace ser yo? | `respondida` | C506–C520; S53, S55 (ser la misma fuente de mis actos; ni las células ni los recuerdos; una copia no sería yo; Dios me conoce como quien soy, no por descripción) | CH22 |
+| P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C497–C500, C505; S52 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH23 |
 
 ## D. El bien y el mal
 
@@ -64,23 +64,23 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P23 | ¿Por qué crees que existe el bien? | `respondida` | C186–C196; S27 | CH04 |
 | P24 | ¿El bien es objetivo o lo inventamos? | `respondida` | C168–C177, C187–C188; S25, S27 | CH09 |
 | P25 | ¿Qué es el mal? | `respondida` | C189–C190, C206–C207; S27–S28 | — |
-| P26 | ¿Es Dios bueno? | `parcial` | C133, C440–C443, C457; S21, S47–S48 | CH04, CH19 |
-| P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C450–C457; S48 (coberturas de política; el resto depende de P31) | CH19, CH21 |
+| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49 | CH04, CH19 |
+| P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C472–C479; S49 (coberturas de política; el resto depende de P31) | CH19, CH21 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |
-| P30 | ¿Existe el infierno? | `parcial` | C208–C209, C464 (privación de comunión como caso negativo de la continuación; no impuesta) | CH21 |
-| P31 | ¿Hay vida después de la muerte? ¿Y sería yo? | `parcial` | C458–C464, C484–C490; S49, S52 (coherente, al alcance de Dios, no decidida por la ciencia, condicional a la bondad hacia lo que sentimos; lo que me hace ser yo no son ni las células ni los recuerdos, sino ser la misma fuente de mis actos) | CH21, CH22 |
+| P30 | ¿Existe el infierno? | `parcial` | C208–C209, C486 (privación de comunión como caso negativo de la continuación; no impuesta) | CH21 |
+| P31 | ¿Hay vida después de la muerte? ¿Y sería yo? | `parcial` | C480–C486, C506–C512; S50, S53 (coherente, al alcance de Dios, no decidida por la ciencia, condicional a la bondad hacia lo que sentimos; lo que me hace ser yo no son ni las células ni los recuerdos, sino ser la misma fuente de mis actos) | CH21, CH22 |
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
 
 ## E. Experiencia
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
-| P45 | ¿Son el pensar y el sentir dos caminos distintos, o uno? ¿Es todo comunicación? | `respondida` | C295–C296, C447, C449, C525; S35, S45, S61 (dirección del autor: conocimiento por la lógica, sentimiento y experiencia por el arte; todo es comunicación entre nosotros y con Dios) | — |
-| P33 | ¿A Dios se le puede sentir, o solo pensar? | `respondida` | C122–C124, C444–C448; S20, S45 | CH20 |
-| P34 | ¿Sirven de algo rezar, la música o el arte para acercarse a Dios? | `parcial` | C447, C449; S45 | CH20 |
-| P35 | ¿Por qué hay gente que no siente nada? | `respondida` | C123–C124, C448 | — |
-| P36 | ¿Cómo distingues una experiencia real de Dios de una ilusión? | `parcial` | C445–C446; S45 | CH20 |
+| P45 | ¿Son el pensar y el sentir dos caminos distintos, o uno? ¿Es todo comunicación? | `respondida` | C295–C296, C469, C471, C547; S35, S46, S62 (dirección del autor: conocimiento por la lógica, sentimiento y experiencia por el arte; todo es comunicación entre nosotros y con Dios) | — |
+| P33 | ¿A Dios se le puede sentir, o solo pensar? | `respondida` | C122–C124, C466–C470; S20, S46 | CH20 |
+| P34 | ¿Sirven de algo rezar, la música o el arte para acercarse a Dios? | `parcial` | C469, C471; S46 | CH20 |
+| P35 | ¿Por qué hay gente que no siente nada? | `respondida` | C123–C124, C470 | — |
+| P36 | ¿Cómo distingues una experiencia real de Dios de una ilusión? | `parcial` | C467–C468; S46 | CH20 |
 
 ## F. Ciencia y método
 
@@ -93,9 +93,9 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 
 | Pregunta | Hueco en la ontología | Tratamiento |
 | --- | --- | --- |
-| P01, P02, P04 | El paso de la contingencia al fundamento necesario y la preferencia por el agente estaban en F1 sin argumento formal | S46: preferencia explicativa débil, lema de necesitación, cuatro puntos de parada |
-| P26 | La bondad divina no estaba ganada y no se sabía qué parte lo estaba | S47: perfil orientado al bien hacia la agencia y la relación; hueco P identificado |
-| P27 | Orientación divina hacia lo que los seres conscientes sienten | S48: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |
-| P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S45: acceso experiencial, tres casos de veracidad, estatuto epistémico |
-| P14 | Constitución divina | S30–S31 (autor): sujeto con poderes integrados, sin ingredientes previos; S50: la materia como perfil instanciado, el argumento de niveles contra la causalidad material universal, la derivación de la creación sin materia previa |
-| P31 | Supervivencia personal | S49: coherente bajo todos los modelos abiertos del sujeto, dentro del poder de Dios como acto adicional, no decidida por la evidencia, condicional a la bondad hacia lo que sentimos. S52: la identidad no consiste en la continuidad del cuerpo ni de la memoria, sino en ser la misma fuente; un hueco temporal no es fatal desde la perspectiva de la historia completa; una copia no sería yo |
+| P01, P02, P04 | El paso de la contingencia al fundamento necesario y la preferencia por el agente estaban en F1 sin argumento formal | S47: preferencia explicativa débil, lema de necesitación, cuatro puntos de parada |
+| P26 | La bondad divina no estaba ganada y no se sabía qué parte lo estaba | S48: perfil orientado al bien hacia la agencia y la relación; hueco P identificado |
+| P27 | Orientación divina hacia lo que los seres conscientes sienten | S49: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |
+| P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S46: acceso experiencial, tres casos de veracidad, estatuto epistémico |
+| P14 | Constitución divina | S30–S31 (autor): sujeto con poderes integrados, sin ingredientes previos; S51: la materia como perfil instanciado, el argumento de niveles contra la causalidad material universal, la derivación de la creación sin materia previa |
+| P31 | Supervivencia personal | S50: coherente bajo todos los modelos abiertos del sujeto, dentro del poder de Dios como acto adicional, no decidida por la evidencia, condicional a la bondad hacia lo que sentimos. S53: la identidad no consiste en la continuidad del cuerpo ni de la memoria, sino en ser la misma fuente; un hueco temporal no es fatal desde la perspectiva de la historia completa; una copia no sería yo |

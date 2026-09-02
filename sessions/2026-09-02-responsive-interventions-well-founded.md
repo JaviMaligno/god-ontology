@@ -1,8 +1,8 @@
 # Session: Self-consistency of responsive interventions, and whether $HI_G$ absorbs it
 
 **Date:** 2026-09-02
-**Session ID:** S63
-**Primary question:** The problem left open in S19 and S35, that an intervention responding to a condition may alter the conditions under which that condition occurs, was recorded in S62 as “adjacent to $HI_G$ and possibly absorbed by it.” The author asked whether it really is absorbed. Is it, and if not, what closes it?
+**Session ID:** S64
+**Primary question:** The problem left open in S19 and S35, that an intervention responding to a condition may alter the conditions under which that condition occurs, was recorded in S63 as “adjacent to $HI_G$ and possibly absorbed by it.” The author asked whether it really is absorbed. Is it, and if not, what closes it?
 **Dependencies:** S03 (grounding order, C29–C30), S04 (agent relevance), S19 and S35 (atemporal responsiveness, C120), S39 (well-founded existential dependence), the author's S43 ($HI_G$, C406–C418); C13, C41
 **Origin:** the author's instruction (“mira si de verdad queda absorbido”)
 **Target depth:** F2; settle the question with existing commitments if possible, otherwise state the new premise
@@ -28,7 +28,7 @@ $HI_G$ (C406–C418) asks: given an exact created prefix $P_t$, a requested outc
 1. For a response manifested *after* the condition it answers, $HI_G$ already handles the case: the condition lies in the preserved prefix, ACO includes it, and the intervention occurs later in created causal order (C417). No loop arises, because the condition is in $P_t$ and the intervention is not.
 2. For a response manifested *before* the condition it answers, S43 explicitly declines to cover the case: “past-directed or retrocausal effects require their own history-compatible profile.” The loop problem is exactly the constraint that profile needs. $HistComp_C$ would accept a history in which $I$ precedes $p$ and $p$ occurs, since both are compossible; it would not detect that $I$'s reason is $p$ while $p$'s circumstances include $I$.
 
-So the question was rightly left open in S62, and “absorbed” was too hopeful. What follows closes it.
+So the question was rightly left open in S63, and “absorbed” was too hopeful. What follows closes it.
 
 ## Definitions
 
@@ -67,7 +67,7 @@ If $p$ is produced by the structure from a causal prefix, a response manifested 
 
 ## Step 4: policies and the fixed point
 
-The harder form of the problem concerns a *policy* rather than a token: a condition-sensitive rule $\Pi$ that assigns interventions to actual conditions (S35). Write $\mathbf I^*=\Pi(H^*)$ and $H^*=Gen(S,\mathbf I^*,\mathbf O^*)$, where $\mathbf O^*$ are the creaturely origins. This is a fixed-point condition on the complete history, and one might fear it has no solution, or only circular ones. WFR dissolves the fear. If every intervention $\Pi$ assigns responds only to conditions it does not ground, then the dependence among the constituents of $H^*$ is well founded, and the history is determined by induction along $\lhd^+$: each divine contribution is settled given its grounds, each creaturely act given its circumstances, and nothing waits on itself. Existence of a fixed point is then no harder than the existence of an admissible history, which $Adm_C$ already secures for the structure. Uniqueness fails, and should: where a creature settles, more than one continuation is admissible, and which one obtains is the creature's contribution (C09). What is excluded is the class of *self-referential* policies, those that respond to global features of $H^*$ that include the policy's own contributions. That class is not a loss: the funnel and curation policies of S51 (C475, C479–C480) are among them, and were excluded on other grounds.
+The harder form of the problem concerns a *policy* rather than a token: a condition-sensitive rule $\Pi$ that assigns interventions to actual conditions (S35). Write $\mathbf I^*=\Pi(H^*)$ and $H^*=Gen(S,\mathbf I^*,\mathbf O^*)$, where $\mathbf O^*$ are the creaturely origins. This is a fixed-point condition on the complete history, and one might fear it has no solution, or only circular ones. WFR dissolves the fear. If every intervention $\Pi$ assigns responds only to conditions it does not ground, then the dependence among the constituents of $H^*$ is well founded, and the history is determined by induction along $\lhd^+$: each divine contribution is settled given its grounds, each creaturely act given its circumstances, and nothing waits on itself. Existence of a fixed point is then no harder than the existence of an admissible history, which $Adm_C$ already secures for the structure. Uniqueness fails, and should: where a creature settles, more than one continuation is admissible, and which one obtains is the creature's contribution (C09). What is excluded is the class of *self-referential* policies, those that respond to global features of $H^*$ that include the policy's own contributions. That class is not a loss: the funnel and curation policies of S52 (C497, C501–C502) are among them, and were excluded on other grounds.
 
 ## Step 5: relation to $HI_G$, stated for the record
 
@@ -75,7 +75,7 @@ $HI_G$ and WFR are complementary and neither reduces to the other. $HI_G$ takes 
 
 ## Reconciliation with S43 on recreation
 
-The author's S43 corrects S41–S42: a post-gap qualitative match may be the numerically same $x$ (numerical recreation) or a distinct $y$ (duplicate reconstruction), and which it is depends on an independently grounded $GapIdentity_C$ relation whose ground the trunk leaves open among several candidates (C403–C405). The branch's S52 already held both halves: a replica is a distinct unit (C488) and re-realization can target the individual de re (C487). The branch also supplies a candidate for the open ground: simple persistence (C484), derived from the agency model rather than stipulated, on which $GapIdentity_C$ holds because the source is the same whatever happens to its base (C497). The author's terminology is adopted: the branch's “re-realization of the same individual” is numerical recreation, and its “replica” is duplicate reconstruction. The author's open question 2 (which identity relation permits numerical recreation) therefore has C484 as a candidate answer, offered and not promoted.
+The author's S43 corrects S41–S42: a post-gap qualitative match may be the numerically same $x$ (numerical recreation) or a distinct $y$ (duplicate reconstruction), and which it is depends on an independently grounded $GapIdentity_C$ relation whose ground the trunk leaves open among several candidates (C403–C405). The branch's S53 already held both halves: a replica is a distinct unit (C510) and re-realization can target the individual de re (C509). The branch also supplies a candidate for the open ground: simple persistence (C506), derived from the agency model rather than stipulated, on which $GapIdentity_C$ holds because the source is the same whatever happens to its base (C519). The author's terminology is adopted: the branch's “re-realization of the same individual” is numerical recreation, and its “replica” is duplicate reconstruction. The author's open question 2 (which identity relation permits numerical recreation) therefore has C506 as a candidate answer, offered and not promoted.
 
 ## Adversarial tests
 
@@ -84,32 +84,32 @@ The author's S43 corrects S41–S42: a post-gap qualitative match may be the num
 | WFR makes $G$ temporal: it forbids “earlier” responses | It forbids nothing about $G$'s mode; it constrains which actual condition an earlier-manifested contribution can have as its reason. $G$'s single atemporal settlement (C417) is untouched |
 | WFR reinstates selection counterfactuals by asking what the agent would do without $I$ | It asks only whether $I$ is among the actual grounds of $a$; no would-truth is used |
 | Every intervention affects everything downstream, so nothing is agent-neutral | Agent neutrality is time-bounded and agent-indexed; an intervention neutral for $A$ up to $t_a$ may be relevant for others or for $A$ later |
-| A policy over whole lives is exactly what providence needs | Providence over lives is architecture plus responses to actual conditions (S62, Part VI); a policy that reads its own contributions off the completed life is curation, already excluded |
+| A policy over whole lives is exactly what providence needs | Providence over lives is architecture plus responses to actual conditions (S63, Part VI); a policy that reads its own contributions off the completed life is curation, already excluded |
 
 ## Decisions
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C527 | — | `accepted definition` | $RespondsTo(I,p)$: $p$ actual and among the truthmakers of $G$'s reason for $I$ | this session; C120 |
-| C528 | — | `accepted consequence` | WFR: a response is never among the grounds or circumstances of the condition it answers; follows from well-founded grounding | this session; C29–C30, S39 |
-| C529 | — | `accepted consequence` | a response to a free act manifested before the act is coherent only if agent-neutral for that agent up to the act; posterior responses unconstrained | this session; S04, C13 |
-| C530 | — | `preferred` | condition-sensitive policies define a fixed point that WFR makes well founded; self-referential policies are excluded, and they coincide with curation | this session; C475, C479–C480 |
-| C531 | — | `accepted scope result` | the loop problem is not absorbed by $HI_G$; past-directed tasks must satisfy $HistComp_C$ and WFR; S43's “own profile” is thereby specified | this session; C406–C418 |
-| C532 | — | `accepted reconciliation` | S43's recreation/reconstruction terminology adopted; simple persistence (C484) offered as a candidate ground for $GapIdentity_C$ | this session; C403–C405, C484–C488 |
-| S62 finding “possibly absorbed by $HI_G$” | open | corrected: not absorbed; closed by C528–C531 | the author asked whether it was really absorbed | this session |
+| C549 | — | `accepted definition` | $RespondsTo(I,p)$: $p$ actual and among the truthmakers of $G$'s reason for $I$ | this session; C120 |
+| C550 | — | `accepted consequence` | WFR: a response is never among the grounds or circumstances of the condition it answers; follows from well-founded grounding | this session; C29–C30, S39 |
+| C551 | — | `accepted consequence` | a response to a free act manifested before the act is coherent only if agent-neutral for that agent up to the act; posterior responses unconstrained | this session; S04, C13 |
+| C552 | — | `preferred` | condition-sensitive policies define a fixed point that WFR makes well founded; self-referential policies are excluded, and they coincide with curation | this session; C497, C501–C502 |
+| C553 | — | `accepted scope result` | the loop problem is not absorbed by $HI_G$; past-directed tasks must satisfy $HistComp_C$ and WFR; S43's “own profile” is thereby specified | this session; C406–C418 |
+| C554 | — | `accepted reconciliation` | S43's recreation/reconstruction terminology adopted; simple persistence (C506) offered as a candidate ground for $GapIdentity_C$ | this session; C403–C405, C506–C510 |
+| S63 finding “possibly absorbed by $HI_G$” | open | corrected: not absorbed; closed by C550–C553 | the author asked whether it was really absorbed | this session |
 
 ## Literature and novelty notes
 
-Cited from memory, not verified online: Michael Dummett, “Bringing About the Past” (1964), and Peter Geach's discussion of prayer for past events; both concern whether a later act can be the reason for an earlier one, and both reach an independence condition close to C529's agent-neutrality. The well-foundedness of grounding is standard in the grounding literature (Fine, Rosen). The project-specific element is the derivation of the responsiveness constraint from the actual-marker grounding order and its integration with $HI_G$ and $GSDA$; no novelty claim is made.
+Cited from memory, not verified online: Michael Dummett, “Bringing About the Past” (1964), and Peter Geach's discussion of prayer for past events; both concern whether a later act can be the reason for an earlier one, and both reach an independence condition close to C551's agent-neutrality. The well-foundedness of grounding is standard in the grounding literature (Fine, Rosen). The project-specific element is the derivation of the responsiveness constraint from the actual-marker grounding order and its integration with $HI_G$ and $GSDA$; no novelty claim is made.
 
 ## Repository updates
 
-- [x] commitment ledger (C527–C532)
+- [x] commitment ledger (C549–C554)
 - [x] core architecture (paragraph under intervention, miracle, and providence)
 - [x] accessible answer and bank entry (P46)
-- [x] S62 finding corrected by reference
+- [x] S63 finding corrected by reference
 - [x] session index, development map, research method
 
 ## Next question
 
-Part VII is consolidated next (S64), as approved. The author's queue item 1 (action-domain exhaustion) is untouched.
+Part VII is consolidated next (S65), as approved. The author's queue item 1 (action-domain exhaustion) is untouched.

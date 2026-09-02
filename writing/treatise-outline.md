@@ -161,6 +161,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Ultimate origin versus direct $OEC^+$ and derivative producers
     - The B2r/B2d repair and its remaining abductive burden
     - Specification transparency and the danger of defining plenitude into $P_{OEC}$
+    - Root-created bases versus derivative domains and delegated producers
+    - Specification fidelity, patient-independence, and manifestation range
+    - Agentic-origin realization and relevant possible-world witnesses
+    - Essence-compatible task eligibility
+    - Qualified creative plenitude $CP_G^{elig}$
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity

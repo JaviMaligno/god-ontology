@@ -261,6 +261,8 @@ S39 then tests B2 and finds that the original formula using $OEC^+$ was too stro
 
 This is an abductive modal extension of the one-ground architecture, not a deduction from actual $U_G$ or necessary existence. It permits no-creation worlds and derivative producers. A separate B2d directness premise is still needed to infer immediate $OEC^+$; B3, B4, and specification transparency must now be recombined without defining $CanCreate(G,S)$ into the witnessing condition.
 
+S40 closes that recombination locally for complete root specifications. A root created basis has no existentially prior created producer; under S39's $CMU_G$, its ultimate source is $G$, so a created intermediary would defeat roothood and a distinct underived intermediary would defeat the accepted modal architecture. The selected $AOR/OEC^+$ model then makes the possible production an intentional exercise of the same necessary $G$, satisfying the relevant-world condition for ability. The result is essence-qualified creative plenitude $CP_G^{elig}$ at F2. Universal specification transparency is no longer a separate premise: per-exercise fidelity and patient-independence remain, while the range follows through admissible root witnesses and $CMU_G$.
+
 ## Literature notes
 
 - [Aquinas, *Summa Theologiae* I, q. 25](https://www.newadvent.org/summa/1025.htm) derives infinite active power from divine actuality and unlimited being, then extends the range to whatever can have being. The project records the structure without adopting its stronger premises.

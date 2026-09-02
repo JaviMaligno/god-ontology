@@ -318,6 +318,8 @@ Token freedom concerns one settlement; robust capacity requires at least one act
 
 The author's following reply raises no objection to this proposed resolution, so CH15 is retained at local F2 under the default-acceptance rule. Practical accessibility remains open for selective refinement rather than blocking the ontological trunk.
 
+S45, developed in parallel on the question-driven track, is reconciled with this result in S53 (C442): the $AE$ profile and the three standings are canonical; S45's funnelling (profile-level closure of $OR$ over a history, which need not be adaptive), evaluative authorship, the rational/a-rational distinction, and the diachronic component of the source cover are retained as refinements, and its created-level question is CH21.
+
 ## CH16 — Consciousness production, time, and person
 
 S36 first distinguishes:

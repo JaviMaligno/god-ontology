@@ -227,4 +227,5 @@ These modules remain conditional on the upstream case for a necessary agent. The
 46. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Completed in S50: five-clause definition, non-circularity, B2 reduced to modal uniqueness of necessary agents, creative plenitude conditional.
 47. Answer the author's question on other universes: possible worlds, cosmological multiverses, and plural created orders. Completed at F1 in S51 with one bridge constraint on branching at settlement.
 48. Consolidate Parts III–IV in the treatise. Completed as first-pass prose in S52; no inconsistency found; the P-gap is the single unearned point in the chapter-10 audit.
-49. Continue the consolidation into Part V, or return to the open trunk items. Proposed next task.
+49. Reconcile the question-driven sessions with the author's S35–S38 after the merge: canonical formulations, merged duplicates, retained refinements, one relocated clause. Completed in S53 (C442–C446).
+50. Continue the consolidation into Part V (knowledge, time, and freedom). Approved next task; the trunk queue's item 1 now has the $MUNA$ candidate (C444) to test.

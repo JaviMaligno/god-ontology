@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S42–S51, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S42–S53, e integrando S30–S31 y S34–S38 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -38,7 +38,7 @@ Alguien puede decir que «eligió por motivos» es solo ponerle nombre al azar. 
 
 «Posible» se usa de tres maneras que conviene no mezclar. Que algo se pueda imaginar; que no sea contradictorio; y que de verdad pudiera existir. Las dos primeras no bastan. Se pueden imaginar cosas que no podrían existir, y hay descripciones sin contradicción que no describen ningún mundo completo: unas leyes coherentes con unas condiciones iniciales que no dejan ninguna historia posible.
 
-Lo que yo entiendo por posible, para un mundo, son cinco cosas: que sus reglas no se contradigan; que esas reglas, con sus constantes y su punto de partida, admitan al menos una historia completa; que las capacidades que ese mundo contiene puedan ejercerse de verdad y no se anulen entre sí; que sea un mundo creado, hecho de cosas con la organización que sus reglas fijan y sin nada que exista por sí mismo dentro de él; y que no exija de Dios algo que Dios no puede ser, como estar contenido en el espacio. Lo importante es lo que no está en la lista: no dice «lo que Dios puede hacer». Si lo dijera, decir que Dios puede crear cualquier mundo posible sería decir nada. Dicho así, es una afirmación con contenido, y creo que es verdad, aunque depende de premisas que prefiero sin poder demostrar; la principal es que solo hay un ser necesario que decide.
+Lo que yo entiendo por posible, para un mundo, es que su descripción completa cumpla varias cosas a la vez: que esté bien definida; que sus reglas no se contradigan y que, con sus constantes y su punto de partida, admitan al menos una historia completa; que los tipos de cosas que contiene sean de verdad lo que dicen ser, con la organización que los hace ser eso; que las capacidades que ese mundo atribuye a sus cosas puedan ejercerse y no se anulen entre sí; y que todo eso pueda darse junto, en un solo orden que depende de otra cosa y no existe por sí mismo. Lo importante es lo que no está en la lista: no dice «lo que Dios puede hacer», y de hecho no dice nada de Dios. Si dijera lo primero, decir que Dios puede crear cualquier mundo posible sería decir nada. Dicho así, es una afirmación con contenido, y creo que es verdad, aunque depende de premisas que prefiero sin poder demostrar; la principal es que solo hay un ser necesario que decide. Una precisión: que un mundo exija de Dios algo que Dios no puede ser, como estar contenido en el espacio, no lo hace imposible; lo hace inalcanzable para Dios como su fuente, que es otra cuestión.
 
 Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes, otras leyes, otros seres, o ninguno. Que sea este es una elección, no una consecuencia.
 
@@ -260,15 +260,15 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C359–C362; S09, S40 |
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C436–C441; S51 |
-| Qué es posible | preferido; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C429–C433; S50 |
+| Qué es posible | preferido; el criterio es el del tronco (S38), con la formulación de S50 reconciliada en S53; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C343–C348, C432–C433, C443; S38, S50, S53 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S40 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
 | Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C422–C427; S18, S49 |
 | De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C388–C397; S30–S31, S44 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
-| Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |
-| Plan para mi vida; manipulación | preferido/aceptado | C18, C119, C398–C406; S45 |
+| Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
+| Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S45 | C18, C119, C297–C308, C398–C406, C442; S35, S45, S53 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |

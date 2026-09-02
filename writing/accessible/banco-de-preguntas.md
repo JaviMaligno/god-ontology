@@ -25,7 +25,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S40 | — |
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
 | P42 | ¿Existen otros universos? | `respondida` | C436–C441; S51 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
-| P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida` | C429–C433; S50 (posible no es imaginable ni «lo que Dios puede»; cinco condiciones; el mundo podría haber sido de muchas maneras, y lo que Dios puede crear abarca todas ellas si se aceptan unas premisas preferidas) | CH14 |
+| P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida` | C343–C348, C432–C433, C443; S38, S50, S53 (posible no es imaginable ni «lo que Dios puede»; cinco condiciones; el mundo podría haber sido de muchas maneras, y lo que Dios puede crear abarca todas ellas si se aceptan unas premisas preferidas) | CH14 |
 
 ## B. Qué Dios
 

@@ -58,3 +58,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S50 — The modal basis: independent possibility of a created specification](2026-09-02-modal-basis-independent-possibility.md)
 - [S51 — Other universes: possible worlds, cosmological multiverses, and plural created orders](2026-09-02-other-universes.md)
 - [S52 — Consolidation pass of Parts III–IV](2026-09-02-consolidation-parts-iii-iv.md)
+- [S53 — Reconciliation of the two tracks after the merge of S35–S38](2026-09-02-reconciliation-of-the-two-tracks.md)

@@ -151,10 +151,10 @@ Model the modal domain without reifying complete possible histories:
 
 where $N$ contains necessary constraints, $\Sigma_G$ structures within $G$'s actualizing power, $\mathcal H(S)$ continuations admitted by a structure, and $\mathcal O(A,t,h)$ acts originable by an agent in a situation.
 
-The intended grounds are:
+The initial power-grounded account distinguishes manifestations and continuations:
 
 \[
-Possible(S)\quad\text{because}\quad CanActualize(G,S),
+PossibleManifestation(S\mid P)\quad\text{because}\quad ManifestationOf(S,P),
 \]
 
 \[
@@ -166,6 +166,16 @@ Possible(a\mid A,t,h)\quad\text{because}\quad CanOriginate(A,a,t,h).
 \]
 
 Possible histories are representations of combined powers and constraints, not additional concrete blocks. Power-grounded modality remains irreducibly modal at its base: the actualizing and originating power predicates are not reduced to non-modal vocabulary.
+
+S33–S34 expose a required refinement. A specification cannot count as independently possible merely because $G$ can actualize it when that capacity is the conclusion under examination. Let $Poss_C^{ind}(S)$ mark the still-open metaphysical criterion for structural eligibility:
+
+\[
+Poss_C^{ind}(S)
+\rightarrow
+\neg DefinedSolelyBy(Poss_C^{ind}(S),CanActualize(G,S)).
+\]
+
+Necessary consistency and compossible power profiles are candidate constraints, but imaginability and formal consistency alone are insufficient. The eventual account must permit established powers to ground their possible manifestations while giving uninstantiated created specifications enough independent modal content to constrain the S33 range bridge.
 
 Define:
 
@@ -209,6 +219,40 @@ This instantiates a general epistemic principle:
 \]
 
 The principle applies only where the ontology genuinely denies a truth to know; it is not a device for ignoring difficult but grounded truths.
+
+### Actual subject acquaintance
+
+ACO and MKO specify epistemic scope but do not by definition exhaust epistemic mode. S34 adds a preferred direct relation to every actual conscious subject:
+
+\[
+\begin{aligned}
+ASA(G,A)\leftrightarrow{}&Actual(A)
+\land ConsciousSubject(A)\\
+&\land DirectEpistemicAccess(G,A)\\
+&\land \forall c[ActualStateOf(c,A)
+\rightarrow GraspsAsPresentedTo(G,c,A)].
+\end{aligned}
+\]
+
+$ASA$ is factive, subject-indexed, and qualitatively discriminating. It lets $G$ grasp an actual state as presented to $A$ and distinguish first-personal differences without falsely self-ascribing the state. Directness does not imply that $G=A$, that $A$ constitutes $G$, that $G$ tokens the numerically same phenomenal state, or that $G$ originates $A$'s libertarian choice.
+
+The relation is actuality-indexed:
+
+\[
+\neg Actual(A)\rightarrow\neg ASA(G,A).
+\]
+
+MKO may represent possible subject-types, power profiles, and possible experiences. Concrete acquaintance begins only with the actual subject and token state in grounding order, although $G$'s relation to the whole actual life is atemporal rather than temporally acquired. This adds no pre-actual truth about which libertarian alternative the creature will select.
+
+The total epistemic profile is role-structured:
+
+\[
+K_G^{total}=\langle ACO_P,MKO,ASA\rangle.
+\]
+
+$ACO_P$ retains complete propositional truth-scope; MKO concerns modal structure; $ASA$ concerns direct access to actual subjectivity. These are neither temporal stages nor automatically separable constituents of $G$.
+
+Exact discrimination, vicarious phenomenal representation, and numerical sharing of a phenomenal token remain distinct. Minimal $ASA$ requires only the first. A perfect-empathy model is a live strengthening; literal state-sharing would add passibility, subject-boundary, and constitutive-overlap burdens.
 
 ## Unified logic of agentic choice
 
@@ -1032,9 +1076,9 @@ UPA(G)\quad\text{iff}\quad
 \forall A\forall t[Subject(A,t)\rightarrow Avail_P(G,A,t)].
 \]
 
-$Avail_P$ combines subject-sensitive epistemic access with the coherent capacity for direct intentional address or response. It is preferred conditionally because $G$ is already modeled as a conscious agent, ACO includes every actual truth about $A$, and $Present_O$ supplies direct causal availability without a spatial intermediary.
+$Avail_P$ combines subject-sensitive epistemic access with the coherent capacity for direct intentional address or response. It is preferred conditionally because $G$ is already modeled as a conscious agent, ACO includes every actual truth about $A$, $ASA$ supplies direct subject-indexed acquaintance, and $Present_O$ supplies direct causal availability without a spatial intermediary.
 
-This capacity does not entail its universal exercise. Actual regard belongs to divine will and providence; reciprocal attention also requires a creaturely cognitive contribution; loving communion adds evaluative content. Significant personal presence can therefore be asymmetrically co-produced while ontological presence remains universal. Whether ACO's propositional form exhausts acquaintance, empathy, phenomenal access, or irreducible second-person knowledge remains open.
+This capacity does not entail its universal exercise. Actual regard belongs to divine will and providence; reciprocal attention also requires a creaturely cognitive contribution; loving communion adds evaluative content. Significant personal presence can therefore be asymmetrically co-produced while ontological presence remains universal. $ASA$ closes the minimal knowledge-of-subject gap at local F2; reciprocal second-personal presence and stronger phenomenal-sharing models remain further relations rather than omissions from ACO's truth-scope.
 
 ## Intervention ontology
 
@@ -1564,6 +1608,6 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining the power bridge, cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. The active sequence now moves to cumulative intervention control while retaining CH14, the power bridge, $PMC_U$, and strict-overlap coherence as later challenges.
 
 S30–S33 develop divine constitution ($UPSS$, $OEC^+$), the creator boundary ($CT/RI$, $CCD$, typed *ex deo*), the qualified-power hierarchy ($OMP_C$ preferred, $OMP_Q$ provisional), and the range-bridge search. S35–S42, on the question-driven track, add experiential access, the F2 stopping-point comparison, the good-oriented divine profile and the P-gap, permission and covers, conditional continuation, the F3 profile account of matter with the derivation of $\neg PMC_U$, the diachronic level of agency, and simple persistence. [S43](../sessions/2026-09-02-trunk-coherence-audit.md) audits these transitions and finds them consistent; the weakest load-bearing link is creative reason (S18), still at F1 while production is at F3.

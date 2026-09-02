@@ -10,6 +10,7 @@ The project began with a narrower question: in what sense does science describe 
 - [Core architecture](ontology/core-architecture.md): the present causal/modal model and its main unresolved fork.
 - [Research method](method/research-method.md): how future sessions, objections, decisions, and sources are handled.
 - [Treatise outline](writing/treatise-outline.md): an English-language structure that separates motivation from ontology.
+- [Future process article](writing/future-article-on-ai-collaboration.md): notes for a personal-web article on authorship, judgment, and AI collaboration in this project.
 - [Accessible track](method/accessible-track.md): the parallel register that states the same beliefs in ordinary first-person language, with its [question bank](writing/accessible/banco-de-preguntas.md) and [answers in Spanish](writing/accessible/preguntas-en-lenguaje-comun.md).
 - [Novelty and precedent](research/novelty-and-precedent.md): cautious first assessment against nearby literature.
 - [Normalized transcript](corpus/transcript.md): all 24 speaker-labelled turn pairs.

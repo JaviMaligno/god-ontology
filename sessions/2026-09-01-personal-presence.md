@@ -165,3 +165,7 @@ The capacity/exercise/reciprocity/value partition is a project-specific integrat
 ## Next question
 
 Open the goodness/value branch at F1 by separating the meaning and possible grounds of divine goodness before evaluating worlds, interventions, suffering, or omnibenevolence.
+
+## Later S34 resolution
+
+[S34](2026-09-02-subject-acquaintance-and-second-person-knowledge.md) closes CH03 locally by preserving ACO's complete truth-scope and adding actuality-indexed subject acquaintance $ASA$. Direct knowledge of an actual subject neither transfers the creature's sourcehood nor requires subject identity or phenomenal token sharing. Reciprocal second-personal presence remains a stronger, asymmetrically co-produced relation.

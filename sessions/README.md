@@ -39,6 +39,7 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S31 — Constitutive transcendence, relational immanence, and ex deo](2026-09-02-transcendence-immanence-and-ex-deo.md)
 - [S32 — Qualified omnipotence, range, strength, and blockers](2026-09-02-qualified-omnipotence-blockers.md)
 - [S33 — Searching for the universal power-range bridge](2026-09-02-universal-power-range-bridge.md)
+- [S34 — Divine knowledge of a subject as a subject](2026-09-02-subject-acquaintance-and-second-person-knowledge.md)
 - [S35 — The accessible track and the experiential register](2026-09-02-accessible-track-and-experiential-register.md)
 - [S36 — Explanatory stopping points and the necessitation lemma](2026-09-02-explanatory-stopping-points.md)
 - [S37 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)

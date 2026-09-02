@@ -33,7 +33,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | --- | --- | --- | --- |
 | CH01 | Could $G$ create a numerically distinct exact copy of itself? | divine uniqueness, qualified omnipotence, creation, necessity, dependence | `tested` |
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | creative reason, generative structure, providence, later goodness | `scoped` |
-| CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `scoped` |
+| CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | ACO, personal availability, consciousness, omnipresence | `tested` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | goodness, divine ultimity, reasons, divine nature and choice | `scoped` |
 | CH05 | Does the current power argument establish only maximality over the created order, or full qualified omnipotence; what could ground a coherent limiter? | qualified omnipotence, sovereignty, ultimity, uniqueness | `tested` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | good-for, creation, voluntarism, divine goodness, welfare profiles | `scoped` |
@@ -44,6 +44,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `scoped` |
 | CH15 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (partial) |
 | CH16 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | personal availability, experiential access, epistemology of the fourth layer, intervention typing | `scoped` |
 | CH17 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | P-gap closure, personal identity, E+, ACO, embodied agency, hell as privation, divine goodness | `tested` (partial) |
@@ -58,7 +59,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, and S32 completes the CH05 F2 pass. Created ultimate blockers are excluded conditionally; $OMP_C$ is preferred at F2; unrestricted $OMP_Q$ remains preferred but more provisional because a universal-range bridge and exclusion of non-created concrete limiters are not deductively available. CH01's exact dependent-and-underived copy is incoherent, while derivative near-copies remain open. CH03 is now the active trunk priority.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. The next active trunk priority is cumulative control of agency; CH14 preserves the newly raised ontology of imagination and thought for later integration with modality and consciousness.
 
 S35–S37 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S36 gives the contingency/ground junction its F2 comparison; S37 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH15; S38 tests CH15 partially through permission, policy-level covers, and the bearer-level remainder, and opens CH17 because closure depends on personal continuation. S39 tests CH17 partially: continuation is coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; its identity burden becomes CH18, which waits on the mind–body branch. The track returns to CH12, where S30–S33 already supply the F2 constitution, boundary, and power results; S40 deepens the constitution/production junction. S41 then structures C118: cumulative context control can remove diachronic and evaluative authorship while token autonomy holds, which extends the agency-preservation presumption to the diachronic level and opens CH19 for created-level curation. S42 tests CH18 partially by deriving simple persistence from the agency model. CH16 records the experiential question.
 
@@ -134,6 +135,10 @@ The later test must distinguish:
 6. actual reciprocal second-person engagement.
 
 The framework should neither assume that these collapse nor infer that a distinction automatically limits omniscience. It must decide which relations have truthmakers, which count as kinds of knowledge, which are coherent for numerically distinct subjects, and which are exercises rather than standing capacities.
+
+S34 distinguishes epistemic scope from epistemic mode. ACO remains propositionally complete, while actual subject acquaintance $ASA(G,A)$ adds direct, factive, subject-indexed access to an actual conscious subject and the first-personal organization of its states. $ASA$ does not entail identity, constitution, or token phenomenal sharing. It is actuality-indexed, so MKO rather than acquaintance applies to merely possible subject-types and no pre-actual creaturely choice truth is restored.
+
+Reciprocal second-personal presence remains stronger than $ASA$. $G$ may directly know a subject that is unaware, asleep, resistant, or unable to respond; actual mutual address or shared attention requires creaturely participation and belongs to asymmetric co-production. CH03 is therefore closed at local F2 while vicarious phenomenal representation and literal state-sharing remain optional stronger models.
 
 ## CH04 — Normative fit and divine ultimity
 
@@ -246,6 +251,19 @@ NeuralPrecursor(n,a,t)\land SufficientlySettles(n,a,t)
 \]
 
 not the weaker inference from precursor to settlement. S29 prefers a unified embodied subject and an episodic action model while leaving reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open. It also leaves open whether a wholly non-conscious embodied exercise can satisfy a weaker minimal libertarian category.
+
+## CH14 — Ontology of imagination and thought
+
+The initiating question asks what kind of reality imagination occupies and extends the issue to thoughts and their relation to possibility. The first required partition is:
+
+\[
+Actual(Imagines(A,S))
+\not\Rightarrow Actual(S).
+\]
+
+The imaginative episode may be an actual event in $H^*$ with causal and phenomenal properties while its intentional content represents a non-actual, impossible, indeterminate, or partly unspecified scenario. Future analysis must distinguish the act, content, intentional object if any, represented scenario, and modal status rather than placing them all in one “mental realm.”
+
+The principal alternatives include intentional content as an immanent feature of the thought, relation to abstract content, relation to a non-existent intentional object, construction from actual representational resources, and direct sensitivity to a power-grounded modal structure. The module must explain reference to impossibilities and fictions as well as accurate representation of possibilities, and it must not infer metaphysical possibility from imaginability alone. It connects directly to consciousness, causal efficacy of thought, MKO, and the independent definition of $Poss_C^{ind}(S)$ required by S33.
 
 ## CH15 — The P-gap and permitted suffering
 

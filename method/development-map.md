@@ -49,10 +49,10 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Agentic choice and conscious sourcehood | core support | F2 locally | hold after conceptual partition | selective F3 | S06–S07 and S22 distinguish phenomenal, access, self, and agentive roles; freedom is token-relative and realization remains open |
 | Modality and possible histories | cross-cutting | F2 | refine $Poss_C^{ind}$ when bridge becomes load-bearing | F3 | S33–S34 require metaphysical possibility to be independent of imaginability and of the capacity it constrains |
 | Time, eternalism, ACO, and subject acquaintance | cross-cutting | F2 | hold after S34 | F3 | $K_G^{total}=\langle ACO_P,MKO,ASA\rangle$ preserves atemporal actual truth, modal knowledge, and actuality-indexed subject access |
-| Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
+| Intervention, miracle, and providence | downstream | F2 with active diachronic refinement | assess CH15's capacity/achievement solution and refine practical accessibility | selective F3 | S35 distinguishes token freedom, robust capacity, realized diachronic authorship, and adaptive governance capture |
 | Actualizing power, sustenance, and omnipotence | attribute branch | F2 | hold after S33; retain evidential asymmetry | selective F3 bridge work | S32 distinguishes $OMP_C$ from $OMP_Q$; S33 identifies the modal-source plus specification-transparency route to $CP_G$ while leaving modal invariance, constitutive control, history-sensitive intervention, and domain exhaustion open |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
-| Omnipresence and personal availability | dependent attribute | F1 with local F2 knowledge refinement | hold after S34 | selective F2 | S34 adds $ASA$ to direct subject-sensitive access while keeping exercised regard, reciprocal attention, and communion as stronger relations |
+| Omnipresence and personal availability | dependent attribute | F1 with local F2 knowledge refinement | hold after S35 | selective F2 | $ASA$ supports direct access; genuine communication may be asymmetric in capacity while still minimally reciprocal in participation |
 | Imagination, thought, and intentional content | cross-cutting open question | F0 | preserve as CH14 | F1–F2 if selected | Must distinguish actual mental act, content, represented object, modal status, and causal role; connects consciousness to $Poss_C^{ind}$ |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | production F2; reason F1 | hold and reintegrate into intervention and providence | selective F2–F3 | S30–S31 prefer constitutively disjoint $OEC^+$, type *ex deo* into four levels, accept $PMC_T$, and retain $PMC_U$ as a defeater; S18 supplies the reason profile |
@@ -62,9 +62,9 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Test cumulative intervention effects on agency: can diachronic context control undermine authorship while each token retains formal alternatives?
+1. Assess CH15's proposed capacity/achievement resolution and define practical accessibility without a merely remote possibility or arbitrary probability threshold.
 2. Preserve CH14 on imagination, thought, intentional content, and possibility as the next newly raised cross-cutting question; select its depth by dependency rather than recency alone.
-3. Hold S34's $\langle ACO_P,MKO,ASA\rangle$ profile at local F2; revisit phenomenal sharing only if another module requires it.
+3. Hold S34's $\langle ACO_P,MKO,ASA\rangle$ profile and S35's asymmetric-communication refinement; revisit phenomenal sharing only if another module requires it.
 4. Hold divine constitution, $OEC^+$, and the qualified-power hierarchy at F2; retain S33's non-circular range bridge, $PMC_U$, non-created concrete limiters, and strict-*ex-deo* coherence as selective F3 triggers.
 5. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
 6. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.

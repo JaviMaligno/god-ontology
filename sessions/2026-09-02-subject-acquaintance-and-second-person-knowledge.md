@@ -193,6 +193,10 @@ $G$ can know an unconscious, unaware, resistant, or non-responsive subject direc
 
 Therefore irreducible second-personal knowledge is not required for minimal omniscience. It is required for certain actual forms of interpersonal presence whose content cannot be supplied unilaterally by $G$ while remaining reciprocal.
 
+## Later author ratification and asymmetry
+
+The author explicitly accepts $ASA$ and prefers leaving the exact realization of mutual interaction open. S35 adds that reciprocity need not imply equal communicative capacities. $G$ may comprehend $A$ exhaustively while $A$ receives only partial, accommodated, analogical, or mediated content concerning $G$. Genuine divine address and genuine creaturely uptake can therefore constitute asymmetric communication without collapsing into either unilateral awareness or equal understanding.
+
 ## Revised divine epistemic profile
 
 Do not represent the profile as a set-theoretic union of items of one type. It is a structured tuple of complementary roles:

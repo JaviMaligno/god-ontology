@@ -1038,6 +1038,14 @@ $Avail_P$ combines subject-sensitive epistemic access with the coherent capacity
 
 This capacity does not entail its universal exercise. Actual regard belongs to divine will and providence; reciprocal attention also requires a creaturely cognitive contribution; loving communion adds evaluative content. Significant personal presence can therefore be asymmetrically co-produced while ontological presence remains universal. $ASA$ closes the minimal knowledge-of-subject gap at local F2; reciprocal second-personal presence and stronger phenomenal-sharing models remain further relations rather than omissions from ACO's truth-scope.
 
+Reciprocity requires participation by both subjects, not equality of their capacities:
+
+\[
+Reciprocity(G,A)\not\Rightarrow CommCap(G)=CommCap(A).
+\]
+
+$G$ may grasp $A$ exhaustively while $A$ receives a partial, accommodated, analogical, or createdly mediated representation of $G$. Divine address plus genuine creaturely uptake or orientation can therefore constitute asymmetric communication. This leaves the exact realization open and does not supply an empirical rule for identifying revelation or communication.
+
 ## Intervention ontology
 
 In E+, an intervention is a divine-originating causal contribution that alters a temporal continuation and therefore can make a different complete history actual. It is also a constituent of the history in which it occurs. What E+ excludes is only a meta-temporal process in which God first possesses one actual block and later edits it.
@@ -1195,7 +1203,7 @@ Influences(I,A,a)
 
 The magnitude or visibility of an intervention does not order its effect on freedom. A large environmental change can preserve sourcehood, while a small direct alteration of a decision mechanism can override it. Likewise, control of deliberative context does not entail control of the resulting act. If the agent still originates the response, the intervention and response make distinct contributions to $H_I$.
 
-Manipulation may affect authenticity or moral responsibility even when these minimal libertarian conditions survive. That question is recorded but deferred to the ethical layer.
+Manipulation may affect diachronic authorship even when these minimal libertarian conditions survive. Moral responsibility and wrongness remain in the ethical layer, but control of the agent's developmental ecology is an ontological agency question developed in S35.
 
 The agency-oriented creative rationale now supplies a defeasible intervention presumption. If two interventions adequately serve the same relevant aim, and one preserves more originable alternatives, capacities, or sourcehood without another known defeating cost, that intervention is favored *ceteris paribus*. This is a reason relation, not a prohibition or a necessitating decision rule. Intervention can enhance, restore, preserve, reduce, or remove agency; nonintervention therefore has no automatic priority.
 
@@ -1206,7 +1214,52 @@ Impact_A(I,A,t)=
 \langle\Delta Feas_I,\Delta Orig_I,\Delta Capacity_I,SourceStatus_I\rangle.
 \]
 
-This local model leaves a diachronic problem open. Repeated context control may preserve token alternatives while engineering the development, salience, commitments, and long-run authorship of the subject. Later F2 work must therefore test an **agency ecology** in addition to token-act autonomy.
+### Diachronic agency ecology
+
+S35 distinguishes token sourcehood from authorship of the agent's governing standpoint across time. Context develops schematically through:
+
+\[
+C_A^-(t+1)=F(C_A^-(t),a_t,Sec_t,I_t),
+\]
+
+where the agent's earlier act, ordinary secondary causes, and interventions can all affect later deliberation. No deterministic reading of $F$ is assumed.
+
+The agency ecology is provisionally represented as a non-scalar profile:
+
+\[
+AE(A,\tau)=
+\langle TS,OR,CP,EA,RR,SF,RC\rangle_{A,\tau}.
+\]
+
+Its dimensions are token sourcehood, usable originable range, relevant capacities, sufficient epistemic access, reflective and practical revisability, self-formative contribution, and viable resistance or correction routes. Epistemic access does not require certainty or complete information; it concerns whether the agent can recognize enough of the action-relevant situation and possible control to exercise and revise its powers.
+
+No creature authors its initial existence and context. Robust created agency therefore cannot require global self-creation. It can require that, once relevant capacities develop, some creaturely acts make a non-redundant difference to later governing states across admissible histories.
+
+Influence, steering, governance capture, option closure, and source override remain distinct. Governance capture is the cumulative case:
+
+\[
+\begin{aligned}
+Capture(X,A,\tau,q)\rightarrow{}&
+Targets(X,A,q,\tau)\\
+&\land ControlsHighLeverageInputs(X,A,\tau)\\
+&\land AdaptivelyNeutralizesDeviation(X,A,q,\tau)\\
+&\land RestrictsRevisionRoutes(X,A,\tau).
+\end{aligned}
+\]
+
+The controller can maintain an attractor toward $q$ by answering the agent's locally free deviations with later contextual changes. This may weaken diachronic authorship without making those deviations determined or retroactively changing their source. Addiction, disease, trauma, or social structures may similarly degrade the ecology without constituting capture by one agent.
+
+Agency-supporting intervention can restore capacities, disclose truth, reopen options and escape paths, protect against another controller, or enable later reflection and self-revision. The agency-preserving providence presumption consequently ranges over $AE(A,\tau)$ rather than token alternatives alone.
+
+The apparent fork between possible revision and actual self-formation divides into three standings:
+
+\[
+\langle FreeTok(A,a,t),RobustCap(A,t),DiaAuth(A,\tau)\rangle.
+\]
+
+$FreeTok$ concerns one settlement. $RobustCap$ requires an actual, agent-accessible and originably pursuable revision or resistance route that is not systematically captured. $DiaAuth$ is an historical achievement and requires actual self-formative contributions. A newly created mature agent may possess the first two without yet having a self-authored history; a later loss of capacity need not erase authorship previously realized.
+
+CH15 therefore has a preferred F2 resolution pending author assessment. Its remaining precision is how to define practical accessibility without an arbitrary probability threshold, ideal rationality, or a complete ethical theory.
 
 ### Intervention, miracle, and providence
 
@@ -1467,4 +1520,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. The active sequence now moves to cumulative intervention control while retaining CH14, the power bridge, $PMC_U$, and strict-overlap coherence as later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture. The capacity/achievement proposal awaits author assessment, with practical accessibility still needing precision; CH14, the power bridge, $PMC_U$, and strict-overlap coherence remain later challenges.

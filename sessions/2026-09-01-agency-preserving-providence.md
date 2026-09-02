@@ -182,3 +182,7 @@ CH01 records the author's question whether $G$ can create an exact copy of itsel
 ## Next question
 
 Choose whether to move next into the goodness/value axis or first make a surface pass over the now-integrated providence architecture and its relation to personal presence.
+
+## Later S35 refinement
+
+[S35](2026-09-02-asymmetric-communication-and-diachronic-agency.md) performs the deferred F2 pass. Token sourcehood is distinguished from robust capacity and realized diachronic authorship, and the agency ecology becomes the profile $AE(A,\tau)$. Adaptive governance capture may answer locally originated deviations with later contextual control without determining those token acts. Practical accessibility of uncaptured revision routes remains the precision burden.

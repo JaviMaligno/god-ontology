@@ -46,6 +46,8 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
 | CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `scoped` |
 
+| CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `active F2` |
+
 ## Priority gate after S26
 
 Ontology governs the active sequence. S27–S28 complete the current interface response to CH08 and the metaphysically required part of CH11: long-term orientation must receive positive defeasible priority, although a complete strong-longtermist doctrine is not required. Moral-status gradation, population aggregation, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them.
@@ -54,7 +56,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. The next active trunk priority is cumulative control of agency; CH14 preserves the newly raised ontology of imagination and thought for later integration with modality and consciousness.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 opens CH15 at F2 by distinguishing token freedom, robust capacity, and realized diachronic authorship and by modeling adaptive governance capture. Its capacity/achievement resolution awaits author assessment, with practical accessibility still requiring precision. CH14 remains preserved for later integration with modality and consciousness.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -132,6 +134,8 @@ The framework should neither assume that these collapse nor infer that a distinc
 S34 distinguishes epistemic scope from epistemic mode. ACO remains propositionally complete, while actual subject acquaintance $ASA(G,A)$ adds direct, factive, subject-indexed access to an actual conscious subject and the first-personal organization of its states. $ASA$ does not entail identity, constitution, or token phenomenal sharing. It is actuality-indexed, so MKO rather than acquaintance applies to merely possible subject-types and no pre-actual creaturely choice truth is restored.
 
 Reciprocal second-personal presence remains stronger than $ASA$. $G$ may directly know a subject that is unaware, asleep, resistant, or unable to respond; actual mutual address or shared attention requires creaturely participation and belongs to asymmetric co-production. CH03 is therefore closed at local F2 while vicarious phenomenal representation and literal state-sharing remain optional stronger models.
+
+S35 clarifies that participation need not be capacity-symmetric. $G$ may understand the creature exhaustively while the creature's understanding of $G$ remains partial, accommodated, analogical, or mediated. Minimal reciprocity means two genuine contributions, not equal comprehension or expressive power.
 
 ## CH04 — Normative fit and divine ultimity
 
@@ -255,3 +259,38 @@ Actual(Imagines(A,S))
 The imaginative episode may be an actual event in $H^*$ with causal and phenomenal properties while its intentional content represents a non-actual, impossible, indeterminate, or partly unspecified scenario. Future analysis must distinguish the act, content, intentional object if any, represented scenario, and modal status rather than placing them all in one “mental realm.”
 
 The principal alternatives include intentional content as an immanent feature of the thought, relation to abstract content, relation to a non-existent intentional object, construction from actual representational resources, and direct sensitivity to a power-grounded modal structure. The module must explain reference to impossibilities and fictions as well as accurate representation of possibilities, and it must not infer metaphysical possibility from imaginability alone. It connects directly to consciousness, causal efficacy of thought, MKO, and the independent definition of $Poss_C^{ind}(S)$ required by S33.
+
+## CH15 — Cumulative control and diachronic authorship
+
+S35 distinguishes a free token act from authorship of the practical subject across a history. Every choice may retain more than one originable alternative and be settled by the creature while another subject controls high-leverage inputs, counteracts deviations, and restricts effective recognition, resistance, or revision.
+
+The proposed agency ecology is:
+
+\[
+AE(A,\tau)=
+\langle TS,OR,CP,EA,RR,SF,RC\rangle,
+\]
+
+covering token sourcehood, option range, capacities, epistemic access, revisability, self-formation, and resistance or correction routes. It is a profile rather than a compensatory scalar.
+
+The central capture pattern is adaptive rather than token-deterministic:
+
+\[
+\begin{aligned}
+Capture(X,A,\tau,q)\rightarrow{}&
+Targets(X,A,q,\tau)\\
+&\land ControlsHighLeverageInputs(X,A,\tau)\\
+&\land AdaptivelyNeutralizesDeviation(X,A,q,\tau)\\
+&\land RestrictsRevisionRoutes(X,A,\tau).
+\end{aligned}
+\]
+
+This neither treats every influence as manipulation nor requires a created agent to author its initial conditions. Education, truth disclosure, protection, restored capacity, and open correction paths may strengthen the ecology. Initial divine constitution is not automatically capture because no prior creaturely standpoint is bypassed, although a created architecture may still provide thinner or more robust conditions for later self-government.
+
+S35 proposes that possible revision and actual self-formation are not rival requirements but different standings:
+
+\[
+\langle FreeTok(A,a,t),RobustCap(A,t),DiaAuth(A,\tau)\rangle.
+\]
+
+Token freedom concerns one settlement; robust capacity requires at least one actual and practically accessible uncaptured route of revision or resistance; realized diachronic authorship requires actual self-formative contributions. This permits a newly created mature agent to be free and robustly capable before it has accumulated an authored biography. CH15 remains active pending author assessment and a non-arbitrary account of practical accessibility.

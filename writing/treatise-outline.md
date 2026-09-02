@@ -111,6 +111,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why physical magnitude does not measure source control
     - Restoring, protecting, influencing, and overriding agency
     - Token autonomy and the diachronic ecology of agency
+    - Self-formative contribution without global self-creation
+    - Influence, steering, adaptive governance capture, closure, and override
+    - Token freedom, robust capacity, and realized diachronic authorship
+    - Practical accessibility beyond merely possible escape
     - Response and intervention under atemporality
 
 ## Part VII — Deriving further attributes
@@ -172,6 +176,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Subject acquaintance versus vicarious phenomenal representation and token sharing
     - Exercised regard, response, and atemporal address
     - Reciprocal second-personal presence and shared attention as asymmetrically co-produced
+    - Reciprocity of participation without equality of understanding or communicative power
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
     - Scope: a minimal axiological interface for the ontology, not a comprehensive ethics

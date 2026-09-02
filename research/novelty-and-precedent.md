@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, personal availability, subject acquaintance and second-personal knowledge, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, diachronic agency and manipulation, personal availability, subject acquaintance and second-personal knowledge, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -65,7 +65,9 @@ This does not make the project redundant. It changes the productive question fro
 
 The S19 result belongs to an established compatibility problem but uses a project-specific derivation. [Aquinas, *Summa Theologiae* I, q. 22](https://www.newadvent.org/summa/1022.htm) allows providence to operate through contingent effects and secondary causes, although the present project does not import his stronger account of universal divine causation. The [Stanford Encyclopedia of Philosophy survey of divine providence](https://plato.stanford.edu/archives/spr2021/entries/providence-divine/) confirms that divine control, secondary causation, libertarian freedom, and free-will defenses are standard parts of the problem. [Rogers (2025)](https://doi.org/10.14428/thl.v9i2.85953) is the closest checked contemporary comparison because it combines eternalism, libertarian creaturely input, divine action, and substantial but non-absolute providence.
 
-The currently unverified contribution is narrower: deriving a defeasible intervention presumption from the S18 reason for creating finite sourcehood, then evaluating interventions through typed effects on feasible options, originable alternatives, capacities, source status, and non-agent targets. The separate diachronic notion of an agency ecology is a research prompt, not a present novelty claim.
+S35 develops the formerly open diachronic prompt. [John Christman's “Autonomy and Personal History”](https://doi.org/10.1080/00455091.1991.10717234) is direct precedent for treating the history through which preferences and values form as relevant to autonomy. [Alfred Mele's “Free Will and Moral Responsibility: Manipulation, Luck, and Agents' Histories”](https://doi.org/10.1111/misp.12105) similarly makes manipulation and agential history relevant to freedom and responsibility.
+
+The currently unverified local contribution is narrower: integrating libertarian token sourcehood with the non-scalar $AE$ profile and modeling cumulative control as adaptive neutralization of locally free deviations. Historical and relational autonomy are established families; no novelty claim is made for the general idea that manipulation can impair autonomy without ordinary compulsion.
 
 ## Divine uniqueness: targeted precedent check
 

@@ -190,6 +190,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - The threshold residue and the contested arbitrary-threshold reply
     - Policy-level cover versus bearer-level remainder
     - Why the problem of evil makes personal continuation load-bearing
+    - Continuation as a role, not a doctrine: same bearer, fit, location within complete reality
+    - Persistence and re-realization routes under each realization of the subject
+    - Continuation as intervention or further creative act; why the empirical regime does not decide it
+    - Continuation and divine goodness toward valence stand or fall together
+    - Universality and co-produced communion; privation as the negative case
     - Faith as the exact content of the belief that no suffering is gratuitous
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty, as an optional layer

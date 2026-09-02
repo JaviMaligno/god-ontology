@@ -1281,6 +1281,24 @@ PolicyCover(s)\not\Rightarrow\neg Misfit_*(s,P,B,C,\tau_B),
 
 The problem of evil therefore pushes personal continuation onto the trunk (C243, CH16). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C244). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R45–R46).
 
+### Personal continuation as a conditional consequence
+
+[S34](../sessions/2026-09-02-personal-continuation-and-bearer-horizons.md) tests the dependency C243 opened. Define:
+
+\[
+Continues(B):=\exists t^+\!>\!Death(B)\,[Exists(B,t^+)\land PCon(B,t^+)],
+\qquad
+ContHorizon(B):=Continues(B)\land\exists\tau_B\supsetneq Life(B)\,[Fit_*(x,P,B,C,\tau_B)\ \text{undefeated}],
+\]
+
+with numerical identity of the bearer required and location anywhere in $\mathfrak R^*$. Each open realization model of the subject (C219) admits continuation by persistence or by re-realization and relocates the burden to the identity criterion $Ident(B,B^+)$ (CH17). Continuation is typed as an intervention or a further creative act, coherent under C15, OEC, and non-continuous dependence, and within qualified power iff its identity condition is coherent (C248). Empirical base-dependence constrains the embodied regime without defeating it (C249). The only internal support is conditional:
+
+\[
+GoodOrient_P(G)\Rightarrow\forall B\,[\text{uncovered }s\text{ for }B\Rightarrow ContHorizon(B)],
+\]
+
+so the two beliefs stand or fall together under C244 (C250). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C251).
+
 ### Experiential access and the two registers
 
 [S30](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C231). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:

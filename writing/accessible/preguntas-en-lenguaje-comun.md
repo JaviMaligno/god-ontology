@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S33. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S33 y S34. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -128,6 +128,18 @@ También me parece verdad que a las personas no nos hace mejores tenerlo todo f�
 
 Y lo que creo, dicho con exactitud: que ningún sufrimiento es al final inútil, y que las vidas que parecen terminar en él no terminan ahí. Eso es una creencia, no un resultado. La sostengo como se sostiene una confianza: con los ojos abiertos a los casos que parecen desmentirla, sin pretender que no existen y sin dar por probado que la desmienten.
 
+### ¿Hay vida después de la muerte?
+
+Creo que sí, y puedo decir exactamente por qué lo creo y hasta dónde llega lo que sé.
+
+Por qué lo creo: porque es lo que hace falta para que Dios sea bueno con quien sufre sin remedio. No es una idea que añada por consuelo; es adonde me lleva el argumento anterior. Así que esta creencia y la de que Dios es bueno con lo que sentimos van juntas: o las dos o ninguna.
+
+Lo que puedo decir con cierta seguridad: que la idea encaja con todo lo demás que creo, sea lo que sea lo que somos, un cuerpo organizado de cierta manera, algo más que eso, o una unión de las dos cosas; que está al alcance de Dios, porque quien puede hacer existir puede hacer existir de nuevo o mantener en la existencia; y que la ciencia no lo prueba ni lo desmiente. Lo que sabemos es que, mientras vivimos, la conciencia depende del cerebro; de ahí no se sigue que no pueda haber conciencia de otra manera, aunque tampoco hay pruebas de que la haya.
+
+Lo que no sé: cómo seguiría siendo yo. Si lo que hay después es un ser distinto que se me parece, no sirve de nada; tiene que ser el mismo. Y qué hace que alguien sea el mismo a través de la muerte depende de qué somos, y eso no lo he decidido todavía. Es la pregunta que queda.
+
+Y lo que no digo: nada sobre cielo, infierno, castigo o cómo sería. Lo que sale del argumento es un papel que algo tendría que cumplir, no una descripción. Dos cosas sí se siguen: que si hay algo después, tiene que estar al alcance de todos, no solo de quienes lo necesitaron; y que no puede ser impuesto. Seguimos siendo libres también ahí, y por eso puede haber quien no lo acepte. Eso es lo único que entiendo por «infierno»: no un lugar, sino no querer la relación que está disponible.
+
 ### ¿Por qué merece la pena sacrificarse?
 
 Porque uno no es solo lo que siente ahora. Un sacrificio tiene sentido cuando alguien acepta un coste real por un bien que va más allá de ese momento, o de esa persona: por un hijo, por alguien que vendrá, por una verdad, por una forma de vida. No es el dolor lo que lo hace valioso; es la respuesta de alguien que elige a algo que de verdad importa. Y no hace falta tener la certeza de que saldrá bien: muchos de los sacrificios que más admiramos se hicieron sin saber. Basta con creer, confiar o esperar con honestidad, sin cerrar los ojos a lo que uno sabe.
@@ -167,7 +179,7 @@ Para que quede junto y a la vista:
 - De qué está hecho Dios, si es que la pregunta tiene sentido.
 - Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
-- Si hay vida después de la muerte. Ha pasado de ser una pregunta aparte a ser una pieza necesaria: sin ella no cierra lo anterior. Es lo siguiente que tengo que estudiar.
+- Cómo podría alguien seguir siendo el mismo después de la muerte. Que haya algo después es coherente y está al alcance de Dios; que sea yo y no una copia depende de qué somos, y eso no lo he decidido.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 
@@ -194,6 +206,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C227–C230, C244; S21, S32–S33 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C237–C244; S33; CH14, CH16 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad queda abierta | C245–C251; S34; CH16, CH17 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C231–C235; S20, S30 |
 | Experiencia real o ilusión | aceptado | C232–C233; S30 |

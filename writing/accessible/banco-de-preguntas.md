@@ -61,8 +61,8 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C237–C244; S33 (coberturas de política; el resto depende de P31) | CH14, CH16 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |
-| P30 | ¿Existe el infierno? | `parcial` | C208–C209 (interpretación provisional como privación de comunión) | — |
-| P31 | ¿Hay vida después de la muerte? | `abierta` | C243; promovida a pregunta del tronco por S33; requiere identidad personal, E+ y el sujeto encarnado de S29 | CH16 |
+| P30 | ¿Existe el infierno? | `parcial` | C208–C209, C251 (privación de comunión como caso negativo de la continuación; no impuesta) | CH16 |
+| P31 | ¿Hay vida después de la muerte? | `parcial` | C245–C251; S34 (coherente, al alcance de Dios, no decidida por la ciencia, condicional a la bondad hacia lo que sentimos; la identidad queda abierta) | CH16, CH17 |
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
 
 ## E. Experiencia
@@ -90,4 +90,4 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P27 | Orientación divina hacia lo que los seres conscientes sienten | S33: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |
 | P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S30: acceso experiencial, tres casos de veracidad, estatuto epistémico |
 | P14 | Constitución divina | CH12; tarea activa del tronco |
-| P31 | Supervivencia personal | CH16; S33 la convierte en pieza necesaria para cerrar el hueco P; candidata a próxima sesión |
+| P31 | Supervivencia personal | S34: coherente bajo todos los modelos abiertos del sujeto, dentro del poder de Dios como acto adicional, no decidida por la evidencia, condicional a la bondad hacia lo que sentimos; la identidad a través de la muerte queda como CH17 |

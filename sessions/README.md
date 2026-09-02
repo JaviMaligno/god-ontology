@@ -34,3 +34,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S26 — Ontological priority and epistemic boundaries](2026-09-01-ontology-priority-and-epistemic-boundaries.md)
 - [S27 — The minimal axiological interface](2026-09-01-minimal-axiological-interface.md)
 - [S28 — Long-term preference, privative evil, and divine substance](2026-09-02-long-term-fit-privation-and-divine-substance.md)
+- [S29 — Embodied agency and decision episodes](2026-09-02-embodied-agency-and-decision-episodes.md)

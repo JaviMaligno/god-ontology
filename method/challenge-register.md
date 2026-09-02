@@ -43,10 +43,13 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH10 | Which conscious capacities ground welfare, projects, norm construction, responsibility, and moral status, and why should differences in one role affect another? | consciousness, welfare, agency, moral status, development | `scoped` |
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `scoped` |
+| CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
 
 ## Priority gate after S26
 
 Ontology governs the active sequence. S27–S28 complete the current interface response to CH08 and the metaphysically required part of CH11: long-term orientation must receive positive defeasible priority, although a complete strong-longtermist doctrine is not required. Moral-status gradation, population aggregation, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them. CH12 now has priority because it joins the already load-bearing OEC/PMC gap.
+
+S29 gives CH13 a local F2 response without displacing CH12: action belongs to an embodied subject across a decision episode; neural preparation and reported awareness do not by themselves locate settlement; and sufficient pre-conscious settlement remains a genuine token-level defeater.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -202,3 +205,17 @@ The ordinary-language question “What is $G$ made of?” decomposes into severa
 The principal competitors are a non-composite non-material source, a structured non-material divine substance, an *ex deo* continuity model, and an independent or co-fundamental material substrate. The first preserves ultimity and current non-spatiality most directly but owes positive content and a cross-category production account. Internal structure may explain powers more naturally but can threaten unity if its elements require a deeper ground. *Ex deo* supplies continuity but risks making created matter a modification or part of $G$. An external substrate gives material production an input but weakens $G$'s ultimity and existential sovereignty.
 
 Calling “made of” a category error is a possible conclusion only after explaining why composition and substrate language fail or apply analogically. The next F2 pass should therefore develop divine constitution together with OEC/PMC rather than treating matter generation as an isolated causal puzzle.
+
+## CH13 — Embodied preparation and conscious settlement
+
+The challenge must separate temporal precedence from causal sufficiency. Readiness signals, changes in motor probability, and above-chance predictions may be stages within the embodied agent's realization rather than decisions produced by a rival subpersonal agent. Conversely, if the complete subpersonal state independently entails the outcome before any integrated conscious contribution, later awareness cannot rescue conscious libertarian authorship for that token.
+
+Tests should vary arbitrary versus reasoned choice, prospective versus retrospective reports of intention, reversible versus irrevocable preparation, veto opportunities, skilled automatic action, affect-driven choice, neurological dissociations of movement and ownership, and predictions ranging from barely above chance to outcome-entailing. The explicit bridge under test is:
+
+\[
+NeuralPrecursor(n,a,t)\land SufficientlySettles(n,a,t)
+\Rightarrow
+\neg ConsciousFree(A,a,\delta),
+\]
+
+not the weaker inference from precursor to settlement. S29 prefers a unified embodied subject and an episodic action model while leaving reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open. It also leaves open whether a wholly non-conscious embodied exercise can satisfy a weaker minimal libertarian category.

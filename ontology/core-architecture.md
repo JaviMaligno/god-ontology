@@ -253,7 +253,7 @@ The project distinguishes four roles that must not be packed into one predicate:
 PCon(A,t),\quad ACon(A,p,t),\quad SCon(A,t),\quad AgCon(A,a,t).
 \]
 
-$PCon$ is phenomenal subjectivity or what the experience is like for $A$; $ACon$ is a content's availability for reasoning and flexible action-guidance; $SCon$ is at least minimal self-representation; and $AgCon$ is the participation of phenomenal and practically accessible contents in the subject's originating exercise. These are working functional distinctions, not yet a theory of how consciousness is metaphysically realized.
+$PCon$ is phenomenal subjectivity or what the experience is like for $A$; $ACon$ is a content's availability for reasoning and flexible action-guidance; $SCon$ is at least minimal self-representation; and $AgCon$ is the non-epiphenomenal participation of phenomenal and practically accessible contents in the embodied subject's control or originating exercise before or during settlement. These are working functional distinctions, not yet a theory of how consciousness is metaphysically realized.
 
 Phenomenal consciousness is causally neutral by definition. A conscious experience may therefore be sufficiently settled by its antecedents:
 
@@ -270,7 +270,34 @@ PCon(A,t)\land \exists p\,ACon(A,p,t)\land Originates(A,a,t)
 \land C_A^-\not\models Settles(A,a,t).
 \]
 
-$AgCon$ records the causal and practical participation of consciousness; $Originates$, rather than consciousness alone, carries the irreducible sourcehood claim. This keeps the account from defining freedom into phenomenal consciousness while excluding a merely epiphenomenal witness from the preferred model of free action.
+$AgCon$ records the causal and practical participation of consciousness; $Originates$, rather than consciousness alone, carries the irreducible sourcehood claim. This keeps the account from defining freedom into phenomenal consciousness while excluding a merely epiphenomenal witness from the preferred model of free action. S29 replaces the image of a punctual conscious decision with a temporally distributed episode $\delta=[t_0,t_m]$:
+
+\[
+Originates(A,a,\delta),
+\qquad
+RB_A(\delta)=\langle N_A,Phys_A,Aff_A,SM_A,Con_A\rangle.
+\]
+
+$RB_A$ records neural, wider physiological, affective, sensorimotor, and conscious contributions without claiming that these are exhaustive or independent substances. The action belongs to the temporally persisting subject; consciousness, the brain, and the body are not automatically separate inner agents.
+
+Within $\delta$, preparation or bias, conscious access, agentive settlement, motor execution, and retrospective ownership can occur at different times. If $t_r$ is readiness-signal onset, $t_w$ reported awareness, $t_s$ settlement, and $t_m$ movement onset, then:
+
+\[
+t_r<t_w<t_m\not\Rightarrow t_s=t_r,
+\qquad
+Prepares(q,A,a,t)\not\Rightarrow Settles(q,a,t).
+\]
+
+Consciousness need not supply the earliest causal contribution. It may apprehend reasons, evaluate or endorse an urge, sustain attention, veto or revise a developing intention, or guide execution while control remains open. It must nevertheless enter non-epiphenomenally before the outcome is irrevocably fixed if the token is to count as consciously free:
+
+\[
+ConsciousFree(A,a,\delta)
+\Rightarrow
+EmbodiedUnity(A,\delta)\land Originates(A,a,\delta)
+\land |\mathcal O_A(C^-_{\delta})|\geq2
+\land \neg(C^-_{\delta}\models Settled(A,a))
+\land \exists p,t\in\delta\,[ACon(A,p,t)\land CausalControl(p,A,a,\delta)].
+\]
 
 The intervention model already represents a temporal agent's deliberative situation as:
 
@@ -296,29 +323,29 @@ This combines four roles:
 3. **motivational appropriation:** the agent acts for considerations it takes as reasons;
 4. **settling efficacy:** the exercise of agency makes a causal contribution to which option becomes actual.
 
-Consciousness alone is not sufficient for freedom: an aware but compelled or sufficiently caused movement can remain unfree. Consciousness is also not epiphenomenal in a free act, because the subject's settling must contribute causally rather than merely accompany a decision produced elsewhere.
+Consciousness alone is not sufficient for freedom: an aware but compelled or sufficiently caused movement can remain unfree. Consciousness is also not epiphenomenal in a consciously free act, because it must contribute to control or settlement rather than merely accompany a decision produced elsewhere. Organismic behaviour, embodied agentive action, and conscious reason-guided free action are therefore distinct; whether a wholly non-conscious embodied exercise can satisfy minimal libertarian freedom remains open.
 
-Taking a consideration as a reason is an aspect of the agent's act, not necessarily a prior choice requiring another inner chooser. The ontology therefore attributes settling to the whole agent:
+Taking a consideration as a reason is an aspect of the agent's act, not necessarily a prior choice requiring another inner chooser. The ontology therefore attributes settling to the whole embodied agent:
 
 \[
 Settles(A,a),
 \]
 
-not to a homunculus, a detachable faculty, or “consciousness” treated as a second agent inside $A$.
+not to a homunculus, a detachable faculty, “consciousness,” or “the body” treated as a second agent inside $A$.
 
 Reasons-responsiveness is a capacity to apprehend considerations, assess their relevance, and act for them across varying situations. It is not a single-valued policy from reason profiles to actions. Its modal analysis uses what the agent can take as a reason and can originate; it does not restore pre-actual truths about what the agent would select.
 
 This also separates freedom from rational quality. Sourcehood and alternatives determine whether an act is free in the minimal libertarian sense. The fit between motivating reasons, evidence, values, and the act determines how rational, coherent, or responsible it is. A free act can therefore be weakly reasoned, mistaken, akratic, or impulsive.
 
-A stochastic or neural description may realize, constrain, or predict aspects of $D_A(t)$ without automatically replacing the agent:
+A stochastic, physiological, or neural description may realize, constrain, prepare, or predict aspects of $D_A(t)$ without automatically replacing the agent:
 
 \[
 Realizes(n,\Pi_A)\not\models SufficientCause(n,a).
 \]
 
-If the complete event-level base sufficiently settles $a$ independently of the agent's exercise, the token act fails this model's freedom condition. If neural processes realize the agent's capacities without independently settling the outcome, they need not be competing causes. The choice among reductive, non-reductive, dual-aspect, or substance-based accounts of mind remains open.
+If the complete event-level base sufficiently settles $a$ independently of the integrated agent's exercise before conscious causal control, the token fails this model's conscious-freedom condition. If bodily and neural processes constitute or realize the agent's capacities and exercise without independently settling the outcome, they need not be competing causes. Temporal precedence, correlation, and above-chance prediction do not establish sufficient settlement without a bridge premise. The choice among reductive organismic, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist accounts remains open; subject-level unity does not by itself prove a third component beyond mind and body.
 
-For $G$, replace the temporal $D_A(t)$ with an atemporal field of comprehended possibilities and reasons. The common functions remain subject unity, apprehension, reason-guidance, and efficacious settling; temporal deliberation, memory, emotion, habit, and bodily realization belong only to some created implementations.
+For $G$, replace the temporal $D_A(t)$ and decision episode with an atemporal field of comprehended possibilities and reasons. The common functions remain subject unity, apprehension, reason-guidance, and efficacious settling; temporal deliberation, memory, emotion, habit, neural preparation, motor execution, and bodily realization belong only to some created implementations.
 
 The biconditional expresses logical and grounding dependence, not temporal succession. It is a semantic constraint rather than yet a theory of the cognitive mechanism. It separates two modal claims:
 
@@ -1199,4 +1226,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. The active sequence now returns to the ontological trunk through divine constitution and the production of matter, joining the new “what is $G$ made of?” challenge to OEC/PMC.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. The active sequence now returns to the ontological trunk through divine constitution and the production of matter, joining “what is $G$ made of?” to OEC/PMC.

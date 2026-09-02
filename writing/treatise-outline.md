@@ -67,7 +67,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why indeterminism is not yet freedom
     - Phenomenal, access, self, and agentive consciousness
     - Determined conscious states and token-relative freedom
-    - Conscious participation, practical access, and originating sourcehood
+    - The unified embodied subject rather than a mental or bodily homunculus
+    - Decision episodes: preparation, access, control, settlement, execution, and retrospective ownership
+    - Why a neural precursor is not yet a completed decision
+    - Conscious participation without requiring consciousness to be the first causal event
+    - Organismic behaviour, embodied agency, and conscious reason-guided freedom
+    - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles
 14. **Actuality and Possible Histories**

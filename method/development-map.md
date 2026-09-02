@@ -56,7 +56,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
 | Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
 | Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 closed with local F2 repair | leave active spine | further F2 only if ontologically load-bearing | S27–S28 supply $\mathcal A_{min}$, decomposed $Fit_*$, due-good privation, epistemically modest sacrifice, positive long-term preference, species continuity, and provisional $G$-grounding; complete longtermist and detailed ethical theories remain optional |
-| Mind–body realization of agency | lateral support | F1 with local F2 constraints | defer | undecided; F3 only if load-bearing | S07 and S22 keep reductive, non-reductive, dual-aspect, and substance realizations open while excluding epiphenomenal consciousness from free action |
+| Mind–body realization of agency | lateral support | F1 with local F2 episode model | defer after S29 | undecided; F3 only if load-bearing | S07, S22, and S29 prefer unified embodied agency, distinguish preparation from settlement and conscious control, and keep reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
@@ -67,6 +67,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 4. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
 5. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
 6. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
+7. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
 
 ## Depth-control rules
 

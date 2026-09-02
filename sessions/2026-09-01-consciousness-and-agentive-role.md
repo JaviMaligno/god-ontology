@@ -8,7 +8,7 @@
 
 ## Starting position
 
-The project treats created free agents as conscious originating subjects, but “consciousness” has so far covered several different properties. The preferred clarification is that phenomenal consciousness can coexist with causal determination of some experiences. Libertarian freedom requires a further agentive relation: a conscious subject originates the token act under live alternatives without sufficient prior settlement.
+The project treats created free agents as conscious originating subjects, but “consciousness” has so far covered several different properties. The preferred clarification is that phenomenal consciousness can coexist with causal determination of some experiences. Libertarian freedom requires a further agentive relation: a conscious embodied subject originates the token act under live alternatives without sufficient prior settlement. S29 later clarifies that this is a distributed episode rather than necessarily one punctual conscious event.
 
 ## Consciousness layers
 
@@ -17,7 +17,7 @@ The project treats created free agents as conscious originating subjects, but �
 | $PCon(A,t)$ | There is a unified first-person phenomenal field for $A$ at $t$: something it is like for $A$ to undergo its current experience. | required for the project's conscious subject, insufficient for freedom |
 | $ACon(A,p,t)$ | Content $p$ is available to $A$ for reasoning, deliberation, report where applicable, or flexible guidance of action. | can guide action, insufficient for originating it |
 | $SCon(A,t)$ | $A$ represents itself, at least minimally, as the subject of some states or actions. | supports reflective agency but need not occur explicitly in every free act |
-| $AgCon(A,a,t)$ | Phenomenal and practically accessible contents participate in $A$'s own originating exercise producing act $a$. | agentive use of consciousness, not a synonym for consciousness as a whole |
+| $AgCon(A,a,t)$ | Phenomenal and practically accessible contents participate non-epiphenomenally in $A$'s control or originating exercise before or during settlement of act $a$. | agentive use of consciousness, not a synonym for consciousness as a whole or its earliest causal event |
 
 The definitions do not decide whether phenomenal consciousness reduces to functional access, neural realization, a non-reductive property, a dual aspect, or a substance-level feature.
 
@@ -44,7 +44,7 @@ PCon(A,t)
 \land C_A^-\not\models Settles(A,a,t).
 \]
 
-The access-conscious content $p$ can influence, motivate, or render $a$ intelligible without sufficiently producing it. $AgCon$ says that consciousness is causally and practically involved in the whole agent's exercise; $Originates$ carries the irreducible sourcehood claim.
+The access-conscious content $p$ can influence, motivate, or render $a$ intelligible without sufficiently producing it. $AgCon$ says that consciousness is causally and practically involved in the whole agent's exercise before or during settlement; $Originates$ carries the irreducible sourcehood claim. S29 replaces the simplified instant $t$ with an episode $\delta$ when timing becomes load-bearing.
 
 ## Why not define consciousness as free?
 
@@ -89,6 +89,7 @@ CH03 remains stronger: truth-complete knowledge that $A$ has experience $c$ may 
 | Access-conscious reasons determine whatever action follows | Rejected; availability and influence do not entail sufficient settlement |
 | Phenomenal consciousness can be epiphenomenal in a free act | Rejected for this model; conscious contents must participate in the agent's efficacious exercise |
 | Every free act requires explicit self-reflection | Rejected; $SCon$ can support agency without being occurrently represented in every act |
+| Bodily or neural preparation begins before reported awareness | Compatible unless the precursor independently and sufficiently settles the outcome; S29 distinguishes preparation, conscious control, settlement, execution, and report |
 
 ## Decisions
 
@@ -98,7 +99,7 @@ CH03 remains stronger: truth-complete knowledge that $A$ has experience $c$ may 
 | Define phenomenal consciousness as intrinsically undetermined | rejected | It would make the freedom argument circular and overgeneralize openness to every experience |
 | Require phenomenal subjectivity in the project's free agent | preferred | The intended source is a genuine subject, not merely an information-processing locus |
 | Require access/practical availability for reason-guided free action | preferred | Reasons must be available to guide the whole agent's exercise |
-| Require consciousness to participate causally in free action | preferred | Prevents consciousness from becoming an epiphenomenal witness |
+| Require consciousness to participate causally before or during settlement of consciously free action | preferred; refined in S29 | Prevents consciousness from becoming an epiphenomenal witness without requiring it to initiate the earliest bodily or neural preparation |
 | Settle the metaphysical realization of consciousness | deferred | Reductive, non-reductive, dual-aspect, and substance accounts remain open |
 
 ## Literature and novelty notes

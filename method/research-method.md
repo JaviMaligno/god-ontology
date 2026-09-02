@@ -190,8 +190,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 16. Compare hybrid welfare constructivism, creature-only construction, and necessary divine-source fit. S25 prefers an objective-anchor hybrid at the functional level while leaving its ultimate metaphysical realization open.
 17. Close the minimal axiological interface with only the anchors needed for good and evil, sacrifice, long-term preference, species continuity, and relation to $G$. Completed at F1 in S27.
 18. Apply the requested local F2 repair: make long-term preference positive, replace informational thresholds with an epistemic-orientation profile, decompose $Fit_*$, and formulate evil through due-good privation. Completed in S28.
-19. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Current task.
-20. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-21. Select the remaining genuinely fragile junctions—qualified-power blockers, interpersonal knowledge, cumulative agency, and any residual creation gap—for F2–F3 treatment.
-22. Run the dedicated literature, provenance, and novelty pass.
-23. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+19. Repair the consciousness model for embodied and potentially pre-conscious decision processes: distinguish preparation, access, settlement, execution, and report while attributing sourcehood to the whole subject. Completed at local F2 in S29; realization remains open.
+20. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Current task.
+21. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+22. Select the remaining genuinely fragile junctions—qualified-power blockers, interpersonal knowledge, cumulative agency, and any residual creation gap—for F2–F3 treatment.
+23. Run the dedicated literature, provenance, and novelty pass.
+24. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

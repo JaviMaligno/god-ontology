@@ -155,6 +155,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why $OMP_C$ is better supported than unrestricted $OMP_Q$
     - The universal-range problem: $CP_G$, $CC_G$, $HI_G$, and task-domain exhaustion
     - Modal-source bridge: independent possibility, invariant source, essential power, and choice accessibility
+    - Actual uniqueness versus conditional modal ultimity
+    - Modal grounding coverage, unique underived source, and the grounding–origin link
+    - Why source invariance permits worlds with no creation
+    - Ultimate origin versus direct $OEC^+$ and derivative producers
+    - The B2r/B2d repair and its remaining abductive burden
     - Specification transparency and the danger of defining plenitude into $P_{OEC}$
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
     - The exact-copy paradox and derivative near-copies

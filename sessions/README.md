@@ -44,3 +44,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S36 — Consciousness production, time, and person](2026-09-02-consciousness-production-time-and-person.md)
 - [S37 — Priority discipline and consciousness realization](2026-09-02-priority-and-consciousness-realization.md)
 - [S38 — Created possibility and intentional content](2026-09-02-created-possibility-and-intentional-content.md)
+- [S39 — Modal source invariance](2026-09-02-modal-source-invariance.md)

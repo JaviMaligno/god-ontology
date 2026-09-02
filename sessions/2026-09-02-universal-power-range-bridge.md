@@ -228,7 +228,7 @@ No such exhaustive action ontology has yet been demonstrated.
 
 | Route | Fit with current architecture | Result |
 | --- | --- | --- |
-| modal-source bridge | high | strongest conditional route to creative plenitude; B1 and B2 remain open |
+| modal-source bridge | high | strongest conditional route to creative plenitude; B1 and B2 were open here, with B1 supplied in S38 and B2 repaired into preferred B2r plus open B2d in S39 |
 | specification transparency | high | useful abductive support; universal content-neutrality unproved |
 | absence or ground of limits | medium | supports preference but does not supply missing capacities |
 | Aquinas's infinite actuality/perfection | conditional | genuine historical bridge, but relies on unadopted premises |
@@ -252,6 +252,14 @@ The next trunk task remains CH03. The power bridge stays on the selective F3 lis
 The author agrees that the possibility of $S$ should be metaphysically definable and also accepts the need to justify modal sole-source invariance. S34 records this as an explicit constraint on C48: imaginability, formal description, and divine capacity must not be used interchangeably, and $Poss_C^{ind}(S)$ remains a genuine metaphysical-definition task.
 
 S38 later gives B1 a preferred F2 realization through constitutive-admissibility actualism. Logical and identity constraints, constitutive profiles, power-profile coherence, global compossibility, and created-dependence conditions now fix the working truth condition without containing $CanCreate(G,S)$. This removes the local power-relative circularity but leaves B2, modal sole-source invariance, as the nearest unresolved premise; the bridge and $CP_G$ are therefore still incomplete.
+
+S39 then tests B2 and finds that the original formula using $OEC^+$ was too strong for source uniqueness alone. The preferred F2 repair is B2r, conditional modal ultimity:
+
+\[
+\Box\forall C[(Exists(C)\land FundCreatedBasis(C))\rightarrow UltimateOrigin(G,C)].
+\]
+
+This is an abductive modal extension of the one-ground architecture, not a deduction from actual $U_G$ or necessary existence. It permits no-creation worlds and derivative producers. A separate B2d directness premise is still needed to infer immediate $OEC^+$; B3, B4, and specification transparency must now be recombined without defining $CanCreate(G,S)$ into the witnessing condition.
 
 ## Literature notes
 

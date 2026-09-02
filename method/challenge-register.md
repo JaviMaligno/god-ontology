@@ -48,6 +48,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
+| CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
 
 ## Priority gate after S26
 
@@ -57,7 +58,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29, and its proposals were accepted by the author's subsequent advance. S38 then executes the queued $Poss_C^{ind}$ pass and integrates CH14. New questions enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29, and its proposals were accepted by the author's subsequent advance. S38 then executes the queued $Poss_C^{ind}$ pass and integrates CH14. S39 tests CH17 because modal source invariance was already the next dependency in the active power bridge. New questions enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -350,4 +351,19 @@ S37 completes that F2 comparison, accepted by the author's subsequent “Ok adel
 
 The ultimate phenomenal bridge remains open. A subject-level dual-aspect account is the strongest deeper candidate, while S37 provisionally stops with fundamental phenomenal powers of certain organized subjects. Cross-level causal non-competition, exact onset criteria, and the pre-conscious bearer/person boundary also remain F3 burdens rather than current blockers.
 
-CH16 is therefore locally tested at F2. S38 follows the accepted priority and gives $Poss_C^{ind}$ an F2 constitutive-admissibility account, with CH14 integrated as a test. This makes B1 of S33 locally available while leaving modal sole-source invariance as the nearest unresolved bridge premise.
+CH16 is therefore locally tested at F2. S38 follows the accepted priority and gives $Poss_C^{ind}$ an F2 constitutive-admissibility account, with CH14 integrated as a test. This makes B1 of S33 locally available and leads to CH17.
+
+## CH17 — Alternative ultimate sources across possible creation
+
+S39 tests whether the actual uniqueness and ultimity of $G$ extend across every possible created order. The deduction fails: necessary $G$ can coexist in a formal countermodel with a brute created basis or another underived originative source. Actual $U_G$ and essential $P_{OEC}$ do not eliminate those configurations by themselves.
+
+The project nevertheless prefers conditional modal ultimity at F2:
+
+\[
+\Box\forall C[(Exists(C)\land FundCreatedBasis(C))
+\rightarrow UltimateOrigin(G,C)].
+\]
+
+This is an abductive continuation of the one-ground explanatory architecture. Brute created bases suspend its explanatory demand; a second underived concrete source multiplies ultimate stopping points. Neither alternative is declared formally contradictory. The conditional admits worlds with no creation and different created specifications.
+
+The test also reveals that ultimate sourcehood does not entail immediate $OEC^+$. A derivative producer can act proximately while its existence and powers terminate in $G$. CH17 is therefore locally tested at F2, while a separate directness/specification-accessibility bridge remains active before creative plenitude can be claimed.

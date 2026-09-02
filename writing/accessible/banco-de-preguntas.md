@@ -37,7 +37,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
 | P14 | ¿De qué está hecho Dios? ¿Y cómo puede algo así producir materia? | `respondida` | C222–C238, C324–C333; S30–S31, S40 (queda abierto cómo opera el poder de hacer existir) | CH12 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
-| P16 | ¿Por qué creó Dios el mundo? | `parcial` | C104–C113; S18 (no se pretende conocer el motivo real, C113) | CH02 |
+| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C358–C363; S18, S45 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
 
 ## C. Libertad, conocimiento e intervención

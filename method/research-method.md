@@ -221,4 +221,5 @@ These modules remain conditional on the upstream case for a necessary agent. The
 40. Run a section-level coherence audit of the trunk from S30 to S42. Completed in S43: no contradiction; C320 discharged, C350 recorded, accessible omnipotence rendering corrected; creative reason (S18) identified as the weakest load-bearing link.
 41. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity.
 42. Define identity and map its impact: numerical identity, individuation, persistence, and identification, scoped by kind, with the modules that depend on them. Completed at F2 in S44.
-43. Give creative reason (S18) a selective F2 pass or begin the consolidation of Parts III–IV. Proposed next task.
+43. Give creative reason (S18) a selective F2 pass: typed reasons, eligibility filter, attraction order, the requiring reading of the agency reason, and the relocation of the P-gap to the reason profile. Completed in S45.
+44. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Proposed next task; alternatively begin the consolidation of Parts III–IV.

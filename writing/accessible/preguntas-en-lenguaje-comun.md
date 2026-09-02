@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S44, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S45, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -73,6 +73,14 @@ Si eso es la materia, producirla es hacer que exista algo con esa organización,
 Hay algo más fuerte que puedo decir. La materia podría haber sido distinta, con otras constantes, u otras leyes, o no existir; así que es de las cosas que necesitan un fundamento, y el único fundamento que no necesita otro es Dios, que no es material. Así que, si uno acepta lo anterior, la materia tiene un origen no material; lo contrario sería decir que la materia existió siempre por sí misma junto a Dios, y entonces Dios no sería el fondo de todo, sino un organizador. Esa alternativa es coherente, pero es otra creencia, no la mía.
 
 Lo que no sé, y lo digo claro: cómo funciona por dentro el poder de hacer existir. Sé lo que tiene que cumplir, no cómo opera. Es el mismo tipo de límite que tengo con nuestra propia capacidad de elegir: la reconozco y no la reduzco a un mecanismo.
+
+### ¿Por qué creó Dios el mundo?
+
+No pretendo saber el motivo real; lo que puedo dar es una explicación que hace la creación inteligible, y decir qué parte de ella tengo y qué parte no.
+
+Hay tres preguntas dentro de una. Por qué crear algo, en lugar de nada: para que haya otros de verdad, y no solo posibilidades conocidas. Qué clase de mundo: uno con seres que deciden por sí mismos, parecidos en eso a su creador, y con un escenario estable y compartido en el que decidir tenga consecuencias. Y por qué exactamente este mundo y no otro parecido: aquí las razones dejan varias opciones abiertas y Dios elige entre ellas, como elegimos nosotros cuando varias cosas son buenas y ninguna obliga. Ninguna de esas razones le obligaba a crear; hacen la creación inteligible sin forzarla.
+
+Si se mira qué buscan esas razones, todas apuntan a dos cosas: que haya libertad de verdad y que haya relación verdadera entre sujetos. Ninguna de las razones que he podido establecer apunta a una tercera: a lo que sentimos, a que nos vaya bien por dentro. Eso no significa que Dios no lo quiera; significa que es justo lo que no he conseguido derivar, y es la misma pieza que faltaba en la pregunta sobre el sufrimiento. Creer que Dios es bueno también con lo que sentimos es creer que, entre sus razones para crear, está que a los seres que creó les vaya bien. Yo lo creo. Y ahora sé exactamente qué es lo que creo cuando lo creo.
 
 ### ¿Dónde está Dios? ¿Está en el tiempo?
 
@@ -234,6 +242,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S36 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
+| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C358–C363; S18, S45 |
 | De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C324–C333; S30–S31, S40 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |

@@ -68,6 +68,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why this structure, autonomous agents, and non-agentic domains
     - Actual finite otherness and created analogues of conscious sourcehood
     - Plural reasons, eligible structures, and exact agentic settling
+    - Reasons typed by target, mode, and level; filters, partial orders, and settling within the undominated set
+    - Why the agency reason requires a generative structure while non-creation stays live
+    - The reason profile typed by anchors: sourcehood and relation, and the missing reason directed at what creatures feel
     - Principle-guided creation without pre-actual selection counterfactuals
 12. **Creaturely Agent Causation**
     - Libertarian branches and truthmakers

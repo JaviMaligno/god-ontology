@@ -634,6 +634,20 @@ ReasonSupported(S^*)\land S^*\models f
 
 A physical feature that follows from a reason-supported structure need not receive an additional independent creative reason. Stochastic, agent-originated, and intervention-dependent outcomes require their own typed versions of this relation. Derivative explanation also does not yet establish that every foreseeable consequence is morally justified; that belongs to the goodness branch.
 
+### Creative reason at F2
+
+[S45](../sessions/2026-09-02-creative-reason-typed.md) types each creative reason as $\langle a,\mu,\ell\rangle$ — target, mode, level — and models S18's profile:
+
+\[
+\mathcal E_G=\bigcap_{r\in\mathcal R_G^{req}}Adm_r\cap\{S:Coherent(S)\},
+\qquad
+Und_G=\{S\in\mathcal E_G:\neg\exists S'\,S'\succ_G S\},
+\qquad
+Settles(G,S^*;Und_G).
+\]
+
+Requiring reasons filter, favoring reasons order partially, justifying reasons make creation and non-creation intelligible; $|Und_G|\geq2$ is why reasons do not necessitate the exact structure (C358–C359). The organizing agency reason is requiring at the architecture level, so every eligible $S$ enables autonomous agents and C106 follows (C360). Typing the profile by anchors shows its targets are $S$ and $R$ only, which secures C300 and locates the P-gap in the absence of a P-directed reason (C361–C362); two candidate routes to such a reason remain open (C363). The token and diachronic agency-preservation presumptions and the source cover follow from the requiring sourcehood reason, whose target includes the diachronic level (C364).
+
 ### Materiality as instantiated profile and the status of $PMC_U$
 
 [S40](../sessions/2026-09-02-materiality-as-instantiated-profile.md) pushes the constitution/production result from coherence toward derivation. Matter is a profile:

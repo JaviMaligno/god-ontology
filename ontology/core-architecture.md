@@ -1528,6 +1528,16 @@ GoodOrient_P(G)\Rightarrow\forall B\,[\text{uncovered }s\text{ for }B\Rightarrow
 
 so the two beliefs stand or fall together under C303 (C309). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C310).
 
+### Simple persistence and identity across the gap
+
+[S41](../sessions/2026-09-02-identity-across-cessation.md) discharges the identity burden left by S38 without a criterion. The freedom model's de re identity across histories (C53, S03), whole-agent attribution (C212), and source-indexed contrastive authorship (C33) jointly entail that a created subject's identity is not constituted by continuity:
+
+\[
+Ident(B_1,B_2)\not\equiv PhysCont(B_1,B_2)\lor PsyCont(B_1,B_2)\lor\ldots
+\]
+
+Continuity relations are evidence and normal realization (C331). Under E+ a temporal gap is disconnected location of one object within $\mathfrak R^*$ (C332); re-realization targets $B$ de re, with ACO tracking and the act making the later stage actual (C333); a replica is a distinct identity unit (C334); identity is what matters for a source (C335). Any realization model must respect simple persistence, which disfavors the reductive identification of the subject with its base (C336) while leaving four models live. Open: route choice, wholly unrealized existence, and fission.
+
 ### Experiential access and the two registers
 
 [S34](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C290). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:

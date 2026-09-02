@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S37–S40, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S37–S41, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -156,7 +156,11 @@ Por qué lo creo: porque es lo que hace falta para que Dios sea bueno con quien 
 
 Lo que puedo decir con cierta seguridad: que la idea encaja con todo lo demás que creo, sea lo que sea lo que somos, un cuerpo organizado de cierta manera, algo más que eso, o una unión de las dos cosas; que está al alcance de Dios, porque quien puede hacer existir puede hacer existir de nuevo o mantener en la existencia; y que la ciencia no lo prueba ni lo desmiente. Lo que sabemos es que, mientras vivimos, la conciencia depende del cerebro; de ahí no se sigue que no pueda haber conciencia de otra manera, aunque tampoco hay pruebas de que la haya.
 
-Lo que no sé: cómo seguiría siendo yo. Si lo que hay después es un ser distinto que se me parece, no sirve de nada; tiene que ser el mismo. Y qué hace que alguien sea el mismo a través de la muerte depende de qué somos, y eso no lo he decidido todavía. Es la pregunta que queda.
+Y la pregunta que más pesa: ¿sería yo? Si lo que hay después es un ser distinto que se me parece, no sirve de nada; tiene que ser el mismo. Aquí sí tengo algo que decir, y sale de lo que ya creo sobre la libertad. Lo que me hace ser yo no son las células, que cambian toda la vida, ni los recuerdos, que se pierden y se recuperan, sino ser la misma fuente de mis actos: el que decide. Lo sé porque, para que yo pudiera haber hecho otra cosa, tengo que ser el mismo en la vida que viví y en la que pude vivir, y esas dos vidas se parecen cada vez menos. Así que la identidad no consiste en que una cadena continúe; la cadena es cómo se nota y cómo funciona normalmente, no lo que la constituye.
+
+Con eso, la muerte cambia de aspecto. Que el cuerpo deje de funcionar interrumpe la vida, pero no hay ninguna cadena cuya rotura me termine, porque ninguna cadena me constituía. Y desde el punto de vista de Dios, para quien la historia entera está a la vista, una vida con un hueco es una sola vida con un trozo separado, no un final y un principio de otra cosa. La idea de que un hueco es fatal viene de pensar que solo existe el presente. Si Dios me hace existir de nuevo, me hace existir a mí, porque conoce a cada uno como quien es, no como una descripción; y una copia, por perfecta que fuera, sería otro, y Dios lo sabría aunque nadie más pudiera notarlo.
+
+Lo que no sé: si algo de mí sigue existiendo entre medias o si vuelvo a existir sin más; eso depende de qué somos, y no lo he decidido. Y hay casos límite, como una persona que se dividiera en dos, en los que creo que hay una respuesta pero nadie podría conocerla.
 
 Y lo que no digo: nada sobre cielo, infierno, castigo o cómo sería. Lo que sale del argumento es un papel que algo tendría que cumplir, no una descripción. Dos cosas sí se siguen: que si hay algo después, tiene que estar al alcance de todos, no solo de quienes lo necesitaron; y que no puede ser impuesto. Seguimos siendo libres también ahí, y por eso puede haber quien no lo acepte. Eso es lo único que entiendo por «infierno»: no un lugar, sino no querer la relación que está disponible.
 
@@ -199,7 +203,7 @@ Para que quede junto y a la vista:
 - Cómo opera, por dentro, el poder de hacer existir algo; sé lo que tiene que cumplir, no cómo funciona.
 - Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
-- Cómo podría alguien seguir siendo el mismo después de la muerte. Que haya algo después es coherente y está al alcance de Dios; que sea yo y no una copia depende de qué somos, y eso no lo he decidido.
+- Qué somos exactamente: si algo de mí existe sin cuerpo o si vuelvo a existir sin más. Que lo que me hace ser yo es ser la misma fuente de mis actos sí lo creo con razones; el modo queda abierto.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 
@@ -228,7 +232,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C286–C289, C303; S21, S36–S37 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C296–C303; S37; CH14, CH16 |
-| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad queda abierta | C304–C310; S38; CH16, CH17 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C304–C310, C330–C336; S38, S41; CH16, CH17 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C290–C294; S20, S34 |
 | Experiencia real o ilusión | aceptado | C291–C292; S34 |

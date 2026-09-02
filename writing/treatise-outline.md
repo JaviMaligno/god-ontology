@@ -80,6 +80,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Conscious participation without requiring consciousness to be the first causal event
     - Organismic behaviour, embodied agency, and conscious reason-guided freedom
     - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
+    - Simple persistence: why a source cannot be a continuity chain
+    - Continuity as evidence and realization, not constitution
+    - Why the reductive identification of the subject with its base is disfavored
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles
 14. **Actuality and Possible Histories**
@@ -237,6 +240,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Continuation as intervention or further creative act; why the empirical regime does not decide it
     - Continuation and divine goodness toward valence stand or fall together
     - Universality and co-produced communion; privation as the negative case
+    - Gappy existence under eternalism; de re re-realization and the replica
+    - Fission and the limits of finite identification
     - Faith as the exact content of the belief that no suffering is gratuitous
     - Human judgment versus total-order evaluation
     - Whether robust agency requires difficulty, as an optional layer

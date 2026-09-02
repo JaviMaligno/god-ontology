@@ -238,4 +238,6 @@ These modules remain conditional on the upstream case for a necessary agent. The
 57. Continue the consolidation into Part V (knowledge, time, and freedom). Completed as first-pass prose in S59; no inconsistency found; temporal passage recorded as an open item not needed by the argument.
 58. Incorporate the author's first review of the accessible answers and reconcile with S40–S42. Completed in S60 (C510–C511); no gap in the ontology exposed.
 59. Consolidate Part VI (divine action). Completed as first-pass prose in S61; no inconsistency found; the self-consistency of responsive loops recorded as open and adjacent to $HI_G$.
-60. Consolidate Part VII (further attributes, the P-gap, continuation), or return to the open trunk items ($HI_G$ per C402, the P-reason routes of C489, CH14's remaining parts). Proposed, not promoted (C324).
+60. Test whether the self-consistency of responsive interventions is absorbed by $HI_G$. Completed in S62: not absorbed; closed by well-founded responsiveness (C513–C516) with no new primitive.
+61. Consolidate Part VII (further attributes, the P-gap, continuation). Completed as first-pass prose in S63; no inconsistency found.
+62. Consolidate Part VIII (comparison and evaluation) or Parts I–II, or return to the open trunk items (action-domain exhaustion per C419, the P-reason routes of C489, CH14's remaining parts). Proposed, not promoted (C324).

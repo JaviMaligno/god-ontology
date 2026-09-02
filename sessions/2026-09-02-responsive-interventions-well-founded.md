@@ -96,7 +96,7 @@ The author's S43 corrects S41–S42: a post-gap qualitative match may be the num
 | C515 | — | `preferred` | condition-sensitive policies define a fixed point that WFR makes well founded; self-referential policies are excluded, and they coincide with curation | this session; C460, C464–C465 |
 | C516 | — | `accepted scope result` | the loop problem is not absorbed by $HI_G$; past-directed tasks must satisfy $HistComp_C$ and WFR; S43's “own profile” is thereby specified | this session; C406–C418 |
 | C517 | — | `accepted reconciliation` | S43's recreation/reconstruction terminology adopted; simple persistence (C469) offered as a candidate ground for $GapIdentity_C$ | this session; C403–C405, C469–C473 |
-| S61 finding “possibly absorbed by $HI_G$” | open | corrected: not absorbed; closed by C513–C516 | this session |
+| S61 finding “possibly absorbed by $HI_G$” | open | corrected: not absorbed; closed by C513–C516 | the author asked whether it was really absorbed | this session |
 
 ## Literature and novelty notes
 

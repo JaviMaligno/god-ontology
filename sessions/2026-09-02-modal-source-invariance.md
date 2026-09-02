@@ -258,3 +258,7 @@ Universal divine sourcehood, contingent creation, modal PSR disputes, and the di
 ## Next question
 
 Does essential $P_{OEC}$, together with patient-independence and specification transparency, turn B2r's ultimate source into direct agent-accessible production of every $Adm_C$ specification, or would that still assume the universal range it is meant to derive?
+
+## Later acceptance and continuation
+
+The author's “a por ello” and “continua” accept S39 at its stated F2 and abductive levels under the default-acceptance rule. [S40](2026-09-02-root-creation-and-creative-plenitude.md) closes the bridge locally for essence-compatible root specifications, derives directness from roothood, and replaces universal specification transparency with per-witness fidelity and agent-relative performance.

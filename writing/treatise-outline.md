@@ -190,6 +190,23 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - The B2r/B2d repair and its remaining abductive burden
     - The five-clause definition of independent possibility; sole-source invariance reduced to modal uniqueness of necessary agents; creative plenitude as a conditional theorem
     - Specification transparency and the danger of defining plenitude into $P_{OEC}$
+    - Root-created bases versus derivative domains and delegated producers
+    - Specification fidelity, patient-independence, and manifestation range
+    - Agentic-origin realization and relevant possible-world witnesses
+    - Essence-compatible task eligibility
+    - Qualified creative plenitude $CP_G^{elig}$
+    - Existential grounding, proximate production, substitutive capacity, and exercise
+    - Grounding with sparse direct action $GSDA$
+    - Source-neutral created-order outcomes and causal substitutability $CCS_G$
+    - Positive, persistence-sensitive, and annihilative constitutive control
+    - Modulation, masking, alteration, corruption, replacement, recreation, and annihilation
+    - Why an originative power is not automatically reversible
+    - Atemporal grounding and the problem of temporally bounded relata
+    - Temporal life-sets and direct existential boundaries
+    - Local annihilation versus a terminal boundary of created time
+    - Why annihilation does not positively produce non-being
+    - $P_{ET}$ as a derived range rather than a primitive inverse power
+    - Why type-level constitutive control leaves fixed-history accessibility open
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity

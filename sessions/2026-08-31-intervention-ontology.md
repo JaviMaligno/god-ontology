@@ -188,3 +188,7 @@ AgentNeutral(I)\leftrightarrow\neg AgentRelevant(I).
 \]
 
 Agent-neutral intervention remains compatible with the miracle and providence definitions. The ontology permits it without yet claiming a divine reason for it; purpose belongs to the later treatment of goodness.
+
+## Later constitutive-control integration
+
+[S41](2026-09-02-constitutive-control-and-secondary-causation.md) makes the actual causal distribution explicit. Ordinary derivative effects are proximately produced by created causes rather than immediately by $G$; an immediate post-root divine contribution is a token intervention and therefore remains exceptional to that ordinary rule. Divine capacity to reproduce an eligible source-neutral effect does not imply that the capacity is exercised in the actual history.

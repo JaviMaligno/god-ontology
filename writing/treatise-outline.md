@@ -112,6 +112,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why physical magnitude does not measure source control
     - Restoring, protecting, influencing, and overriding agency
     - Token autonomy and the diachronic ecology of agency
+    - Funnels: real forks, one destination; diachronic option closure
+    - Evaluative authorship and the typed content of manipulation
+    - Rational versus a-rational influence
+    - The diachronic agency-preservation presumption; providence is not curation
+    - Why lowering the prevention threshold is not free
     - Response and intervention under atemporality
 
 ## Part VII — Deriving further attributes

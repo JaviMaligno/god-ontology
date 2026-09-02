@@ -45,3 +45,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S37 — Permission, covers, and the P-gap](2026-09-02-permission-covers-and-the-p-gap.md)
 - [S38 — Personal continuation and bearer horizons](2026-09-02-personal-continuation-and-bearer-horizons.md)
 - [S39 — Materiality as instantiated profile and support for OEC⁺ beyond coherence](2026-09-02-materiality-as-instantiated-profile.md)
+- [S40 — Cumulative context control and the diachronic ecology of agency](2026-09-02-cumulative-context-control-and-agency-ecology.md)

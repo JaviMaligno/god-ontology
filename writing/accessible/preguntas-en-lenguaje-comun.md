@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S37, S38 y S39, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S37–S40, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -91,6 +91,14 @@ Somos libres de verdad, y el que decide es la persona entera, cuerpo y concienci
 Puede intervenir, y crear el mundo ya fue la primera intervención. Un milagro, tal como lo entiendo, es un suceso en el que Dios pone directamente algo que las causas ordinarias no explican por sí solas. No hace falta que rompa ninguna ley ni que sea espectacular ni que se pueda detectar. Lo que no creo es que Dios esté moviendo cada pieza: lo normal es que las cosas pasen por sus causas y por nuestras decisiones. Y cuando interviene, creo que tiende a hacerlo de manera que no nos quite la libertad, porque quitárnosla iría contra una de las razones de que existamos.
 
 Sobre si Dios tiene un plan para mi vida: lo que creo es que hay una historia con sentido de conjunto, en la que Dios ha puesto la estructura y las condiciones, y en la que mis decisiones cuentan de verdad. No creo que sea un guion escrito de antemano. Es más parecido a un tablero preparado con cuidado que a una película ya rodada.
+
+Y puedo decir algo más preciso. Hay una manera de controlar a alguien sin quitarle ninguna decisión: preparar las circunstancias de modo que, elija lo que elija en cada momento, su vida acabe donde uno quiere. Cada bifurcación es real y todos los caminos llevan al mismo sitio. Otra manera es dejarle todos los caminos abiertos pero formarle el gusto y los criterios con los que elige, sin pasar por su razón. En los dos casos la persona decide libremente en cada instante y, sin embargo, la vida entera no es suya. Creo que Dios no hace ninguna de las dos cosas, y no porque no pueda, sino porque haría inútil la razón misma por la que creó seres libres: quería vidas de otros, no vidas suyas con firma ajena. Un plan, en el sentido que creo, es un mundo estable donde lo que hago tiene consecuencias de verdad, razones y ocasiones puestas a mi alcance, y una relación disponible. No un embudo.
+
+### Si nos manipulan, ¿seguimos siendo libres?
+
+Depende de en qué nivel se mire, y la distinción importa. Acto a acto, una persona manipulada por propaganda, por una adicción diseñada para engancharla o por un sistema que decide qué le llama la atención suele seguir eligiendo: tiene alternativas y es ella quien decide. En ese sentido es libre. Pero hay otro nivel: quién es el autor de la forma que va tomando su vida y de los criterios con los que elige. Si alguien ha organizado su entorno de modo que todos los caminos lleven al mismo sitio, o le ha instalado los gustos y los miedos con los que decide, entonces cada elección es suya y la vida no lo es.
+
+No toda influencia es manipulación. Educar, argumentar, dar ejemplo, decir la verdad: todo eso pasa por la razón de la persona y es la única manera en que alguien llega a tener criterio propio. La manipulación es la influencia que no pasa por ahí, y que acumulada acaba haciendo que los criterios sean de otro. La línea es de grado, y saber dónde cae en cada caso es difícil. Pero la diferencia es real, y es la misma que separa a un Dios que respeta la libertad de un titiritero muy sutil.
 
 ---
 
@@ -213,6 +221,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C311–C320; S30–S31, S39 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |
+| Plan para mi vida; manipulación | preferido/aceptado | C18, C119, C321–C329; S40 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |

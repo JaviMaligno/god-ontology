@@ -1206,6 +1206,18 @@ Impact_A(I,A,t)=
 
 This local model leaves a diachronic problem open. Repeated context control may preserve token alternatives while engineering the development, salience, commitments, and long-run authorship of the subject. Later F2 work must therefore test an **agency ecology** in addition to token-act autonomy.
 
+### Cumulative context control and the diachronic level
+
+[S40](../sessions/2026-09-02-cumulative-context-control-and-agency-ecology.md) extends the intervention model from tokens to lives. Let $\pi$ be a curator policy over an agent's deliberative situations and $Prof(A,\tau)$ the agent's profile over an interval. Then:
+
+\[
+\forall t\in\tau\,[TokenAut(A,t)]\land Funnel(\pi,A,\tau,T)
+\;\Rightarrow\;
+CExp(\pi,Prof(A,\tau)\in T,Prof(A,\tau)\in T')\Rightarrow\neg DAuth(A,\tau),
+\]
+
+and independently, cumulative a-rational influence can yield $\neg EvAuth(A,\tau)$ with token autonomy intact. Meaningful agency therefore requires $TokenAut\land DAuth\land EvAuth$ (C324). The agency-preservation presumption extends diachronically (C325): providence is not curation (C326), divine address preserves both levels when it is rational influence (C327), and the source cover of S37 acquires a diachronic cost that explains why lowering the prevention threshold is not free (C328). The ecology conditions are profile-level openness, rational cumulative influence, a stable and truthful environment, opportunity for self-formation, and a real field of consequences (C329).
+
 ### Intervention, miracle, and providence
 
 These belong to different ontological levels:

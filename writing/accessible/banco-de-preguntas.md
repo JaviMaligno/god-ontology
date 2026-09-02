@@ -48,7 +48,8 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P19 | ¿Somos libres de verdad, o decide el cerebro antes que nosotros? | `respondida` | C08, C57, C212–C221; S22, S29 | CH13 |
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C290–C294; S20, S34 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH15 |
-| P22 | ¿Tiene Dios un plan para mi vida? | `parcial` | C18, C119 (providencia como arquitectura, no guion) | — |
+| P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C325–C327; S40 (providencia como tablero preparado, no guion ni embudo) | — |
+| P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C321–C324, C329; S40 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH18 |
 
 ## D. El bien y el mal
 

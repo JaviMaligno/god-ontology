@@ -224,4 +224,5 @@ These modules remain conditional on the upstream case for a necessary agent. The
 43. Give creative reason (S18) a selective F2 pass: typed reasons, eligibility filter, attraction order, the requiring reading of the agency reason, and the relocation of the P-gap to the reason profile. Completed in S45.
 44. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Completed in S46: five-clause definition, non-circularity, B2 reduced to modal uniqueness of necessary agents, creative plenitude conditional.
 45. Answer the author's question on other universes: possible worlds, cosmological multiverses, and plural created orders. Completed at F1 in S47 with one bridge constraint on branching at settlement.
-46. Begin the consolidation pass of Parts III–IV in the treatise, or complete CH14's remaining parts. Proposed next task.
+46. Consolidate Parts III–IV in the treatise. Completed as first-pass prose in S48; no inconsistency found; the P-gap is the single unearned point in the chapter-10 audit.
+47. Continue the consolidation into Part V, or return to the open trunk items. Proposed next task.

@@ -53,3 +53,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S45 — Creative reason at F2: typed reasons, eligibility, and the missing P-reason](2026-09-02-creative-reason-typed.md)
 - [S46 — The modal basis: independent possibility of a created specification](2026-09-02-modal-basis-independent-possibility.md)
 - [S47 — Other universes: possible worlds, cosmological multiverses, and plural created orders](2026-09-02-other-universes.md)
+- [S48 — Consolidation pass of Parts III–IV](2026-09-02-consolidation-parts-iii-iv.md)

@@ -51,4 +51,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S43 — Fixed-history intervention range](2026-09-02-fixed-history-intervention-range.md)
 - [S44 — Action-domain exhaustion and the identity handoff](2026-09-02-action-domain-exhaustion.md)
 - [S45 — Identity, individuation, and persistence](2026-09-02-identity-individuation-and-persistence.md)
-- [S46 — Strict ex deo and mixed constitution after identity](2026-09-02-strict-ex-deo-and-mixed-constitution.md)
+- [S71 — Strict ex deo and mixed constitution after identity](2026-09-02-strict-ex-deo-and-mixed-constitution.md)

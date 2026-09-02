@@ -504,4 +504,4 @@ Should the identity result now be applied first to strict non-destructive *ex de
 
 ## Later resolution
 
-[S46](2026-09-02-strict-ex-deo-and-mixed-constitution.md) applies the identity framework. It rejects partition and whole-subject becoming, separates literal from agential world-body claims, and retains asymmetric non-depleting constitution $ANDC$ as a conditional whole-presence possibility. Because eligible relational $ANDC$ preserves $PP_G$, its production normalizes to a root-created task covered by $CP_G^{elig}$; only genuinely intrinsic divine modes remain for the self-executive audit.
+[S71](2026-09-02-strict-ex-deo-and-mixed-constitution.md) applies the identity framework. It rejects partition and whole-subject becoming, separates literal from agential world-body claims, and retains asymmetric non-depleting constitution $ANDC$ as a conditional whole-presence possibility. Because eligible relational $ANDC$ preserves $PP_G$, its production normalizes to a root-created task covered by $CP_G^{elig}$; only genuinely intrinsic divine modes remain for the self-executive audit.

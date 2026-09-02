@@ -419,11 +419,11 @@ CH18 is therefore tested at F2. The deeper choice between constrained non-criter
 
 ## CH19 — Strict *ex deo* after identity
 
-**Status:** `tested at F2 in S46; intrinsic divine modes remain for the self-executive audit`
+**Status:** `tested at F2 in S71; intrinsic divine modes remain for the self-executive audit`
 
 **Scope:** partition, transformation, world-body, divine-mode, whole-presence, grounding overlap, created otherness, and power normalization
 
-S46 shows that numerical distinction alone is insufficient. A non-destructive overlap case must preserve $PP_G$, avoid partition and depletion, retain the underived direction of dependence, individuate the created bearer through its own origin and unity profile, and prevent bearer constitution from identifying creaturely acts with divine acts.
+S71 shows that numerical distinction alone is insufficient. A non-destructive overlap case must preserve $PP_G$, avoid partition and depletion, retain the underived direction of dependence, individuate the created bearer through its own origin and unity profile, and prevent bearer constitution from identifying creaturely acts with divine acts.
 
 Partition/transfer and whole-$G$ becoming fail that filter. Literal reverse world-body constitution conflicts with current $CT/UPSS$; an agential body reading is coherent but reduces to $RI$. Inflationary grounding overlap remains a rival semantics rather than a consequence of grounding as used in the project.
 

@@ -998,6 +998,17 @@ The remaining bridges stay distinct. Grounding a created relatum does not by its
 
 Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The preferred research direction is therefore the modal-source plus specification-transparency route, retained for F3 rather than treated as a completed proof.
 
+### The modal basis: independent created possibility
+
+[S46](../sessions/2026-09-02-modal-basis-independent-possibility.md) supplies B1 of the range bridge:
+
+\[
+Poss_C^{ind}(S)\leftrightarrow
+Cons_{N_L}(S)\land\mathcal H(S)\neq\varnothing\land Compos(Pow(S))\land Created(S)\land Compat(S,E_G^{ind}),
+\]
+
+with no clause quantifying over divine power and none over imaginability (C365–C366). Createdness excludes impersonal grounds from the created domain, and necessary existence transfers across worlds, so B2 reduces to modal uniqueness of necessary agents, $MUNA$, preferred at $U_D$'s level (C368). Creative plenitude is then a conditional theorem: $MUNA\land B3\land B4\Rightarrow\forall S[Poss_C^{ind}(S)\rightarrow CanCreate(G,S)]$ (C369); $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$ with equality exactly then (C370). Imaginability is defeasible evidence of possibility, never its constitution (C367); the modal status of imagined content is fixed by the definition while CH14's remaining parts stay open (C371).
+
 ## Ontological omnipresence
 
 Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. “External to creation” therefore does not locate $G$ in a second spatial region. The preferred independence claim is **constitutive transcendence**:

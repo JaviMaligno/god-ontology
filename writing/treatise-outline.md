@@ -31,8 +31,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
    - Deduction, abduction, preference, and faith
 5. **Necessity, Possibility, and Ground**
    - Modal vocabulary
-   - Conceivability and its limits
+   - Conceivability and its limits: imaginability as evidence, never constitution
    - What grounds possibility?
+   - Independent possibility of a created specification: consistency, admitted histories, compossible powers, createdness, essence-compatibility
+   - Why possibility must not be defined by divine capacity
 6. **The Adversarial and Provenance Method**
    - Load-bearing objections
    - Ancient and contemporary sources

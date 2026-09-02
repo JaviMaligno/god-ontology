@@ -265,6 +265,8 @@ The imaginative episode may be an actual event in $H^*$ with causal and phenomen
 
 The principal alternatives include intentional content as an immanent feature of the thought, relation to abstract content, relation to a non-existent intentional object, construction from actual representational resources, and direct sensitivity to a power-grounded modal structure. The module must explain reference to impossibilities and fictions as well as accurate representation of possibilities, and it must not infer metaphysical possibility from imaginability alone. It connects directly to consciousness, causal efficacy of thought, MKO, and the independent definition of $Poss_C^{ind}(S)$ required by S33.
 
+S46 supplies the modal-status component: the possibility of imagined content is fixed by $Poss_C^{ind}$ (C365), imaginability is defeasible finite evidence of possibility rather than its constitution (C367), and the act's actuality never confers possibility on its content (C371). The ontology of content, reference to fictions and impossibilities, and the causal efficacy of thought remain open.
+
 ## CH15 — The P-gap and permitted suffering
 
 S37 establishes $GoodOrient_S(G)\land GoodOrient_R(G)$ and finds no established divine disposition toward the valence of created subjects. The challenge is not the classical inference from evil to non-existence, which does not run against a $G$ whose full goodness and unrestricted power are unearned; it is whether the good-oriented profile can be extended to $P$ at all.

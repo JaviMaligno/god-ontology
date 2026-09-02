@@ -244,4 +244,5 @@ These modules remain conditional on the upstream case for a necessary agent. The
 63. Consolidate Part VII (further attributes, the P-gap, continuation). Completed as first-pass prose in S65; no inconsistency found.
 64. Consolidate Part VIII (comparison and evaluation). Completed as first-pass prose in S66; Part VII updated for S44; the branch's identity work offered as a candidate framework (C555).
 65. Consolidate Parts I–II (motivation and method). Completed as first-pass prose in S67, drafted to be overwritten in the author's voice.
-66. Every Part now has first-pass prose. Remaining consolidation work: the appendices and the provenance pass. Proposed, not promoted (C324); the trunk's identity module (C434) is the author's next priority.
+66. Reconcile the question-driven identity results with the author's S45. Completed in S68 (C556): the trunk's two-level account is canonical; the branch's derivation from the agency model is retained as a refinement; two accessible answers revised.
+67. Every Part now has first-pass prose. Remaining consolidation work: the appendices and the provenance pass. Proposed, not promoted (C324); the trunk's next question is S45's.

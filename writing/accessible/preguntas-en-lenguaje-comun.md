@@ -210,7 +210,7 @@ Y la pregunta que más pesa: ¿sería yo? Si lo que hay después es un ser disti
 
 Con eso, la muerte cambia de aspecto. Que el cuerpo deje de funcionar interrumpe la vida, pero no hay ninguna cadena cuya rotura me termine, porque ninguna cadena me constituía. Y desde el punto de vista de Dios, para quien la historia entera está a la vista, una vida con un hueco es una sola vida con un trozo separado, no un final y un principio de otra cosa. La idea de que un hueco es fatal viene de pensar que solo existe el presente. Si Dios me hace existir de nuevo, me hace existir a mí, porque conoce a cada uno como quien es, no como una descripción; y una copia, por perfecta que fuera, sería otro, y Dios lo sabría aunque nadie más pudiera notarlo.
 
-Lo que no sé: si algo de mí sigue existiendo entre medias o si vuelvo a existir sin más; eso depende de qué somos, y no lo he decidido. Y hay casos límite, como una persona que se dividiera en dos, en los que creo que hay una respuesta pero nadie podría conocerla.
+Lo que ahora prefiero pensar, con razones: que no hace falta que nada de mí exista entre medias. Una misma persona puede tener una vida con un hueco, un tramo antes y otro después y nada en medio, con tal de que sea de verdad la misma, con el mismo origen, sin que haya dos a la vez que pretendan serlo, y con una sola historia. No necesito un alma que espere; tampoco la niego, pero no la añado solo para resolver esto. Y hay casos límite, como una persona que se dividiera en dos, en los que la respuesta es que ninguna de las dos es ella si las dos son iguales, y que la que siga su misma vida lo es si solo una lo hace.
 
 Y lo que no digo: nada sobre cielo, infierno, castigo o cómo sería. Lo que sale del argumento es un papel que algo tendría que cumplir, no una descripción. Dos cosas sí se siguen: que si hay algo después, tiene que estar al alcance de todos, no solo de quienes lo necesitaron; y que no puede ser impuesto. Seguimos siendo libres también ahí, y por eso puede haber quien no lo acepte. Eso es lo único que entiendo por «infierno»: no un lugar, sino no querer la relación que está disponible.
 
@@ -220,7 +220,7 @@ Hay cuatro preguntas escondidas en esa, y conviene separarlas. Una es lógica: s
 
 A la segunda: lo que me hace ser yo es ser el quién del que salen mis actos, el que decide, y no ninguna descripción de cómo soy. Podría haber otro exactamente igual que yo, con mis mismos gustos y recuerdos, y sería otro; y, como dije antes, no haría necesariamente lo que yo hago. Así que no hay ninguna lista de rasgos que me identifique; soy este porque soy este.
 
-A la tercera: no son las células, que cambian toda la vida, ni los recuerdos, que se pierden y se recuperan, ni el carácter, que puede cambiar del todo. Son las señales normales de que sigo siendo el mismo, y por ellas me reconocen los demás, pero no son lo que me hace el mismo. Eso vale para las personas, no para todo: un río o un barco son el mismo por continuidad, y no hace falta más. Para alguien que decide hace falta más, porque para poder haber hecho otra cosa tengo que ser el mismo en las dos vidas.
+A la tercera: no son las células, que cambian toda la vida, ni los recuerdos, que se pierden y se recuperan, ni el carácter, que puede cambiar del todo. Son las señales normales de que sigo siendo el mismo, y por ellas me reconocen los demás, pero no son lo que me hace el mismo. Lo que sigue en esta vida es un solo ser vivo: el mismo organismo desde antes de tener conciencia hasta después de perderla, que va cambiando de materia y de recuerdos sin dejar de ser él. «Persona» nombra lo que ese ser llega a poder hacer, no una segunda cosa metida dentro. Y aun así, ser el mismo no consiste en que esa vida continúe: la continuidad explica cómo sigo siendo yo normalmente, pero lo que hace que sea yo, y no otro igual, es que soy este, el mismo que decide. Por eso un río o un barco son el mismo por continuidad y no hace falta más, y para alguien que decide hace falta más: para poder haber hecho otra cosa tengo que ser el mismo en las dos vidas.
 
 A la cuarta: los demás me reconocen por la continuidad, y pueden equivocarse. Dios no: me conoce directamente como quien soy, no por señas. Y ese conocimiento no me hace ser yo; solo lo sabe. Esto es lo que hace que, si Dios me hiciera existir de nuevo, me hiciera existir a mí y no a una copia.
 
@@ -271,7 +271,7 @@ Para que quede junto y a la vista:
 - Cómo opera, por dentro, el poder de hacer existir algo; sé lo que tiene que cumplir, no cómo funciona.
 - Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
-- Qué somos exactamente: si algo de mí existe sin cuerpo o si vuelvo a existir sin más. Que lo que me hace ser yo es ser la misma fuente de mis actos sí lo creo con razones; el modo queda abierto.
+- Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 
@@ -306,8 +306,8 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C462–C465, C479; S21, S48–S49 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C472–C479, C300, C505; S49, S52; CH19, CH21 |
-| Qué me hace ser yo | aceptado: cuatro nociones separadas; individuación como fuente; persistencia simple para sujetos; identificación nunca constitutiva | C514–C520; S55 |
-| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la identidad como misma fuente es preferida y derivada; el modo queda abierto | C480–C486, C506–C512, C321, C484; S50, S53; CH21, CH22 |
+| Qué me hace ser yo | aceptado/preferido: identidad numérica primitiva; en esta vida, un solo ser vivo con una historia organizada; persistencia simple como refinamiento desde la agencia; identificación nunca constitutiva | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la recreación numérica es posibilidad preferida sin nada que persista entre medias | C447–C453, C458–C464, C506–C510, C556; S45, S49, S53, S68; CH21, CH22 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C466–C470; S20, S46 |
 | Dos caminos o uno | dirección del autor; consistente con la comunicación asimétrica y los dos registros | C295–C296, C469, C471, C547; S35, S46, S62 |

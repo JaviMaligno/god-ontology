@@ -49,6 +49,8 @@ Which later relations preserve memory, projects, agency, relationships, responsi
 
 These questions interact but do not collapse. A perfect duplicate may be evidentially indistinguishable while numerically distinct. Severe amnesia may destroy much psychological continuity while the organism remains. Fission may preserve relations that matter while numerical identity fails because identity is one-to-one.
 
+In ordinary language, **persistence** is the continuing temporal career of the same individual through changes such as growth, sleep, matter turnover, injury, and psychological development. It is not a second identity relation that joins temporal stages. Numerical identity states that the individual at the different times is one and the same; the persistence profile explains which changes belong to that one career; reidentification concerns the evidence by which another subject recognizes the career. These normally travel together during a life but can separate in duplication, fission, severe discontinuity, or recreation after non-existence.
+
 ## Absolute primitive numerical identity
 
 Let $=_N$ denote numerical identity. It obeys the ordinary equivalence and substitutivity constraints:
@@ -499,3 +501,7 @@ Primitive numerical identity, animalism, hylomorphism, gappy existence, and resu
 ## Next question
 
 Should the identity result now be applied first to strict non-destructive *ex deo* and divine self-reconstitution, or should the power branch first close the smaller residual taxonomy of self-executive divine actions? The dependency order favors the mixed *ex deo* audit because S45 now supplies the identity side of that previously blocked case.
+
+## Later resolution
+
+[S46](2026-09-02-strict-ex-deo-and-mixed-constitution.md) applies the identity framework. It rejects partition and whole-subject becoming, separates literal from agential world-body claims, and retains asymmetric non-depleting constitution $ANDC$ as a conditional whole-presence possibility. Because eligible relational $ANDC$ preserves $PP_G$, its production normalizes to a root-created task covered by $CP_G^{elig}$; only genuinely intrinsic divine modes remain for the self-executive audit.

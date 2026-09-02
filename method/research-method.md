@@ -208,8 +208,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 34. Test $HI_G$ through fixed-prefix histories, identity and law preservation, autonomous source roles, and terminal-boundary tasks. Completed at F2 in S43 conditional on explicit essential-retention and local prefix-composability bridges.
 35. Test action-domain exhaustion across residual created-order, self-directed, and non-created-relational task types. Completed conditionally in S44 for pure created-directed tasks through $CAN_G$; established self-executive types are separated from self-reconstitution, while their exhaustive range, mixed *ex deo*, non-created concreta, and unrestricted $OMP_Q$ remain open.
 36. Develop identity at F2 as the next promoted trunk module. Completed in S45: absolute primitive identity is combined with anchored hylomorphic-organismic persistence, a one-bearer person-phase interpretation, constrained gappy careers, and distinct divine identity conditions.
-37. Apply $PP_G$ and the distinct-created-relatum requirement to strict non-destructive *ex deo*, then return to self-executive action-range exhaustion.
-38. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-39. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $LPC_G$, self-executive exhaustion, and the F3 consciousness burdens—for selective treatment.
-40. Run the dedicated literature, provenance, and novelty pass.
-41. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+37. Apply $PP_G$ and the distinct-created-relatum requirement to strict non-destructive *ex deo*. Completed in S46: destructive variants are excluded, $ANDC$ is conditionally admitted, eligible relational whole-presence roots normalize under $CP_G^{elig}$, and intrinsic divine modes remain separate.
+38. Test self-executive action-range exhaustion, including intrinsic non-destructive manifestation, without defining task eligibility through omnipotence.
+39. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+40. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, $ANDC$'s deeper constitutive content, $LPC_G$, self-executive exhaustion, and the F3 consciousness burdens—for selective treatment.
+41. Run the dedicated literature, provenance, and novelty pass.
+42. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

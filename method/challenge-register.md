@@ -50,6 +50,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `tested F2` |
+| CH19 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
 
 ## Priority gate after S26
 
@@ -415,3 +416,15 @@ S45 completes the requested F2 pass. Numerical identity is treated as absolute a
 The pre-conscious organism and later conscious agent are one numerical subject, with personhood provisionally treated as a phase or capacity predicate. E+ permits a disconnected $Life_H(x)$, and $GapAdm_K$ constrains primitive cross-gap identity through one origin anchor, essence compatibility, non-branching, and one grounded career. This makes intermittent existence a preferred F2 possibility without using reassembly, copied memory, divine recognition, or a persisting hidden carrier as the identity-maker.
 
 CH18 is therefore tested at F2. The deeper choice between constrained non-criterial identity, origin essentialism, and haecceitism remains optional unless another module requires it. The immediate application is strict *ex deo*, where $PP_G$ narrows self-destruction cases but does not itself resolve constitution or overlap.
+
+## CH19 — Strict *ex deo* after identity
+
+**Status:** `tested at F2 in S46; intrinsic divine modes remain for the self-executive audit`
+
+**Scope:** partition, transformation, world-body, divine-mode, whole-presence, grounding overlap, created otherness, and power normalization
+
+S46 shows that numerical distinction alone is insufficient. A non-destructive overlap case must preserve $PP_G$, avoid partition and depletion, retain the underived direction of dependence, individuate the created bearer through its own origin and unity profile, and prevent bearer constitution from identifying creaturely acts with divine acts.
+
+Partition/transfer and whole-$G$ becoming fail that filter. Literal reverse world-body constitution conflicts with current $CT/UPSS$; an agential body reading is coherent but reduces to $RI$. Inflationary grounding overlap remains a rival semantics rather than a consequence of grounding as used in the project.
+
+The surviving witness is $ANDC$: the whole undivided and intrinsically unchanged $G$ asymmetrically constitutes a distinct dependent $x$. It is retained as a conditional F2 possibility only if constitution adds content beyond ordinary grounding. Its eligible complete root specification normalizes to $RootForm$ and is covered by $CP_G^{elig}$ because no intrinsic divine bearer is reconstituted. Actual creation remains $OEC^+_{CCD}$. A genuinely intrinsic divine mode is not covered by that inference and moves to the next self-executive range audit.

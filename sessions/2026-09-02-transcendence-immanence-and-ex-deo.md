@@ -233,3 +233,7 @@ The transcendence/immanence distinction, causal versus constitutive dependence, 
 ## Next question
 
 Proceed to the F2 qualified-omnipotence blocker analysis. Use the new distinctions to test maximal power over the created order, internally coherent limits imposed by $UPSS$, non-created external limiters, and the status of possible constitutive manifestations.
+
+## Later identity and power resolution in S46
+
+[S46](2026-09-02-strict-ex-deo-and-mixed-constitution.md) applies $PP_G$ to the remaining strict family. Partition/transfer and whole-$G$ becoming fail the current divine identity and constitution profile; literal reverse world-body constitution conflicts with $CT/UPSS$; and an agential reading reduces to $RI$. Asymmetric non-depleting constitution $ANDC$ remains a conditional strict possibility if constitution adds content beyond grounding. Its eligible relational version normalizes to root creation under $CP_G^{elig}$ while actual creation retains $CCD$. Intrinsic divine-mode variants remain for the self-executive audit.

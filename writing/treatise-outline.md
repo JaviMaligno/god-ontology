@@ -210,6 +210,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Self-executive action versus self-reconstitution
     - The divine persistence profile $PP_G$ and de re identity across possible histories
     - Why an exact created divine analogue remains numerically distinct and dependent
+    - Why relational whole-presence creation can normalize to root creation
+    - Why intrinsic divine modes remain a self-executive range question
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Ontology-relative maximality and possible non-created concrete relata
@@ -236,7 +238,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Why a fundamental power is an explanatory stopping point rather than a material mechanism
     - Formal coherence versus demonstrated metaphysical possibility
     - Causal, virtual, participatory, and strict constitutive senses of *ex deo*
-    - Partition, divine-mode, world-as-body, and whole-presence overlap variants
+    - Partition/transfer, whole-subject becoming, divine-mode, world-as-body, and whole-presence variants
+    - The non-destructive filter: $PP_G$, created otherness, dependence direction, and source separation
+    - Asymmetric non-depleting constitution $ANDC$
+    - The constitutive-content test: real overlap or inflated grounding vocabulary?
+    - Actual $CCD$ versus unexercised overlap capacity
+    - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives
 26. **What Could Omnipresence Mean Outside Space?**

@@ -35,7 +35,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root while ordinary created causes genuinely produce later effects within one atemporally known history. S38–S44 support qualified creative plenitude, constitutive control, fixed-history intervention range, and conditional closure of pure created-directed tasks at F2. S45 adds fundamental numerical identity, anchored hylomorphic-organismic persistence, and constrained intermittent existence. Unrestricted omnipotence remains open; the next trunk application is the strict non-destructive *ex deo* boundary.
+The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root while ordinary created causes genuinely produce later effects within one atemporally known history. S38–S44 support qualified creative plenitude, constitutive control, fixed-history intervention range, and conditional closure of pure created-directed tasks at F2. S45 adds fundamental numerical identity, anchored hylomorphic-organismic persistence, and constrained intermittent existence. S46 excludes destructive *ex deo*, conditionally permits non-depleting whole-presence constitution as a capacity, and retains actual creator–creation disjointness. Unrestricted omnipotence remains open; self-executive action range is next.
 
 ## Rebuilding the corpus
 

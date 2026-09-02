@@ -311,3 +311,7 @@ With the power branch stable at F2, return to the next trunk gap: whether ACO's 
 ## Later author confirmation and bridge search
 
 The author accepts the distinction between $OMP_C$ and $OMP_Q$, the qualified treatment of strict *ex deo*, and the proposal to search for the missing universal-range bridge. [S33](2026-09-02-universal-power-range-bridge.md) performs that search without promoting either power claim: it identifies a conditional modal-source route to creative plenitude and separates the further constitutive-control, history-sensitive-intervention, and task-domain-exhaustion burdens.
+
+## Later strict-*ex-deo* resolution in S46
+
+[S46](2026-09-02-strict-ex-deo-and-mixed-constitution.md) supplies the identity-and-constitution test deferred here. Partition and whole-subject becoming are ineligible; literal reverse world-body constitution conflicts with $CT/UPSS$; and $ANDC$ is retained as a conditional non-destructive witness. An independently admissible relational $ANDC$ root is covered by $CP_G^{elig}$ because it preserves $PP_G$ and does not intrinsically reconstitute $G$. Actual $CCD$ remains preferred, and intrinsic divine modes move to self-executive range analysis.

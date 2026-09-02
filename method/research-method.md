@@ -202,9 +202,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 28. Develop $Poss_C^{ind}$ as the next upstream gap and integrate CH14 as an imagination/intentionality test rather than a recency-selected module. Completed at F2 in S38.
 29. Test transworld source invariance without deriving it from actual uniqueness. S39 prefers conditional modal ultimity abductively and separates ultimate sourcehood from direct production.
 30. Close the root-creative bridge without inserting universal range into $P_{OEC}$. S40 derives root directness, requires an agent-relative witness, and establishes $CP_G^{elig}$ at F2 conditional on S39.
-31. Test constitutive control while preserving genuine secondary production. S41 adopts $GSDA$, supports positive and identity-compatible control, and leaves annihilation open because originative power and non-continuous grounding do not supply an inverse operation.
-32. Test existential termination before $HI_G$: compare a distinct $P_{ET}$ with a temporally bounded relatum of atemporal grounding and any required revision to non-continuous dependence.
-33. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-34. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $HI_G$, task-domain exhaustion, and the F3 consciousness burdens—for selective treatment.
-35. Run the dedicated literature, provenance, and novelty pass.
-36. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+31. Test constitutive control while preserving genuine secondary production. S41 adopts $GSDA$ and supports positive and identity-compatible control without universal divine production of later effects.
+32. Test existential termination before $HI_G$. Completed at F2 in S42: bounded relata of atemporal grounding plus outcome-level $CCS_G$ derive $CC_G^{ann}$; $P_{ET}$ is shorthand rather than a new primitive inverse.
+33. Test $HI_G$ through fixed-prefix histories, identity and law preservation, autonomous source roles, and terminal-boundary tasks; do not infer token accessibility from type-level target range.
+34. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+35. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $HI_G$, task-domain exhaustion, and the F3 consciousness burdens—for selective treatment.
+36. Run the dedicated literature, provenance, and novelty pass.
+37. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

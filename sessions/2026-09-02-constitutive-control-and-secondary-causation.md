@@ -181,7 +181,7 @@ $G$ may destroy $x$ and create a qualitatively matching $y$ without thereby maki
 
 The taxonomy prevents three equivocations. Temporarily blocking a manifestation need not remove its power; destroying an organized entity need not annihilate its constituents; and recreating an exact qualitative duplicate need not restore numerical identity.
 
-## Why annihilation remains open
+## Why annihilation remained open in S41
 
 $P_{OEC}$ is an originative existential power. A one-way capacity to give being does not formally entail a power whose terminus is absolute non-being:
 
@@ -245,7 +245,7 @@ No. $G$ grounds the created order, remains causally available to every relatum, 
 | Establish persistence-sensitive control only for $AdmSame$ variations | preferred | Identity and preservation conditions belong to the task rather than constituting external resistance |
 | Infer annihilation from creation | rejected | $P_{OEC}$ is not automatically reversible and non-continuous dependence blocks the simple withdrawal argument |
 | Merge $CC_G$ with $HI_G$ | rejected | Target range and accessibility relative to a fixed history are different modal burdens |
-| Test existential termination next before moving to $HI_G$ | preferred priority | $CC_G^{ann}$ is now the only unresolved constitutive subrange |
+| Test existential termination next before moving to $HI_G$ | historical priority, completed in S42 | $CC_G^{ann}$ was the only unresolved constitutive subrange at the end of S41 |
 
 ## Literature and precedent
 
@@ -271,3 +271,7 @@ The historical positions and the capacity/exercise distinction are established. 
 ## Next question
 
 Can the ontology justify an existential-termination capacity without importing continuous recreation, and can an atemporal grounding relation coherently have a temporally bounded created relatum?
+
+## Later resolution in S42
+
+The author's challenge showed that the open verdict was too cautious. [S42](2026-09-02-existential-boundaries-and-annihilation.md) preserves the rejection of a bare inverse inference from $P_{OEC}$ while deriving $CC_G^{ann}$ from a stronger route: an atemporal grounding relation can ground an independently admissible temporal profile with a terminal boundary, and refined $CCS_G$ ranges over created-order outcomes rather than only positive effects. $P_{ET}$ is therefore derived shorthand, all three type-level $CC_G$ subranges are preferred at F2, and only fixed-history accessibility remains for $HI_G$.

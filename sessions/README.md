@@ -47,3 +47,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S39 — Modal source invariance](2026-09-02-modal-source-invariance.md)
 - [S40 — Root creation and qualified creative plenitude](2026-09-02-root-creation-and-creative-plenitude.md)
 - [S41 — Constitutive control and secondary causation](2026-09-02-constitutive-control-and-secondary-causation.md)
+- [S42 — Existential boundaries and annihilation](2026-09-02-existential-boundaries-and-annihilation.md)

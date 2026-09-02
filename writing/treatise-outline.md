@@ -78,12 +78,18 @@ Working language: English. Research notes may remain bilingual. The outline deli
 14. **Actuality and Possible Histories**
     - Avoiding unnecessary reification of possible worlds
     - The grounding of modal space
+    - Actual imaginative acts versus non-actual intentional contents
+    - Why imaginability does not establish metaphysical possibility
 
 ## Part V — Knowledge, time, and freedom
 
 15. **Actuality-Complete Omniscience**
     - Minimal definition
     - Modal and counterfactual extensions
+    - Epistemic scope versus epistemic mode
+    - Actual subject acquaintance $ASA$
+    - Qualitative discrimination without subject identity or source transfer
+    - ACO, MKO, and ASA as a role-structured epistemic profile
 16. **Agent-Causal Eternalism and Three Kinds of Indexing**
     - The complete actual history
     - Temporal, perspectival, and actuality indexing
@@ -163,8 +169,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Direct intervention without spatial entry or substance sharing
     - Ontological presence versus personal presence
     - Universal personal availability
+    - Subject acquaintance versus vicarious phenomenal representation and token sharing
     - Exercised regard, response, and atemporal address
-    - Shared attention as asymmetrically co-produced
+    - Reciprocal second-personal presence and shared attention as asymmetrically co-produced
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
     - Scope: a minimal axiological interface for the ontology, not a comprehensive ethics

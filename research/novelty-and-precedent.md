@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, qualified power, the creation bridge, agency-respecting providence, personal availability, subject acquaintance and second-personal knowledge, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -22,6 +22,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Eternalism + divine foreknowledge + strong causal libertarianism | Established recent model | Law, Miller & Rasmussen, *Canadian Journal of Philosophy* 54(1). |
 | Eternal divine perspective + created agents' genuine input + non-absolute providence | Established recent model | Katherin Rogers (2025). |
 | ACO as the minimum, with modal knowledge and counterfactual knowledge treated as separable extensions | Synthesis / potentially distinctive formulation | Nearby theories distinguish omniscience, future contingents, and counterfactual knowledge, but this exact layered package and label were not found in the targeted search. |
+| $K_G^{total}=\langle ACO_P,MKO,ASA\rangle$ + co-produced second-personal presence | Established components; project-specific actuality-indexed synthesis | Divine acquaintance, omnisubjectivity, de se cognition, knowledge of persons, empathy, and second-personal knowledge are established. S34 integrates them with E+, actual-marker semantics, creaturely sourcehood, and the UPA hierarchy without requiring phenomenal token sharing. |
 | Generative-structure actualization + asymmetric creaturely co-production + ACO | Synthesis / unassessed as a package | Each component has precedents; a proper search across creation, concurrence, secondary causation, and generative cosmology is still required. |
 | Providence as a global architectural relation rather than a causal mechanism | Synthesis / likely terminological | Closely related to qualified-providence models; distinctness may be expository rather than ontological. |
 | Agency-oriented creative reason → defeasible sourcehood-preserving intervention → qualified providence | Established compatibility family; project-specific typed synthesis | Aquinas relates providence to contingent effects and secondary causes; contemporary qualified-providence models permit libertarian creaturely input. The local contribution is the explicit derivation through feasible options, originable alternatives, capacity effects, source override, and non-agent targets. |
@@ -98,7 +99,17 @@ The project's $Present_O$ is therefore not conceptually novel in its three broad
 
 [Eleonore Stump, “Omnipresence, Indwelling, and the Second-Personal”](https://doi.org/10.24204/ejpr.v5i4.204) explicitly distinguishes spatial or general omnipresence from being present with and to a person. Her account of joint attention also supports separating unilateral availability from significant reciprocal presence. The project adopts the distinction without importing the paper's specifically Christian claims about incarnation or indwelling.
 
-The S20 formulation is best classified as an organizational synthesis. Its potentially useful feature is the allocation of successive levels to already distinct project modules: $OP_A$ supplies ontological presence, $UPA$ supplies personal capacity, providence contains actual divine exercises, agentic co-production supplies reciprocity, and goodness later evaluates communion. Whether ACO must be extended beyond propositional truth-knowledge is an open burden rather than a claimed solution.
+The S20 formulation is best classified as an organizational synthesis. Its potentially useful feature is the allocation of successive levels to already distinct project modules: $OP_A$ supplies ontological presence, $UPA$ supplies personal capacity, providence contains actual divine exercises, agentic co-production supplies reciprocity, and goodness later evaluates communion. S34 now answers its epistemic burden locally through $ASA$ while keeping stronger phenomenal and reciprocal relations separate.
+
+## Subject acquaintance and second-personal knowledge: targeted precedent check
+
+[Travis Dickinson, “God knows: acquaintance and the nature of divine knowledge”](https://doi.org/10.1017/S0034412517000324) argues that standard omniscience accounts concentrate on scope while neglecting the nature of divine knowledge, and develops acquaintance as a direct epistemic relation. This is close precedent for S34's scope/mode distinction, although S34 restricts concrete subject acquaintance through its actuality semantics.
+
+[Linda Zagzebski, “Omnisubjectivity”](https://www.baylor.edu/content/services/document.php/39971.pdf) argues that perfect divine knowledge includes accurate and complete grasp of every creature's first-person perspective. Her empathy model distinguishes perspective-taking from identity with the creature but uses copied or vicarious conscious representation more strongly than S34's minimal $ASA$ requires.
+
+[Eleonore Stump, “Theology and the Knowledge of Persons”](http://hdl.handle.net/20.500.12153/4536) distinguishes knowledge of persons from knowledge-that and places second-personal knowledge centrally in interpersonal theology. S34 preserves that category while distinguishing unilateral subject acquaintance from actual reciprocal second-personal engagement.
+
+No component is novel. The local synthesis is the actuality condition $\neg Actual(A)\rightarrow\neg ASA(G,A)$, the three-role epistemic tuple, non-transfer of a creature's originating sourcehood, and the assignment of reciprocal second-personal presence to asymmetric co-production rather than to omniscience alone.
 
 ## Ontological production: targeted precedent check
 

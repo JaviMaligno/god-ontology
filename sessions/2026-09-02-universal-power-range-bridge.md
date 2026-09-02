@@ -247,6 +247,10 @@ The bridge search improves the architecture without yet proving $OMP_C$ or $OMP_
 
 The next trunk task remains CH03. The power bridge stays on the selective F3 list and should be revisited when the modal ontology or the full action taxonomy is deepened.
 
+## Later author direction
+
+The author agrees that the possibility of $S$ should be metaphysically definable and also accepts the need to justify modal sole-source invariance. S34 records this as an explicit constraint on C48: imaginability, formal description, and divine capacity must not be used interchangeably, and $Poss_C^{ind}(S)$ remains a genuine metaphysical-definition task.
+
 ## Literature notes
 
 - [Aquinas, *Summa Theologiae* I, q. 25](https://www.newadvent.org/summa/1025.htm) derives infinite active power from divine actuality and unlimited being, then extends the range to whatever can have being. The project records the structure without adopting its stronger premises.

@@ -195,8 +195,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 21. Refine the creator–creation boundary before the power analysis. Completed in S31: constitutive transcendence, relational immanence, explicit $CCD$, and four typed senses of *ex deo* separate direct presence from substantial overlap.
 22. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. Completed in S32: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains more provisional, and non-destructive strict-*ex-deo* capacity is conditional on independent coherence.
 23. Search for the non-circular universal-range bridge requested after S32. S33 decomposes $OMP_C$ into creative plenitude, constitutive control, and history-sensitive intervention; the modal-source plus specification-transparency route is the preferred F3 research direction but remains incomplete.
-24. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. This is the current trunk task.
-25. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-26. Select the remaining genuinely fragile junctions—cumulative agency, residual $PMC_U$, strict-*ex-deo* coherence, and the power-range bridge—for F2–F3 treatment.
-27. Run the dedicated literature, provenance, and novelty pass.
-28. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+24. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. Completed locally at F2 in S34 through actuality-indexed $ASA$ and separation from reciprocal second-personal presence.
+25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. This is the current trunk task.
+26. Preserve CH14 on imagination, thought, intentional content, and possibility for a later cross-cutting pass; the eventual modal account must not infer possibility from imaginability.
+27. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+28. Select the remaining genuinely fragile junctions—cumulative agency, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and CH14—for F2–F3 treatment.
+29. Run the dedicated literature, provenance, and novelty pass.
+30. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

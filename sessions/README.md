@@ -38,3 +38,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S30 — The accessible track and the experiential register](2026-09-02-accessible-track-and-experiential-register.md)
 - [S31 — Explanatory stopping points and the necessitation lemma](2026-09-02-explanatory-stopping-points.md)
 - [S32 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)
+- [S33 — Permission, covers, and the P-gap](2026-09-02-permission-covers-and-the-p-gap.md)

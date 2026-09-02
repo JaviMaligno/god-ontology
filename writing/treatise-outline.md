@@ -185,8 +185,14 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Good-orientation is not omnibenevolence
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**
+    - Divine relations to a token suffering: origination, arena, permission, knowledge, response
+    - Source and regularity covers derived from the creation reason and the role of non-agentic domains
+    - The threshold residue and the contested arbitrary-threshold reply
+    - Policy-level cover versus bearer-level remainder
+    - Why the problem of evil makes personal continuation load-bearing
+    - Faith as the exact content of the belief that no suffering is gratuitous
     - Human judgment versus total-order evaluation
-    - Whether robust agency requires difficulty
+    - Whether robust agency requires difficulty, as an optional layer
 
 ## Part VIII — Comparison and evaluation
 

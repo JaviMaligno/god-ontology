@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S33. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -110,13 +110,23 @@ Creo que sí. Pero aquí tengo que ser muy preciso sobre qué parte he conseguid
 
 Lo que he conseguido justificar es esto: todo lo que puedo establecer sobre Dios apunta en la dirección del bien de los seres conscientes. Creó un mundo con seres que eligen de verdad, en lugar de un mundo donde todo estuviera decidido. Tiene razones para no pisar esa libertad cuando puede evitarlo. Está al alcance de cualquiera que quiera dirigirse a él. Y conoce todo con verdad, sin engaño. Cada uno de esos rasgos lo establecí sin suponer que Dios fuera bueno; y cada uno de ellos resulta ser una forma de cuidar la libertad o la relación verdadera. Eso no es poco: Dios podría haber hecho un mundo de marionetas, o haberse quedado inaccesible, y no lo hizo.
 
-Lo que no he conseguido justificar es lo que tiene que ver con lo que sentimos: con el dolor. No tengo un argumento que muestre que la orientación de Dios hacia nuestra libertad se extiende a nuestro sufrimiento. Que Dios sea bueno también en eso lo creo, pero lo creo más allá de lo que he demostrado, y lo digo así. Es la pregunta en la que estoy trabajando ahora.
+Lo que no he conseguido justificar del todo es lo que tiene que ver con lo que sentimos: con el dolor. Tengo una parte del argumento, que cuento en la pregunta siguiente, y una parte que me falta. Que Dios sea bueno también en eso lo creo, pero lo creo más allá de lo que he demostrado, y lo digo así. Y he podido decir con precisión qué es lo que creo cuando creo eso: que ningún sufrimiento es, al final, inútil, y que la historia de quien sufre no termina donde parece terminar.
 
 Y lo que no afirmo es que Dios sea perfecto en todos los sentidos, ni que este sea el mejor mundo posible. No creo que haga falta un mundo óptimo para que crearlo tenga sentido.
 
 ### ¿Por qué permite Dios el sufrimiento?
 
-No lo sé todavía. Tengo piezas: que el mal es una falta, no una cosa que Dios haya puesto; que el mal que hacemos es nuestro; que una libertad real necesita un mundo donde las cosas tengan consecuencias; que quizá una agencia que valga algo necesita dificultad. Pero no tengo el argumento entero, y no quiero fingir que lo tengo. Es la pregunta más importante que me queda, y la que más gente hace.
+Es la pregunta que más gente hace y la que más me cuesta. Tengo una parte de la respuesta y sé exactamente qué parte me falta.
+
+Primero, lo que Dios no hace: no causa el mal que nosotros hacemos, y el sufrimiento que viene de cómo es el mundo, un terremoto o una enfermedad, sale de las reglas del juego, no de una decisión suya caso por caso. Lo que Dios sí hace es permitir: podría haber evitado ese dolor concreto y no lo hizo. Ahí está la pregunta de verdad.
+
+Segundo, por qué creo que permitir tiene sentido como regla. Si Dios impidiera todas las consecuencias malas de nuestras decisiones, nuestras decisiones no serían de verdad: elegir sin que nada pueda salir mal es jugar con red y sin tablero. Y un mundo donde lo que hacemos nunca hace daño sería un mundo que nos miente sobre lo que hacemos. Lo mismo pasa con el mundo físico: si Dios estuviera todo el rato desactivando los incendios y las enfermedades, el mundo dejaría de ser algo con lo que se puede contar, y sin eso no se puede actuar con cabeza ni conocer nada con verdad. Esto no es una excusa nueva; es lo que sale de la razón por la que creo que Dios creó seres libres. Lo que esto no explica es por qué no evita al menos los casos peores. Hay una respuesta conocida, que cualquier línea que se trace sería arbitraria, y no me convence del todo. Lo dejo dicho.
+
+Tercero, lo que esa regla no cubre, y que es lo más importante. Que la regla tenga sentido explica por qué en general el sufrimiento se permite. No explica el sufrimiento de esta persona concreta. Y no vale decir que su dolor sirve para que los demás seamos libres, porque eso es tratarla como un medio, y una de las tres cosas en que consiste el bien es justamente reconocer a cada uno como alguien y no como algo. Para mucha gente el sufrimiento se integra en su propia vida: se aprende, se cura, se transforma. Pero hay vidas que terminan en un sufrimiento que no ha servido para nada dentro de esa vida. Para esas, la única manera de que su dolor no sea finalmente inútil es que su historia no termine ahí. Así que mi creencia en que Dios es bueno también con lo que sentimos me obliga a creer que hay algo después de la muerte, y eso todavía no lo he trabajado. No es un parche que añado para salvar el argumento; es adonde el argumento me empuja, y es lo siguiente que tengo que estudiar.
+
+También me parece verdad que a las personas no nos hace mejores tenerlo todo fácil, como no lo hace con los niños. Pero eso es otra capa, más pegada a la experiencia que al argumento, y no la uso para sostener nada de lo anterior.
+
+Y lo que creo, dicho con exactitud: que ningún sufrimiento es al final inútil, y que las vidas que parecen terminar en él no terminan ahí. Eso es una creencia, no un resultado. La sostengo como se sostiene una confianza: con los ojos abiertos a los casos que parecen desmentirla, sin pretender que no existen y sin dar por probado que la desmienten.
 
 ### ¿Por qué merece la pena sacrificarse?
 
@@ -155,9 +165,9 @@ Creo que sí, y no como adorno. Tocan justo dos de las tres cosas en las que con
 Para que quede junto y a la vista:
 
 - De qué está hecho Dios, si es que la pregunta tiene sentido.
-- Por qué permite el sufrimiento, y si su bondad se extiende a lo que sentimos.
+- Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
-- Si hay vida después de la muerte; no lo he tratado todavía.
+- Si hay vida después de la muerte. Ha pasado de ser una pregunta aparte a ser una pieza necesaria: sin ella no cierra lo anterior. Es lo siguiente que tengo que estudiar.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 
@@ -182,8 +192,8 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Dios es bueno | establecido para la libertad y la relación; creencia para lo que sentimos; perfección no afirmada | C133, C227–C230; S21, S32 |
-| Por qué permite el sufrimiento | abierto | C229; CH14 |
+| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C227–C230, C244; S21, S32–S33 |
+| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C237–C244; S33; CH14, CH16 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C231–C235; S20, S30 |
 | Experiencia real o ilusión | aceptado | C232–C233; S30 |

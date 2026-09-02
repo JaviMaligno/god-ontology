@@ -57,12 +57,12 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P23 | ¿Por qué crees que existe el bien? | `respondida` | C186–C196; S27 | CH04 |
 | P24 | ¿El bien es objetivo o lo inventamos? | `respondida` | C168–C177, C187–C188; S25, S27 | CH09 |
 | P25 | ¿Qué es el mal? | `respondida` | C189–C190, C206–C207; S27–S28 | — |
-| P26 | ¿Es Dios bueno? | `parcial` | C133, C227–C230; S21, S32 | CH04, CH14 |
-| P27 | ¿Por qué permite Dios el sufrimiento? | `abierta` | C229 (hueco P); C115, C118, C206 como material | CH14 |
+| P26 | ¿Es Dios bueno? | `parcial` | C133, C227–C230, C244; S21, S32–S33 | CH04, CH14 |
+| P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C237–C244; S33 (coberturas de política; el resto depende de P31) | CH14, CH16 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |
 | P30 | ¿Existe el infierno? | `parcial` | C208–C209 (interpretación provisional como privación de comunión) | — |
-| P31 | ¿Hay vida después de la muerte? | `abierta` | no tratada; requiere identidad personal y E+ | — |
+| P31 | ¿Hay vida después de la muerte? | `abierta` | C243; promovida a pregunta del tronco por S33; requiere identidad personal, E+ y el sujeto encarnado de S29 | CH16 |
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
 
 ## E. Experiencia
@@ -87,7 +87,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | --- | --- | --- |
 | P01, P02, P04 | El paso de la contingencia al fundamento necesario y la preferencia por el agente estaban en F1 sin argumento formal | S31: preferencia explicativa débil, lema de necesitación, cuatro puntos de parada |
 | P26 | La bondad divina no estaba ganada y no se sabía qué parte lo estaba | S32: perfil orientado al bien hacia la agencia y la relación; hueco P identificado |
-| P27 | Orientación divina hacia lo que los seres conscientes sienten | CH14; candidata a próxima sesión |
+| P27 | Orientación divina hacia lo que los seres conscientes sienten | S33: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |
 | P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S30: acceso experiencial, tres casos de veracidad, estatuto epistémico |
 | P14 | Constitución divina | CH12; tarea activa del tronco |
-| P31 | Supervivencia personal | no abierta todavía; se registra |
+| P31 | Supervivencia personal | CH16; S33 la convierte en pieza necesaria para cerrar el hueco P; candidata a próxima sesión |

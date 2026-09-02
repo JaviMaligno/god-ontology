@@ -1253,6 +1253,34 @@ GoodOrient_a(G):=\forall d\in Disp^{est}(G)\,[Relevant(d,a)\to Fit_*(d,a,B,C,\ta
 
 No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C229, CH14). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C230). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
 
+### Permission, covers, and the bearer-level remainder
+
+[S33](../sessions/2026-09-02-permission-covers-and-the-p-gap.md) structures the P-gap without closing it. The load-bearing divine relation to a token suffering $s$ is permission:
+
+\[
+Permits(G,s):=Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s),
+\qquad
+Gratuitous(s):=Permits(G,s)\land\neg\exists r\,Cover(r,s),
+\]
+
+\[
+GoodOrient_P(G)\Rightarrow\neg\exists s\in H^*\,Gratuitous(s).
+\]
+
+Two policy-level covers follow from existing commitments. The source cover: a policy of preventing every harmful outcome of created choice conflicts with C106, C115, and C118 and misrepresents what choices are. The regularity cover: constant prevention of natural suffering erodes the regularity that C107 assigns to non-agentic domains. Both leave a threshold residue, since token prevention remains available. The developmental thesis that robust agency requires difficulty is optional and unused (C241).
+
+Because $Fit_*$ is bearer-indexed and $R$ forbids treating a bearer as a mere vehicle:
+
+\[
+PolicyCover(s)\not\Rightarrow\neg Misfit_*(s,P,B,C,\tau_B),
+\qquad
+\neg Gratuitous(s)\ \text{for a life ending in uncovered }s
+\Rightarrow
+\exists\tau_B\supsetneq Life(B)\,[\text{undefeated }P\text{-fit for }B].
+\]
+
+The problem of evil therefore pushes personal continuation onto the trunk (C243, CH16). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C244). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R45–R46).
+
 ### Experiential access and the two registers
 
 [S30](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C231). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:

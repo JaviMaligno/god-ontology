@@ -111,7 +111,7 @@ The spiral does not license novelty-driven drift. Order work by:
 3. prerequisites on which later attributes depend;
 4. only then, newly opened branches.
 
-A session's proposed next question is provisional. It must yield when corpus review reveals an older unintegrated argument or when the author identifies a stronger conceptual dependency.
+A session's proposed next question is provisional. It must yield when corpus review reveals an older unintegrated argument or when the author identifies a stronger conceptual dependency. A spontaneous author question is preserved by default but is not automatically an instruction to reprioritize. Classify it as **banked**, **integrated** into an active dependency, or **promoted** only after a dependency/centrality audit or explicit authorial ordering. Permission to explore a question authorizes that work without establishing a general recency rule.
 
 ## Adversarial method
 
@@ -200,29 +200,31 @@ These modules remain conditional on the upstream case for a necessary agent. The
 22. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. Completed in S32: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains more provisional, and non-destructive strict-*ex-deo* capacity is conditional on independent coherence.
 23. Search for the non-circular universal-range bridge requested after S32. S33 decomposes $OMP_C$ into creative plenitude, constitutive control, and history-sensitive intervention; the modal-source plus specification-transparency route is the preferred F3 research direction but remains incomplete.
 24. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. Completed locally at F2 in S34 through actuality-indexed $ASA$ and separation from reciprocal second-personal presence.
-25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. Completed at F2 in S45 on the question-driven branch (C398–C406).
-26. Preserve CH14 on imagination, thought, intentional content, and possibility for a later cross-cutting pass; the eventual modal account must not infer possibility from imaginability.
-27. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-28. Select the remaining genuinely fragile junctions—cumulative agency, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and CH14—for F2–F3 treatment.
-29. Run the dedicated literature, provenance, and novelty pass.
-30. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. Completed locally at F2 in S35 through the distinction among token freedom, robust capacity, and realized diachronic authorship; practical accessibility remains selectively open.
+26. Partition consciousness production, temporal status, and relation to its bearer. S36 distinguishes subject, capacity, episode, and content; temporal location from tenseless actuality and atemporal knowledge; and existential production from realization and token causation.
+27. Correct priority control and compare consciousness realization families. S37 rejects recency-based promotion, prefers a unified embodied power-bearing subject with a thin hylomorphic interpretation at F2, and leaves the phenomenal bridge open.
+28. Develop $Poss_C^{ind}$ as the next upstream gap and integrate CH14 as an imagination/intentionality test rather than a recency-selected module.
+29. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+30. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and the F3 consciousness burdens—for selective treatment.
+31. Run the dedicated literature, provenance, and novelty pass.
+32. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
 
 ### Question-driven track (from 2026-09-02)
 
-31. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S39.
-32. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S40.
-33. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S41.
-34. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH17). Completed at F1 in S42: permission, source and regularity covers, bearer-level remainder, and the promotion of personal continuation to a trunk dependency.
-35. Treat personal continuation (CH19): what the ontology can say about an extended bearer horizon given E+, ACO, the embodied subject, and the privative model. Completed at F1 in S43: coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; identity across cessation becomes CH20.
-36. Return to divine constitution and material production (CH12), which shares the substance question with CH20. S30–S33 on the trunk already supply the F2 result; S44 deepens it at the author's direction. CH20 is queued behind it.
-37. Give the constitution/production junction its F3 pass: materiality as instantiated profile, the level distinction for conservation, the derivation of $\neg PMC_U$, aspect-powers, and the non-inheritance condition for strict *ex deo*. Completed in S44; the queue returns to CH03.
-38. Structure cumulative context control: funnelling, evaluative authorship, the two levels of agency, the diachronic agency-preservation presumption, and the ecology conditions. Completed at F2 in S45 while CH03 is held by the author; CH21 opened for created-level curation and responsibility.
-39. Open CH20: derive the persistence conditions of created subjects from the agency model, test gappy existence under E+, de re re-realization, the replica objection, fission, and Parfit. Completed at F2 in S46; the reductive realization is disfavored and four models remain live.
-40. Run a section-level coherence audit of the trunk from S30 to S46. Completed in S47: no contradiction; C384 discharged, C414 recorded, accessible omnipotence rendering corrected; creative reason (S18) identified as the weakest load-bearing link.
-41. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity.
-42. Define identity and map its impact: numerical identity, individuation, persistence, and identification, scoped by kind, with the modules that depend on them. Completed at F2 in S48.
-43. Give creative reason (S18) a selective F2 pass: typed reasons, eligibility filter, attraction order, the requiring reading of the agency reason, and the relocation of the P-gap to the reason profile. Completed in S49.
-44. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Completed in S50: five-clause definition, non-circularity, B2 reduced to modal uniqueness of necessary agents, creative plenitude conditional.
-45. Answer the author's question on other universes: possible worlds, cosmological multiverses, and plural created orders. Completed at F1 in S51 with one bridge constraint on branching at settlement.
-46. Consolidate Parts III–IV in the treatise. Completed as first-pass prose in S52; no inconsistency found; the P-gap is the single unearned point in the chapter-10 audit.
-47. Continue the consolidation into Part V, or return to the open trunk items. Proposed next task.
+33. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S39.
+34. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S40.
+35. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S41.
+36. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH17). Completed at F1 in S42: permission, source and regularity covers, bearer-level remainder, and the promotion of personal continuation to a trunk dependency.
+37. Treat personal continuation (CH19): what the ontology can say about an extended bearer horizon given E+, ACO, the embodied subject, and the privative model. Completed at F1 in S43: coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; identity across cessation becomes CH20.
+38. Return to divine constitution and material production (CH12), which shares the substance question with CH20. S30–S33 on the trunk already supply the F2 result; S44 deepens it at the author's direction. CH20 is queued behind it.
+39. Give the constitution/production junction its F3 pass: materiality as instantiated profile, the level distinction for conservation, the derivation of $\neg PMC_U$, aspect-powers, and the non-inheritance condition for strict *ex deo*. Completed in S44; the queue returns to CH03.
+40. Structure cumulative context control: funnelling, evaluative authorship, the two levels of agency, the diachronic agency-preservation presumption, and the ecology conditions. Completed at F2 in S45 while CH03 is held by the author; CH21 opened for created-level curation and responsibility.
+41. Open CH20: derive the persistence conditions of created subjects from the agency model, test gappy existence under E+, de re re-realization, the replica objection, fission, and Parfit. Completed at F2 in S46; the reductive realization is disfavored and four models remain live.
+42. Run a section-level coherence audit of the trunk from S30 to S46. Completed in S47: no contradiction; C384 discharged, C414 recorded, accessible omnipotence rendering corrected; creative reason (S18) identified as the weakest load-bearing link.
+43. Integrate the author's CH03 result (S34). Done; its subject acquaintance is taken up in the definition of identity.
+44. Define identity and map its impact: numerical identity, individuation, persistence, and identification, scoped by kind, with the modules that depend on them. Completed at F2 in S48.
+45. Give creative reason (S18) a selective F2 pass: typed reasons, eligibility filter, attraction order, the requiring reading of the agency reason, and the relocation of the P-gap to the reason profile. Completed in S49.
+46. Give the modal basis its pass: define $Poss_C^{ind}$ independently of imaginability and of divine capacity, as the power bridge, the eligible set, and CH14 require. Completed in S50: five-clause definition, non-circularity, B2 reduced to modal uniqueness of necessary agents, creative plenitude conditional.
+47. Answer the author's question on other universes: possible worlds, cosmological multiverses, and plural created orders. Completed at F1 in S51 with one bridge constraint on branching at settlement.
+48. Consolidate Parts III–IV in the treatise. Completed as first-pass prose in S52; no inconsistency found; the P-gap is the single unearned point in the chapter-10 audit.
+49. Continue the consolidation into Part V, or return to the open trunk items. Proposed next task.

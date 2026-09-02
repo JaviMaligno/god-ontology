@@ -251,6 +251,8 @@ The next trunk task remains CH03. The power bridge stays on the selective F3 lis
 
 The author agrees that the possibility of $S$ should be metaphysically definable and also accepts the need to justify modal sole-source invariance. S34 records this as an explicit constraint on C48: imaginability, formal description, and divine capacity must not be used interchangeably, and $Poss_C^{ind}(S)$ remains a genuine metaphysical-definition task.
 
+S38 later gives B1 a preferred F2 realization through constitutive-admissibility actualism. Logical and identity constraints, constitutive profiles, power-profile coherence, global compossibility, and created-dependence conditions now fix the working truth condition without containing $CanCreate(G,S)$. This removes the local power-relative circularity but leaves B2, modal sole-source invariance, as the nearest unresolved premise; the bridge and $CP_G$ are therefore still incomplete.
+
 ## Literature notes
 
 - [Aquinas, *Summa Theologiae* I, q. 25](https://www.newadvent.org/summa/1025.htm) derives infinite active power from divine actuality and unlimited being, then extends the range to whatever can have being. The project records the structure without adopting its stronger premises.

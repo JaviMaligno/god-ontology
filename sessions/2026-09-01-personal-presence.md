@@ -169,3 +169,5 @@ Open the goodness/value branch at F1 by separating the meaning and possible grou
 ## Later S34 resolution
 
 [S34](2026-09-02-subject-acquaintance-and-second-person-knowledge.md) closes CH03 locally by preserving ACO's complete truth-scope and adding actuality-indexed subject acquaintance $ASA$. Direct knowledge of an actual subject neither transfers the creature's sourcehood nor requires subject identity or phenomenal token sharing. Reciprocal second-personal presence remains a stronger, asymmetrically co-produced relation.
+
+[S35](2026-09-02-asymmetric-communication-and-diachronic-agency.md) records the author's further clarification: asymmetric co-production does not require equal communicative capacities. Divine comprehension may be exhaustive while creaturely uptake is partial or mediated; genuine reciprocity requires both to contribute, not to contribute equally.

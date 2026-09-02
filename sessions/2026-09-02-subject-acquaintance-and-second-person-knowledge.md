@@ -193,6 +193,10 @@ $G$ can know an unconscious, unaware, resistant, or non-responsive subject direc
 
 Therefore irreducible second-personal knowledge is not required for minimal omniscience. It is required for certain actual forms of interpersonal presence whose content cannot be supplied unilaterally by $G$ while remaining reciprocal.
 
+## Later author ratification and asymmetry
+
+The author explicitly accepts $ASA$ and prefers leaving the exact realization of mutual interaction open. S35 adds that reciprocity need not imply equal communicative capacities. $G$ may comprehend $A$ exhaustively while $A$ receives only partial, accommodated, analogical, or mediated content concerning $G$. Genuine divine address and genuine creaturely uptake can therefore constitute asymmetric communication without collapsing into either unilateral awareness or equal understanding.
+
 ## Revised divine epistemic profile
 
 Do not represent the profile as a set-theoretic union of items of one type. It is a structured tuple of complementary roles:
@@ -261,3 +265,7 @@ Acquaintance, de se knowledge, phenomenal understanding, empathy, and second-per
 ## Next question
 
 Return to cumulative agency control: can a sequence of individually agency-preserving interventions nevertheless engineer an agent's development, salience landscape, commitments, and long-run authorship so strongly that meaningful freedom is undermined?
+
+## Later expansion
+
+[S36](2026-09-02-consciousness-production-time-and-person.md) supplies a provisional truthmaker for ASA's subject index. A token experience belongs to $A$ through a bearer–presentation–integration relation, and $G$ grasps it as presented to that actual bearer. Atemporal acquaintance therefore tracks a temporally located episode without transferring the episode to $G$, reproducing it in $G$, or changing its temporal mode.

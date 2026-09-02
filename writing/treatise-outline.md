@@ -33,10 +33,15 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
    - Deduction, abduction, preference, and faith
 5. **Necessity, Possibility, and Ground**
    - Modal vocabulary
-   - Conceivability and its limits: imaginability as evidence, never constitution
-   - What grounds possibility?
+   - Conceivability and its limits
+   - Modal truth, representation, capacity, selection, and actuality
+   - Constitutive-admissibility actualism
+   - Logic, identity, essence, power profiles, dependence, and compossibility
+   - Partial specifications and complete admissible extensions
+   - Why possible-world semantics does not require concrete possible universes
+   - The open meta-modal ground of uninstantiated constitutive profiles
    - Independent possibility of a created specification: consistency, admitted histories, compossible powers, createdness, essence-compatibility
-   - Why possibility must not be defined by divine capacity
+   - Why possibility must not be defined by divine capacity; imaginability as evidence, never constitution
 6. **The Adversarial and Provenance Method**
    - Load-bearing objections
    - Ancient and contemporary sources
@@ -80,6 +85,11 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Libertarian branches and truthmakers
     - Why indeterminism is not yet freedom
     - Phenomenal, access, self, and agentive consciousness
+    - Conscious bearer, conscious capacity, token episode, and content
+    - Temporal occurrence, tenseless actuality, and atemporal divine knowledge
+    - Existential production, capacity production, realization, episode causation, and subject contribution
+    - Bearer–presentation–integration and persistence through non-conscious intervals
+    - Whether the bearer before first consciousness already counts as a person
     - Determined conscious states and token-relative freedom
     - The unified embodied subject rather than a mental or bodily homunculus
     - Decision episodes: preparation, access, control, settlement, execution, and retrospective ownership
@@ -87,6 +97,10 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Conscious participation without requiring consciousness to be the first causal event
     - Organismic behaviour, embodied agency, and conscious reason-guided freedom
     - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
+    - Weak and strong emergence, causal efficacy, and cross-level non-competition
+    - Proposed F2 model: one embodied power-bearing subject under a thin hylomorphic interpretation
+    - Fundamental phenomenal power and the open subject-level dual-aspect bridge
+    - Created atemporal consciousness as a modal edge case rather than the actual human model
     - Identity: numerical identity, individuation, persistence, and identification
     - Simple persistence: why a source cannot be a continuity chain
     - Why the identity of indiscernibles fails for subjects
@@ -97,10 +111,14 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
 14. **Actuality and Possible Histories**
     - Avoiding unnecessary reification of possible worlds
     - The grounding of modal space
+    - Possible structures versus possible histories
+    - Libertarian histories without pre-actual would-counterfactuals
     - Other universes: worlds, physical universes within one order, and plural created orders
     - Why branching at settlement is excluded while branching elsewhere is not
     - Theistic plenitude as coherent but unrequired
     - Actual imaginative acts versus non-actual intentional contents
+    - Representational vehicles, content, intentional targets, and modal status
+    - Assigned content, hidden constitutive conflict, and incomplete scenarios
     - Why imaginability does not establish metaphysical possibility
 
 ## Part V — Knowledge, time, and freedom
@@ -133,6 +151,10 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Why physical magnitude does not measure source control
     - Restoring, protecting, influencing, and overriding agency
     - Token autonomy and the diachronic ecology of agency
+    - Self-formative contribution without global self-creation
+    - Influence, steering, adaptive governance capture, closure, and override
+    - Token freedom, robust capacity, and realized diachronic authorship
+    - Practical accessibility beyond merely possible escape
     - Funnels: real forks, one destination; diachronic option closure
     - Evaluative authorship and the typed content of manipulation
     - Rational versus a-rational influence
@@ -207,6 +229,7 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Subject acquaintance versus vicarious phenomenal representation and token sharing
     - Exercised regard, response, and atemporal address
     - Reciprocal second-personal presence and shared attention as asymmetrically co-produced
+    - Reciprocity of participation without equality of understanding or communicative power
     - Why communion belongs to the evaluative branch
 27. **Goodness, Nature, Choice, and Reasons**
     - Scope: a minimal axiological interface for the ontology, not a comprehensive ethics

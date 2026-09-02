@@ -37,7 +37,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary, underived, power-structured agent that originates a generative structure without material input, within which ordinary causes, genuine creaturely agency at both the token and the diachronic level, and possible divine interventions jointly—but asymmetrically—constitute an actual history known without temporal acquisition; the agent's established profile is oriented toward the freedom of conscious subjects and truthful relation with them, while its orientation toward what they feel, and the personal continuation that closing that gap would require, are held as faith with stated content.
+The leading model provisionally posits a necessary, underived, power-structured agent that actualizes a constitutively admissible generative structure without material input, within which ordinary causes, genuine creaturely agency at both the token and the diachronic level, and possible divine interventions jointly—but asymmetrically—constitute one actual history known without temporal acquisition; the agent's established profile is oriented toward the freedom of conscious subjects and truthful relation with them, while its orientation toward what they feel, and the personal continuation that closing that gap would require, are held as faith with stated content. S38 gives created possibility a power-independent F2 criterion, while modal sole-source invariance remains the next premise in the omnipotence bridge.
 
 ## Rebuilding the corpus
 
@@ -49,4 +49,3 @@ node scripts/build-corpus.mjs --check
 ```
 
 The check expects 24 user turns, 24 assistant turns, complete coverage through the final non-empty source line, and byte-for-byte agreement between generated files and the verified turn map.
-

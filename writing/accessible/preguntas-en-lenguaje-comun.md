@@ -44,6 +44,16 @@ Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes
 
 Imaginar sigue sirviendo: cuando uno imagina algo con detalle está construyendo un trozo de mundo, y eso es una pista de que es posible. Pero es una pista, no una prueba, igual que reconocer a alguien por su cara es una pista de que es él y no lo que le hace ser él.
 
+### ¿Existen los números y las ideas? ¿Los hizo Dios, o los inventamos nosotros?
+
+Hay que separar tres cosas que la palabra «número» junta: los símbolos y las palabras, que son nuestros; los conceptos con los que pensamos, que también son nuestros, sacados de contar y medir cosas del mundo; y lo que esos conceptos captan, que no es nuestro. Que dos y dos sean cuatro no lo decidimos nosotros y no dependía de que hubiera alguien para contarlo: el mundo ya se comportaba así antes de que hubiera matemáticos, y por eso la física funciona. Así que «los inventamos» vale para el lenguaje y no para lo que el lenguaje dice.
+
+¿Los hizo Dios? No como hizo el mundo. El mundo podría no haber existido, o ser distinto; eso es lo que necesita un fundamento, y de ahí sale mi argumento. Que dos y dos sean cuatro no podría ser de otra manera, y por eso no pide la misma explicación: no es un hecho que alguien haya tenido que poner. Tampoco es una cosa que exista por su cuenta frente a Dios: no hace nada, no empuja, no limita; es la forma que tiene que tener cualquier cosa que exista, y cualquier acción, incluidas las suyas.
+
+Lo que dejo abierto, y lo digo como abierto, es de dónde sale esa forma. Hay dos lecturas que me parecen vivas. Una: esa estructura es la manera de ser del propio Dios, lo que su entendimiento abarca como posible; las matemáticas serían entonces el dibujo, parcial, que hacemos de algo que en él está entero. Otra: hay verdades que sencillamente no pueden ser de otra manera, sin que nadie las ponga, y que tampoco están por encima de Dios porque no son nada aparte de él. La primera es la que mejor encaja con todo lo demás, pero no la he trabajado lo bastante para darla como resultado, y no la necesito para nada de lo anterior. Lo que sí descarto es lo que diría un naturalista: que esa estructura sea el fondo último de todo, porque una estructura no hace existir nada; explica cómo tiene que ser lo que existe, no que exista.
+
+Y una aclaración sobre el orden del argumento: uso la lógica para llegar a Dios, sí, como uso el lenguaje; eso no la pone por encima de él, igual que usar una regla para medir una casa no pone la regla por encima del arquitecto. Lo que el argumento explica es lo que podría no ser; lo que no podría no ser no necesita ese tipo de explicación, y ahí es donde entra la pregunta que dejo abierta.
+
 ### ¿Existen otros universos?
 
 Depende de qué se llame universo, y son tres cosas distintas.
@@ -120,7 +130,7 @@ Queda una posibilidad más fina, que menciono porque la he estudiado: que Dios, 
 
 Depende de qué sea ese «algo», y la pregunta se aclara separando dos casos.
 
-Las ideas, los números, las verdades como «dos y dos son cuatro»: eso no lo ha hecho Dios, y no hace falta. No son cosas; son la forma que tiene que tener cualquier cosa. No compiten con él ni le ponen límites; son el marco dentro del cual cualquier acción, también la suya, tiene sentido.
+Las ideas, los números, las verdades como «dos y dos son cuatro» son otro caso, y las trato aparte más arriba, en la pregunta sobre si existen los números. Adelanto lo que importa aquí: no son cosas, ni las hizo Dios como hizo el mundo ni las inventamos nosotros, aunque las palabras y los símbolos sí son nuestros; de dónde sale esa forma que tiene que tener todo lo que existe es una pregunta que dejo abierta; y en ningún caso son algo aparte de Dios que compita con él o le ponga límites.
 
 Lo que sí sería una novedad es una *cosa*: algo concreto, con poderes o con estados, que existiera sin depender de Dios. Conviene fijar antes qué quiero decir con «hecho por Dios»: no que empezara en un momento, sino que depende de él para existir. Algo que hubiera existido siempre, o incluso que no pudiera no existir, sería criatura suya si existe por él; no creo que haya nada así, porque Dios crea porque quiere, pero si lo hubiera, sería suyo. Así que la única cosa que de verdad no sería suya es una que fuera necesaria e independiente: una materia eterna que Dios solo ordenara; un segundo principio, como el mal de algunas religiones antiguas; almas que hubieran existido desde siempre por su cuenta.
 
@@ -165,6 +175,14 @@ Sí, en un sentido preciso, y conviene decir cuál. Como Dios no está en el tie
 Pero hay una condición, y sale de que mi petición tiene que ser mía. Si lo que Dios pone antes cambia mi situación de tal modo que ya no pediría, o pediría otra cosa, entonces no puede tener mi petición como razón, porque mi petición dependería de la respuesta y la respuesta de la petición: un círculo, y los círculos así no describen nada. Por eso una respuesta anterior a la petición solo tiene sentido si no entra en lo que yo sabía y quería cuando pedí. El caso clásico es rezar por alguien que ya ha tenido un accidente sin saber aún cómo ha salido: Dios puede haber respondido en el momento del accidente a una oración hecha después, precisamente porque quien reza no sabe. Si lo supiera, no rezaría lo mismo.
 
 Y lo mismo vale al revés: Dios no puede «responder» a algo que él mismo ha provocado con su respuesta. Una respuesta es a algo que ocurre por sí mismo, o por nosotros, no a algo que ella misma produce. Esto no le quita nada a Dios; solo dice a qué puede llamarse responder.
+
+### ¿Necesita Dios que le recemos o le adoremos?
+
+No. Dios no necesita nada de nosotros; ni siquiera necesitaba crearnos. Sus razones para crear son razones que hacen que crear tenga sentido, no razones que le obliguen, y lo mismo vale para todo lo que viene después. Así que rezar y adorar no son algo que Dios necesite, y desconfío de cualquier imagen en la que sí lo necesite, porque describe a alguien más pequeño.
+
+Entonces, ¿para qué? Para nosotros, y no en el sentido de que sea un ejercicio útil. Ya he dicho que la relación con Dios está disponible y que es de dos: rezar es poner la parte nuestra. Es, sencillamente, dirigirse a él, como uno se dirige a alguien que está y que escucha. Y adorar, si se quita la imagen del que exige reverencias, es reconocer la verdad de quién es él y de quién soy yo: que todo lo que soy se apoya en él y que él no se apoya en nada. Como una de las cosas que sé de Dios es que conoce todo con verdad y que quiere relación verdadera, estar en esa verdad es estar bien con él. Eso es adorar; el resto son formas.
+
+Lo que no sé, y lo digo como con el dolor: si Dios quiere esa relación por nosotros, porque le importe lo que sentimos al tenerla o al no tenerla. Que le importemos en lo que sentimos es justo la parte de su bondad que no he conseguido derivar; lo creo, y rezo como quien cree que sí.
 
 ### Si nos manipulan, ¿seguimos siendo libres?
 
@@ -282,6 +300,14 @@ No siempre se puede, y hay que decirlo. Una experiencia así es una razón para 
 
 Porque estar disponible no es lo mismo que hacerse notar, y porque la relación no la pone Dios solo: la otra parte cuenta. Que alguien no sienta nada no dice que Dios no esté; dice que esa relación, en ese momento, no se está dando, por la razón que sea. A mí me parece más honesto eso que decir que quien no siente es que no busca bien.
 
+### ¿Por qué Dios no se muestra más claramente?
+
+Es la pregunta que más entiendo, y no tengo respuesta entera. Tengo media.
+
+La media que tengo sale de lo que ya he dicho sobre la relación. Dios está disponible para cualquiera, y su presencia de fondo, sosteniendo y conociendo, no falta en ningún sitio; lo que no está garantizado es sentirla. Y la relación no la pone Dios solo: es de dos, y la parte nuestra tiene que ser nuestra. Aquí está la clave. Una manifestación tan clara que no dejara sitio a no responder no sería una invitación, sería una instalación: nos pondría la respuesta dentro sin pasar por nosotros, que es exactamente lo que, según lo que creo, Dios no hace con nadie, porque para eso no habría creado seres que eligen. Cuando Dios se dirige a alguien lo hace como se dirige un amigo, dando razones, presencia, ocasión, y dejando que la respuesta sea de quien responde. Así que «más claramente» tiene un límite que no es de poder, sino de qué clase de relación es posible con alguien libre.
+
+La media que no tengo es esta: eso explica por qué no se muestra de forma aplastante; no explica por qué no se muestra algo más, a quien lo busca de buena fe y no encuentra nada. Ahí no tengo un argumento, solo lo mismo que digo del sufrimiento: que si Dios es bueno también en lo que sentimos, la ausencia que duele no puede ser la última palabra para quien la sufre, y eso lo creo, no lo demuestro. Lo que no diré es que quien no siente nada es que no busca bien.
+
 ### ¿Sirven de algo la música y el arte?
 
 Creo que sí, y no como adorno. Tocan justo dos de las tres cosas en las que consiste el bien: lo que se siente y la atención compartida sobre algo que uno no ha hecho. Y en un mundo donde todo lo que tiene orden y sentido está sostenido por Dios, prestar atención de verdad a la belleza o al sentido es prestar atención a algo cuyo fondo es él. Si eso es ya una relación con Dios, o solo con lo que Dios sostiene, no lo sé; es de las cosas que dejo abiertas. Pero es una manera real de atender a lo que el argumento solo puede señalar.
@@ -299,6 +325,8 @@ Para que quede junto y a la vista:
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 - Si se puede demostrar, y no solo preferir como la mejor explicación, que todo lo concreto distinto de Dios depende de él; de eso depende que nada no creado pueda limitarlo.
+- De dónde sale la forma que tiene que tener todo lo que existe, los números y la lógica: si es la manera de ser de Dios o verdades sin autor que no son nada aparte de él.
+- Por qué Dios no se muestra algo más a quien lo busca de buena fe; sé por qué no se muestra de forma aplastante, no por qué no un poco más.
 - Si Dios puede darse a sí mismo una cualidad o un poder que no tenga ya; lo que hace con los poderes que tiene está cubierto, y lo demás no lo sé.
 
 ---
@@ -322,7 +350,10 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
 | Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S74 |
-| Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración | C586–C600, C603–C610; S73, S75–S76 |
+| Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración; corregida por el autor en lo relativo a las verdades necesarias | C586–C600, C603–C611; S73, S75–S77 |
+| Existen los números y las ideas | parcial: establecido que no son cosas ni competidores; abierto su fundamento último | C03, C52, C264, C343, C350–C351, C429, C611; S05, S32, S38, S77 |
+| Por qué Dios no se muestra más claramente | parcial: la mitad estructural es preferida (relación de dos, sin instalar la respuesta); el umbral y la parte de lo que sentimos son creencia | C91, C122–C124, C296, C466–C470, C498, C503; S20, S35, S46, S52, S77 |
+| Necesita Dios que le recemos | parcial: que no necesita es preferido; lo que la relación es para nosotros es establecido; que la quiera por nosotros es creencia | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S77 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; la rama de relata no creados queda condicionalmente cerrada mediante $UCD_G$ y la forma irrestricta sigue pendiente de tipos de acción genuinamente nuevos | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |

@@ -6,13 +6,13 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 610 |
+| Working commitments (C) | 611 |
 | Rejected or corrected moves (R) | 237 |
 | Challenges (CH) | 25 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 250 |
+| accepted | 251 |
 | preferred | 243 |
 | other | 62 |
 | provisional | 25 |
@@ -641,6 +641,7 @@
 | C608 | The only tasks concerning a surviving non-created relatum that pass $Task_G$ are contingent, essence-compatible state changes; creating or annihilating a necessary relatum is not an eligible task, and its own settlings as a dependent agent are not divine tasks. Their range would extend $CC_G^{elig}$ and $HI_G^{elig}$ to dependent non-created bearers, a burden of any ontology that adopts such relata. | `merged into C595–C598 (S76)` |
 | C609 | The non-created-relatum condition on unrestricted $OMP_Q$ reduces to $MGC^+\land MUU$: a limiting non-created concretum is possible exactly when one of them fails, so unrestricted $OMP_Q$ over concreta is as strong as conditional modal ultimity and no stronger. The remaining cross-ontology test is an independently motivated novel action kind. | `refined by C600 (S76): the existence question closes under $UCD_G$, the blocker question already under $MGC^+\land MUU$` |
 | C610 | Reconciliation of S75 with the author's S73: creation as existential dependence (C586), $UCD_G$ (C591), and $NCCBlock$ (C599) are canonical; the branch retains the bridge $NCCBlock_G(L,a)\rightarrow Limiter_G(L)$ and the no-limiter lemma as a weaker-premise route to the power conclusion, with its condition on $MUU$ recorded; the branch's taxonomy, emanation cell, and task list are merged or superseded. | `accepted reconciliation` |
+| C611 | The accessible register may not assert a settled ground for necessary truths, numbers, or ideas: they are neither made as the world is made nor human inventions, though our symbols and concepts are ours; they are not things apart from $G$ that compete with him; their ultimate ground is open between the structure of $G$'s own nature and authorless necessary truth (C350–C351). | `accepted author correction` |
 
 ## Rejected or corrected moves
 

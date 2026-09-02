@@ -88,10 +88,17 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Fundamental phenomenal power and the open subject-level dual-aspect bridge
     - Created atemporal consciousness as a modal edge case rather than the actual human model
     - Numerical identity versus exact qualitative similarity
-    - Synchronic individuation, diachronic persistence, and reidentification evidence
-    - Organismic, hylomorphic, psychological, causal, simple, haecceitist, constitution, and pattern accounts
-    - Persistence through bodily change, unconscious intervals, and possible non-existence gaps
-    - Duplication, fission, replacement, and numerical recreation as discriminators
+    - Why absolute fundamental identity does not eliminate kind-sensitive persistence explanations
+    - Synchronic individuation, diachronic persistence, reidentification, and survival relations
+    - Anchored hylomorphic-organismic persistence and one integrated power-bearing subject
+    - Why matter, psychology, and information are neither necessary nor sufficient for numerical identity
+    - Person as capacity or phase: the pre-conscious organism and later conscious agent as one bearer
+    - The brain as central realizer rather than an automatic second subject
+    - Duplication, symmetric fission, and the limits of closest-continuity accounts
+    - Continuous organismic careers and constrained non-continuous life-sets
+    - $IdFact_H$, origin anchoring, essence, non-branching, and $GapAdm_K$
+    - Numerical recreation versus duplicate reconstruction
+    - Animalist, constitution, simple, soul, haecceitist, and pattern competitors
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles
 14. **Actuality and Possible Histories**
@@ -201,6 +208,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Root, type-outcome, and fixed-prefix normalization of pure created-directed tasks
     - Conditional closure of the pure created-directed domain
     - Self-executive action versus self-reconstitution
+    - The divine persistence profile $PP_G$ and de re identity across possible histories
+    - Why an exact created divine analogue remains numerically distinct and dependent
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Ontology-relative maximality and possible non-created concrete relata

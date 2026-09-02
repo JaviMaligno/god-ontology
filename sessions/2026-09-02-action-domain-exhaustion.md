@@ -329,3 +329,7 @@ The created-action normal form and its integration with $CP_G^{elig}$, $CC_G^{el
 ## Next question
 
 What independently grounded account of individuation and persistence best fits the project's embodied power-bearing agents, and can it justify numerical identity through change and possibly through a genuine interval of non-existence without collapsing identity into qualitative similarity or divine fiat?
+
+## Later resolution
+
+[S45](2026-09-02-identity-individuation-and-persistence.md) answers this at F2 with a two-level account. Numerical identity is absolute and fundamental; kind-sensitive persistence profiles constrain ordinary careers without reducing identity to matter, psychology, information, or causal resemblance. Human subjects receive an anchored hylomorphic-organismic profile and a one-bearer person-phase interpretation. Intermittent identity is admitted as a constrained metaphysical possibility through $GapAdm_K$, not inferred from reassembly or assigned by divine fiat. The framework also supplies $PP_G$ for self-reconstitution tests and moves strict non-destructive *ex deo* to the next mixed-constitution audit.

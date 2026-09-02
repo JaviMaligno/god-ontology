@@ -415,3 +415,5 @@ Do $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust every independently e
 ## Later resolution
 
 [S44](2026-09-02-action-domain-exhaustion.md) closes pure created-directed tasks at F2 under the $CAN_G$ normalization bridge. It separates self-executive from self-reconstituting descriptions and leaves exhaustive self-executive range, mixed *ex deo*, possible non-created concrete relata, and unrestricted $OMP_Q$ open. Identity is promoted to the next F2 trunk module because it now controls both recreation and divine-task eligibility.
+
+[S45](2026-09-02-identity-individuation-and-persistence.md) then replaces the placeholder $GapIdentity_C$ with a constrained non-criterial account. Numerical recreation is a preferred metaphysical possibility when one de re bearer has a single origin-anchored, essence-compatible, non-branching gappy career; a matching new bearer remains duplicate reconstruction. This strengthens the identity side of the S43 result without making every reconstruction a recreation or inferring any actual resurrection.

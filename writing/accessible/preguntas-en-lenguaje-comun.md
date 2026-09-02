@@ -317,8 +317,8 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C521–C526; S18, S56 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
-| Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S73 |
-| Puede haber algo no hecho por Dios | preferido, condicional a F2: la cobertura modal y la unicidad de la fuente son preferencias abductivas, no demostraciones | C588–C594; S74 |
+| Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S74 |
+| Puede haber algo no hecho por Dios | preferido, condicional a F2: la cobertura modal y la unicidad de la fuente son preferencias abductivas, no demostraciones | C603–C609; S75 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; provisional frente a relata no creados o tipos de acción de ontologías rivales | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |

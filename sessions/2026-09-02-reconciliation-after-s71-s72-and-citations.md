@@ -1,7 +1,7 @@
 # Session: Reconciliation with the trunk's S71–S72 and the citation pass
 
 **Date:** 2026-09-02
-**Session ID:** S73
+**Session ID:** S74
 **Primary question:** The author merged the branch into main, added S71 (strict *ex deo* and mixed constitution after identity), S72 (self-executive action and intrinsic manifestation), the Lennox motivation, and a networked verification of every source S46–S58 and S64 had cited from memory. What on the question-driven track is superseded, what changes status, and what does the accessible register still lack?
 **Dependencies:** the author's S71 (C558–C572, CH24) and S72 (C573–C585); the provenance checklist's seven record-changing findings; S51 (C487–C496), S64 (C549–C553), S48, S50, S53, S57, S58; the accessible bank
 **Origin:** required by the merge (rule: the trunk's formulations are canonical, C324); the author's message that main now carries the branch plus new work and a bibliography review
@@ -48,7 +48,7 @@ P15 and P44 asked the same question; P44 is the answered one. P15 is marked merg
 | Item | Status | Reason |
 | --- | --- | --- |
 | C494 annotated as superseded by S71 | done | the $NI$ boundary is replaced by the trunk's taxonomy and $ANDC$ |
-| C586 records the reconciliation | done | one row, as C541–C545 and C556 did for earlier merges |
+| C601 records the reconciliation | done | one row, as C541–C545 and C556 did for earlier merges |
 | new accessible answer P47 on whether the world is made of $G$ | written, pending author review | S71 settles a question people ask in exactly this form |
 | P48 banked as `abierta` | done | S72's residual; not promoted |
 | C550–C551 status | unchanged | their basis is internal; the finding corrects a literature note, not a derivation |

@@ -35,7 +35,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary agent that actualizes a generative structure, within which ordinary causes, genuine creaturely agency, and possible divine interventions jointly—but asymmetrically—constitute an actual history known without temporal acquisition; the exact semantics that make this compatible with libertarian freedom remain open.
+The leading model provisionally posits a necessary agent that actualizes a constitutively admissible generative structure, within which ordinary causes, genuine creaturely agency, and possible divine interventions jointly—but asymmetrically—constitute one actual history known without temporal acquisition; S38 now gives created possibility a power-independent F2 criterion, while modal sole-source invariance remains the next premise in the omnipotence bridge.
 
 ## Rebuilding the corpus
 
@@ -47,4 +47,3 @@ node scripts/build-corpus.mjs --check
 ```
 
 The check expects 24 user turns, 24 assistant turns, complete coverage through the final non-empty source line, and byte-for-byte agreement between generated files and the verified turn map.
-

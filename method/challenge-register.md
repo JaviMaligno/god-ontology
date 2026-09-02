@@ -44,7 +44,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `scoped` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `tested F1–F2` |
 
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
@@ -57,7 +57,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29. New questions now enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29, and its proposals were accepted by the author's subsequent advance. S38 then executes the queued $Poss_C^{ind}$ pass and integrates CH14. New questions enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -257,9 +257,19 @@ Actual(Imagines(A,S))
 \not\Rightarrow Actual(S).
 \]
 
-The imaginative episode may be an actual event in $H^*$ with causal and phenomenal properties while its intentional content represents a non-actual, impossible, indeterminate, or partly unspecified scenario. Future analysis must distinguish the act, content, intentional object if any, represented scenario, and modal status rather than placing them all in one “mental realm.”
+The imaginative episode may be an actual event in $H^*$ with causal and phenomenal properties while its intentional content represents a non-actual, impossible, indeterminate, or partly unspecified scenario. Analysis must distinguish the act, content, intentional object if any, represented scenario, and modal status rather than placing them all in one “mental realm.”
 
 The principal alternatives include intentional content as an immanent feature of the thought, relation to abstract content, relation to a non-existent intentional object, construction from actual representational resources, and direct sensitivity to a power-grounded modal structure. The module must explain reference to impossibilities and fictions as well as accurate representation of possibilities, and it must not infer metaphysical possibility from imaginability alone. It connects directly to consciousness, causal efficacy of thought, MKO, and the independent definition of $Poss_C^{ind}(S)$ required by S33.
+
+S38 gives the challenge a local F1–F2 result:
+
+\[
+Img(A,i,p,t)\rightarrow Actual(i,t)\land Rep(i,p),
+\]
+
+without entailing $Actual(p)$, $Exists(Obj(p))$, or $Poss(p)$. The actual items are the embodied subject's temporal act, its representational realization, and the fact that it has the relevant content. Its target may be actual, non-actual but possible, impossible, fictional, or incomplete. This relational minimum does not yet choose among abstract-proposition, immanent-content, or intentional-object theories.
+
+Detailed imagination may provide defeasible evidence when it is stable under scrutiny and does not carry the decisive content merely by assignment. It is neither sufficient nor necessary for metaphysical possibility. $Poss_C^{ind}$ is instead tested by complete constitutive admissibility: logic and identity, real definitions, power profiles, global compossibility, and created-dependence constraints. CH14 is therefore locally tested and held unless a later theory of intentional content becomes load-bearing.
 
 ## CH15 — Cumulative control and diachronic authorship
 
@@ -336,8 +346,8 @@ Created(x)\not\Rightarrow\exists t\,BeginsToExist(x,t).
 
 Actual human consciousness remains temporal and embodied, but creation as dependence does not definitionally exclude an atemporally dependent created subject. Such a subject would require separate individuation, uniqueness, and modal analysis.
 
-S37 completes that F2 comparison as a proposal pending author assessment. Reductive identity remains live but non-preferred; weak emergence is insufficient as a complete phenomenal explanation; substance dualism and panpsychist families remain coherent but disfavored. The proposed working model is a unified embodied power-bearing subject under a thin hylomorphic interpretation. Real organization constitutes one living subject and grounds a power profile; a conscious episode is a temporal manifestation of that subject through its bodily realization base.
+S37 completes that F2 comparison, accepted by the author's subsequent “Ok adelante” under the default-acceptance rule. Reductive identity remains live but non-preferred; weak emergence is insufficient as a complete phenomenal explanation; substance dualism and panpsychist families remain coherent but disfavored. The working model is a unified embodied power-bearing subject under a thin hylomorphic interpretation. Real organization constitutes one living subject and grounds a power profile; a conscious episode is a temporal manifestation of that subject through its bodily realization base.
 
 The ultimate phenomenal bridge remains open. A subject-level dual-aspect account is the strongest deeper candidate, while S37 provisionally stops with fundamental phenomenal powers of certain organized subjects. Cross-level causal non-competition, exact onset criteria, and the pre-conscious bearer/person boundary also remain F3 burdens rather than current blockers.
 
-CH16 is therefore locally tested at F2. The next proposed priority is the independent ground of $Poss_C^{ind}$ because it is upstream of modal histories, creative alternatives, knowledge, and power. CH14 is integrated as a test of that ground; it is not promoted merely because imagination was separately asked about.
+CH16 is therefore locally tested at F2. S38 follows the accepted priority and gives $Poss_C^{ind}$ an F2 constitutive-admissibility account, with CH14 integrated as a test. This makes B1 of S33 locally available while leaving modal sole-source invariance as the nearest unresolved bridge premise.

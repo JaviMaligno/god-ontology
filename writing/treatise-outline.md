@@ -31,7 +31,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
 5. **Necessity, Possibility, and Ground**
    - Modal vocabulary
    - Conceivability and its limits
-   - What grounds possibility?
+   - Modal truth, representation, capacity, selection, and actuality
+   - Constitutive-admissibility actualism
+   - Logic, identity, essence, power profiles, dependence, and compossibility
+   - Partial specifications and complete admissible extensions
+   - Why possible-world semantics does not require concrete possible universes
+   - The open meta-modal ground of uninstantiated constitutive profiles
 6. **The Adversarial and Provenance Method**
    - Load-bearing objections
    - Ancient and contemporary sources
@@ -87,7 +92,11 @@ Working language: English. Research notes may remain bilingual. The outline deli
 14. **Actuality and Possible Histories**
     - Avoiding unnecessary reification of possible worlds
     - The grounding of modal space
+    - Possible structures versus possible histories
+    - Libertarian histories without pre-actual would-counterfactuals
     - Actual imaginative acts versus non-actual intentional contents
+    - Representational vehicles, content, intentional targets, and modal status
+    - Assigned content, hidden constitutive conflict, and incomplete scenarios
     - Why imaginability does not establish metaphysical possibility
 
 ## Part V — Knowledge, time, and freedom

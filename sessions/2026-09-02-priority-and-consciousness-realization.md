@@ -360,8 +360,8 @@ The next priority should not be whichever question happens to be asked next. The
 
 Every component family and every major burden is established. The local contribution is the priority protocol and the integration of a thin hylomorphic embodied-powers model with E+, OEC, ASA, typed causation, and libertarian sourcehood. This is a project synthesis and working choice, not yet a novelty claim.
 
-The comparative judgments and preferred realization remain proposals pending the author's next assessment under the default-acceptance rule. The priority correction itself is already explicit authorial direction.
+The comparative judgments and preferred realization were accepted when the author answered “Ok adelante” without correction under the default-acceptance rule. That response also authorized the proposed move to $Poss_C^{ind}$, developed in [S38](2026-09-02-created-possibility-and-intentional-content.md). The priority correction itself was already explicit authorial direction.
 
-## Next question
+## Superseded next question
 
 What grounds $Poss_C^{ind}$ independently of what $G$ happens to create, know, or have power to actualize, and how can imagination represent a possibility without constituting or certifying it?

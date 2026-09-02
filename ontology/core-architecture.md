@@ -8,12 +8,14 @@ This document states the cleanest present model. It is a formalization target, n
 | --- | --- | --- |
 | $G$ | Necessary agent/cosmic ground | provisional/preferred |
 | $S=\langle L,C,B,O\rangle$ | Generative structure: laws, constants, boundary conditions, ontological primitives | preferred |
+| $Adm_C(S)$ | Constitutive admissibility of a complete created specification | preferred at F2 |
 | $\mathcal H(S)$ | Histories or continuations compatible with $S$ | open ontology |
 | $A_i$ | Created agents with possible originating causal powers | preferred |
 | $I_j$ | Divine interventions classified by causal target | provisional |
 | $H^*$ | Actual complete created history | preferred E+ temporal object |
 | $\mathfrak R^*$ | Complete actual reality, including $G$, $S$, $H^*$, interventions, and actual dependence relations | provisional ACO domain |
 | $K_G$ | Divine knowledge relation | accepted only at the ACO minimum |
+| $Rep(i,p)$ | Actual cognitive act $i$ represents content $p$ without fixing the target's actuality or possibility | preferred minimum relation |
 
 The intended dependency sketch is:
 
@@ -1030,6 +1032,68 @@ Actual creator–creation disjointness is not an essential modal policy. If a no
 
 The strict self-copy challenge is similarly typed. A $G'$ cannot be both created and underived in the same respect, so an exact dependent-and-ultimate duplicate is not an eligible task. A dependent qualitative near-copy remains open.
 
+### Independent created possibility
+
+S38 distinguishes modal truth, cognitive representation, agentive capacity, selection, and actuality. The independence needed by the power argument is criterion independence:
+
+\[
+Poss_C^{ind}(S)\not\equiv CanCreate(G,S),
+\]
+
+not a prior assertion that every necessary modal fact is ontologically independent of $G$.
+
+The preferred F2 account is **constitutive-admissibility actualism**. Define:
+
+\[
+Adm_C(S):=
+WF(S)
+\land Cons_{LM}(S)
+\land EssSat(S)
+\land PowSat(S)
+\land Comp(S)
+\land DepSat_C(S),
+\]
+
+\[
+Poss_C^{ind}(S)\leftrightarrow Adm_C(S).
+\]
+
+A specification must be well formed; obey logical, identity, and mathematical constraints; satisfy the real definitions or constitutive profiles of its kinds; align laws and changes with their power profiles; be globally compossible; and possess a coherent created-dependence profile. Formal consistency alone is insufficient. For a partial description:
+
+\[
+Poss_C^{partial}(s)
+\leftrightarrow
+\exists S\,[Extends(S,s)\land Adm_C(S)].
+\]
+
+This is an objective truth condition rather than a guaranteed human decision procedure. It is also non-reductive: power profiles and compossibility retain modal content. The gain is an explanatory order that does not use the creative capacity being tested as its own criterion.
+
+Possible structures and histories remain distinct:
+
+\[
+PossHist(h\mid S)
+\leftrightarrow
+Adm_C(S)\land HistSat(h,S).
+\]
+
+For a libertarian history, $HistSat$ requires token events to lie within the relevant agents' originative powers and shared past; it supplies no pre-actual would-counterfactual. Specifications and world-models represent admissible ways reality could be and need not be concrete non-actual universes. Type-level profiles can constrain wholly uninstantiated kinds without making those kinds concrete subjects. The ultimate ground of such profiles—necessary structural facts, independently established divine nature, or a mixed account—remains an F3 meta-modal question.
+
+MKO tracks these truths rather than making them true:
+
+\[
+Poss_C^{ind}(S)\rightarrow Knows_G(Poss_C^{ind}(S)).
+\]
+
+Atemporal completeness changes neither the direction of ground nor possibility into actuality.
+
+CH14 supplies a test. If $A$ imagines $p$ through an actual temporal act $i$:
+
+\[
+Img(A,i,p,t)\rightarrow Actual(i,t)\land Rep(i,p).
+\]
+
+Neither the existence of a corresponding concrete object nor $Poss(p)$ follows. The act, its realized representational organization, and the fact that it has content are actual; its target may be actual, merely possible, impossible, fictional, or incomplete. Detailed non-assignment-dependent imagination may provide defeasible modal evidence, but it never replaces $Adm_C$ as the truth condition.
+
 ### Universal-range bridge under investigation
 
 S33 decomposes the missing bridge before attempting to strengthen C261. Created-order maximality contains at least:
@@ -1053,7 +1117,7 @@ Conditional on these premises:
 Poss_C^{ind}(S)\rightarrow CanCreate(G,S),
 \]
 
-and universal generalization yields $CP_G$. The argument is not yet complete. C48 partly grounds possibility in actualizing powers, so it cannot establish $Poss_C^{ind}$ under a power-relative reading. Actual one-ground ultimity also requires a further essential-role argument before becoming modal sole-source invariance.
+and universal generalization yields $CP_G$. S38 makes B1 locally available at F2 without a power-relative reading. The argument is not yet complete: actual one-ground ultimity still requires an essential-role argument before becoming modal sole-source invariance, and the essential-power and agent-relative accessibility premises retain their own burdens.
 
 Specification transparency supplies compatible abductive support:
 
@@ -1068,7 +1132,7 @@ $P_{OEC}$ operates without a prior patient or created causal genus, making it pl
 
 The remaining bridges stay distinct. Grounding a created relatum does not by itself entail power to modify it after origination, and a possible alternative creation does not witness an intervention ability relative to the same fixed history. Likewise, $CP_G$, $CC_G$, and $HI_G$ do not establish $OMP_Q$ until eligible creative, created-target, self-directed, and non-created-relational actions are exhaustively typed.
 
-Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The preferred research direction is therefore the modal-source plus specification-transparency route, retained for F3 rather than treated as a completed proof.
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The preferred research direction is therefore the modal-source plus specification-transparency route. Its next premise is modal sole-source invariance; it is not yet a completed proof.
 
 ## Ontological omnipresence
 
@@ -1648,4 +1712,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference, completes the comparative CH16 pass, and proposes the embodied power-bearing subject with a thin hylomorphic interpretation at F2; dual aspect remains the strongest open deeper phenomenal bridge. The independent ground of $Poss_C^{ind}$ is now the proposed upstream priority, with CH14 integrated as a test; the wider power bridge, $PMC_U$, and strict-overlap coherence remain later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. Modal sole-source invariance is now the nearest open premise in the power bridge; $PMC_U$, the meta-modal ground of uninstantiated profiles, and strict-overlap coherence remain later challenges.

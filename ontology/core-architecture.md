@@ -51,7 +51,7 @@ These are deliberately numbered as candidates until the formal semantics is sele
 
 ## Explanatory stopping points and the necessitation lemma
 
-The upstream junction C04–C05 receives an F2 comparison in [S31](../sessions/2026-09-02-explanatory-stopping-points.md). The motivation is a weak explanatory preference (WEP), not a strong principle of sufficient reason: other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. Brute contingency remains admissible and is only ranked lowest.
+The upstream junction C04–C05 receives an F2 comparison in [S35](../sessions/2026-09-02-explanatory-stopping-points.md). The motivation is a weak explanatory preference (WEP), not a strong principle of sufficient reason: other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. Brute contingency remains admissible and is only ranked lowest.
 
 For a necessary $N$ and any contingent $\phi$, normal modal logic gives:
 
@@ -69,7 +69,7 @@ IN:\;NNProd(N,\mathcal C)\land\neg\exists e\,CExp(e,\mathcal C,\mathcal C'),
 AN:\;NNProd(N,\mathcal C)\land CExp\big(Exercise(N,\mathcal C,\mathbf R),\mathcal C,\mathcal C'\big),
 \]
 
-where $Exercise$ is the agentic settling of C109. AN is the only stopping point that supplies contrastive, reason-guided, non-necessitating explanation; Nec is excluded (C226); B and IN remain live opponents. The residue of the preference — that a subject's reason-guided exercise is a better terminus than chance — is recorded as preferential (C225), consistent with S09.
+where $Exercise$ is the agentic settling of C109. AN is the only stopping point that supplies contrastive, reason-guided, non-necessitating explanation; Nec is excluded (C285); B and IN remain live opponents. The residue of the preference — that a subject's reason-guided exercise is a better terminus than chance — is recorded as preferential (C284), consistent with S09.
 
 ## Preferred temporal semantics: E+
 
@@ -1236,7 +1236,7 @@ This applies to psychology and other sciences as well as physics. Their findings
 
 ### Good-oriented divine profile
 
-[S32](../sessions/2026-09-02-good-oriented-divine-profile.md) gives C195 its content. The anchors of $\mathcal A_{min}$ take their fit conditions from kinds that $G$ instantiates or grounds, and each of those divine features was established without evaluative premises:
+[S36](../sessions/2026-09-02-good-oriented-divine-profile.md) gives C195 its content. The anchors of $\mathcal A_{min}$ take their fit conditions from kinds that $G$ instantiates or grounds, and each of those divine features was established without evaluative premises:
 
 \[
 Inst_{\Box}(G,K_S)\land Inst_{\Box}(G,K_R)\land
@@ -1251,11 +1251,11 @@ GoodOrient_S(G)\land GoodOrient_R(G),
 GoodOrient_a(G):=\forall d\in Disp^{est}(G)\,[Relevant(d,a)\to Fit_*(d,a,B,C,\tau)].
 \]
 
-No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C229, CH14). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C230). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
+No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C288, CH14). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C289). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
 
 ### Permission, covers, and the bearer-level remainder
 
-[S33](../sessions/2026-09-02-permission-covers-and-the-p-gap.md) structures the P-gap without closing it. The load-bearing divine relation to a token suffering $s$ is permission:
+[S37](../sessions/2026-09-02-permission-covers-and-the-p-gap.md) structures the P-gap without closing it. The load-bearing divine relation to a token suffering $s$ is permission:
 
 \[
 Permits(G,s):=Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s),
@@ -1267,7 +1267,7 @@ Gratuitous(s):=Permits(G,s)\land\neg\exists r\,Cover(r,s),
 GoodOrient_P(G)\Rightarrow\neg\exists s\in H^*\,Gratuitous(s).
 \]
 
-Two policy-level covers follow from existing commitments. The source cover: a policy of preventing every harmful outcome of created choice conflicts with C106, C115, and C118 and misrepresents what choices are. The regularity cover: constant prevention of natural suffering erodes the regularity that C107 assigns to non-agentic domains. Both leave a threshold residue, since token prevention remains available. The developmental thesis that robust agency requires difficulty is optional and unused (C241).
+Two policy-level covers follow from existing commitments. The source cover: a policy of preventing every harmful outcome of created choice conflicts with C106, C115, and C118 and misrepresents what choices are. The regularity cover: constant prevention of natural suffering erodes the regularity that C107 assigns to non-agentic domains. Both leave a threshold residue, since token prevention remains available. The developmental thesis that robust agency requires difficulty is optional and unused (C300).
 
 Because $Fit_*$ is bearer-indexed and $R$ forbids treating a bearer as a mere vehicle:
 
@@ -1279,11 +1279,11 @@ PolicyCover(s)\not\Rightarrow\neg Misfit_*(s,P,B,C,\tau_B),
 \exists\tau_B\supsetneq Life(B)\,[\text{undefeated }P\text{-fit for }B].
 \]
 
-The problem of evil therefore pushes personal continuation onto the trunk (C243, CH16). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C244). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R45–R46).
+The problem of evil therefore pushes personal continuation onto the trunk (C302, CH16). The belief that $G$'s goodness extends to $P$ has the exact content that no actual suffering is gratuitous and that bearer horizons suffice, held as faith in the C200–C202 sense (C303). Blanket skeptical theism and the inference from unseen cover to no cover are both rejected as inferences (R76–R77).
 
 ### Personal continuation as a conditional consequence
 
-[S34](../sessions/2026-09-02-personal-continuation-and-bearer-horizons.md) tests the dependency C243 opened. Define:
+[S38](../sessions/2026-09-02-personal-continuation-and-bearer-horizons.md) tests the dependency C302 opened. Define:
 
 \[
 Continues(B):=\exists t^+\!>\!Death(B)\,[Exists(B,t^+)\land PCon(B,t^+)],
@@ -1291,17 +1291,17 @@ Continues(B):=\exists t^+\!>\!Death(B)\,[Exists(B,t^+)\land PCon(B,t^+)],
 ContHorizon(B):=Continues(B)\land\exists\tau_B\supsetneq Life(B)\,[Fit_*(x,P,B,C,\tau_B)\ \text{undefeated}],
 \]
 
-with numerical identity of the bearer required and location anywhere in $\mathfrak R^*$. Each open realization model of the subject (C219) admits continuation by persistence or by re-realization and relocates the burden to the identity criterion $Ident(B,B^+)$ (CH17). Continuation is typed as an intervention or a further creative act, coherent under C15, OEC, and non-continuous dependence, and within qualified power iff its identity condition is coherent (C248). Empirical base-dependence constrains the embodied regime without defeating it (C249). The only internal support is conditional:
+with numerical identity of the bearer required and location anywhere in $\mathfrak R^*$. Each open realization model of the subject (C219) admits continuation by persistence or by re-realization and relocates the burden to the identity criterion $Ident(B,B^+)$ (CH17). Continuation is typed as an intervention or a further creative act, coherent under C15, OEC, and non-continuous dependence, and within qualified power iff its identity condition is coherent (C307). Empirical base-dependence constrains the embodied regime without defeating it (C308). The only internal support is conditional:
 
 \[
 GoodOrient_P(G)\Rightarrow\forall B\,[\text{uncovered }s\text{ for }B\Rightarrow ContHorizon(B)],
 \]
 
-so the two beliefs stand or fall together under C244 (C250). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C251).
+so the two beliefs stand or fall together under C303 (C309). If continuation obtains, universal availability and $R$ make it available to every bearer, and C124 makes post-mortem communion co-produced rather than imposed; S28's privative model is its negative case (C310).
 
 ### Experiential access and the two registers
 
-[S30](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C231). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
+[S34](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C290). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
 
 | Case | Truthmaker |
 | --- | --- |
@@ -1309,7 +1309,7 @@ so the two beliefs stand or fall together under C244 (C250). If continuation obt
 | veridical of exercised regard | $Address(G,A,t)$ or a response |
 | non-veridical | neither, although $Present_O$ still holds |
 
-Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C233). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C234). Absence of experience refutes nothing; presence entails no miracle (C235). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C236).
+Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C292). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C293). Absence of experience refutes nothing; presence entails no miracle (C294). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C295).
 
 ## Current formal status
 

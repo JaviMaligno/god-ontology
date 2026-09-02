@@ -203,9 +203,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 
 ### Question-driven track (from 2026-09-02)
 
-25. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S30.
-26. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S31.
-27. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S32.
-28. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH14). Completed at F1 in S33: permission, source and regularity covers, bearer-level remainder, and the promotion of personal continuation to a trunk dependency.
-29. Treat personal continuation (CH16): what the ontology can say about an extended bearer horizon given E+, ACO, the embodied subject, and the privative model. Completed at F1 in S34: coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; identity across cessation becomes CH17.
+25. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S34.
+26. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S35.
+27. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S36.
+28. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH14). Completed at F1 in S37: permission, source and regularity covers, bearer-level remainder, and the promotion of personal continuation to a trunk dependency.
+29. Treat personal continuation (CH16): what the ontology can say about an extended bearer horizon given E+, ACO, the embodied subject, and the privative model. Completed at F1 in S38: coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; identity across cessation becomes CH17.
 30. Return to divine constitution and material production (CH12), which shares the substance question with CH17; CH17 is queued behind it. Proposed next task.

@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S33 y S34. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S37 y S38. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -191,12 +191,12 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 
 | Pregunta | Tipo | Compromisos y sesiones |
 | --- | --- | --- |
-| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C222–C225; S09, S31 |
-| No basta con que exista | preferido | C222, C224; S31 |
+| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C281–C284; S09, S35 |
+| No basta con que exista | preferido | C281, C283; S35 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
-| Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C223–C226; S09, S31 |
+| Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C282–C285; S09, S35 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
-| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S31 |
+| Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S35 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder cualificado es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |
@@ -204,11 +204,11 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C227–C230, C244; S21, S32–S33 |
-| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C237–C244; S33; CH14, CH16 |
-| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad queda abierta | C245–C251; S34; CH16, CH17 |
+| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C286–C289, C303; S21, S36–S37 |
+| Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto | C296–C303; S37; CH14, CH16 |
+| Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; la identidad queda abierta | C304–C310; S38; CH16, CH17 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
-| Sentir y pensar | preferido/aceptado | C122–C124, C231–C235; S20, S30 |
-| Experiencia real o ilusión | aceptado | C232–C233; S30 |
-| Gente que no siente nada | aceptado | C123–C124, C235 |
-| Música y arte | abierto en su punto central | C236; S30 |
+| Sentir y pensar | preferido/aceptado | C122–C124, C290–C294; S20, S34 |
+| Experiencia real o ilusión | aceptado | C291–C292; S34 |
+| Gente que no siente nada | aceptado | C123–C124, C294 |
+| Música y arte | abierto en su punto central | C295; S34 |

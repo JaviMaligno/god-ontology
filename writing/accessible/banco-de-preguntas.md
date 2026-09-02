@@ -34,12 +34,12 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P08 | ¿Qué tipo de Dios es ese? | `respondida` | mapa de atributos; C06, C81, C84–C91, C122 | — |
 | P09 | ¿Es el Dios de alguna religión concreta? | `fuera de alcance` | C21; comparación planificada en la parte VIII del tratado | — |
 | P10 | ¿Dios es una persona? | `parcial` | C55–C67, C121–C126; personalidad clásica completa abierta | CH03 |
-| P11 | ¿Hay un solo Dios? | `respondida` | C78–C83; S13 | CH01 |
+| P11 | ¿Hay un solo Dios? | `respondida con extensión modal provisional` | C78–C83, C586–C594; S13, S73 (un solo fundamento del orden contingente; se propone además que todo concreto distinto dependa de él, sin negar abstractos necesarios) | CH01, CH25 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
 | P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
 | P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
-| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C585; S32, S40–S44, S71–S72 (toda tarea de la ontología actual queda cubierta; la forma irrestricta espera el test de relata no creados y nuevos tipos de acción) | CH05 |
+| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 (toda tarea actual queda cubierta; $UCD_G$ cierra condicionalmente los relata no creados; faltan tipos de acción genuinamente nuevos) | CH05, CH25 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |

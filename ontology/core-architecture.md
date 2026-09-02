@@ -2086,7 +2086,7 @@ OMP_Q^{\mathcal O_*}(G):=
 \forall a[Task_G^{\mathcal O_*}(a)\rightarrow StrongCan(G,a)]
 \]
 
-is explicitly relative to the independently accepted kinds, relata, source roles, and identity conditions of the current ontology. S72 closes the established self-executive grammar and, with the created and mixed ranges, supports the complete ontology-relative formula at F2. Unrestricted $OMP_Q$ remains open across rival ontologies.
+is explicitly relative to the independently accepted kinds, relata, source roles, and identity conditions of the current ontology. S72 closes the established self-executive grammar and, with the created and mixed ranges, supports the complete ontology-relative formula at F2. S73 subsequently proposes $UCD_G$ and conditionally closes the non-created-concrete branch; unrestricted $OMP_Q$ remains open for independently motivated novel action kinds and for any successful defeater of $UCD_G$.
 
 S45 supplies the identity framework required by those boundaries. Its result is summarized below.
 
@@ -2246,9 +2246,54 @@ OMP_Q^{\mathcal O_*}(G):=
 
 This is preferred at F2 conditional on the earlier modal and composability bridges. It closes every action kind licensed by the preferred ontology, not every action kind or non-created relatum a rival ontology might independently motivate.
 
+## Non-created concreta and universal dependence
+
+S73 fixes the creation predicate before testing the residual external-blocker case. For concrete relata:
+
+\[
+Created_G(x):=x\neq G\land DependsExistentially(x,G).
+\]
+
+The dependence may be direct or terminate in $G$ through a well-founded chain. It requires neither temporal beginning nor immediate production by the actual contingent $OEC^+$ act. A necessary concrete may therefore be created *ab alio*. The target is:
+
+\[
+NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L).
+\]
+
+Given C04's scope over total contingent reality:
+
+\[
+NCC_G(L)\rightarrow Necessary(L).
+\]
+
+A brute contingent exception rejects the working ground thesis rather than inhabiting it. $U_G$, $U_D$, and $CMU_G$ then exclude $L$ when it is another ultimate ground or origin of a contingent order. They do not deductively exclude a necessary independent concrete with no such role. This is the exact limit of the role-based uniqueness argument.
+
+The proposed F2 continuation is universal concrete dependence:
+
+\[
+UCD_G:=\Box\forall x[(Concrete(x)\land x\neq G)
+\rightarrow DependsExistentially(x,G)].
+\]
+
+Its support is abductive and power-independent: one terminal concrete explanation, well-founded derivative chains, no independently needed second terminus, and the familiar costs of partition, conflict, reciprocal restriction, or brute necessary concordance. $UCD_G$ is stronger than $CMU_G$ and is not demonstrated. It also differs from unrestricted uniqueness of necessary entities: necessary abstracta and concrete necessary dependents remain possible, and the conditional asserts no necessary creature.
+
+If $UCD_G$ is withheld, a rival $L$ matters to power only through an action genuinely concerning it. Creating the same essentially uncreated $L$, annihilating the same necessary $L$, or producing $L$'s autonomous settlement while retaining its source role fails $Task_G$. Knowledge of an actual $L$ falls under ACO, while attention, address, cooperation, and autonomous response retain distinct source roles. Direct modification or a source-neutral result concerning $L$ can remain eligible if the complete specification is compatible with the independently established essences of both relata.
+
+The exact defeater is:
+
+\[
+\begin{aligned}
+NCCBlock_G(L,a):={}&NCC_G(L)\land LTask_G(a,L)\\
+&\land IndependentBoundary(L,a)
+\land\neg StrongCan(G,a).
+\end{aligned}
+\]
+
+Mere coexistence, causal isolation, abstract necessity, preservation built into the task, and another agent's autonomous contribution are insufficient. If $UCD_G$ is accepted, the non-created-relatum branch closes at F2; if it is rejected, only a fully specified `NCCBlock` defeats unrestricted $OMP_Q$. The remaining independent range branch concerns genuinely new action kinds or qualitative intrinsic divine modes.
+
 ## Current formal status
 
-S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. S44 then closes the pure created-directed domain at F2 under $CAN_G$ and separates self-executive from self-reconstituting descriptions. S45 adopts fundamental absolute identity with anchored hylomorphic-organismic persistence, resolves the one-bearer/person-phase issue, and prefers constrained intermittent identity as metaphysically possible at F2. S71 eliminates destructive strict-*ex-deo* variants, retains $ANDC$ as a conditional whole-presence witness, and covers eligible relational $ANDC$ creation through $CP_G^{elig}$. S72 closes the established self-executive grammar, conditionally covers executive-mode $ED_{IM}$, and supports ontology-relative $OMP_Q^{\mathcal O_*}$ while leaving unrestricted cross-ontology range open.
+S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. S44 then closes the pure created-directed domain at F2 under $CAN_G$ and separates self-executive from self-reconstituting descriptions. S45 adopts fundamental absolute identity with anchored hylomorphic-organismic persistence, resolves the one-bearer/person-phase issue, and prefers constrained intermittent identity as metaphysically possible at F2. S71 eliminates destructive strict-*ex-deo* variants, retains $ANDC$ as a conditional whole-presence witness, and covers eligible relational $ANDC$ creation through $CP_G^{elig}$. S72 closes the established self-executive grammar, conditionally covers executive-mode $ED_{IM}$, and supports ontology-relative $OMP_Q^{\mathcal O_*}$. S73 narrows any non-created concrete to a necessary independent relatum, shows the limit of role-based uniqueness, proposes $UCD_G$ at F2 on independent abductive grounds, and isolates `NCCBlock` as the only genuine residual external defeater.
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 
@@ -2266,4 +2311,4 @@ Therefore exact specification of laws, boundaries, and powers does not entail a 
 
 Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. S39 prefers conditional modal ultimity B2r at F2 without claiming a deduction from actual uniqueness and separates ultimate sourcehood from direct production. S40 defines root-created specifications, derives direct root origin under B2r, supplies an agent-relative $OEC^+$ witness, and locally establishes essence-qualified creative plenitude. S41 adopts grounding with sparse direct action and establishes positive and identity-compatible constitutive control at F2. S42 treats annihilation as direct settlement of an independently admissible terminal existential boundary, distinguishes local from total annihilation, and closes the type-level $CC_G$ range at F2 while leaving shared-history accessibility to $HI_G$. S43 distinguishes numerical recreation from duplicate reconstruction and supplies fixed-prefix intervention through an explicit local composability bridge. S44 closes pure created-directed tasks conditionally and promotes identity as the next shared dependency. S45 adopts absolute fundamental identity, anchored hylomorphic-organismic persistence, a one-bearer person-phase view, and constrained intermittent existence at F2; $PMC_U$, the meta-modal ground of uninstantiated profiles, strict-overlap coherence, self-executive exhaustion, and unrestricted $OMP_Q$ remain later challenges.
 
-S46–S70 then develop the question-driven and accessible tracks, reconcile them with the trunk, consolidate every treatise Part, add the appendices, and complete the first whole-treatise and provenance passes. S71 applies the S45 identity result to strict *ex deo*: destructive variants fail and eligible relational $ANDC$ falls under root creative power without displacing actual $CCD$. S72 closes the current self-executive grammar and distinguishes executive intrinsic manifestation from novel qualitative self-modification; the next power test concerns distinct non-created concrete relata.
+S46–S70 then develop the question-driven and accessible tracks, reconcile them with the trunk, consolidate every treatise Part, add the appendices, and complete the first whole-treatise and provenance passes. S71 applies the S45 identity result to strict *ex deo*: destructive variants fail and eligible relational $ANDC$ falls under root creative power without displacing actual $CCD$. S72 closes the current self-executive grammar and distinguishes executive intrinsic manifestation from novel qualitative self-modification. S73 conditionally closes distinct non-created concreta through $UCD_G$ and leaves independently motivated new action kinds as the next power test.

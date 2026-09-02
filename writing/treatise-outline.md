@@ -253,11 +253,17 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Conditional coverage of $ED_{IM}^{exec}$ and the open $ED_{IM}^{qual}$ extension
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
-    - Ontology-relative maximality and possible non-created concrete relata
-    - Ontology-relative $OMP_Q^{\mathcal O_*}$ and the remaining cross-ontology problem
+    - Creation as existential dependence rather than temporal beginning or only direct $OEC^+$
+    - Why every genuine non-created concrete must be necessary under the total-contingent-ground thesis
+    - The exact scope limit of $U_G$, $U_D$, $CMU_G$, and $MUU$
+    - Universal concrete dependence $UCD_G$ as an abductive extension, not unrestricted necessary-entity uniqueness
+    - Necessary existence *ab alio* and why a necessary dependent concrete remains created
+    - Non-created-relational tasks: malformed existential tasks, source-indexed joint action, and possible direct effects
+    - `NCCBlock`: the exact external-defeater form
+    - Ontology-relative $OMP_Q^{\mathcal O_*}$, conditional non-created closure, and the remaining novel-action-kind problem
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
-    - The bounded-demiurge fallback if unrestricted maximality fails
+    - The bounded-demiurge or plural-ultimate fallback if $UCD_G$ or unrestricted maximality fails
 25. **Immateriality and the Ground of Created Space**
     - Created-space aspatiality, physical immateriality, and absolute non-spatiality
     - What is $G$ made of? Material input, parts, substrate, constitutive profile, and ontological category

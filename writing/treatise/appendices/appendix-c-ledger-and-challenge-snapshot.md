@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 585 |
-| Rejected or corrected moves (R) | 224 |
-| Challenges (CH) | 24 |
+| Working commitments (C) | 600 |
+| Rejected or corrected moves (R) | 234 |
+| Challenges (CH) | 25 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 246 |
-| preferred | 242 |
-| other | 44 |
+| preferred | 241 |
+| other | 60 |
 | provisional | 25 |
 | open | 11 |
 | merged | 9 |
@@ -24,7 +24,7 @@
 
 | Challenge status (first word) | Count |
 | --- | --- |
-| tested | 16 |
+| tested | 17 |
 | scoped | 8 |
 
 ## Working commitments
@@ -292,10 +292,10 @@
 | C259 | Conditional on sole divine ultimity and existential sovereignty, no created entity, law, field, agent, or spacetime region can be the ultimate limiter of $G$. | `preferred conditional consequence` |
 | C260 | $P_{OEC}$, variable $S$-specification, and typed intervention provide broad cross-category evidence for maximal created-order power but do not entail a universal range. | `accepted evidential assessment` |
 | C261 | $G$ satisfies created-order qualified maximality $OMP_C$. | `preferred at F2` |
-| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity or non-created concrete limiter. | `accepted evidential ordering` |
+| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity or, if $UCD_G$ fails, an $NCCBlock$. | `accepted evidential ordering; refined by S72–S73` |
 | C263 | An alleged essential internal limit qualifies the action domain only if the essential feature is established independently of that incapacity and omnipotence. | `accepted anti-circularity rule` |
 | C264 | Logical, identity, and mathematical constraints are not thereby non-created agents or causal blockers competing in power with $G$. | `preferred` |
-| C265 | A necessary concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `live defeater` |
+| C265 | A necessary concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `refined as NCCBlock by C587–C600` |
 | C266 | Creating an exact divine duplicate is incoherent when exactness includes both created dependence and underived ultimate-ground status. | `preferred resolution of strict CH01` |
 | C267 | Creation of a dependent qualitative or derivative near-copy of $G$ remains open. | `open` |
 | C268 | Actual $CCD(G,\mathcal C_0)$ does not establish that every possible divine creative act must be constitutively disjoint. | `accepted modal distinction` |
@@ -460,7 +460,7 @@
 | C427 | A self-reconstituting description fails $Task_G$ when its result removes an independently established identity condition of the same $G$ to whom the complete action is attributed. | `preferred identity qualification` |
 | C428 | Divine states and relations are not automatically further divine actions. | `accepted analytic distinction` |
 | C429 | Logical, mathematical, modal, and identity necessities constrain task coherence but are not thereby causal patients or resistant non-created agents. | `preferred application` |
-| C430 | The preferred ontology contains no distinct non-created concrete relatum, but its modal impossibility has not been demonstrated. | `preferred actual ontology; open modal rival` |
+| C430 | The preferred ontology contains no distinct non-created concrete relatum, but its modal impossibility has not been demonstrated. | `refined and conditionally closed by C586–C600` |
 | C431 | Strict non-destructive $ED_S$ is grammatically mixed and required an identity-and-overlap audit before power classification. | `historical S44 classification; split by C569–C571` |
 | C432 | Ontology-relative qualified maximality $OMP_Q^{\mathcal O_*}$ quantifies over tasks licensed by the current ontology's independently accepted kinds, relata, identity conditions, and source roles. | `preferred diagnostic definition` |
 | C433 | The created-directed fragment, eligible relational $ANDC$, and established self-executive fragment of $OMP_Q^{\mathcal O_*}$ were supported before the whole ontology-relative formula was closed. | `historical calibrated result superseded by C585` |
@@ -615,7 +615,22 @@
 | C582 | A qualitative intrinsic mode $QualMode_G$ adds a new quality, power, part, substrate-state, or determinant not reducible to an established exercise token. | `open ontology extension` |
 | C583 | The intrinsic-mode *ex deo* family divides into executive-token $ED_{IM}^{exec}$ and qualitative self-modificatory $ED_{IM}^{qual}$. | `proposed accepted refinement` |
 | C584 | A jointly admissible $ED_{IM}^{exec}$ specification is conditionally within divine capacity through token unity, $FEG_G$, and $CP_G^{elig}$; $ED_{IM}^{qual}$ remains open. | `proposed preferred conditional F2 capacity` |
-| C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure` |
+| C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure; external branch refined by C600` |
+| C586 | For concrete relata, creation by $G$ is existential dependence on $G$, direct or through a well-founded derivative chain; it entails neither temporal beginning nor immediate production by the actual contingent $OEC^+$ act. | `proposed accepted clarification` |
+| C587 | $NCC_G(L)$ says only that $L$ is concrete, numerically distinct from $G$, and not existentially dependent on $G$; necessity, agency, grounding, interaction, and resistance require separate premises. | `proposed accepted analytic rule` |
+| C588 | Conditional on C04's grounding of total contingent reality, every $NCC_G(L)$ is necessary. | `proposed preferred consequence` |
+| C589 | $U_G$, $U_D$, $CMU_G$, and current $MUU$ exclude a second ultimate source in their contingent-grounding or created-origin roles but do not by themselves exclude an independent necessary concrete with no such role. | `proposed accepted scope result` |
+| C590 | A non-created-concrete profile must type modal status, dependence, agency, grounding role, causal accessibility, and admissible action roles before it can enter a power argument. | `proposed preferred F2 taxonomy` |
+| C591 | **Universal concrete dependence $UCD_G$:** necessarily, every concrete entity numerically distinct from $G$, if it exists, depends existentially on $G$. | `proposed preferred at F2` |
+| C592 | $UCD_G$ is supported abductively and independently of omnipotence by one terminal concrete explanation, well-founded dependence, the lack of a positive role for a second terminus, and the costs of partition, conflict, reciprocal limitation, or brute concordance. | `proposed comparative justification` |
+| C593 | $UCD_G$ neither establishes unrestricted uniqueness of every necessary entity nor excludes necessary dependent concreta. | `proposed accepted scope limit` |
+| C594 | The project does not demonstrate that plural independent necessary concreta are contradictory; their models are retained as rival ultimate ontologies rejected by the proposed $UCD_G$. | `proposed accepted evidential limit` |
+| C595 | Creating the very same essentially non-created $L$, annihilating the same necessary $L$, or strongly producing an autonomous settlement while preserving it as $L$'s free contribution fails $Task_G$. | `proposed preferred task exclusions` |
+| C596 | Knowledge of an actual non-created $L$ would fall within ACO's complete-actuality scope and is not a further causal action; attention or address may use $FEG_G$, while uptake or autonomous response remains source-indexed to $L$. | `proposed integration` |
+| C597 | If $UCD_G$ is false, modifying, constraining, disclosing to, cooperating with, or producing a source-neutral result concerning $L$ may pass $Task_G$ when the complete action is independently essence-compatible and source-consistent. | `proposed conditional task range` |
+| C598 | Joint action with an autonomous non-created agent is typed by asymmetric contributions: $G$ must strongly produce its own contribution, not the other agent's contrastive settlement. | `proposed accepted source-role extension` |
+| C599 | A genuine $NCCBlock_G(L,a)$ requires $NCC_G(L)$, an independently eligible $LTask_G(a,L)$, an underived boundary supplied by $L$, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
+| C600 | Under proposed $UCD_G$, the distinct-non-created-concrete branch of action-domain exhaustion is closed at F2; without it, only an $NCCBlock$ defeats unrestricted $OMP_Q$. | `proposed preferred conditional closure` |
 
 ## Rejected or corrected moves
 
@@ -845,6 +860,16 @@
 | R222 | Any intrinsic divine mode is automatically a non-destructive manifestation of an established power. | `rejected` |
 | R223 | Conditional capacity for $ED_{IM}^{exec}$ makes actual creation strict *ex deo*. | `rejected` |
 | R224 | Ontology-relative qualified omnipotence establishes unrestricted qualified omnipotence across every rival ontology. | `rejected` |
+| R225 | A being is created only if it begins to exist at a time or is the immediate terminus of the actual contingent $OEC^+$ act. | `rejected` |
+| R226 | Every necessary concrete distinct from $G$ is non-created. | `rejected` |
+| R227 | $U_G$, $U_D$, or $CMU_G$ alone proves that no independent necessary concrete can exist. | `rejected overreach` |
+| R228 | The mere existence of a non-created concrete defeats omnipotence. | `rejected` |
+| R229 | Creating an essentially non-created $L$ or annihilating a necessary $L$ is an eligible test of divine power. | `rejected` |
+| R230 | Omnipotence requires $G$ to produce another agent's autonomous contrastive settlement as such. | `rejected` |
+| R231 | A causally isolated necessary concrete automatically limits divine power. | `rejected` |
+| R232 | $UCD_G$ may be adopted solely because unrestricted omnipotence requires it. | `rejected as circular` |
+| R233 | $UCD_G$ is a demonstrated theorem of the contingency argument. | `rejected` |
+| R234 | $UCD_G$ implies that some creature necessarily exists or that the actual root creation is necessary. | `rejected scope error` |
 
 ## Challenges
 
@@ -854,7 +879,7 @@
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | `scoped` |
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | `tested` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | `scoped` |
-| CH05 | Does the current power argument establish only maximality over the created order, ontology-relative qualified omnipotence, or unrestricted qualified omnipotence; what could ground a coherent limiter? | `tested F2 within the preferred ontology; unrestricted form open` |
+| CH05 | Does the current power argument establish only maximality over the created order, ontology-relative qualified omnipotence, or unrestricted qualified omnipotence; what could ground a coherent limiter? | `tested F2; non-created branch conditionally closed in S73; novel-kind branch open` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | `scoped` |
 | CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | `tested` |
@@ -874,3 +899,4 @@
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | `tested F2` |
+| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; conditionally closed under proposed UCD_G` |

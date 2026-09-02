@@ -50,7 +50,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `tested F2` |
-| CH19 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
+| CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
 
 ## Priority gate after S26
 
@@ -417,7 +417,7 @@ The pre-conscious organism and later conscious agent are one numerical subject, 
 
 CH18 is therefore tested at F2. The deeper choice between constrained non-criterial identity, origin essentialism, and haecceitism remains optional unless another module requires it. The immediate application is strict *ex deo*, where $PP_G$ narrows self-destruction cases but does not itself resolve constitution or overlap.
 
-## CH19 — Strict *ex deo* after identity
+## CH24 — Strict *ex deo* after identity
 
 **Status:** `tested at F2 in S71; intrinsic divine modes remain for the self-executive audit`
 

@@ -241,4 +241,6 @@ These modules remain conditional on the upstream case for a necessary agent. The
 60. Consolidate Part VI (divine action). Completed as first-pass prose in S62; no inconsistency found; the self-consistency of responsive loops recorded as open and adjacent to $HI_G$.
 61. Test whether the self-consistency of responsive interventions is absorbed by $HI_G$. Completed in S63: not absorbed; closed by well-founded responsiveness (C528–C531) with no new primitive.
 62. Consolidate Part VII (further attributes, the P-gap, continuation). Completed as first-pass prose in S64; no inconsistency found.
-63. Consolidate Part VIII (comparison and evaluation) or Parts I–II, or return to the open trunk items (action-domain exhaustion per C419, the P-reason routes of C504, CH14's remaining parts). Proposed, not promoted (C324).
+63. Consolidate Part VIII (comparison and evaluation). Completed as first-pass prose in S65; Part VII updated for S44; the branch's identity work offered as a candidate framework (C533).
+64. Consolidate Parts I–II (motivation and method). Completed as first-pass prose in S66, drafted to be overwritten in the author's voice.
+65. Every Part now has first-pass prose. Remaining consolidation work: the appendices and the provenance pass. Proposed, not promoted (C324); the trunk's identity module (C434) is the author's next priority.

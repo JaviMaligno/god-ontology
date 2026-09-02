@@ -70,3 +70,5 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S62 — Consolidation pass of Part VI](2026-09-02-consolidation-part-vi.md)
 - [S63 — Self-consistency of responsive interventions, and whether $HI_G$ absorbs it](2026-09-02-responsive-interventions-well-founded.md)
 - [S64 — Consolidation pass of Part VII](2026-09-02-consolidation-part-vii.md)
+- [S65 — Consolidation pass of Part VIII, and reconciliation with S44](2026-09-02-consolidation-part-viii.md)
+- [S66 — Consolidation pass of Parts I–II](2026-09-02-consolidation-parts-i-ii.md)

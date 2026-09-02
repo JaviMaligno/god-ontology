@@ -75,3 +75,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S67 — Consolidation pass of Parts I–II](2026-09-02-consolidation-parts-i-ii.md)
 - [S68 — Reconciliation with the author's identity module (S45)](2026-09-02-reconciliation-with-identity-module.md)
 - [S69 — Appendices, first pass, and a generator for the mechanical ones](2026-09-02-appendices-first-pass.md)
+- [S70 — Whole-treatise coherence pass after the trunk's S39–S45](2026-09-02-treatise-coherence-pass.md)

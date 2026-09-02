@@ -1308,7 +1308,7 @@ HI_G^{elig}:=
 
 preferred at F2 conditional on $LPC_G$ and the earlier modal-ultimity architecture. It covers eligible direct physical, boundary, nomic, constitutive, agency-preserving, and agency-removing interventions. For communication and other joint outcomes, it covers $G$'s contribution but not strong production of a response whose identity requires creaturely sourcehood. A nomic exception and law replacement remain different tasks. A created manifestation at $t$ does not imply that $G$ begins acting at $t$; the divine contribution is one atemporal settlement within the co-produced $H_I$, not an edit of a previously actual $H_0$.
 
-Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The local route is narrower and typed: S40 establishes root creative plenitude; S41 supports positive and admissible persistence-sensitive constitutive control without collapsing secondary causation into divine production; S42 derives annihilative control through bounded atemporal grounding; and S43 supplies fixed-prefix accessibility through explicit retention and composability bridges. $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ now support all three named created-order subranges at F2. Action-domain exhaustion remains separate and is next before unrestricted $OMP_Q$ can be assessed.
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The local route is narrower and typed: S40 establishes root creative plenitude; S41 supports positive and admissible persistence-sensitive constitutive control without collapsing secondary causation into divine production; S42 derives annihilative control through bounded atemporal grounding; S43 supplies fixed-prefix accessibility through explicit retention and composability bridges; and S44 uses $CAN_G$ to close pure created-directed tasks. Unrestricted $OMP_Q$ remains separate because self-executive exhaustion, mixed identity cases, and possible non-created concreta are not settled.
 
 ## Ontological omnipresence
 
@@ -1874,9 +1874,47 @@ If ontology $O$ entails an empirical consequence through a justified bridge and 
 
 This applies to psychology and other sciences as well as physics. Their findings can inform realization, examples, and abductive comparison while remaining distinct from the constitution of agency, consciousness, value, modality, substance, or divine reality.
 
+## Action-domain closure and the identity dependency
+
+S44 normalizes a divine task as:
+
+\[
+NF_G(a)=\langle s,p,q,\pi,\sigma\rangle,
+\]
+
+separating acting subject, patient or domain, contrastive result, preservation conditions, and other source roles. A **pure created-directed task** gives $G$ a created terminus without essentially modifying $G$'s own constitution. The F2 normalization bridge is:
+
+\[
+CAN_G:\quad PureCreated_G(a)\rightarrow
+RootForm(a)\lor TypeOutcomeForm(a)\lor FixedPrefixForm(a).
+\]
+
+Together with the previous range results:
+
+\[
+CP_G^{elig}\land CC_G^{elig}\land HI_G^{elig}\land CAN_G
+\rightarrow
+\forall a[PureCreated_G(a)\rightarrow StrongCan(G,a)].
+\]
+
+The forms may overlap. They distinguish complete root origination, created outcome-type control, and exercise under a fixed concrete prefix rather than three mutually exclusive kinds of causation.
+
+This closes the pure created-directed fragment at F2, conditional on the earlier modal bridges. It does not establish unrestricted $OMP_Q$. Self-executive exercises preserve the divine bearer while selecting, intending, attending, addressing, or refraining; the architecture supports the central types it already employs but has not exhaustively characterized their possible range. Self-reconstituting descriptions fail $Task_G$ only where they violate independently established identity conditions. Divine states and relations are not automatically additional acts, and abstract necessities constrain task coherence without becoming causal patients.
+
+Strict non-destructive $ED_S$ is a mixed task because it concerns both a created effect and divine constitution. A distinct non-created concrete relatum would also lie beyond created-directed closure if it is genuinely possible. Hence the diagnostic:
+
+\[
+OMP_Q^{\mathcal O_*}(G):=
+\forall a[Task_G^{\mathcal O_*}(a)\rightarrow StrongCan(G,a)]
+\]
+
+is explicitly relative to the independently accepted kinds, relata, source roles, and identity conditions of the current ontology. Its created fragment and established self-executive fragment are supported; the complete formula and unrestricted $OMP_Q$ remain open.
+
+Identity is now the next F2 trunk priority. It controls transworld divine sameness, embodied persistence, the bearer of conscious episodes, modification versus replacement, numerical recreation, fission, self-copy, and mixed *ex deo*. The next pass will separate numerical identity, individuation, persistence, reidentification evidence, and gap identity before choosing a preferred account for embodied agents.
+
 ## Current formal status
 
-S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. All three named created-order subranges are therefore supported at F2; their exhaustion and the classification of extra-created tasks form the next power question.
+S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. S44 then closes the pure created-directed domain at F2 under $CAN_G$, separates self-executive from self-reconstituting descriptions, and leaves unrestricted $OMP_Q$ open. The recurrent identity dependency is promoted to the next F2 trunk module.
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 

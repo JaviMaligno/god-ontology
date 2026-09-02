@@ -411,3 +411,7 @@ The potentially distinctive element is the integration of exact E+ prefixes, sou
 ## Next question
 
 Do $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust every independently eligible created-order task, and which coherent self-directed or non-created-relational divine action types remain before unrestricted $OMP_Q$ can be assessed?
+
+## Later resolution
+
+[S44](2026-09-02-action-domain-exhaustion.md) closes pure created-directed tasks at F2 under the $CAN_G$ normalization bridge. It separates self-executive from self-reconstituting descriptions and leaves exhaustive self-executive range, mixed *ex deo*, possible non-created concrete relata, and unrestricted $OMP_Q$ open. Identity is promoted to the next F2 trunk module because it now controls both recreation and divine-task eligibility.

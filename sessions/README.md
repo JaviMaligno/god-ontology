@@ -49,3 +49,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S41 — Constitutive control and secondary causation](2026-09-02-constitutive-control-and-secondary-causation.md)
 - [S42 — Existential boundaries and annihilation](2026-09-02-existential-boundaries-and-annihilation.md)
 - [S43 — Fixed-history intervention range](2026-09-02-fixed-history-intervention-range.md)
+- [S44 — Action-domain exhaustion and the identity handoff](2026-09-02-action-domain-exhaustion.md)

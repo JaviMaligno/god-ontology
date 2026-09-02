@@ -49,6 +49,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
+| CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `promoted; next F2` |
 
 ## Priority gate after S26
 
@@ -185,7 +186,9 @@ S42 accepts the author's challenge to that open verdict without reinstating eith
 
 S43 first corrects the post-annihilation identity taxonomy. A matching later $y\neq x$ is duplicate reconstruction, while numerical recreation of $x$ is conditionally admissible if an independent $GapIdentity_C$ relation connects a disconnected life-profile. Qualitative similarity decides neither identity nor non-identity by itself.
 
-S43 then tests $HI_G$. $HistComp_C$ establishes the exact prefix, neutral outcome, preservation profile, and source structure without already requiring divine performance. Essential power retention prevents a created prefix from reconstituting or damaging $G$. The explicit $LPC_G$ bridge combines these conditions with type-level control into a relevant history where the same $G$ intentionally intervenes. This supports $HI_G^{elig}$ at F2 while leaving holistic source-sensitive non-composability as the live defeater. CH05 now advances to action-domain exhaustion before unrestricted $OMP_Q$.
+S43 then tests $HI_G$. $HistComp_C$ establishes the exact prefix, neutral outcome, preservation profile, and source structure without already requiring divine performance. Essential power retention prevents a created prefix from reconstituting or damaging $G$. The explicit $LPC_G$ bridge combines these conditions with type-level control into a relevant history where the same $G$ intentionally intervenes. This supports $HI_G^{elig}$ at F2 while leaving holistic source-sensitive non-composability as the live defeater. At that stage CH05 advanced to action-domain exhaustion before unrestricted $OMP_Q$.
+
+S44 supplies the resulting classification. $CAN_G$ normalizes every pure created-directed task into root, type-outcome, or fixed-prefix form, so the three prior ranges close that fragment at F2. The remaining domain divides into established but not exhaustively enumerated self-executive acts, identity-breaking self-reconstitution descriptions, mixed *ex deo* cases, abstract constraints that are not causal patients, and possible actions concerning a distinct non-created concrete relatum. CH05 is locally resolved for pure created-directed power but remains globally tested rather than resolved for unrestricted $OMP_Q$. Because identity now determines several of these boundaries, CH18 becomes the next trunk challenge.
 
 S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
 
@@ -383,3 +386,26 @@ This is an abductive continuation of the one-ground explanatory architecture. Br
 The test also reveals that ultimate sourcehood does not entail immediate $OEC^+$. A derivative producer can act proximately while its existence and powers terminate in $G$. CH17 is therefore locally tested at F2 and hands the remaining directness/specification-accessibility burden to S40.
 
 S40 closes that burden for complete root-created specifications. A prior created producer would defeat roothood, while a distinct underived producer would reject the preferred modal-uniqueness premise. The accepted agentic-origin model then supplies a relevant possible performance by the same necessary $G$. The resulting $CP_G^{elig}$ remains conditional on CH17's abductive $CMU_G$ and does not extend automatically to derivative products, constitutive control, or history-sensitive intervention.
+
+S44 later shows that $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust pure created-directed tasks under $CAN_G$. It distinguishes this result from exhaustive self-executive power and from action concerning a distinct non-created concrete relatum. CH17 therefore remains relevant to unrestricted $OMP_Q$ even after created-domain closure.
+
+## CH18 — Individuation, persistence, and gap identity
+
+**Challenge:** What makes a bearer numerically the same through change, and can that ground survive an interval in which the bearer does not exist?
+
+**Scope:** embodied agents, conscious bearers, divine task identity, modification/replacement, recreation, duplication, fission, self-copy, and strict *ex deo*
+
+**Status:** `promoted; next F2 trunk challenge`
+
+The existing architecture uses numerical identity in several bridges without yet supplying a general theory. S43 introduced $GapIdentity_C$ only as a placeholder. S44 shows that the omission now affects the boundary of $Task_G$ itself: whether an act preserves, replaces, reconstitutes, duplicates, or destroys its subject depends on independently grounded identity conditions.
+
+The F2 pass must distinguish:
+
+1. numerical identity from exact qualitative similarity;
+2. synchronic individuation from diachronic persistence;
+3. what constitutes identity from evidence used to reidentify;
+4. continuous persistence from intermittent existence;
+5. essential kind or origin constraints from preservation of every property;
+6. creaturely persistence from the identity of underived $G$ across modal witnesses.
+
+Candidate families include organismic or animalist continuity, thin hylomorphic organization, psychological continuity, causal continuity, simple or primitive identity, individual essence or haecceity, constitution views, and information-pattern accounts. Duplicate and fission cases, total bodily replacement, unconscious intervals, and annihilation followed by return will serve as discriminators. Divine recognition or recreation cannot itself be used to define the identity it is supposed to track or restore.

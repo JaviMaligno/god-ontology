@@ -125,6 +125,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Incoherent, role-mismatched, created, internal, abstract, and non-created concrete blockers
     - The circularity of using $\Sigma_G$ or relational immanence to prove maximality
     - Why $OMP_C$ is better supported than unrestricted $OMP_Q$
+    - The universal-range problem: $CP_G$, $CC_G$, $HI_G$, and task-domain exhaustion
+    - Modal-source bridge: independent possibility, invariant source, essential power, and choice accessibility
+    - Specification transparency and the danger of defining plenitude into $P_{OEC}$
+    - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge fallback if unrestricted maximality fails

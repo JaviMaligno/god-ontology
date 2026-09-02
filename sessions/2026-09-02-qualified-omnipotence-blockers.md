@@ -307,3 +307,7 @@ The principal definitions and paradoxes are established. The local contribution 
 ## Next question
 
 With the power branch stable at F2, return to the next trunk gap: whether ACO's complete propositional truth-knowledge is sufficient for knowing a conscious creature *as a subject*, or whether acquaintance or irreducible second-person knowledge adds another divine capacity.
+
+## Later author confirmation and bridge search
+
+The author accepts the distinction between $OMP_C$ and $OMP_Q$, the qualified treatment of strict *ex deo*, and the proposal to search for the missing universal-range bridge. [S33](2026-09-02-universal-power-range-bridge.md) performs that search without promoting either power claim: it identifies a conditional modal-source route to creative plenitude and separates the further constitutive-control, history-sensitive-intervention, and task-domain-exhaustion burdens.

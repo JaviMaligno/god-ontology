@@ -858,6 +858,46 @@ Actual creator–creation disjointness is not an essential modal policy. If a no
 
 The strict self-copy challenge is similarly typed. A $G'$ cannot be both created and underived in the same respect, so an exact dependent-and-ultimate duplicate is not an eligible task. A dependent qualitative near-copy remains open.
 
+### Universal-range bridge under investigation
+
+S33 decomposes the missing bridge before attempting to strengthen C261. Created-order maximality contains at least:
+
+\[
+OMP_C\supseteq\{CP_G,CC_G,HI_G\},
+\]
+
+where $CP_G$ is creative plenitude, $CC_G$ is constitutive control over created powers and constituents, and $HI_G$ is intervention range relative to an obtaining history. The notation marks required subranges rather than a set-theoretic definition. Unrestricted $OMP_Q$ additionally needs a justified exhaustion of eligible divine action-types.
+
+The strongest current candidate for $CP_G$ is a four-premise **modal-source bridge**. Let $Poss_C^{ind}(S)$ state the genuine possibility of a fundamental created specification without defining that possibility through $G$'s capacity. The bridge requires:
+
+1. independently grounded created possibility $Poss_C^{ind}(S)$;
+2. modal sole-source invariance: the same necessary $G$ originates every possible fundamental created basis;
+3. essential rather than environmentally acquired $P_{OEC}$;
+4. an agent-relative witnessing world in which the difference is grounded in $G$'s own settling while the necessary base and essential agent remain fixed.
+
+Conditional on these premises:
+
+\[
+Poss_C^{ind}(S)\rightarrow CanCreate(G,S),
+\]
+
+and universal generalization yields $CP_G$. The argument is not yet complete. C48 partly grounds possibility in actualizing powers, so it cannot establish $Poss_C^{ind}$ under a power-relative reading. Actual one-ground ultimity also requires a further essential-role argument before becoming modal sole-source invariance.
+
+Specification transparency supplies compatible abductive support:
+
+\[
+Poss_C^{ind}(S)
+\land Selects(G,S)
+\land P_{OEC}(G)
+\rightarrow Produces(G,\mathcal C_S).
+\]
+
+$P_{OEC}$ operates without a prior patient or created causal genus, making it plausible that $S$ supplies the effect-type without an independent medium imposing a narrower range. Universal transparency must not be built into the definition of $P_{OEC}$; doing so would merely rename creative plenitude.
+
+The remaining bridges stay distinct. Grounding a created relatum does not by itself entail power to modify it after origination, and a possible alternative creation does not witness an intervention ability relative to the same fixed history. Likewise, $CP_G$, $CC_G$, and $HI_G$ do not establish $OMP_Q$ until eligible creative, created-target, self-directed, and non-created-relational actions are exhaustively typed.
+
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The preferred research direction is therefore the modal-source plus specification-transparency route, retained for F3 rather than treated as a completed proof.
+
 ## Ontological omnipresence
 
 Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. “External to creation” therefore does not locate $G$ in a second spatial region. The preferred independence claim is **constitutive transcendence**:
@@ -1383,4 +1423,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining the power bridge, cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.

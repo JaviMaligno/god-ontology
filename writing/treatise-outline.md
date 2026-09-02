@@ -101,6 +101,11 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Proposed F2 model: one embodied power-bearing subject under a thin hylomorphic interpretation
     - Fundamental phenomenal power and the open subject-level dual-aspect bridge
     - Created atemporal consciousness as a modal edge case rather than the actual human model
+    - Numerical identity versus exact qualitative similarity
+    - Synchronic individuation, diachronic persistence, and reidentification evidence
+    - Organismic, hylomorphic, psychological, causal, simple, haecceitist, constitution, and pattern accounts
+    - Persistence through bodily change, unconscious intervals, and possible non-existence gaps
+    - Duplication, fission, replacement, and numerical recreation as discriminators
     - Identity: numerical identity, individuation, persistence, and identification
     - Simple persistence: why a source cannot be a continuity chain
     - Why the identity of indiscernibles fails for subjects
@@ -221,7 +226,14 @@ Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent
     - Law exceptions versus law replacement
     - Atemporal settlement without meta-temporal history editing
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
-    - Created-order range closure and the remaining action-domain exhaustion problem
+    - Divine-task normal form: source, patient, result, preservation, and other source roles
+    - Root, type-outcome, and fixed-prefix normalization of pure created-directed tasks
+    - Conditional closure of the pure created-directed domain
+    - Self-executive action versus self-reconstitution
+    - Why divine states and relations are not automatically further actions
+    - Abstract necessities as task constraints rather than causal patients
+    - Ontology-relative maximality and possible non-created concrete relata
+    - The remaining self-executive and mixed-action exhaustion problems
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge fallback if unrestricted maximality fails

@@ -442,6 +442,61 @@ Actual human subjects remain temporal and embodied. A created atemporal subject 
 
 Whether a pre-conscious bearer already counts as a person remains open. Phenomenal, access, self, and agentive consciousness may also have different developmental onsets. Empirical evidence can constrain these boundaries only through an explicit bridge from operational profiles to a metaphysical consciousness criterion.
 
+### Working realization: embodied hylomorphic powers
+
+S37 compares the principal realization families and proposes at F2 a unified embodied power-bearing subject under a thin hylomorphic interpretation:
+
+\[
+EPBS(A)=\langle M_A,F_A,Cap_A,Life_A\rangle.
+\]
+
+$M_A$ names the changing material constituents; $F_A$ is their real unifying organization or form; $Cap_A$ is the power profile of the whole subject; and $Life_A$ is its organized temporal history. $F_A$ is neither another spatial component nor a second person. The subject is $A$, not a material heap, an isolated brain-part, a form considered as a separate substance, or consciousness detached from its bearer.
+
+For a consciousness layer $k$, capacity onset requires an eligible organization and a psychophysical power principle:
+
+\[
+BeginsCapCon_k(A,t_c)
+\leftrightarrow
+Eligible_k(A,t_c)
+\land CapCon_k(A,t_c)
+\land
+\forall t<t_c\,\neg CapCon_k(A,t).
+\]
+
+An episode is then a temporal manifestation of the subject's power through its bodily and wider realization base:
+
+\[
+Manifests(A,CapCon_k,RB_A(c,[t_1,t_2]),c).
+\]
+
+This supports a typed non-competition proposal:
+
+\[
+ConstitutesOrRealizes(RB_A,c)
+\neq
+OriginatesOrCauses(A,c,e).
+\]
+
+The first relation concerns implementation or constitution; the second concerns the source or difference-maker of a token outcome. A complete physical description does not by itself prove that prior microphysical conditions are an independently sufficient cause. Conversely, a justified bridge establishing such antecedent sufficiency would defeat libertarian origination for that token; causal non-competition cannot be protected by definition.
+
+The current phenomenal stopping point is a qualified primitive: certain organized subjects possess fundamental phenomenal powers. This says more than unexplained “emergence” by identifying bearer, organization, capacity, manifestation, and causal roles, but it does not derive phenomenality from nonphenomenal structure. A subject-level dual-aspect account remains the strongest deeper candidate for the intrinsic nature of those powers. Reductive identity remains live but non-preferred; substance dualism and panpsychist models remain coherent but disfavored.
+
+The preferred created sequence is:
+
+\[
+G
+\xrightarrow{OEC}
+\langle S,Matter,LifePermittingPowers\rangle
+\xrightarrow{secondary\ causes}
+A
+\xrightarrow{development}
+CapCon_k(A,t)
+\xrightarrow{manifestation}
+c.
+\]
+
+This is not projected onto $G$: the analogy is subject-level conscious power, while embodiment, development, and temporal manifestation belong to created subjects.
+
 Taking a consideration as a reason is an aspect of the agent's act, not necessarily a prior choice requiring another inner chooser. The ontology therefore attributes settling to the whole embodied agent:
 
 \[
@@ -460,7 +515,7 @@ A stochastic, physiological, or neural description may realize, constrain, prepa
 Realizes(n,\Pi_A)\not\models SufficientCause(n,a).
 \]
 
-If the complete event-level base sufficiently settles $a$ independently of the integrated agent's exercise before conscious causal control, the token fails this model's conscious-freedom condition. If bodily and neural processes constitute or realize the agent's capacities and exercise without independently settling the outcome, they need not be competing causes. Temporal precedence, correlation, and above-chance prediction do not establish sufficient settlement without a bridge premise. The choice among reductive organismic, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist accounts remains open; subject-level unity does not by itself prove a third component beyond mind and body.
+If the complete event-level base sufficiently settles $a$ independently of the integrated agent's exercise before conscious causal control, the token fails this model's conscious-freedom condition. If bodily and neural processes constitute or realize the agent's capacities and exercise without independently settling the outcome, they need not be competing causes. Temporal precedence, correlation, and above-chance prediction do not establish sufficient settlement without a bridge premise. S29 left the realization choice open; S37 now prefers the embodied hylomorphic-powers model at F2 without claiming that subject-level unity proves a third component beyond mind and body.
 
 For $G$, replace the temporal $D_A(t)$ and decision episode with an atemporal field of comprehended possibilities and reasons. The common functions remain subject unity, apprehension, reason-guidance, and efficacious settling; temporal deliberation, memory, emotion, habit, neural preparation, motor execution, and bodily realization belong only to some created implementations.
 
@@ -1593,4 +1648,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. Comparing mind–body realization families against S36's nine constraints is now the trunk priority; CH14, the power bridge, $PMC_U$, and strict-overlap coherence remain later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference, completes the comparative CH16 pass, and proposes the embodied power-bearing subject with a thin hylomorphic interpretation at F2; dual aspect remains the strongest open deeper phenomenal bridge. The independent ground of $Poss_C^{ind}$ is now the proposed upstream priority, with CH14 integrated as a test; the wider power bridge, $PMC_U$, and strict-overlap coherence remain later challenges.

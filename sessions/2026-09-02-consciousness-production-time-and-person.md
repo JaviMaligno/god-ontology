@@ -323,3 +323,7 @@ The component distinctions are established. The local synthesis is their integra
 ## Next question
 
 The next load-bearing step inside CH16 is to compare the realization families by the nine constraints above. The leading current candidates are a non-reductive embodied subject with fundamental conscious powers and a hylomorphic or dual-aspect variant; reductive identity and substance dualism remain live competitors rather than dismissed foils.
+
+## Later author correction and resolution
+
+The author corrected the inference that this newly raised question should automatically become the research priority: spontaneous questions must be subordinated to the established priority method. [S37](2026-09-02-priority-and-consciousness-realization.md) incorporates that rule and independently justifies the CH16 comparison because realization was already a load-bearing gap from S22/S29. It then completes the comparative F2 pass and proposes a unified embodied power-bearing subject with a thin hylomorphic interpretation, while leaving the ultimate phenomenal bridge open.

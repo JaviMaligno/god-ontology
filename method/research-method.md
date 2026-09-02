@@ -107,7 +107,7 @@ The spiral does not license novelty-driven drift. Order work by:
 3. prerequisites on which later attributes depend;
 4. only then, newly opened branches.
 
-A session's proposed next question is provisional. It must yield when corpus review reveals an older unintegrated argument or when the author identifies a stronger conceptual dependency.
+A session's proposed next question is provisional. It must yield when corpus review reveals an older unintegrated argument or when the author identifies a stronger conceptual dependency. A spontaneous author question is preserved by default but is not automatically an instruction to reprioritize. Classify it as **banked**, **integrated** into an active dependency, or **promoted** only after a dependency/centrality audit or explicit authorial ordering. Permission to explore a question authorizes that work without establishing a general recency rule.
 
 ## Adversarial method
 
@@ -197,9 +197,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 23. Search for the non-circular universal-range bridge requested after S32. S33 decomposes $OMP_C$ into creative plenitude, constitutive control, and history-sensitive intervention; the modal-source plus specification-transparency route is the preferred F3 research direction but remains incomplete.
 24. Test whether ACO's propositional completeness exhausts knowing a conscious creature as a subject or whether acquaintance or irreducible second-person knowledge adds a divine capacity. Completed locally at F2 in S34 through actuality-indexed $ASA$ and separation from reciprocal second-personal presence.
 25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. Completed locally at F2 in S35 through the distinction among token freedom, robust capacity, and realized diachronic authorship; practical accessibility remains selectively open.
-26. Partition consciousness production, temporal status, and relation to its bearer. S36 distinguishes subject, capacity, episode, and content; temporal location from tenseless actuality and atemporal knowledge; and existential production from realization and token causation. Realization comparison is the current trunk task.
-27. Preserve CH14 on imagination, thought, intentional content, and possibility for a later cross-cutting pass; the eventual modal account must not infer possibility from imaginability.
-28. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-29. Select the remaining genuinely fragile junctions—consciousness realization, CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and CH14—for F2–F3 treatment.
-30. Run the dedicated literature, provenance, and novelty pass.
-31. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+26. Partition consciousness production, temporal status, and relation to its bearer. S36 distinguishes subject, capacity, episode, and content; temporal location from tenseless actuality and atemporal knowledge; and existential production from realization and token causation.
+27. Correct priority control and compare consciousness realization families. S37 rejects recency-based promotion, prefers a unified embodied power-bearing subject with a thin hylomorphic interpretation at F2, and leaves the phenomenal bridge open.
+28. Develop $Poss_C^{ind}$ as the next upstream gap and integrate CH14 as an imagination/intentionality test rather than a recency-selected module.
+29. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+30. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and the F3 consciousness burdens—for selective treatment.
+31. Run the dedicated literature, provenance, and novelty pass.
+32. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

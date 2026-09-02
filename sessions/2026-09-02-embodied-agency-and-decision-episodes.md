@@ -163,3 +163,5 @@ Return to the current ontological priority: divine constitution and material pro
 ## Later expansion
 
 [S36](2026-09-02-consciousness-production-time-and-person.md) resumes the realization issue after the divine-constitution sequence. It retains the unified embodied subject as the actual human model, distinguishes the persisting bearer from its capacity and token episodes, and turns the open realization families into CH16. The episode model constrains those families: a candidate must explain phenomenal and subject unity, temporal continuity through conscious gaps, causal efficacy, individuation, creation dependence, ASA truthmaking, development, and empirical compatibility.
+
+[S37](2026-09-02-priority-and-consciousness-realization.md) applies those constraints and proposes the embodied power-bearing subject under a thin hylomorphic interpretation at F2. Bodily and neural processes realize the whole subject's power rather than acting as a second agent; evidence of independently sufficient prior microphysical settlement remains a genuine defeater for a free token.

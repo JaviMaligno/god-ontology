@@ -121,3 +121,5 @@ Return to goodness and type the proposed normative bridge from $G$ to created co
 ## Later expansion
 
 [S36](2026-09-02-consciousness-production-time-and-person.md) returns to the deferred realization problem. It separates the conscious bearer, conscious capacity, token episode, and content; distinguishes temporal occurrence from tenseless actuality and atemporal divine knowledge; and makes the bearer–presentation–integration relation the provisional connection between consciousness and the person. The final mind–body realization remains open but is now a trunk priority.
+
+[S37](2026-09-02-priority-and-consciousness-realization.md) then completes a comparative F2 pass for reasons independently grounded in S22/S29's unresolved dependencies. It proposes a unified embodied power-bearing subject with a thin hylomorphic interpretation, while leaving the ultimate phenomenal ground open to a primitive power or a deeper dual-aspect account.

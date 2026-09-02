@@ -47,7 +47,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `scoped` |
 
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
-| CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `active F1–F2` |
+| CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 
 ## Priority gate after S26
 
@@ -57,7 +57,7 @@ S29 gives CH13 a local F2 response without displacing CH12: action belongs to an
 
 S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. At that stage it made CH05 the following priority because this constitution model permitted a more exact analysis of internal and non-created external limits on qualified power.
 
-S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. The author's next question opens CH16 as the active trunk priority. CH14 remains preserved and now has an explicit future dependency on the consciousness bearer/content analysis.
+S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29. New questions now enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -336,4 +336,8 @@ Created(x)\not\Rightarrow\exists t\,BeginsToExist(x,t).
 
 Actual human consciousness remains temporal and embodied, but creation as dependence does not definitionally exclude an atemporally dependent created subject. Such a subject would require separate individuation, uniqueness, and modal analysis.
 
-The active F2 task is to compare realization families against phenomenal presence, subject and temporal unity, causal efficacy, individuation, creation dependence, ASA truthmaking, graded development, and empirical compatibility.
+S37 completes that F2 comparison as a proposal pending author assessment. Reductive identity remains live but non-preferred; weak emergence is insufficient as a complete phenomenal explanation; substance dualism and panpsychist families remain coherent but disfavored. The proposed working model is a unified embodied power-bearing subject under a thin hylomorphic interpretation. Real organization constitutes one living subject and grounds a power profile; a conscious episode is a temporal manifestation of that subject through its bodily realization base.
+
+The ultimate phenomenal bridge remains open. A subject-level dual-aspect account is the strongest deeper candidate, while S37 provisionally stops with fundamental phenomenal powers of certain organized subjects. Cross-level causal non-competition, exact onset criteria, and the pre-conscious bearer/person boundary also remain F3 burdens rather than current blockers.
+
+CH16 is therefore locally tested at F2. The next proposed priority is the independent ground of $Poss_C^{ind}$ because it is upstream of modal histories, creative alternatives, knowledge, and power. CH14 is integrated as a test of that ground; it is not promoted merely because imagination was separately asked about.

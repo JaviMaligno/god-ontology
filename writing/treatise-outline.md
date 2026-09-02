@@ -79,6 +79,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Organismic behaviour, embodied agency, and conscious reason-guided freedom
     - Reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations
     - Weak and strong emergence, causal efficacy, and cross-level non-competition
+    - Proposed F2 model: one embodied power-bearing subject under a thin hylomorphic interpretation
+    - Fundamental phenomenal power and the open subject-level dual-aspect bridge
     - Created atemporal consciousness as a modal edge case rather than the actual human model
 13. **Asymmetric Co-production of History**
     - Divine, physical, and creaturely causal roles

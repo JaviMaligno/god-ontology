@@ -314,3 +314,7 @@ The non-delegability of creation, possible-world analyses of ability, and the in
 ## Next question
 
 Does direct power to originate every eligible created root also support constitutive control over an already actual created basis, or do persistence, identity, and autonomous-power preservation introduce a genuinely new range that creation alone cannot establish?
+
+## Later acceptance and clarification
+
+The author explicitly accepts S40's refusal to infer that $G$ immediately produces every later effect. [S41](2026-09-02-constitutive-control-and-secondary-causation.md) strengthens the actual-world claim: ordinary derivative effects are in fact proximately produced by created causes even though $G$ retains source-neutral capacity to produce eligible effect profiles directly. This establishes a power/exercise distinction rather than a mere allowance for delegated production.

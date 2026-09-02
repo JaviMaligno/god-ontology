@@ -35,7 +35,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root, within which ordinary causes, genuine creaturely agency, and possible divine interventions jointly—but asymmetrically—constitute one actual history known without temporal acquisition. S38–S40 now support this qualified creative plenitude at F2 through constitutive admissibility, conditional modal ultimity, root directness, and agent-relative exercise; constitutive control and history-sensitive intervention remain separate power ranges.
+The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root while ordinary created causes genuinely produce later effects within one atemporally known history. S38–S41 support qualified creative plenitude and positive, identity-compatible constitutive control at F2; actual divine action remains sparse rather than universally concurrent, while annihilation and fixed-history intervention range remain open.
 
 ## Rebuilding the corpus
 

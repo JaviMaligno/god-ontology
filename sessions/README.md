@@ -46,3 +46,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S38 — Created possibility and intentional content](2026-09-02-created-possibility-and-intentional-content.md)
 - [S39 — Modal source invariance](2026-09-02-modal-source-invariance.md)
 - [S40 — Root creation and qualified creative plenitude](2026-09-02-root-creation-and-creative-plenitude.md)
+- [S41 — Constitutive control and secondary causation](2026-09-02-constitutive-control-and-secondary-causation.md)

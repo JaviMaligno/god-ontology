@@ -263,6 +263,8 @@ This is an abductive modal extension of the one-ground architecture, not a deduc
 
 S40 closes that recombination locally for complete root specifications. A root created basis has no existentially prior created producer; under S39's $CMU_G$, its ultimate source is $G$, so a created intermediary would defeat roothood and a distinct underived intermediary would defeat the accepted modal architecture. The selected $AOR/OEC^+$ model then makes the possible production an intentional exercise of the same necessary $G$, satisfying the relevant-world condition for ability. The result is essence-qualified creative plenitude $CP_G^{elig}$ at F2. Universal specification transparency is no longer a separate premise: per-exercise fidelity and patient-independence remain, while the range follows through admissible root witnesses and $CMU_G$.
 
+S41 tests $CC_G$ without turning capacity into universal divine exercise. The author fixes ordinary derivative effects as proximately creature-produced while accepting divine capacity to substitute directly for eligible source-neutral effect profiles. This supports $CC_G^{+}$ and identity-compatible $CC_G^{pers}$ at F2. $CC_G^{ann}$ remains open because creation is not automatically reversible and the project's non-continuous grounding model cannot invoke withdrawal of repeated conservation. $HI_G$ remains separate.
+
 ## Literature notes
 
 - [Aquinas, *Summa Theologiae* I, q. 25](https://www.newadvent.org/summa/1025.htm) derives infinite active power from divine actuality and unlimited being, then extends the range to whatever can have being. The project records the structure without adopting its stronger premises.

@@ -177,6 +177,10 @@ S38–S40 complete the root-creative part of that test at F2. S38 supplies indep
 
 CH05 remains tested rather than globally resolved. Root creative plenitude does not establish constitutive control over an obtaining creation, history-sensitive intervention, or exhaustive $OMP_Q$. The next test therefore moves to $CC_G$ and the distinction among modification, replacement, suspension, and destruction-and-recreation.
 
+S41 adds the author's explicit actual-world constraint: $G$ does not immediately produce ordinary derivative effects even though $G$ can directly produce eligible source-neutral effect profiles. This yields $GSDA$, grounding with sparse direct action, and prevents existential dependence or metaphysical capacity from becoming occasionalism. The same physical outcome can be substituted; a creature-authored act cannot be reproduced as the same act by changing its contrastive source.
+
+Constitutive control then divides into positive effect control, admissible same-bearer control, and annihilation. $CC_G^{+}$ and $CC_G^{pers}$ receive F2 support from source-neutral substitutability, $RI$, intervention targetability, and explicit identity conditions. $CC_G^{ann}$ remains open because originative $P_{OEC}$ is not automatically reversible and non-continuous global dependence supplies no repeated temporal maintenance act to withdraw. CH05 therefore advances to existential termination before $HI_G$.
+
 S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
 
 ## CH06 — Designed welfare reversal

@@ -199,8 +199,12 @@ These modules remain conditional on the upstream case for a necessary agent. The
 25. Test cumulative context control of agency even when individual token acts retain formal alternatives and sourcehood. Completed locally at F2 in S35 through the distinction among token freedom, robust capacity, and realized diachronic authorship; practical accessibility remains selectively open.
 26. Partition consciousness production, temporal status, and relation to its bearer. S36 distinguishes subject, capacity, episode, and content; temporal location from tenseless actuality and atemporal knowledge; and existential production from realization and token causation.
 27. Correct priority control and compare consciousness realization families. S37 rejects recency-based promotion, prefers a unified embodied power-bearing subject with a thin hylomorphic interpretation at F2, and leaves the phenomenal bridge open.
-28. Develop $Poss_C^{ind}$ as the next upstream gap and integrate CH14 as an imagination/intentionality test rather than a recency-selected module.
-29. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-30. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, the power-range bridge, and the F3 consciousness burdens—for selective treatment.
-31. Run the dedicated literature, provenance, and novelty pass.
-32. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+28. Develop $Poss_C^{ind}$ as the next upstream gap and integrate CH14 as an imagination/intentionality test rather than a recency-selected module. Completed at F2 in S38.
+29. Test transworld source invariance without deriving it from actual uniqueness. S39 prefers conditional modal ultimity abductively and separates ultimate sourcehood from direct production.
+30. Close the root-creative bridge without inserting universal range into $P_{OEC}$. S40 derives root directness, requires an agent-relative witness, and establishes $CP_G^{elig}$ at F2 conditional on S39.
+31. Test constitutive control while preserving genuine secondary production. S41 adopts $GSDA$, supports positive and identity-compatible control, and leaves annihilation open because originative power and non-continuous grounding do not supply an inverse operation.
+32. Test existential termination before $HI_G$: compare a distinct $P_{ET}$ with a temporally bounded relatum of atemporal grounding and any required revision to non-continuous dependence.
+33. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+34. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $HI_G$, task-domain exhaustion, and the F3 consciousness burdens—for selective treatment.
+35. Run the dedicated literature, provenance, and novelty pass.
+36. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

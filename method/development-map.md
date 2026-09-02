@@ -49,8 +49,8 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Agentic choice and conscious sourcehood | core support | F2 working realization accepted | hold after CH16 | selective F3 | The author accepts S37's unified embodied power-bearing subject under a thin hylomorphic interpretation; the phenomenal ground and exact onset remain open |
 | Modality and possible histories | cross-cutting | F2 with root-source integration | hold after S38–S40 | F3 | Constitutive admissibility supplies root witnesses; conditional modal ultimity and roothood yield agent-relative creation, while the meta-modal ground of uninstantiated profiles remains open |
 | Time, eternalism, ACO, and subject acquaintance | cross-cutting | F2 | hold after S36–S37 | F3 | Creaturely episodes remain temporally located while tenselessly actual and atemporally known; $ASA$ tracks their embodied bearer index |
-| Intervention, miracle, and providence | downstream | F2 with diachronic refinement | hold after S35 | selective F3 | CH15 retains token freedom, robust capacity, realized diachronic authorship, and adaptive governance capture; practical accessibility remains selective |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F2 with $CP_G^{elig}$ locally established | test constitutive control $CC_G$ | selective F3 bridge work | S40 derives root directness and relevant agentic witnesses without universal transparency; $CC_G$, $HI_G$, preservation-sensitive tasks, and domain exhaustion remain open |
+| Intervention, miracle, and providence | downstream | F2 with diachronic refinement and sparse-action integration | hold until $HI_G$ | selective F3 | S41 fixes ordinary derivative production in created causes while retaining source-neutral divine substitutability and token interventions |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F2 with $CP_G^{elig}$, $CC_G^{+}$, and admissible $CC_G^{pers}$ | test existential termination $CC_G^{ann}$ | selective F3 bridge work | S41 separates actual sparse exercise from capacity; annihilation, $HI_G$, and domain exhaustion remain open |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence and personal availability | dependent attribute | F1 with local F2 knowledge refinement | hold after S35 | selective F2 | $ASA$ supports direct access; genuine communication may be asymmetric in capacity while still minimally reciprocal in participation |
 | Imagination, thought, and intentional content | cross-cutting test | F1–F2 | hold after integrated CH14 test | selective F2 | S38 distinguishes actual act, representational fact, represented target, and modal status; qualified imagination is evidence rather than truthmaker |
@@ -62,18 +62,19 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Test constitutive control $CC_G$: distinguish variation of one persisting created entity from replacement, destruction-and-recreation, law change, power suspension, and structurally impossible preservation requests.
-2. Determine which part of $CC_G$ follows from $CP_G^{elig}$ and which requires a new re-addressability or sustaining-control premise over an obtaining creation.
-3. Hold S40's $CP_G^{elig}$ at F2, explicitly conditional on S39's abductive $CMU_G$; do not generalize it to $HI_G$ or $OMP_Q$.
-4. Hold S39's conditional modal ultimity as an abductive F2 preference; strengthen MGC or MUU only if later work requires demonstrative force rather than the project's normal comparative standard.
-5. Hold S38's constitutive-admissibility account at F2; revisit the ultimate meta-modal ground of uninstantiated profiles only if the active bridge requires it.
-6. Hold S37's accepted embodied power-bearing subject at F2; revisit its dual-aspect ground, causal non-competition, onset criteria, or person boundary only when load-bearing.
-7. Hold S34's $\langle ACO_P,MKO,ASA\rangle$ profile and S35's asymmetric-communication refinement; the embodied bearer now supplies ASA's current subject index.
-8. Retain CH15's practical-accessibility question as a selective precision burden rather than an active blocker.
-9. Hold divine constitution, $OEC^+$, and the qualified-power hierarchy at F2 before returning to $PMC_U$, non-created limiters, or strict-*ex-deo* coherence.
-10. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
-11. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-12. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
+1. Test existential termination $CC_G^{ann}$: determine whether an atemporal grounding relation can terminate at a created time without becoming repeated temporal maintenance.
+2. Decide whether annihilation requires a distinct $P_{ET}$, a bounded-relatum account of grounding, or a revision of non-continuous global dependence.
+3. Preserve S41's $GSDA$: ordinary secondary causes proximately produce derivative effects even though $G$ has source-neutral substitutive capacity.
+4. Hold $CC_G^{+}$ and admissible $CC_G^{pers}$ at F2; do not infer same-token preservation across essential-property loss or conflate replacement with modification.
+5. After the existential-termination test, develop $HI_G$ through shared-prefix, identity, law, and autonomous-source preservation conditions.
+6. Hold S40's $CP_G^{elig}$ at F2, explicitly conditional on S39's abductive $CMU_G$; do not generalize it to $OMP_Q$.
+7. Hold S39's conditional modal ultimity as an abductive F2 preference; strengthen MGC or MUU only if later work requires demonstrative force rather than the project's normal comparative standard.
+8. Hold S38's constitutive-admissibility account at F2; revisit the ultimate meta-modal ground of uninstantiated profiles only if the active bridge requires it.
+9. Hold S37's accepted embodied power-bearing subject at F2; revisit its dual-aspect ground, causal non-competition, onset criteria, or person boundary only when load-bearing.
+10. Retain CH15's practical-accessibility question as a selective precision burden rather than an active blocker.
+11. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
+12. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+13. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
 
 ## Depth-control rules
 

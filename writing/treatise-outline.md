@@ -166,6 +166,13 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Agentic-origin realization and relevant possible-world witnesses
     - Essence-compatible task eligibility
     - Qualified creative plenitude $CP_G^{elig}$
+    - Existential grounding, proximate production, substitutive capacity, and exercise
+    - Grounding with sparse direct action $GSDA$
+    - Source-neutral effect profiles and causal substitutability $CCS_G$
+    - Positive, persistence-sensitive, and annihilative constitutive control
+    - Modulation, masking, alteration, corruption, replacement, recreation, and annihilation
+    - Why an originative power is not automatically reversible
+    - Atemporal grounding and the problem of temporally bounded relata
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity

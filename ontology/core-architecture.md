@@ -1186,7 +1186,66 @@ S40 also decomposes specification transparency. $OEC^+$ already requires fidelit
 
 The remaining bridges stay distinct. Grounding a created relatum does not by itself entail power to modify it after origination, and a possible alternative creation does not witness an intervention ability relative to the same fixed history. Likewise, $CP_G^{elig}$, $CC_G$, and $HI_G$ do not establish $OMP_Q$ until eligible creative, created-target, self-directed, and non-created-relational actions are exhaustively typed.
 
-Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The completed local route is narrower and typed: it establishes root creative plenitude, then leaves constitutive control over an obtaining creation, history-sensitive intervention, and action-domain exhaustion as separate questions. Constitutive control $CC_G$ is next because persistence, identity, and preservation constraints may prevent it from following automatically from capacity to create alternatives from the root.
+### Constitutive control and sparse direct action
+
+S41 fixes the actual causal distribution more precisely. The preferred model is **grounding with sparse direct action**:
+
+\[
+GSDA:=GlobalGrounding\land RealSecondaryEfficacy\land SparseDirectExercise.
+\]
+
+Ordinary derivative effects are proximately produced by created causes. $G$ grounds their bearers and causal arena without thereby supplying every immediate contrastive contribution. Direct divine production occurs at the created root and in whichever later interventions actually belong to $H^*$; extensive capacity does not entail continuous or universal exercise.
+
+$OrdSec$ classifies an event through its ordinary realization under the created structure and powers; it does not definitionally exclude divine concurrence. Denial of universal proximate divine production is therefore a substantive part of $GSDA$.
+
+This requires four distinct relations: existential grounding, proximate production, substitutive capacity, and actual exercise. For ordinary secondary effects:
+
+\[
+\begin{aligned}
+OrdSec(e,H^*)\rightarrow{}&
+\exists c[Created(c)\land ProximatelyProduces(c,e)]\\
+&\land\neg ProximatelyProduces(G,e).
+\end{aligned}
+\]
+
+The author also supports counterfactual divine production of eligible later effects. S41 types that clarification through **source-neutral causal substitutability**:
+
+\[
+CCS_G:
+\forall q[(EligEff_G(q)\land SourceNeutral(q))
+\rightarrow CanProximatelyProduce(G,q)].
+\]
+
+$EligEff_G(q)$ requires the effect profile to embed in a complete $Adm_C$ specification and form an independently eligible divine task. $SourceNeutral(q)$ excludes profiles whose identity constitutively requires a different agent's contrastive settlement. $G$ may reproduce the bodily outcome of a creaturely choice, but divine settlement would not be the same source-indexed free act.
+
+Constitutive control is then decomposed as:
+
+\[
+CC_G=CC_G^{+}\land CC_G^{pers}\land CC_G^{ann}.
+\]
+
+$CC_G^{+}$ covers positive created effect and constitution profiles. $CCS_G$, universal causal reach under $RI$, the established intervention target taxonomy, and $CP_G^{elig}$ support it at F2. $CC_G^{pers}$ adds an explicit same-bearer condition:
+
+\[
+AdmSame(x,m,\pi):=
+AdmEff_C(ResultProfile(x,m,\pi))
+\land CanPersistAs(x,m)
+\land ConsistentPreservation(\pi,x,m).
+\]
+
+Only variations satisfying $AdmSame$ count as modifications of the same token. Essential-property loss, replacement, and destruction-and-recreation must not be redescribed as identity-preserving modification. Modulation, manifestation masking, power alteration, corruption, replacement, destruction-and-recreation, annihilation, and law alteration are correspondingly distinct operation types.
+
+$CC_G^{ann}$ remains open. $P_{OEC}$ is originative and need not be reversible:
+
+\[
+CanOriginate(G,x)\not\Rightarrow CanAnnihilate(G,x).
+\]
+
+Classical withdrawal arguments infer annihilation from cessation of continuous conservation. Non-continuous global dependence supplies one atemporal grounding relation to the created history rather than a maintenance act repeated at each time, so withdrawal is not yet a defined temporal inverse. An existential-termination power $P_{ET}$ or a stronger account of temporally bounded relata under atemporal grounding is still required.
+
+Finally, $CC_G^{+}$ and $CC_G^{pers}$ concern target and operation range. They do not entail accessibility after every fixed $H_{<t}$; that shared-history question remains $HI_G$.
+
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The local route is narrower and typed: S40 establishes root creative plenitude, while S41 supports positive and admissible persistence-sensitive constitutive control without collapsing secondary causation into divine production. Annihilative control, history-sensitive intervention, and action-domain exhaustion remain separate questions. Existential termination is next because the project's non-continuous grounding model cannot inherit a simple withdrawal-of-maintenance argument.
 
 ## Ontological omnipresence
 
@@ -1766,4 +1825,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. S39 prefers conditional modal ultimity B2r at F2 without claiming a deduction from actual uniqueness and separates ultimate sourcehood from direct production. S40 defines root-created specifications, derives direct root origin under B2r, supplies an agent-relative $OEC^+$ witness, and locally establishes essence-qualified creative plenitude. Constitutive control is now the nearest open range; $PMC_U$, the meta-modal ground of uninstantiated profiles, and strict-overlap coherence remain later challenges.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. S39 prefers conditional modal ultimity B2r at F2 without claiming a deduction from actual uniqueness and separates ultimate sourcehood from direct production. S40 defines root-created specifications, derives direct root origin under B2r, supplies an agent-relative $OEC^+$ witness, and locally establishes essence-qualified creative plenitude. S41 adopts grounding with sparse direct action, establishes positive and identity-compatible constitutive control at F2, and leaves annihilation and shared-history intervention as distinct burdens; $PMC_U$, the meta-modal ground of uninstantiated profiles, and strict-overlap coherence remain later challenges.

@@ -485,12 +485,13 @@ OEC^+(G,\mathcal C_0,S)\quad\text{iff}\quad &UPSS(G)\\
 &\land Causes(a_C,Exists(\mathcal C_0))\\
 &\land Instantiates(\mathcal C_0,S)\\
 &\land \mathcal C_0\neq G\\
+&\land CCD(G,\mathcal C_0)\\
 &\land \neg\exists m\,MaterialInput(m,a_C)\\
 &\land GroundsExistence(G,\mathcal C_0).
 \end{aligned}
 \]
 
-$OEC^+$ adds positive causal roles to grounding: a source, a specific power, an originating exercise, selected structural content, a numerically distinct effect, and the absence of a transformed material input. The material profile belongs intrinsically to $\mathcal C_0$ through $S$; it is not transferred from $G$. Knowledge specifies, the exercised power produces, and grounding describes the obtained asymmetric dependence.
+$OEC^+$ adds positive causal roles to grounding: a source, a specific power, an originating exercise, selected structural content, a numerically distinct and constitutively disjoint effect, and the absence of a transformed material input. $CCD(G,\mathcal C_0)$ excludes shared constituents and mutual mode relations. It is explicit because numerical distinction and $MCS(G)$ do not by themselves entail creator–creation disjointness. The material profile belongs intrinsically to $\mathcal C_0$ through $S$; it is not transferred from $G$. Knowledge specifies, the exercised power produces, and grounding describes the obtained asymmetric dependence.
 
 The explanation terminates in a fundamental power rather than an intraworld material mechanism. This is admissible within the project because agentive sourcehood and modal powers are already fundamental. It is nonetheless an explicit metaphysical cost, and formal consistency of the representation is not proof of metaphysical possibility.
 
@@ -512,7 +513,17 @@ $PMC_T$ is accepted. $PMC_U$ is unestablished and currently disfavored because e
 \neg\Diamond OEC^+(G,\mathcal C_0,S).
 \]
 
-“Nothing comes from nothing,” if it denies uncaused origination, is compatible with this account because $G$ supplies the cause. Reading it as requiring material input adds $PMC_U$. A genuine *ex deo* alternative instead requires divine reality to constitute, persist in, or become the effect. It remains coherent but disfavored because it introduces divine–world overlap, weakens the creator distinction, and creates further burdens concerning self-modification, privation, and spatiality. Co-fundamental matter is also coherent, but changes the ultimate basis from $G$ to $\langle G,M_0\rangle$ and therefore revises rather than preserves the current architecture.
+“Nothing comes from nothing,” if it denies uncaused origination, is compatible with this account because $G$ supplies the cause. Reading it as requiring material input adds $PMC_U$.
+
+“From God” is now typed at four levels: causal source $ED_C$, virtual or exemplar source $ED_V$, participatory derivation $ED_P$, and strict constitutive source $ED_S$. $OEC^+$ entails the first two and permits the third without numerical overlap. Strict *ex deo* begins only when numerically divine reality constitutes, persists in, or becomes the effect:
+
+\[
+ED_S(G,\mathcal C_0)
+\leftrightarrow
+\exists d[DivineToken(d,G)\land(Constitutes(d,\mathcal C_0)\lor PersistsIn(d,\mathcal C_0)\lor Becomes(d,\mathcal C_0))].
+\]
+
+$ED_S$ remains coherent but disfavored because it introduces divine–world overlap, weakens the preferred creator distinction, and creates different burdens in partition, divine-mode, world-as-body, and whole-presence variants. It also answers $PMC_U$ only if the shared divine reality qualifies as a material cause; non-material overlap alone leaves the cross-category burden. Co-fundamental matter is coherent, but changes the ultimate basis from $G$ to $\langle G,M_0\rangle$ and therefore revises rather than preserves the current architecture.
 
 The creative-reason axis uses three explanatory levels:
 
@@ -796,7 +807,17 @@ Strengthening this result requires more than additional notation. A later F2 pas
 
 ## Ontological omnipresence
 
-Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. Define the actual created domain:
+Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. “External to creation” therefore does not locate $G$ in a second spatial region. The preferred independence claim is **constitutive transcendence**:
+
+\[
+CT(G,\mathcal C_0)
+\leftrightarrow
+GroundPrior(G,\mathcal C_0)
+\land\neg ConstitutedBy(G,\mathcal C_0)
+\land\neg PhysicalMember(G,S_{phys}).
+\]
+
+Creation neither constitutes $G$ nor supplies its physical category. This leaves immediate relations available. Define the actual created domain:
 
 \[
 D(\mathcal C^*)=
@@ -831,7 +852,17 @@ OP_A(G)
 \forall x\in D(\mathcal C^*)\;Present_O(G,x).
 \]
 
-This is preferred conditionally on C11, C73, C75, C84, and C86. It applies across the complete E+ history without distributing parts of $G$ across places or times.
+This is preferred conditionally on C11, C73, C75, C84, and C86. It applies across the complete E+ history without distributing parts of $G$ across places or times. Its universal relational profile can be called **relational immanence**:
+
+\[
+RI(G,\mathcal C^*)
+\leftrightarrow
+\forall x\in D(\mathcal C^*)\;Present_O(G,x).
+\]
+
+$CT(G,\mathcal C_0)\land RI(G,\mathcal C^*)$ is coherent because the predicates concern constitution and relation respectively. $RI$ neither entails nor independently excludes strict *ex deo*; the preferred $CCD$ condition supplies the separate exclusion of substantial overlap.
+
+A direct intervention is a targeted exercise of the causal availability already included in $RI$. It requires no travel across a cosmic boundary or acquisition of local spatial extension. “Direct” excludes a necessary created intermediary; it does not identify $G$ with the target or make a divine constituent part of it.
 
 The domain treatment is ontology-neutral. If empty spacetime regions are entities or structural relata, they belong to $D(\mathcal C^*)$ because their existence, facts, and causal accessibility fall under the three dimensions. If an empty region is merely the absence of occupants, no additional entity is required; $G$ still knows the absence and can act with respect to that spatial structure.
 
@@ -1299,4 +1330,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. The active sequence now tests qualified omnipotence against coherent internal and non-created external blockers while retaining $PMC_U$ as a live defeater.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 then distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness to the preferred $OEC^+$ model, and separates causal, virtual, participatory, and strict constitutive senses of *ex deo*. The active sequence now tests qualified omnipotence against coherent internal and non-created external blockers while retaining $PMC_U$ and strict-overlap variants as live alternatives.

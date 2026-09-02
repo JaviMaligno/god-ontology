@@ -36,3 +36,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S28 — Long-term preference, privative evil, and divine substance](2026-09-02-long-term-fit-privation-and-divine-substance.md)
 - [S29 — Embodied agency and decision episodes](2026-09-02-embodied-agency-and-decision-episodes.md)
 - [S30 — Divine constitution and material production](2026-09-02-divine-constitution-and-material-production.md)
+- [S31 — Constitutive transcendence, relational immanence, and ex deo](2026-09-02-transcendence-immanence-and-ex-deo.md)

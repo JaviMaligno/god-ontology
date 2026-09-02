@@ -123,6 +123,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Thin substance: $G$ as identity unit, bearer, and source rather than material stuff or bare substratum
     - Minimal constitutive simplicity and the underived power-structured subject model
     - Integrated role-distinct powers without an inference to absolute divine simplicity
+    - Constitutive transcendence versus spatial externality and relational remoteness
+    - Relational immanence through grounding, knowledge, and causal availability
+    - Numerical distinction versus creator–creation constitutive disjointness
     - Underived non-material source, fundamental structured variant, *ex deo*, and co-fundamental substrate models
     - What grounding spacetime and atemporality do and do not entail
     - Higher-dimensional, intrinsic-geometric, and ubiquitous-occupation alternatives
@@ -132,12 +135,17 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - $PMC_T$ versus $PMC_U$ and the limits of evidence from intraworld transformation
     - Why a fundamental power is an explanatory stopping point rather than a material mechanism
     - Formal coherence versus demonstrated metaphysical possibility
-    - Material-continuity, *ex deo*, and co-fundamental alternatives
+    - Causal, virtual, participatory, and strict constitutive senses of *ex deo*
+    - Partition, divine-mode, world-as-body, and whole-presence overlap variants
+    - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
+    - Material-continuity and co-fundamental alternatives
 26. **What Could Omnipresence Mean Outside Space?**
     - Grounding reach, epistemic access, and causal availability
     - Individual presence versus distributed coverage
     - Existing empty regions and ontology-neutral domain scope
     - Actual omnipresence versus modal capacity
+    - Why relational immanence neither entails nor excludes constitutive overlap
+    - Direct intervention without spatial entry or substance sharing
     - Ontological presence versus personal presence
     - Universal personal availability
     - Exercised regard, response, and atemporal address

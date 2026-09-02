@@ -89,6 +89,10 @@ The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.st
 
 The project's formulation is a local synthesis of its independently developed typed grounding, ACO, direct intervention capacity, non-continuous dependence, and E+ semantics. It is not presented as a new general theory of presence.
 
+## Later boundary refinement in S31
+
+[S31](2026-09-02-transcendence-immanence-and-ex-deo.md) names $OP_A$'s universal profile **relational immanence** and combines it with **constitutive transcendence**. Immediate grounding, epistemic access, causal availability, and intervention require neither spatial entry nor shared divine–created substance. Omnipresence nevertheless does not by itself exclude a separately posited overlap model; creator–creation constitutive disjointness carries that additional preferred condition.
+
 ## Decisions
 
 | Decision | Status | Reason | Provenance |

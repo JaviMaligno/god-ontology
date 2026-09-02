@@ -154,6 +154,8 @@ The F1 case for qualified omnipotence is abductive. Existential sovereignty prev
 
 The test should first formulate maximal power over every coherent target in the created order, then ask what additional premise licenses unrestricted qualified maximality. Failure of the latter would revise C75 without erasing the actualizing, grounding, or intervening powers already established.
 
+S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
+
 ## CH06 — Designed welfare reversal
 
 The challenge separates four cases: changing phenomenal valence so that the state no longer feels painful; creating a desire for a state that remains harmful in other respects; designing capacities that function only through domination or suffering; and manipulating later endorsement of an imposed condition. Only the first may be a semantic or phenomenological reclassification. The others test whether created profile, actual preference, or divine intention can constitute welfare without remainder.
@@ -211,6 +213,8 @@ S30's preferred answer is an **underived power-structured subject**. $G$ is a su
 The productive bridge is strengthened to $OEC^+$: $G$ contingently exercises the explicit fundamental power $P_{OEC}$, under specification $S$, to produce a numerically distinct created basis whose material profile is intrinsic rather than transferred. This supplies positive roles without claiming an intraworld mechanism or treating formal coherence as a proof of metaphysical possibility.
 
 The material-causality challenge divides. $PMC_T$, applying to transformations of a material patient, is accepted. $PMC_U$, requiring a material cause for every concrete caused existence, is unestablished and currently disfavored because intraworld cases do not establish its universal modal scope. It remains a genuine defeater if independently justified. Genuine *ex deo* continuity and co-fundamental matter remain coherent fallbacks but respectively introduce divine–world overlap or replace sole divine ultimity with the joint basis $\langle G,M_0\rangle$.
+
+S31 refines the overlap side. $G$ is preferably constitutionally transcendent and relationally immanent: immediate grounding, knowledge, intervention, and personal availability require no shared constituent. Numerical creator–creation distinction is weaker than constitutive disjointness, so $CCD$ is now an explicit preferred condition of $OEC^+$. Causal, virtual, and participatory senses of “from $G$” remain compatible with it; strict *ex deo* is reserved for a numerically divine reality constituting, persisting in, or becoming creation. Strict overlap does not satisfy $PMC_U$ unless that divine reality also qualifies as a material cause.
 
 ## CH13 — Embodied preparation and conscious settlement
 

@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, creator–creation boundaries, *ex deo*, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -31,6 +31,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Ontological presence → universal personal availability → exercised regard → shared attention → communion | Established distinction family; project-specific integration | Stump distinguishes general omnipresence, personal presence, and significant presence through joint attention. The local sequence assigns capacity, divine exercise, creaturely co-production, and evaluative union to separate modules. |
 | OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
 | $UPSS+MCS+P_{OEC}+OEC^+$ | Established component families; project-specific typed synthesis | Thin subject/substance language, weaker simplicity doctrines, power ontologies, creation without material input, emanation, and panentheism have precedents. The local package makes constitution, originative power, specification, effect, and epistemic limits explicit; no novelty or possibility proof is claimed. |
+| Constitutive transcendence + relational immanence + $CCD$ + four-level *ex deo* | Established distinction families; project-specific taxonomy | Non-spatial presence, transcendence/immanence, participation, emanation, panentheism, and world-as-body models are established. S31 types causal, virtual, participatory, and strict constitutive derivation and prevents omnipresence or intervention from silently entailing overlap. |
 | Finite analogous sourcehood → generative $S$ → asymmetric co-production | Established themes; potentially useful project synthesis | Divine freedom, creation for the sake of creatures, image-of-God agency, plural reasons, and non-maximizing world choice all have precedents. Their integration with MKO profiles and exclusion of pre-actual selection counterfactuals needs deeper comparison. |
 | Phenomenal, access, self, and agentive consciousness within token-relative freedom | Established distinctions; project-specific integration | Phenomenal/access and reflexive distinctions are standard. $AgCon$ is a local role joining conscious participation to the existing agent-causal conditions; it is not presented as a newly discovered kind of consciousness. |
 | Unified embodied agent + episodic preparation/control/settlement distinction | Established empirical and embodied-agency pressures; project-specific integration | Readiness potentials, intention-timing disputes, veto, and arbitrary/deliberate task differences are established. S29 integrates them with whole-agent sourcehood and explicit empirical bridge premises without claiming that neuroscience demonstrates libertarianism. |
@@ -177,6 +178,16 @@ S29 draws a methodological and architectural conclusion rather than an empirical
 Contemporary [grounding panentheism](https://www.cambridge.org/core/journals/religious-studies/article/grounding-panentheism/21D7EB3F1DD9DAFF19106417558BF796) explicitly combines cosmic grounding with divine–world ontological overlap. That supports treating overlap as an additional model rather than an automatic consequence of existential grounding.
 
 S30 makes no novelty claim for thin substance, minimal simplicity, fundamental powers, creation without a patient, emanation, or panentheism. Its local contribution is the typed integration of $UPSS$, $P_{OEC}$, $OEC^+$, $S$-specification, E+, qualified power, and asymmetric co-production. The account exposes its fundamental-power stopping point, distinguishes $PMC_T$ from $PMC_U$, and explicitly denies that formal coherence demonstrates metaphysical possibility.
+
+## Transcendence, immanence, and *ex deo*: targeted refinement
+
+The [Stanford Encyclopedia of Philosophy entry on omnipresence](https://plato.stanford.edu/entries/omnipresence/) distinguishes knowledge, power, causation, spatial occupation, and world-as-divine-body accounts. This supports S31's separation of relational immanence from physical location and constitutive overlap.
+
+[Daniel Soars's comparison of *ex nihilo* and *ex deo*](https://doi.org/10.1111/nbfr.12603) demonstrates how causal emanation or virtual pre-containment can make the verbal contrast underdetermine the underlying ontology. The project's response is to distinguish causal $ED_C$, virtual or exemplar $ED_V$, participatory $ED_P$, and strict constitutive $ED_S$.
+
+Recent [grounding-panentheist work](https://doi.org/10.1017/S0034412525100978) treats divine–world ontological overlap as an additional theory rather than as an automatic meaning of grounding. S31 similarly makes $CCD$ independent of numerical distinction and $MCS$: immediate grounding and intervention do not entail disjointness, but neither do they entail overlap.
+
+The conceptual families are established. The local taxonomy may be useful for preventing equivocation, especially its observations that strict *ex deo* does not satisfy $PMC_U$ unless the shared divine reality supplies a material cause, and that $MCS$ alone tracks the wrong direction of constitution to exclude every overlap model. No novelty claim is made.
 
 ## Creative reason and divine freedom: targeted precedent check
 

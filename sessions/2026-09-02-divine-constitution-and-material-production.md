@@ -276,6 +276,10 @@ But $M_0$ then exists independently of $G$, and the ultimate basis is at least $
 
 Minimal constitutive simplicity, dispositional or power-based models, creation without material input, emanation, and panentheism all have extensive precedent. The local work is the typed combination of $UPSS$, $OEC^+$, $S$-specification, E+, qualified power, and asymmetric co-production. No novelty claim is made.
 
+## Later refinement in S31
+
+[S31](2026-09-02-transcendence-immanence-and-ex-deo.md) distinguishes numerical difference from creator–creation constitutive disjointness and adds $CCD$ explicitly to the preferred full $OEC^+$ model. It separates causal, virtual, participatory, and strict constitutive senses of *ex deo*. Only the last entails numerical divine–world overlap, and even it satisfies $PMC_U$ only if the shared divine reality qualifies as a material cause.
+
 ## Repository updates
 
 - [x] commitment and rejection ledgers

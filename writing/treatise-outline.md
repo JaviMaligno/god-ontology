@@ -161,6 +161,12 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Partition, divine-mode, world-as-body, and whole-presence overlap variants
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives
+    - Matter as instantiated profile rather than transferable stuff
+    - Why conservation laws are internal to the order and cannot govern its origination
+    - The derivation of a non-material ground of matter from sole ultimity, contingency, and immateriality
+    - Contingent or co-fundamental: the dilemma for material causality
+    - Aspect-powers: role-distinct without being parts; no rival causes
+    - The non-inheritance principle as the price of non-destructive strict *ex deo*
 26. **What Could Omnipresence Mean Outside Space?**
     - Grounding reach, epistemic access, and causal availability
     - Individual presence versus distributed coverage

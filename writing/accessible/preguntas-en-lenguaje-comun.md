@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S37 y S38. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S37, S38 y S39, e integrando S30–S31 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -60,7 +60,19 @@ No el que uno hereda de la catequesis, con todas sus propiedades ya puestas. Emp
 - **Puede intervenir en el mundo, pero tiende a respetar nuestra libertad**, porque una de las razones por las que creó seres libres es que fueran libres.
 - **No estaba obligado a crear.** Tenía razones para hacerlo, pero razones que invitan, no que fuerzan.
 
-Y esto es lo que **no** digo, porque no he conseguido establecerlo: que sea perfecto en todos los sentidos, que sea bueno en todos los sentidos, que este sea el mejor de los mundos posibles, ni de qué está hecho. Sobre eso último estoy trabajando ahora.
+Y esto es lo que **no** digo, porque no he conseguido establecerlo: que sea perfecto en todos los sentidos, que sea bueno en todos los sentidos, ni que este sea el mejor de los mundos posibles. De qué está hecho sí puedo decir algo; va en la pregunta siguiente.
+
+### ¿De qué está hecho Dios? ¿Y cómo puede algo así producir materia?
+
+De nada anterior a él. La pregunta «de qué está hecho» junta varias cosas: de qué material, de qué piezas, sobre qué base se apoya, qué estructura lo hace ser lo que es. Para Dios las respuestas son: de ningún material, de ninguna pieza que exista antes que él, sobre ninguna base que no sea él mismo. Lo que sí tiene es estructura: conoce, entiende lo posible, decide por razones, sostiene lo que existe, puede actuar. Esas capacidades son distintas entre sí, pero no son partes, como el poder ver y el poder oír no son dos trozos de una persona: son maneras suyas de actuar, que no pueden existir sin él y no lo componen. Un sujeto único con sus capacidades; no un mecanismo montado con piezas ni una cosa hecha de algo.
+
+Y lo de la materia, que es la pregunta de verdad difícil: ¿cómo puede algo que no es material producir materia? Creo que la dificultad viene de una imagen equivocada de la materia: la de un «material» que se traspasa de una cosa a otra, como el barro al cántaro. La física no describe la materia así. Describe campos, partículas que son excitaciones de campos, energía que se convierte en masa, y cantidades que se conservan porque las leyes tienen cierta simetría. Ser material es tener cierta organización: estar en el espacio y el tiempo, tener esas cantidades, obedecer esas leyes. No es estar hecho de una sustancia que alguien tuviera que pasar.
+
+Si eso es la materia, producirla es hacer que exista algo con esa organización, y para eso hace falta poder y un diseño, no materia previa. La objeción de fondo, «de la nada no sale nada», la comparto si quiere decir que nada empieza sin causa; Dios es la causa. Si quiere decir que toda causa necesita material, ya no la comparto, porque su único apoyo son las leyes de conservación, y esas leyes valen dentro del mundo cuyo origen se está explicando; no pueden valer para el origen del mundo mismo sin que el mundo se rija antes de existir.
+
+Hay algo más fuerte que puedo decir. La materia podría haber sido distinta, con otras constantes, u otras leyes, o no existir; así que es de las cosas que necesitan un fundamento, y el único fundamento que no necesita otro es Dios, que no es material. Así que, si uno acepta lo anterior, la materia tiene un origen no material; lo contrario sería decir que la materia existió siempre por sí misma junto a Dios, y entonces Dios no sería el fondo de todo, sino un organizador. Esa alternativa es coherente, pero es otra creencia, no la mía.
+
+Lo que no sé, y lo digo claro: cómo funciona por dentro el poder de hacer existir. Sé lo que tiene que cumplir, no cómo opera. Es el mismo tipo de límite que tengo con nuestra propia capacidad de elegir: la reconozco y no la reduzco a un mecanismo.
 
 ### ¿Dónde está Dios? ¿Está en el tiempo?
 
@@ -176,7 +188,7 @@ Creo que sí, y no como adorno. Tocan justo dos de las tres cosas en las que con
 
 Para que quede junto y a la vista:
 
-- De qué está hecho Dios, si es que la pregunta tiene sentido.
+- Cómo opera, por dentro, el poder de hacer existir algo; sé lo que tiene que cumplir, no cómo funciona.
 - Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
 - Cómo podría alguien seguir siendo el mismo después de la muerte. Que haya algo después es coherente y está al alcance de Dios; que sea yo y no una copia depende de qué somos, y eso no lo he decidido.
@@ -198,6 +210,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S35 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder cualificado es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
+| De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C311–C320; S30–S31, S39 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |

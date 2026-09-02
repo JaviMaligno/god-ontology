@@ -590,6 +590,26 @@ ReasonSupported(S^*)\land S^*\models f
 
 A physical feature that follows from a reason-supported structure need not receive an additional independent creative reason. Stochastic, agent-originated, and intervention-dependent outcomes require their own typed versions of this relation. Derivative explanation also does not yet establish that every foreseeable consequence is morally justified; that belongs to the goodness branch.
 
+### Materiality as instantiated profile and the status of $PMC_U$
+
+[S39](../sessions/2026-09-02-materiality-as-instantiated-profile.md) pushes the constitution/production result from coherence toward derivation. Matter is a profile:
+
+\[
+Mat(x)\leftrightarrow Instantiates(x,\Pi_{phys}),
+\qquad
+S_{phys}\models Conserv(S),
+\qquad
+\neg H(S)\text{-internal}(I_0)\Rightarrow Conserv(S)\ \text{does not constrain}\ I_0 .
+\]
+
+The first re-describes the cross-category worry as $PMC_U$; the second and third remove $PMC_U$'s evidential base, which is $S$-internal transformation (C311–C313). From sole ultimity, the contingency of the material order, the necessitation lemma, and physical immateriality:
+
+\[
+U_D\land Cont(\mathcal C_0)\land\neg Mat(G)\land CCD(G,\mathcal C_0)\;\Rightarrow\;\neg PMC_U,
+\]
+
+and without $CCD$ the same follows unless $G$ is material (C314). Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter (C315). Integrated powers are aspects — essential, incapable of existing without $G$, not grounding $G$'s identity, individuated by manifestation-type — so $MCS$ survives the parts objection (C316), and subject-level and aspect-level descriptions of an exercise are not rival causes (C317). A non-destructive strict *ex deo* model is coherent with $UPSS$, $CT$, and $ASP_G$ only under the non-inheritance principle $NI$, which nothing in the project motivates (C318). Under WEP, $OEC^+$ leaves the fewest residues (C320); the residue it leaves is C232's.
+
 ## Causal-role decomposition
 
 Asymmetric co-production requires typed relations rather than one unrestricted notion of grounding:

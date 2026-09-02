@@ -44,3 +44,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S36 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)
 - [S37 — Permission, covers, and the P-gap](2026-09-02-permission-covers-and-the-p-gap.md)
 - [S38 — Personal continuation and bearer horizons](2026-09-02-personal-continuation-and-bearer-horizons.md)
+- [S39 — Materiality as instantiated profile and support for OEC⁺ beyond coherence](2026-09-02-materiality-as-instantiated-profile.md)

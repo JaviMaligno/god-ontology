@@ -35,7 +35,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P11 | ¿Hay un solo Dios? | `respondida` | C78–C83; S13 | CH01 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
-| P14 | ¿De qué está hecho Dios? | `abierta` | C210, R34; tarea activa del tronco | CH12 |
+| P14 | ¿De qué está hecho Dios? ¿Y cómo puede algo así producir materia? | `respondida` | C222–C238, C311–C320; S30–S31, S39 (queda abierto cómo opera el poder de hacer existir) | CH12 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `parcial` | C104–C113; S18 (no se pretende conocer el motivo real, C113) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
@@ -89,5 +89,5 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P26 | La bondad divina no estaba ganada y no se sabía qué parte lo estaba | S36: perfil orientado al bien hacia la agencia y la relación; hueco P identificado |
 | P27 | Orientación divina hacia lo que los seres conscientes sienten | S37: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |
 | P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S34: acceso experiencial, tres casos de veracidad, estatuto epistémico |
-| P14 | Constitución divina | CH12; tarea activa del tronco |
+| P14 | Constitución divina | S30–S31 (autor): sujeto con poderes integrados, sin ingredientes previos; S39: la materia como perfil instanciado, el argumento de niveles contra la causalidad material universal, la derivación de la creación sin materia previa |
 | P31 | Supervivencia personal | S38: coherente bajo todos los modelos abiertos del sujeto, dentro del poder de Dios como acto adicional, no decidida por la evidencia, condicional a la bondad hacia lo que sentimos; la identidad a través de la muerte queda como CH17 |

@@ -48,6 +48,7 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S40 — Root creation and qualified creative plenitude](2026-09-02-root-creation-and-creative-plenitude.md)
 - [S41 — Constitutive control and secondary causation](2026-09-02-constitutive-control-and-secondary-causation.md)
 - [S42 — Existential boundaries and annihilation](2026-09-02-existential-boundaries-and-annihilation.md)
+- [S43 — Fixed-history intervention range](2026-09-02-fixed-history-intervention-range.md)
 - [S44 — The accessible track and the experiential register](2026-09-02-accessible-track-and-experiential-register.md)
 - [S45 — Explanatory stopping points and the necessitation lemma](2026-09-02-explanatory-stopping-points.md)
 - [S46 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)

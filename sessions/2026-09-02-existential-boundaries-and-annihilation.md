@@ -214,9 +214,11 @@ If an independently justified essence really entails existence at every later cr
 
 A promise not to annihilate and an incapacity to annihilate are different modal claims. A genuine essential commitment may restrict eligible divine action. A contingent policy governs exercise while leaving capacity intact.
 
-### Destruction and recreation
+### Reconstruction and numerical recreation
 
-Annihilating $x$ and later producing a qualitative duplicate $y$ gives $y\neq x$ by default. Numerical identity across a gap would require an independent persistence theory. Qualitative reconstruction alone does not provide it.
+Qualitative reconstruction alone does not establish identity: $G$ may later produce a matching $y\neq x$. It also does not exclude numerical recreation. If an independent $GapIdentity_C$ relation permits intermittent existence, the same $x$ may return after a non-existence interval. S43 therefore reserves *duplicate reconstruction* for $y\neq x$ and *numerical recreation* for renewed existence of $x$.
+
+S42's terminal formula is consequently the case of **final annihilation**. S43 adds **gap annihilation**, represented by a disconnected $Life_H(x)$, without deciding which theory of individual identity can ground the connection across the gap.
 
 ### Complete created history
 
@@ -280,7 +282,11 @@ No. $CC_G$ is one power range. $HI_G$ and exhaustion of eligible divine task-typ
 
 - [Aquinas, *Summa Theologiae* I, q. 104](https://www.newadvent.org/summa/1104.htm) treats annihilation as the indirect consequence of ceasing to conserve rather than as a positive production of non-being. The present account retains the anti-reification insight but replaces temporal withdrawal with direct grounding of a bounded life-profile.
 - [Aquinas, *Summa Theologiae* I, q. 105](https://www.newadvent.org/summa/1105.htm) argues that God can directly produce determinate effects ordinarily produced by creatures. This is historical precedent for the substitutive-capacity premise, although the project's actual causal distribution rejects universal immediate concurrence.
-- [David Vander Laan, “Persistence and Divine Conservation”](https://www.cambridge.org/core/journals/religious-studies/article/abs/persistence-and-divine-conservation/CE1B6AB5DAD7943C3E312656703AA6B4) shows that conservation and persistence generate substantive identity problems. The present distinction between a bounded life-profile, annihilation, and later qualitative recreation avoids assuming that renewed production automatically preserves one token.
+- [David Vander Laan, “Persistence and Divine Conservation”](https://www.cambridge.org/core/journals/religious-studies/article/abs/persistence-and-divine-conservation/CE1B6AB5DAD7943C3E312656703AA6B4) shows that conservation and persistence generate substantive identity problems. The present distinction between bounded existence, duplicate reconstruction, and numerical recreation avoids both assuming and excluding token preservation merely from renewed production.
+
+## Later identity refinement in S43
+
+[S43](2026-09-02-fixed-history-intervention-range.md) distinguishes final annihilation from a gap in existence. The latter may be followed by numerical recreation if an independently grounded identity relation connects the pre-gap and post-gap career. The power architecture permits this conditional task; the current person and persistence ontology does not yet decide its identity ground.
 
 The bounded-relatum route is a project-specific integration of established themes: eternalist complete histories, atemporal dependence, annihilation without reified non-being, and causal substitutability. No novelty claim is made until the combination is compared more deeply with conservation, persistence, and divine-action literature.
 

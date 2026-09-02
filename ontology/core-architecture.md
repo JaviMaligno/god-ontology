@@ -1293,7 +1293,7 @@ AdmEff_C(ResultProfile(x,m,\pi))
 \land ConsistentPreservation(\pi,x,m).
 \]
 
-Only variations satisfying $AdmSame$ count as modifications of the same token. Essential-property loss, replacement, and destruction-and-recreation must not be redescribed as identity-preserving modification. Modulation, manifestation masking, power alteration, corruption, replacement, destruction-and-recreation, annihilation, and law alteration are correspondingly distinct operation types.
+Only variations satisfying $AdmSame$ count as continuous modifications of the same token. Essential-property loss and replacement must not be redescribed as identity-preserving modification. Post-gap production divides further. A matching $y\neq x$ is duplicate reconstruction; renewed existence of $x$ is numerical recreation and requires an independently grounded $GapIdentity_C$ relation. Modulation, manifestation masking, power alteration, corruption, replacement, duplicate reconstruction, numerical recreation, annihilation, and law alteration are correspondingly distinct operation types.
 
 $P_{OEC}$ remains originative and need not be reversible:
 
@@ -1320,9 +1320,55 @@ The substantive F2 hinge is outcome uniformity: absent an independently motivate
 
 Local annihilation leaves later created times while removing the specified bearer and created remainder. Total annihilation gives the created temporal order itself a terminal boundary, so it requires no later empty created time. Ordinary death, decomposition, and transformation remain distinct because created constituents persist.
 
-Finally, all three $CC_G$ components concern type-level target and operation range. They do not entail accessibility after every fixed $H_{<t}$; that shared-history question remains $HI_G$.
+S42's terminal formula is final annihilation. S43 adds gap annihilation:
 
-Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The local route is narrower and typed: S40 establishes root creative plenitude; S41 supports positive and admissible persistence-sensitive constitutive control without collapsing secondary causation into divine production; and S42 derives annihilative control through bounded atemporal grounding. $CC_G$ is therefore preferred at F2 over independently eligible created-order task types. History-sensitive intervention and action-domain exhaustion remain separate questions, with $HI_G$ next.
+\[
+Life_H(x)=J_1\cup J_2,
+\qquad \sup J_1<\inf J_2.
+\]
+
+If $GapIdentity_C(x,J_1,J_2)$ holds, $x$ numerically returns; if it fails, a later qualitative match is a distinct reconstruction. The power architecture permits the first conditionally but does not yet supply the required identity theory.
+
+All three $CC_G$ components concern type-level target and operation range. S43 develops the separate shared-history burden. For the complete created prefix
+
+\[
+P_t(H^*):=H^*\restriction_{<t},
+\]
+
+type an intervention as
+
+\[
+i=\langle\tau,x,q,t,\pi,\sigma\rangle,
+\qquad
+\pi=\langle\pi_-,\pi_{\leftrightarrow},\pi_+\rangle.
+\]
+
+$\tau$ is the operation type, $x$ the target, $q$ the neutral outcome, $\pi$ the past, cross-boundary, and future preservation profile, and $\sigma$ the source-role profile. Independent history compatibility requires an $Adm_C$ history embedding the exact prefix and these neutral constraints without already requiring a possible divine performance.
+
+The first bridge is essential power retention. A created prefix can make a compound task inconsistent, but under $UPSS+CT$ it cannot constitute, damage, drain, or isolate the underived power-holder. The substantive bridge is local prefix composability:
+
+\[
+\begin{aligned}
+LPC_G:\quad HIElig_G(i\mid P_t)
+&\land TypeCan(G,\tau,q)
+\land Retain_G(\tau,P_t)\\
+&\rightarrow \exists H_I\,RelevantHIWitness(H_I,G,i,P_t).
+\end{aligned}
+\]
+
+The relevant witness contains the same essential $G$ intentionally performing $i$, preserves $P_t$, and satisfies the identity, law, future, and source-role requirements. $E^+$ supplies complete-history semantics; $Poss_C^{ind}$ filters holistic incompatibility without ability-circularity; $CT+RI$ combine independence with target access; and $CC_G$ supplies the operation type. $LPC_G$ remains an explicit abductive F2 hinge because modal facts need not freely recombine by logic alone. A rival must motivate a holistic source-sensitive constraint that survives the independent filters.
+
+This yields:
+
+\[
+HI_G^{elig}:=
+\forall i,P_t[HIElig_G(i\mid P_t)
+\rightarrow CanIntervene(G,i\mid P_t)],
+\]
+
+preferred at F2 conditional on $LPC_G$ and the earlier modal-ultimity architecture. It covers eligible direct physical, boundary, nomic, constitutive, agency-preserving, and agency-removing interventions. For communication and other joint outcomes, it covers $G$'s contribution but not strong production of a response whose identity requires creaturely sourcehood. A nomic exception and law replacement remain different tasks. A created manifestation at $t$ does not imply that $G$ begins acting at $t$; the divine contribution is one atemporal settlement within the co-produced $H_I$, not an edit of a previously actual $H_0$.
+
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The local route is narrower and typed: S40 establishes root creative plenitude; S41 supports positive and admissible persistence-sensitive constitutive control without collapsing secondary causation into divine production; S42 derives annihilative control through bounded atemporal grounding; and S43 supplies fixed-prefix accessibility through explicit retention and composability bridges. $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ now support all three named created-order subranges at F2. Action-domain exhaustion remains separate and is next before unrestricted $OMP_Q$ can be assessed.
 
 ### The modal basis: independent created possibility
 
@@ -2007,6 +2053,8 @@ The author frames both registers as communication, among subjects and with $G$: 
 Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C431). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C432). Absence of experience refutes nothing; presence entails no miracle (C433). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C434).
 
 ## Current formal status
+
+S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. All three named created-order subranges are therefore supported at F2; their exhaustion and the classification of extra-created tasks form the next power question.
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 

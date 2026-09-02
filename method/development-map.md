@@ -49,8 +49,8 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Agentic choice and conscious sourcehood | core support | F2 working realization accepted | hold after CH16 | selective F3 | The author accepts S37's unified embodied power-bearing subject under a thin hylomorphic interpretation; the phenomenal ground and exact onset remain open; S51 adds simple persistence of the subject as a constraint on realization (C469–C475) |
 | Modality and possible histories | cross-cutting | F2 with root-source integration | hold after S38–S40 | F3 | Constitutive admissibility supplies root witnesses; conditional modal ultimity and roothood yield agent-relative creation, while the meta-modal ground of uninstantiated profiles remains open; S55's five-clause $Poss_C^{ind}$ (C491–C497) is reconciled with $Adm_C$ in S58, and its $MUNA$ reduction addresses the sole-source question |
 | Time, eternalism, ACO, and subject acquaintance | cross-cutting | F2 | hold after S36–S37 | F3 | Creaturely episodes remain temporally located while tenselessly actual and atemporally known; $ASA$ tracks their embodied bearer index |
-| Intervention, miracle, and providence | downstream | F2 with diachronic refinement and sparse-action integration | hold until $HI_G$ | selective F3 | S41 fixes ordinary derivative production in created causes while retaining source-neutral divine substitutability and token interventions; S50's funnelling and evaluative authorship (C460–C468) are reconciled with the $AE$ profile in S58 |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F2 with $CP_G^{elig}$ and all three eligible type-level $CC_G$ ranges | develop fixed-history intervention $HI_G$ | selective F3 bridge work | S42 derives annihilation through bounded grounding; $HI_G$ and domain exhaustion remain open; S55 states creative plenitude as a conditional theorem (C495) |
+| Intervention, miracle, and providence | downstream | F2 with diachronic, sparse-action, and fixed-prefix integration | hold after $HI_G^{elig}$ | selective F3 | S43 supplies exact-prefix, preservation, source-role, retention, and composability conditions without making intervention ordinary; S50's funnelling and evaluative authorship (C460–C468) are reconciled with the $AE$ profile in S58 |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F2 with $CP_G^{elig}$, all three $CC_G$ ranges, and conditional $HI_G^{elig}$ | test action-domain exhaustion | selective F3 bridge work | S43 supports all three named created-order subranges; exhaustion and unrestricted $OMP_Q$ remain open; S55 states creative plenitude as a conditional theorem (C495) |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence and personal availability | dependent attribute | F1 with local F2 knowledge refinement | hold after S35 | selective F2 | $ASA$ supports direct access; genuine communication may be asymmetric in capacity while still minimally reciprocal in participation |
 | Imagination, thought, and intentional content | cross-cutting test | F1–F2 | hold after integrated CH14 test | selective F2 | S38 distinguishes actual act, representational fact, represented target, and modal status; qualified imagination is evidence rather than truthmaker |
@@ -65,18 +65,19 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-1. Develop $HI_G$ through shared-prefix, identity, law, terminal-boundary, and autonomous-source preservation conditions.
-2. Hold S42's bounded-relatum account and $CC_G^{ann}$ at F2; do not turn $P_{ET}$ into a primitive inverse or conflate ordinary destruction with annihilation.
-3. Preserve S41's $GSDA$: ordinary secondary causes proximately produce derivative effects even though $G$ has source-neutral substitutive capacity.
-4. Hold all three eligible type-level $CC_G$ ranges at F2; do not infer same-token preservation across essential-property loss or fixed-prefix accessibility from target range.
-5. Hold S40's $CP_G^{elig}$ at F2, explicitly conditional on S39's abductive $CMU_G$; do not generalize it to $OMP_Q$.
-6. Hold S39's conditional modal ultimity as an abductive F2 preference; strengthen MGC or MUU only if later work requires demonstrative force rather than the project's normal comparative standard.
-7. Hold S38's constitutive-admissibility account at F2; revisit the ultimate meta-modal ground of uninstantiated profiles only if the active bridge requires it.
-8. Hold S37's accepted embodied power-bearing subject at F2; revisit its dual-aspect ground, causal non-competition, onset criteria, or person boundary only when load-bearing.
-9. Retain CH15's practical-accessibility question as a selective precision burden rather than an active blocker.
-10. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
-11. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-12. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
+1. Test action-domain exhaustion: determine whether $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ cover every created-order task and type the remaining self-directed or non-created-relational candidates before assessing $OMP_Q$.
+2. Hold S43's $HI_G^{elig}$ at F2 conditional on $LPC_G$ and $CMU_G$; retain holistic source-sensitive non-composability as its explicit adversarial challenge.
+3. Preserve the numerical-recreation correction: same-individual return is conditionally admissible under $GapIdentity_C$, while a matching $y\neq x$ is duplicate reconstruction.
+4. Hold S42's bounded-relatum account and $CC_G^{ann}$ at F2; distinguish final from gap annihilation.
+5. Preserve S41's $GSDA$: ordinary secondary causes proximately produce derivative effects even though $G$ has source-neutral substitutive capacity.
+6. Hold S40's $CP_G^{elig}$ at F2, explicitly conditional on S39's abductive $CMU_G$; do not generalize created-order coverage to $OMP_Q$.
+7. Hold S39's conditional modal ultimity as an abductive F2 preference; strengthen MGC or MUU only if later work requires demonstrative force rather than the project's normal comparative standard.
+8. Hold S38's constitutive-admissibility account at F2; revisit the ultimate meta-modal ground of uninstantiated profiles only if the active bridge requires it.
+9. Hold S37's accepted embodied power-bearing subject at F2; revisit its dual-aspect ground, causal non-competition, onset criteria, person boundary, or $GapIdentity_C$ only when load-bearing.
+10. Retain CH15's practical-accessibility question as a selective precision burden rather than an active blocker.
+11. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
+12. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+13. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
 
 The author's brief of 2026-09-02 adds a question-driven track: plain questions from the accessible register that the ledger cannot answer become research items. Under the priority rule of C324 the trunk queue above governs; the question-driven items below are held behind it. S44–S48 supplied the first five and returned to the trunk once continuation's remaining burden proved to depend on the identity criterion; S49–S52 then deepened constitution, cumulative agency, identity, and audited the trunk. Independently, S30–S34 completed the constitution, boundary, power, and subject-acquaintance passes.
 

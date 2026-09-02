@@ -122,7 +122,7 @@ Reversal conditions from S09 still apply. In addition, the lemma exposes a speci
 
 ## Literature and novelty notes
 
-Sources are cited from memory; no online verification was possible in this session, and the citations should be checked in the literature pass.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - The modal-collapse argument against a strong PSR is due to Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6, and is discussed in the Stanford Encyclopedia entry on the principle of sufficient reason. C458 is the same inference applied to a necessary ground rather than to the PSR.
 - Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008), argues that a necessary being can explain a contingent order only by non-necessitating agent causation. C460 is the closest possible precedent and the project's argument should be read as a reconstruction within its own premises, as the research method requires for named authors.

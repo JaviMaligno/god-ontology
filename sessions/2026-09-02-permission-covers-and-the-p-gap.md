@@ -140,12 +140,12 @@ This belief is held under the S28 epistemic-orientation profile (C200–C202): b
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Richard Swinburne, *Providence and the Problem of Evil* (Oxford, 1998): natural-law and free-will theodicies; the regularity cover belongs to that family.
 - John Hick, *Evil and the God of Love* (1966): soul-making; corresponds to the optional developmental layer.
 - Peter van Inwagen, *The Problem of Evil* (Oxford, 2006): the no-minimum or arbitrary-threshold reply, recorded here as contested.
-- William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979): the evidential argument from apparently gratuitous suffering; Stephen Wykstra and Michael Bergmann on skeptical theism. R183–R184 reject both blanket moves as inferences.
+- William Rowe, “The Problem of Evil and Some Varieties of Atheism” (1979): the evidential argument from apparently gratuitous suffering; Stephen Wykstra, “The Humean Obstacle to Evidential Arguments from Suffering” (1984), and Michael Bergmann, “Skeptical Theism and Rowe's New Evidential Argument from Evil” (2001), for skeptical theism. R183–R184 reject both blanket moves as inferences.
 - Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999): argues that a good God must defeat horrendous evils within the sufferer's own life, including post-mortem. This is the closest precedent for C477–C478; the project reaches the bearer-level requirement from the bearer-indexed $Fit_*$ and the $R$ anchor rather than from a perfection premise.
 - Eleonore Stump, *Wandering in Darkness* (Oxford, 2010): second-person accounts of suffering and union; relevant to Step 4.
 

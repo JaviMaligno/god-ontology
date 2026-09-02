@@ -103,12 +103,12 @@ Whether any such order exists is a different question, and the honest answer has
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - David Lewis, *On the Plurality of Worlds* (1986): concrete modal realism, the contrast case for sense 1.
-- Max Tegmark's mathematical-universe and Level IV multiverse: plenitude at the impersonal stopping point (C459); Everett's relative-state interpretation and David Wallace, *The Emergent Multiverse* (2012), for sense 2's branching.
-- Klaas Kraay, “Theism, Possible Worlds, and the Multiverse” (2010), and Timothy O'Connor, *Theism and Ultimate Explanation* (2008), for theistic multiverses reached from perfection or must-create premises; the project's refusal of a maximizing norm is the reason it stops at coherence.
-- Robin Collins and the fine-tuning literature, for the debate the project declines to enter (C03, R02).
+- Max Tegmark, “Parallel Universes” (2003) and “The Mathematical Universe” (2008), for impersonal plenitude; Everett's relative-state interpretation and David Wallace, *The Emergent Multiverse* (2012), for sense 2's branching. Wallace is a comparison and stress test, not direct support for C538's settlement constraint.
+- Klaas Kraay, “Theism, Possible Worlds, and the Multiverse” (2010), for a unique-best-multiverse argument from perfection premises. Timothy O'Connor's verified contribution is agentic explanation of contingent order; without a page-specific source he should not be treated as direct evidence for Kraay's multiverse conclusion.
+- Robin Collins, “The Teleological Argument: An Exploration of the Fine-Tuning of the Universe” (2009), as a representative source for the debate the project declines to enter (C03, R02).
 
 Classification: established families; the project-specific elements are the three-way partition tied to the ontology's own modules, the settlement-branching bridge constraint, and the diagnosis that plenitude would need a requiring reason. No novelty claim.
 

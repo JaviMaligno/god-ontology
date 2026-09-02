@@ -169,13 +169,13 @@ $Substance_T$ (C223) applies to created subjects: an identity unit that bears po
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
-- Field-theoretic descriptions of matter (particles as field excitations; Noether's theorem linking conservation laws to symmetries) supply the empirical bridge for the profile account; a physics reference should be added in the literature pass.
-- Spinoza, *Ethics* I, on extension as an attribute of the one substance: the classic strict *ex deo* system that accepts mode-to-substance inheritance and therefore denies what $ASP_G$ asserts.
+- CERN's field description of particles and modern surveys of Noether's theorem supply the physical examples for C487–C488. They do not establish the further metaphysical conclusion that there is no transferable substrate; that bridge remains explicitly interpretive.
+- Spinoza, *Ethics* I, on extension as an attribute of the one substance and bodies as finite modes: the contrast is an ontology in which created extended things are modes of one extended substance. It should not be described as literal inheritance of each mode's determinate properties by substance.
 - Aquinas, *Summa Theologiae* I, q. 45, on creation as denial of a material cause; q. 3 on simplicity, which the aspect criterion approaches without adopting.
 - Contemporary dispositional and power ontologies (Molnar, *Powers*, 2003; Mumford and Anjum, *Getting Causes from Powers*, 2011) for the individuation of powers by manifestation-type.
-- Jeffrey Brower's truthmaker treatment of divine simplicity as the nearest contemporary comparison for aspects without constituent ontology.
+- Jeffrey Brower, “Making Sense of Divine Simplicity” (*Faith and Philosophy* 25.1, 2008), for the truthmaker treatment nearest to aspects without constituent ontology.
 
 Classification: the profile account, the level distinction for conservation, and the aspect criterion are established or adaptable materials; the project-specific results are the derivation of $\neg PMC_U$ from sole ultimity, contingency of matter, immateriality, and $CCD$, and the identification of $NI$ as the exact price of non-destructive strict *ex deo*. No novelty claim.
 

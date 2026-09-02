@@ -11,7 +11,7 @@
 
 - [Part VIII — Comparison and Evaluation](../writing/treatise/part-viii-comparison-and-evaluation.md): chapters 29–33.
 
-Conventions as in S59–S65. Comparisons are localized per C24 and the literature is flagged as drawn from the precedent map, with the memory-cited items marked as unverified.
+Conventions as in S59–S65. Comparisons are localized per C24 and the literature is drawn from the precedent map. The question-track items first recorded from memory were subsequently checked in the 2026-09-02 provenance pass.
 
 ## What the writing exposed
 

@@ -127,7 +127,7 @@ None of these reopens the coherence of continuation; each concerns its mode.
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Trenton Merricks, “There Are No Criteria of Identity Over Time” (*Noûs*, 1998): the non-criterial view defended without theological premises; the closest precedent for Step 3.
 - Roderick Chisholm, *Person and Object* (1976); Richard Swinburne in Shoemaker and Swinburne, *Personal Identity* (1984); E. J. Lowe, *Subjects of Experience* (1996): the simple view of persistence.
@@ -136,7 +136,7 @@ Cited from memory; not verified online in this session.
 - David Wiggins, *Sameness and Substance Renewed* (2001), for substance-based persistence; Aquinas on the subsistent soul as identity unit.
 - Stanford Encyclopedia entry on personal identity for the survey.
 
-Classification: the simple view and its rivals are established; the project-specific elements are the derivation of simple persistence from libertarian sourcehood, de re modal identity, and whole-agent attribution, the eternalist dissolution of the gap intuition, and the de re targeting account of re-realization. No novelty claim.
+Classification: Merricks directly precedes both non-criterial persistence and the possibility of intermittent existence; the simple view and its rivals are established. The project-specific elements are the derivation from libertarian sourcehood, de re modal identity, and whole-agent attribution, the eternalist treatment of the gap intuition, and the de re targeting account of re-realization. No standalone novelty claim.
 
 ## Repository updates
 

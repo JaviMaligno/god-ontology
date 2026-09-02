@@ -106,11 +106,11 @@ The accessible track may therefore say, in the first person and with the status 
 
 ## Literature and novelty notes
 
-Cited from memory; to be verified in the literature pass.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Robert M. Adams, *Finite and Infinite Goods* (Oxford, 1999), grounds excellence in resemblance to God; the present route differs by grounding fit in kinds $G$ instantiates or grounds, without a resemblance premise or a prior claim that $G$ is excellent.
-- Mark Murphy, *God's Own Ethics* (Oxford, 2017), separates divine from creaturely norms and questions whether God must promote creaturely welfare; the P-gap is the project's version of that question.
-- The distinction between a partial, earned orientation and full omnibenevolence has no standard label known to the assistant; classification: established components with a project-specific partial attribute.
+- Mark Murphy, *God's Own Ethics* (Oxford, 2017), directly treats creaturely existence and welfare as giving God justifying but non-requiring reasons. The P-gap is the project's reconstruction of the remaining gap between such reasons and a requiring norm.
+- Classification: established close precedent with a project-specific derivation and reason profile. The literature pass does not support treating the partial orientation as an otherwise unlabeled gap.
 
 ## Repository updates
 

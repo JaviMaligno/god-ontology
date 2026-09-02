@@ -136,11 +136,11 @@ C38 remains deferred: whether reduced $DAuth$ or $EvAuth$ reduces moral responsi
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Joseph Raz, *The Morality of Freedom* (Oxford, 1986): autonomy requires an adequate range of options over a life, not merely uncoerced choice; the nearest precedent for profile-level openness.
 - Alfred Mele, *Autonomous Agents* (Oxford, 1995): history-sensitive autonomy and the manipulation problem; Derk Pereboom's four-case argument (*Living Without Free Will*, 2001) and Fischer and Ravizza's ownership of one's mechanism (*Responsibility and Control*, 1998) for the evaluative-authorship route.
-- Harry Frankfurt on identification and Susan Wolf on sanity as normative competence, for what evaluative authorship must add to reasons-responsiveness.
+- Harry Frankfurt, “Freedom of the Will and the Concept of a Person” (1971), on identification, and Susan Wolf, “Sanity and the Metaphysics of Responsibility” (1987), on sanity and normative competence, for what evaluative authorship must add to reasons-responsiveness.
 - Thaler and Sunstein, *Nudge* (2008), and the subsequent debate on choice architecture, for created-level cumulative context control.
 
 Classification: established families; the project-specific elements are the separation of funnelling from evaluative-authorship replacement as two independent diachronic failures compatible with libertarian token autonomy, and their application to providence, divine address, and the source cover. No novelty claim.

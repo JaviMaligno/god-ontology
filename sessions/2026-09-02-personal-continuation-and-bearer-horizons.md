@@ -119,14 +119,14 @@ The second consequence connects the argument back to U16: the choice of God or n
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Peter van Inwagen, “The Possibility of Resurrection” (1978), and Dean Zimmerman, “The Compatibility of Materialism and Survival: The ‘Falling Elevator’ Model” (1999): the identity burden under materialist re-realization; the replica and gappy-existence problems.
 - Lynne Rudder Baker, *Persons and Bodies* (Cambridge, 2000): a constitution view of persons compatible with re-embodiment; nearest to the non-reductive embodied route.
-- Aquinas, *Summa Theologiae* I.75–76 and 89: subsistent but incomplete soul, completion by resurrection; the hylomorphic route.
+- Aquinas, *Summa Theologiae* I.75–76 and I.89: subsistence, embodiment, and the incomplete or non-natural separated condition; Supplement q.75, especially a.1, supplies the explicit completion-by-resurrection claim.
 - Richard Swinburne, *The Evolution of the Soul* (Oxford, 1986): the dualist persistence route.
 - Derek Parfit, *Reasons and Persons* (Oxford, 1984): why identity may not be what matters; the project's bearer-indexed fit resists that move but must answer it in CH22.
-- John Hick, *Death and Eternal Life* (1976), and Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999): continuation as required by a theodicy that respects the individual sufferer; closest precedents for the conditional of Step 5.
+- John Hick, *Death and Eternal Life* (1976), and Marilyn McCord Adams, *Horrendous Evils and the Goodness of God* (Cornell, 1999): eschatological continuation and defeat within the sufferer's own life are close precedents for Step 5. The stated requirement is the project's conditional use of those materials, not a theorem jointly established by both books.
 - Stanford Encyclopedia entries on personal identity and on afterlife, for the survey.
 
 Classification: established problem families; the project-specific elements are the typing of continuation as intervention or further creative act within $\mathfrak R^*$ under non-continuous dependence, the mapping of routes onto the S29 realization models, and the derivation of universality and co-production from the anchors. No novelty claim.

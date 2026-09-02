@@ -144,12 +144,12 @@ r_S\in\mathcal R_G^{req}\;\Rightarrow\;Excluded_{Adm}(Funnel)\land Excluded_{Adm
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
-- Joseph Raz, *Practical Reason and Norms* (1975), and Jonathan Dancy, *Ethics Without Principles* (2004), on favoring, justifying, and requiring reasons; Joshua Gert on justifying versus requiring strength; Mark Murphy, *God's Own Ethics* (2017), applying justifying and requiring reasons to divine action, already cited at S21.
-- Amartya Sen on partial orderings and maximization without a complete order, for the undominated-set model.
+- Joseph Raz, *Practical Reason and Norms* (1975), and Jonathan Dancy, *Ethics Without Principles* (2004), supply broader distinctions among reasons, favorers, enablers, and practical norms; Joshua Gert, “Requiring and Justifying: Two Dimensions of Normative Strength” (2003), is the exact source for justifying versus requiring strength; Mark Murphy, *God's Own Ethics* (2017), applies the distinction to divine action.
+- Amartya Sen, “Maximization and the Act of Choice” (1997), on maximization without a complete ordering, for the undominated-set model.
 - Robert Adams, “Must God Create the Best?” (1972), and the divine-freedom literature already cited at S18.
-- Norman Kretzmann's discussion of whether Aquinas's God must create, for the creation-level justifying reading.
+- Norman Kretzmann, “A General Problem of Creation: Why Would God Create Anything at All?” (1991), frames the freedom/necessity tension. The creation-level justifying reading is the project's reconstruction, not Kretzmann's terminology.
 
 Classification: established distinctions in the theory of reasons; the project-specific elements are the typing of creative reasons by the value anchors, the relocation of the P-gap into the reason profile, and the derivation of the diachronic presumption from a requiring sourcehood reason. No novelty claim.
 

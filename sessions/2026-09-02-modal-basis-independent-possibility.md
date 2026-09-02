@@ -124,12 +124,12 @@ This gives imagination the same epistemic role that continuity has for identity 
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - Kit Fine, “Essence and Modality” (1994): modality grounded in essences; the closest precedent for clause 5 and for the project's general refusal to define possibility by capacity.
 - Barbara Vetter, *Potentiality* (Oxford, 2015), and Alexander Bird, *Nature's Metaphysics* (2007): possibility grounded in powers or potentialities; the precedent for clause 3 and for C48.
 - Stephen Yablo, “Is Conceivability a Guide to Possibility?” (1993), and David Chalmers, “Does Conceivability Entail Possibility?” (2002): the conceivability debate; C530 takes the evidential side.
-- Timothy Williamson, *Modal Logic as Metaphysics* (2013), on necessitism and the transfer of necessary existence across worlds, relevant to the reduction of B2.
+- Timothy Williamson, *Modal Logic as Metaphysics* (2013), on necessitism—no contingency in what exists, only in how it is—is a contrast for B2. It does not by itself support modal uniqueness or the cross-world identity of a necessary agent.
 - Alexander Pruss, *Actuality, Possibility, and Worlds* (2011), on grounding possibility in the powers of actual beings including God; the project restricts the power clause to created powers precisely to avoid the circularity Pruss's view would import into the bridge.
 
 Classification: established families (essence-based and power-based modality; conceivability as evidence); the project-specific elements are the five-clause definition restricted to created specifications, the reduction of B2 to modal uniqueness of necessary agents, and the resulting conditional derivation of creative plenitude. No novelty claim.

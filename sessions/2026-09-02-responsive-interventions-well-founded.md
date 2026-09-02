@@ -100,7 +100,7 @@ The author's S43 corrects S41–S42: a post-gap qualitative match may be the num
 
 ## Literature and novelty notes
 
-Cited from memory, not verified online: Michael Dummett, “Bringing About the Past” (1964), and Peter Geach's discussion of prayer for past events; both concern whether a later act can be the reason for an earlier one, and both reach an independence condition close to C551's agent-neutrality. The well-foundedness of grounding is standard in the grounding literature (Fine, Rosen). The project-specific element is the derivation of the responsiveness constraint from the actual-marker grounding order and its integration with $HI_G$ and $GSDA$; no novelty claim is made.
+Verified online in the 2026-09-02 literature pass; exact sources and links are in [the provenance checklist](../research/provenance-checklist.md). Michael Dummett, “Bringing About the Past” (*Philosophical Review* 73.3, 1964), permits a constrained retrospective-prayer case under epistemic and independence conditions. Peter Geach, “Praying for Things to Happen,” in *God and the Soul* (1969), instead argues that impetratory prayer concerns future two-way contingencies and rejects prayer for past events. They are opposing comparison points, not joint support for C551. Fine's “Guide to Ground” (2012) and Rosen's “Metaphysical Dependence” (2010) establish the grounding framework, but strong well-foundedness and bans on infinite chains remain contested. WFR must therefore stand on the project's own C29–C30/S39 commitments; the literature does not supply it as an uncontested theorem. The project-specific element is its integration with $HI_G$ and $GSDA$; no novelty claim is made.
 
 ## Repository updates
 

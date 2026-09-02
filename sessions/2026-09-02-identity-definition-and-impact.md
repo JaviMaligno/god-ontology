@@ -100,9 +100,9 @@ The de re alternatives of C53 require that the same agent exist in histories $h_
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
-- E. J. Lowe, *Kinds of Being* (1989) and *The Possibility of Metaphysics* (1998), on individuation as kind-relative and on the distinction between criteria of identity and identification; David Wiggins, *Sameness and Substance Renewed* (2001), on sortal-relative persistence.
+- E. J. Lowe, *Kinds of Being* (1989) and *The Possibility of Metaphysics* (1998), on kind-relative individuation, with “What Is a Criterion of Identity?” (1989) as the precise source for criteria; David Wiggins, *Sameness and Substance Renewed* (2001), on sortal-relative persistence.
 - Leibniz on the identity of indiscernibles, and Max Black, “The Identity of Indiscernibles” (1952), for its rejection by symmetric duplicates.
 - Roderick Chisholm and Trenton Merricks for the non-criterial view of persistence; Sydney Shoemaker for the reductive alternative.
 - Alvin Plantinga, *The Nature of Necessity* (1974), on transworld identity and essences; the project declines individual essences as qualitative and treats $G$'s and actual subjects' modal identity as primitive.

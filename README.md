@@ -2,7 +2,9 @@
 
 This repository develops a bottom-up ontology of a necessary cosmic agent, creation, creaturely agency, divine knowledge, and intervention. Its purpose is to build the most coherent position the author can endorse—not to recover classical theism by definition and not to maximize novelty.
 
-The project began with a narrower question: in what sense does science describe rather than explain, and where does metaphysical explanation begin? The conversation then moved through mathematical intelligibility, brute facts, necessity, agent causation, and the gradual derivation of properties that might justify calling a necessary agent “God.”
+The project began with a narrower question prompted by John C. Lennox's discussion in [*Can Science Explain Everything?* (2019)](https://www.thegoodbook.com/can-science-explain-everything): in what sense does science describe rather than explain, and where does metaphysical explanation begin? “Science describes rather than explains” is retained as the author's paraphrase of Lennox's position, not as a verified verbatim quotation. The conversation then moved through mathematical intelligibility, brute facts, necessity, agent causation, and the gradual derivation of properties that might justify calling a necessary agent “God.”
+
+Lennox is also the author's principal philosophical inspiration for the project. A second motivating question comes from his challenge to confidence in cognition under an unguided naturalistic account of human origins: if our truth-seeking faculties are ultimately products of processes selected for fitness rather than truth as such, what licenses trust in the reasoning on which science itself depends? The project records this as comparative abductive pressure, not as a proof. Its target is evolutionary naturalism rather than evolution or atheism simpliciter; natural selection is not merely random, naturalists can appeal to the adaptive value of accurate representation and to science's public error-correcting practices, and a theistic account must still explain fallibility while supplying a non-deceptive, truth-oriented source of finite cognitive agency.
 
 ## Start here
 

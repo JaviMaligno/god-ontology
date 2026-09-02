@@ -104,7 +104,7 @@ Aesthetic and religious experience engage two anchors directly: conscious valenc
 
 ## Literature and novelty notes
 
-Cited from memory; not verified online in this session.
+Verified online in the 2026-09-02 literature pass; exact sources, links, and qualifications are recorded in [the provenance checklist](../research/provenance-checklist.md).
 
 - William Alston, *Perceiving God* (Cornell, 1991), treats religious experience as a doxastic practice with defeaters; Richard Swinburne's principle of credulity (*The Existence of God*, 2nd ed., 2004) treats it as defeasible evidence. C468 belongs to that family and is weaker: it limits the evidence to presence and relation.
 - William James, *The Varieties of Religious Experience* (1902), and Rudolf Otto, *Das Heilige* (1917), describe the phenomenology; Eleonore Stump's account of second-person presence and shared attention (*Wandering in Darkness*, 2010) is already the precedent for S20.

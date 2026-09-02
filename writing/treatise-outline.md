@@ -2,7 +2,7 @@
 
 Working language: English. Research notes may remain bilingual. The outline deliberately separates the original motivation from the ontology that later emerged.
 
-Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent-reality-to-a-necessary-agent.md) and [Part IV](treatise/part-iv-the-minimal-ontology.md) (S52, first pass). The remaining Parts are at outline.
+Consolidated prose drafts exist for [Part III](treatise/part-iii-from-contingent-reality-to-a-necessary-agent.md) and [Part IV](treatise/part-iv-the-minimal-ontology.md) (S53, first pass). The remaining Parts are at outline.
 
 ## Preface: Scope and epistemic posture
 

@@ -6,6 +6,7 @@ Working language: English. Research notes may remain bilingual. The outline deli
 
 - A constructive ontology rather than a proof packaged in advance
 - Personal commitment, rational inquiry, and the role of faith
+- Two registers: argument establishes availability, experience is participation
 - Why novelty is not the governing aim
 
 ## Part I — Motivation: Description, explanation, and the limits of science
@@ -40,10 +41,16 @@ Working language: English. Research notes may remain bilingual. The outline deli
 ## Part III — From contingent reality to a necessary agent
 
 7. **Contingency, Brute Facts, and Regress**
+   - A weak explanatory preference rather than a strong principle of sufficient reason
+   - Brute contingency as an admissible but lowest-ranked stopping point
 8. **Could Physical or Mathematical Reality Be Necessary?**
+   - The necessitation lemma: a necessary ground cannot necessitate a contingent order
+   - Necessitarianism, chance, selection laws, and plenitude
 9. **Why Agency Enters**
    - Impersonal production, randomness, and agent causation
+   - Four stopping points and the only contrastive, non-necessitating terminus
    - O'Connor and the contrastive explanation of contingency
+   - The preferential residue: a subject's exercise versus a chance event
 10. **How Far Is the Necessary Agent from God?**
     - Creator, intellect, knowledge, power, goodness, and personhood as separate steps
 
@@ -172,6 +179,10 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Positive defeasible long-term preference from E+ and the boundary with complete strong longtermism
     - Hell-like absence as privation of communion rather than absence of ontological grounding
     - Provisional essential grounding of objective fit in $G$
+    - The non-circular route: kinds $G$ instantiates or grounds
+    - A good-oriented divine profile toward sourcehood and relation
+    - The P-gap: why orientation toward created valence is where evil enters
+    - Good-orientation is not omnibenevolence
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**
     - Human judgment versus total-order evaluation
@@ -185,6 +196,13 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Science as empirical input, realization constraint, and bridge-mediated defeater
     - Why operational success neither defines nor exhausts metaphysical reality
 32. **Established Elements, New Synthesis, and Remaining Work**
+33. **Argument and Experience**
+    - Direct address, standing presence, and exercised regard
+    - Three ways an experience of God can relate to its truthmaker
+    - Defeasible first-person evidence without self-authentication
+    - Why absence of experience refutes nothing
+    - Art, music, prayer, and the anchors of value
+    - The hemisphere image as a metaphor for two registers
 
 ## Appendices
 
@@ -195,3 +213,4 @@ Working language: English. Research notes may remain bilingual. The outline deli
 - Argument maps
 - Source and provenance concordance
 - English–Spanish terminology table
+- Plain-language statement of the position, derived from the accessible track

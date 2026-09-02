@@ -49,6 +49,28 @@ These are deliberately numbered as candidates until the formal semantics is sele
 8. **Epistemic non-causation:** $K_G(p)$ alone is not an efficient cause or sufficient causal condition of $p$.
 9. **Modal complement:** $G$ knows the relevant possibilities and modal structure together with actuality; this goes beyond the definition of ACO, and its exact domain depends on the ontology of possibility.
 
+## Explanatory stopping points and the necessitation lemma
+
+The upstream junction C04–C05 receives an F2 comparison in [S31](../sessions/2026-09-02-explanatory-stopping-points.md). The motivation is a weak explanatory preference (WEP), not a strong principle of sufficient reason: other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. Brute contingency remains admissible and is only ranked lowest.
+
+For a necessary $N$ and any contingent $\phi$, normal modal logic gives:
+
+\[
+\Box E(N)\land\Box\big(E(N)\land K_N\to\phi\big)\vdash\Box\phi,
+\qquad\text{hence}\qquad
+Cont(\phi)\land\Box E(N)\Rightarrow\neg NecGround(N,\phi).
+\]
+
+Any necessary ground of a genuinely contingent order therefore produces it non-necessitatingly. This partitions the stopping points into brute contingency (B), necessitarianism (Nec), impersonal necessity with chance, selection law, or plenitude (IN), and a necessary agent with non-necessitating settling (AN). The contrast between the two necessary options is:
+
+\[
+IN:\;NNProd(N,\mathcal C)\land\neg\exists e\,CExp(e,\mathcal C,\mathcal C'),
+\qquad
+AN:\;NNProd(N,\mathcal C)\land CExp\big(Exercise(N,\mathcal C,\mathbf R),\mathcal C,\mathcal C'\big),
+\]
+
+where $Exercise$ is the agentic settling of C109. AN is the only stopping point that supplies contrastive, reason-guided, non-necessitating explanation; Nec is excluded (C226); B and IN remain live opponents. The residue of the preference — that a subject's reason-guided exercise is a better terminus than chance — is recorded as preferential (C225), consistent with S09.
+
 ## Preferred temporal semantics: E+
 
 The original conversation approached two nearby but non-identical solutions to foreknowledge and freedom without consistently separating them. [Session S01](../sessions/2026-08-31-eternalism-and-indexing.md) clarifies that complete-history eternalism is the preferred architecture.
@@ -1211,6 +1233,37 @@ EmpiricalModel(E)\land Bridge(O,E)
 If ontology $O$ entails an empirical consequence through a justified bridge and robust evidence contradicts that consequence, the conflict is a defeater. Mere non-detection, omission from an operational model, or methodological exclusion is not. Conversely, calling a claim metaphysical cannot protect it when it really does entail a contradicted physical claim.
 
 This applies to psychology and other sciences as well as physics. Their findings can inform realization, examples, and abductive comparison while remaining distinct from the constitution of agency, consciousness, value, modality, substance, or divine reality.
+
+### Good-oriented divine profile
+
+[S32](../sessions/2026-09-02-good-oriented-divine-profile.md) gives C195 its content. The anchors of $\mathcal A_{min}$ take their fit conditions from kinds that $G$ instantiates or grounds, and each of those divine features was established without evaluative premises:
+
+\[
+Inst_{\Box}(G,K_S)\land Inst_{\Box}(G,K_R)\land
+\big(GroundsExist(G,K_P)\land Knows_M(G,K_P)\big).
+\]
+
+Let $Disp^{est}(G)$ collect the dispositions established in S18–S20 and ACO: agency-oriented creation preferring a generative $S$, the agency-preservation presumption, universal personal availability, and truth-tracking knowledge. Each is an instance of $Fit_*$ toward $S$ or $R$, so:
+
+\[
+GoodOrient_S(G)\land GoodOrient_R(G),
+\qquad
+GoodOrient_a(G):=\forall d\in Disp^{est}(G)\,[Relevant(d,a)\to Fit_*(d,a,B,C,\tau)].
+\]
+
+No established disposition concerns $P$; $GoodOrient_P(G)$ is open and is the exact locus of the problem of evil (C229, CH14). Omnibenevolence requires more still: universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence (C230). The plain-language license is therefore: everything established about $G$ is oriented toward the freedom of conscious subjects and truthful relation with them; extension to what they feel is held as belief with a recorded burden.
+
+### Experiential access and the two registers
+
+[S30](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C231). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
+
+| Case | Truthmaker |
+| --- | --- |
+| veridical of standing presence | $Present_O(G,A)$, which holds for every actual subject |
+| veridical of exercised regard | $Address(G,A,t)$ or a response |
+| non-veridical | neither, although $Present_O$ still holds |
+
+Such experience is defeasible first-person evidence of presence or relation and never evidence for the architecture (C233). The argumentative register establishes availability; the experiential register is participation in relation that C124 makes asymmetrically co-produced (C234). Absence of experience refutes nothing; presence entails no miracle (C235). Whether aesthetic and religious experience are mediated relation to $G$ or relation to created structure grounded in $G$ is open (C236).
 
 ## Current formal status
 

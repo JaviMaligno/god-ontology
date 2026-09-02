@@ -25,6 +25,10 @@ From [U18](../corpus/transcript.md#user--u18) onward, the author comments select
 
 The conversation between author and assistant is the primary deliberative instrument of the project. Proposals, objections, revisions, and reasons must be made visible in the conversation so the author can shape them. Repository documents preserve memory, decisions, provenance, and continuity across sessions or context compaction; they do not replace the discussion or function as a hidden venue in which the ontology advances without the author.
 
+## Two registers and the accessible track
+
+The project maintains two registers of exposition over one set of commitments. The argumentative register builds, tests, and records the ontology. The accessible register, governed by [accessible-track.md](accessible-track.md), expresses the same commitments in ordinary first-person language, states their status in plain words, and connects them with the experiential layer described below. The accessible register is downstream and may not claim more than the ledger supports. It is not passive: a plain question the ledger cannot answer faithfully becomes a research item under the priority discipline, filled in the argumentative register under the author's criteria and then translated. The popular image of an analytic left hemisphere and an experiential right one is used only as a metaphor for the two registers.
+
 ## Four evidential layers
 
 1. **Authorial direction:** preferences, corrections, acceptances, and questions in user turns and later session decisions.
@@ -196,3 +200,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 22. Select the remaining genuinely fragile junctions—qualified-power blockers, interpersonal knowledge, cumulative agency, and any residual creation gap—for F2–F3 treatment.
 23. Run the dedicated literature, provenance, and novelty pass.
 24. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+
+### Question-driven track (from 2026-09-02)
+
+25. Open the accessible track and derive what the ontology says about experiential access: direct address, three-way veridicality, defeasible first-person evidence, and the complementarity of argument and experience. Completed at F1 in S30.
+26. Give the contingency/ground junction its F2 comparison: weak explanatory preference, necessitation lemma, four stopping points, and the preferential residue of C05. Completed in S31.
+27. Determine which part of divine goodness the established profile earns: non-circular grounding route for $Fit_*$, good-orientation toward sourcehood and relation, and the P-gap. Completed at F1 in S32.
+28. Treat the P-gap: conditions under which a good-oriented $G$ can permit created suffering without misfit toward conscious valence (CH14). Candidate next task, competing with item 20 under authorial direction.

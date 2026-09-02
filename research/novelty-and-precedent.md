@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine simplicity, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (stopping points and modal collapse, good-oriented profile, religious experience — cited from memory, unverified online; divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine simplicity, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -40,6 +40,9 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | $NoNativeNorm(G)$ + creature-constructed norms + defeasible diachronic priority | Established constructivist and temporal-welfare families; project-specific integration | Kantian, Humean, social, constitutivist, and hybrid construction are established. The local comparison connects them to divine ACO, atemporality, sourcehood, sacrifice, and time-indexed welfare. |
 | Objective anchors + fallible approximation + conscious-capacity profiles + extended beneficiaries | Established problem families; project-specific integration | Moral realism and epistemology, capacity-based moral status, animal consciousness, and intergenerational justice are established. S25 connects them to finite construction pressure, ACO/E+, and typed posthumous sacrifice. |
 | $\mathcal A_{min}=\{P,S,R\}$ + decomposed $Fit_*$ + due-good privation + positive long-term preference | Established components; project-specific compression | Fittingness, privation of due good, faith or trust under uncertainty, future standing, and strong longtermism are established. S27–S28 compress them into one interface with consciousness, sourcehood, personal relation, E+, ACO, and divine grounding. |
+| Weak explanatory preference + necessitation lemma + four stopping points with a preferential residue | Established components; project-specific compression | Van Inwagen's modal-collapse argument, O'Connor's agentic necessary being, and Pruss–Rasmussen's weak explanatory principles are the precedents; the four-way table and the explicit identification of the preferential residue are expository. Cited from memory. |
+| Non-circular grounding of $Fit_*$ in kinds $G$ instantiates or grounds; partial good-oriented profile; the P-gap | Established problem family; project-specific partial attribute | Adams's resemblance account and Murphy's divine-ethics question are the nearest checked comparisons; a partial earned orientation distinct from omnibenevolence has no standard label known to the assistant. Cited from memory. |
+| Three-way veridicality of experiential access from ontological omnipresence and personal availability | Established evidential debate; project-specific consequence | Alston, Swinburne, James, Otto, and Stump are the precedents; the standing-presence case is a consequence of S15 and S20 rather than a new theory. Cited from memory. |
 | Robust agency may require difficulty/suffering not reproducible with vastly less suffering | Unassessed; high burden | Needs engagement with theodicy, soul-making, moral development, modal feasibility, and empirical psychology. |
 
 ## Most important correction to the conversation
@@ -176,6 +179,17 @@ The general problem and the principal solution families are well established:
 
 No component warrants a novelty claim. The more specific package may be compositionally interesting: reasons initially range over the modal structural profile of $S$, actual finite otherness and analogous sourcehood favor generative creation, exact selection terminates in the same agent-causal settling used for creatures, and no pre-actual truth about a libertarian token choice selects the structure. A dedicated search across doctrines of creation, divine ideas, image-of-God accounts, and contemporary divine-freedom theory is still needed.
 
+## Stopping points, good-orientation, and experiential access: notes pending verification
+
+No online verification was possible in the S30–S32 session; the following are recorded from memory and must be checked in the literature pass.
+
+- Peter van Inwagen, *An Essay on Free Will* (Oxford, 1983), ch. 6: the modal-collapse argument against a strong principle of sufficient reason. C223 applies the same inference to a necessary ground.
+- Timothy O'Connor, *Theism and Ultimate Explanation* (Wiley-Blackwell, 2008): a necessary being explains a contingent order only through non-necessitating agent causation. Closest precedent for C225; the project reconstructs the point from its own premises per the research method.
+- Alexander Pruss and Joshua Rasmussen, *Necessary Existence* (Oxford, 2018): weaker-than-PSR explanatory principles supporting a necessary being. WEP belongs to that family but is comparative and explicitly authorial.
+- Robert M. Adams, *Finite and Infinite Goods* (Oxford, 1999) and Mark Murphy, *God's Own Ethics* (Oxford, 2017): comparison targets for the S32 grounding route and the P-gap.
+- William Alston, *Perceiving God* (Cornell, 1991); Richard Swinburne, *The Existence of God*, 2nd ed. (Oxford, 2004), principle of credulity; William James, *The Varieties of Religious Experience* (1902); Rudolf Otto, *Das Heilige* (1917); Eleonore Stump, *Wandering in Darkness* (Oxford, 2010); the Stanford Encyclopedia entry on religious experience.
+- Iain McGilchrist, *The Master and His Emissary* (Yale, 2009): cultural reference for the hemisphere image only; not a premise (R43).
+
 ## Research backlog
 
 1. Compare the E and F models formally with De Florio–Frigerio, Law–Miller–Rasmussen, Rogers, Ockhamism, Molinism, and open theism.
@@ -192,3 +206,6 @@ No component warrants a novelty claim. The more specific package may be composit
 12. Compare non-composite and structured divine substance, creation *ex nihilo* and *ex deo*, emanation, hylomorphic and substrate models, and contemporary accounts of divine causal production as the next load-bearing search.
 13. Compare S29's embodied episode model with enactive, hylomorphic, non-reductive, dual-aspect, interventionist causal, and skilled-action accounts; test whether agent-level causation can avoid both reduction and duplication.
 14. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.
+15. Verify the S31 citations and compare the four-way stopping-point table with O'Connor, Pruss–Rasmussen, Leibniz on contingency, and Spinozist necessitarianism.
+16. Compare the S32 partial good-oriented profile with Adams, Murphy, and divine-nature theories; search for any existing treatment of a partial, earned divine orientation distinct from omnibenevolence.
+17. Verify the S30 citations on religious experience and compare the three-way veridicality distinction with Alston's doxastic-practice defeaters and Swinburne's credulity conditions.

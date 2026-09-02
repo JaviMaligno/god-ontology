@@ -10,6 +10,7 @@ The project began with a narrower question: in what sense does science describe 
 - [Core architecture](ontology/core-architecture.md): the present causal/modal model and its main unresolved fork.
 - [Research method](method/research-method.md): how future sessions, objections, decisions, and sources are handled.
 - [Treatise outline](writing/treatise-outline.md): an English-language structure that separates motivation from ontology.
+- [Accessible track](method/accessible-track.md): the parallel register that states the same beliefs in ordinary first-person language, with its [question bank](writing/accessible/banco-de-preguntas.md) and [answers in Spanish](writing/accessible/preguntas-en-lenguaje-comun.md).
 - [Novelty and precedent](research/novelty-and-precedent.md): cautious first assessment against nearby literature.
 - [Normalized transcript](corpus/transcript.md): all 24 speaker-labelled turn pairs.
 
@@ -28,9 +29,10 @@ ontology/                  current commitments, definitions, architecture
         ├── research/      literature and originality assessment
         ├── sessions/      future session records
         └── writing/       eventual treatise, kept distinct from notes
+              └── accessible/  plain-language answers and question bank
 ```
 
-Research notes may be written in Spanish or English. The first treatise draft is planned in English; a Spanish edition can be developed in parallel later.
+Research notes may be written in Spanish or English. The first treatise draft is planned in English; a Spanish edition can be developed in parallel later. The accessible register is written in Spanish first because it answers the questions people ask the author in conversation.
 
 ## Current state in one sentence
 

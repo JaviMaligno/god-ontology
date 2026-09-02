@@ -18,7 +18,7 @@ Challenge depth is independent of status. A basic question can remain unresolved
 
 | Level | Function | Initial question bank |
 | --- | --- | --- |
-| **Q0 — Public/intuitive** | Questions any adequate account should answer intelligibly | What are good and evil? Why do bad things happen? Why would $G$ permit suffering? Is pleasure good and pain bad? Is $G$ good? Why sacrifice anything? |
+| **Q0 — Public/intuitive** | Questions any adequate account should answer intelligibly | What are good and evil? Why do bad things happen? Why would $G$ permit suffering? Is pleasure good and pain bad? Is $G$ good? Why sacrifice anything? Why believe in God at all? Why a someone rather than a something? What kind of God? Is God in time or in space? If God knows what I will do, am I free? Can God be felt, or only thought? The full Q0 bank is now maintained in the accessible track's [question bank](../writing/accessible/banco-de-preguntas.md). |
 | **Q1 — Definition and scope** | Expose ambiguity in bearers, predicates, dimensions, and time | Good for whom, in which dimension, and over what interval? Is moral good distinct from welfare? Can non-conscious beings fare well? Is evil a thing, privation, relation, act, or judgment? |
 | **Q2 — Internal coherence** | Test claims against their own commitments | Can transient desire defeat the future self? Can manipulated endorsement create value? Why is sacrifice fitting rather than merely costly? Can constructed norms identify error? Can $G$ lack native value while knowing every actual concept? |
 | **Q3 — Comparative/countermodel** | Compare rival theories on divergence cases | Divine choice, divine nature, realism, constructivism, projectivism, or nihilism? What follows in experience-machine, addictive, sadistic, coerced-development, designed-servitude, future-indifference, infant, animal, and disability cases? |
@@ -44,12 +44,16 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `scoped` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
+| CH14 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `scoped` |
+| CH15 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | personal availability, experiential access, epistemology of the fourth layer, intervention typing | `scoped` |
 
 ## Priority gate after S26
 
 Ontology governs the active sequence. S27–S28 complete the current interface response to CH08 and the metaphysically required part of CH11: long-term orientation must receive positive defeasible priority, although a complete strong-longtermist doctrine is not required. Moral-status gradation, population aggregation, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them. CH12 now has priority because it joins the already load-bearing OEC/PMC gap.
 
 S29 gives CH13 a local F2 response without displacing CH12: action belongs to an embodied subject across a decision episode; neural preparation and reported awareness do not by themselves locate settlement; and sufficient pre-conscious settlement remains a genuine token-level defeater.
+
+S30–S32 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S31 gives the contingency/ground junction its F2 comparison; S32 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH14, which now competes with CH12 for the next session under authorial direction. CH15 records the experiential question.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -219,3 +223,22 @@ NeuralPrecursor(n,a,t)\land SufficientlySettles(n,a,t)
 \]
 
 not the weaker inference from precursor to settlement. S29 prefers a unified embodied subject and an episodic action model while leaving reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open. It also leaves open whether a wholly non-conscious embodied exercise can satisfy a weaker minimal libertarian category.
+
+## CH14 — The P-gap and permitted suffering
+
+S32 establishes $GoodOrient_S(G)\land GoodOrient_R(G)$ and finds no established divine disposition toward the valence of created subjects. The challenge is not the classical inference from evil to non-existence, which does not run against a $G$ whose full goodness and unrestricted power are unearned; it is whether the good-oriented profile can be extended to $P$ at all.
+
+The test must distinguish at least:
+
+1. suffering that is a due-good privation caused by creaturely moral evil, where C32 blocks divine authorship but not divine permission;
+2. suffering from non-agentic causes within a reason-supported $S$ (C114), where derivative explanation is available but moral justification is not;
+3. suffering whose permission protects sourcehood, agency ecology, or truthful relation (C115, C118), where a cross-anchor fit trade-off must be stated rather than assumed;
+4. suffering that no anchor-protecting reason covers, which would be a genuine misfit and a defeater for $GoodOrient_P(G)$.
+
+Constraints already in force: R06 forbids treating every humanly perceived evil as evil from the complete perspective, but C184-style honesty forbids using that as a blanket excuse; C132 removes any requirement of an optimal world; the thesis that robust agency requires difficulty remains unassessed and high-burden. The result may be a conditional, partial $GoodOrient_P$ rather than a theodicy.
+
+## CH15 — Veridicality of experiential access
+
+S30 distinguishes experience veridical of standing presence, veridical of exercised regard, and non-veridical. The challenge is to specify, beyond that partition, which features of an experience or of the subject's practice bear on veridicality and which defeat it, without making the experiential register either self-authenticating or empty.
+
+Tests should include experiences with known naturalistic triggers, experiences that conflict with established truths, experiences across traditions with incompatible contents, cumulative practice versus isolated episodes, and the difference between an experience of presence and a claimed propositional revelation. The framework must keep C233: no experience is evidence for the architecture.

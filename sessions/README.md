@@ -35,3 +35,6 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S27 — The minimal axiological interface](2026-09-01-minimal-axiological-interface.md)
 - [S28 — Long-term preference, privative evil, and divine substance](2026-09-02-long-term-fit-privation-and-divine-substance.md)
 - [S29 — Embodied agency and decision episodes](2026-09-02-embodied-agency-and-decision-episodes.md)
+- [S30 — The accessible track and the experiential register](2026-09-02-accessible-track-and-experiential-register.md)
+- [S31 — Explanatory stopping points and the necessitation lemma](2026-09-02-explanatory-stopping-points.md)
+- [S32 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)

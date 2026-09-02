@@ -48,6 +48,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
+| P46 | ¿Puede Dios responder a una oración antes de que la haga? | `respondida` | C120, C417, C512–C516; S19, S43, S62 (sí, si la respuesta no entra en la situación de quien pide antes de pedir; una respuesta nunca es causa de lo que responde) | — |
 | P18 | Si Dios sabe lo que voy a hacer, ¿soy libre? | `respondida` | C10–C13, C22–C30; S01–S03 | — |
 | P19 | ¿Somos libres de verdad, o decide el cerebro antes que nosotros? | `respondida` | C08, C57, C212–C221; S22, S29 | CH13 |
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |

@@ -1749,7 +1749,7 @@ After the creative-reason bridge, the fuller agency-oriented schema is:
 Prov_A=\langle OEC(G,\mathcal C_0,S^*),\mathcal R_G,\mathbf I^*,H^*\rangle.
 \]
 
-This is **qualified agency-respecting providence**: $G$ retains the power to intervene and even to override sourcehood, while the rationale for created sourcehood normally counts against its unnecessary replacement. Providence can be responsive to an actual creaturely condition without temporal learning: the condition, response, and their relation are together constituents of $H^*$ and objects of ACO. The exact grounding relation and any self-consistency constraints remain an F2 problem.
+This is **qualified agency-respecting providence**: $G$ retains the power to intervene and even to override sourcehood, while the rationale for created sourcehood normally counts against its unnecessary replacement. Providence can be responsive to an actual creaturely condition without temporal learning: the condition, response, and their relation are together constituents of $H^*$ and objects of ACO. [S62](../sessions/2026-09-02-responsive-interventions-well-founded.md) gives the self-consistency constraint: responsiveness is well founded, $RespondsTo(I,p)\rightarrow\neg(I\lhd^+ p)$ (C513), which follows from the grounding order; hence a response to a free act manifested before the act must be agent-neutral for that agent up to the act (C514), condition-sensitive policies define a well-founded fixed point (C515), and past-directed tasks must satisfy both $HIElig_G$ and WFR (C516).
 
 A representative case check preserves the distinctions:
 

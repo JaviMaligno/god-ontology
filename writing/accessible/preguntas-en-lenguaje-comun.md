@@ -134,6 +134,14 @@ Sobre si Dios tiene un plan para mi vida: lo que creo es que hay una historia co
 
 Y puedo decir algo más preciso. Hay una manera de controlar a alguien sin quitarle ninguna decisión: preparar las circunstancias de modo que, elija lo que elija en cada momento, su vida acabe donde uno quiere. Cada bifurcación es real y todos los caminos llevan al mismo sitio. Otra manera es dejarle todos los caminos abiertos pero formarle el gusto y los criterios con los que elige, sin pasar por su razón. En los dos casos la persona decide libremente en cada instante y, sin embargo, la vida entera no es suya. Creo que Dios no hace ninguna de las dos cosas, y no porque no pueda, sino porque haría inútil la razón misma por la que creó seres libres: quería vidas de otros, no vidas suyas con firma ajena. Un plan, en el sentido que creo, es un mundo estable donde lo que hago tiene consecuencias de verdad, razones y ocasiones puestas a mi alcance, y una relación disponible. No un embudo.
 
+### ¿Puede Dios responder a una oración antes de que la haga?
+
+Sí, en un sentido preciso, y conviene decir cuál. Como Dios no está en el tiempo, para él mi petición de mañana no es futura: la conoce como conoce todo lo que de hecho ocurre. Así que nada le impide poner en el mundo, antes de que yo pida, algo cuya razón es que yo pedí. Lo que ocurre antes puede tener como razón lo que ocurre después; eso no es un viaje en el tiempo, es que la razón de un acto de Dios no tiene por qué estar antes que el acto en nuestro calendario.
+
+Pero hay una condición, y sale de que mi petición tiene que ser mía. Si lo que Dios pone antes cambia mi situación de tal modo que ya no pediría, o pediría otra cosa, entonces no puede tener mi petición como razón, porque mi petición dependería de la respuesta y la respuesta de la petición: un círculo, y los círculos así no describen nada. Por eso una respuesta anterior a la petición solo tiene sentido si no entra en lo que yo sabía y quería cuando pedí. El caso clásico es rezar por alguien que ya ha tenido un accidente sin saber aún cómo ha salido: Dios puede haber respondido en el momento del accidente a una oración hecha después, precisamente porque quien reza no sabe. Si lo supiera, no rezaría lo mismo.
+
+Y lo mismo vale al revés: Dios no puede «responder» a algo que él mismo ha provocado con su respuesta. Una respuesta es a algo que ocurre por sí mismo, o por nosotros, no a algo que ella misma produce. Esto no le quita nada a Dios; solo dice a qué puede llamarse responder.
+
 ### Si nos manipulan, ¿seguimos siendo libres?
 
 Depende de en qué nivel se mire, y la distinción importa. Acto a acto, una persona manipulada por propaganda, por una adicción diseñada para engancharla o por un sistema que decide qué le llama la atención suele seguir eligiendo: tiene alternativas y es ella quien decide. En ese sentido es libre. Pero hay otro nivel: quién es el autor de la forma que va tomando su vida y de los criterios con los que elige. Si alguien ha organizado su entorno de modo que todos los caminos lleven al mismo sitio, o le ha instalado los gustos y los miedos con los que decide, entonces cada elección es suya y la vida no lo es.
@@ -292,6 +300,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
 | Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S50 | C18, C119, C297–C308, C460–C468, C504; S35, S50, S58 |
 | Intervención y milagros | preferido/provisional | C15–C18, C35–C46, C115–C119; S04, S19 |
+| Responder antes de la petición | aceptado como consecuencia del orden de fundamentación; la condición es que la respuesta no entre en la situación de quien pide | C120, C417, C512–C516; S19, S43, S62 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |

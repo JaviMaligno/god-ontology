@@ -36,7 +36,7 @@ Parts I–II, VII–VIII, and the appendices remain at outline. The history-sens
 | --- | --- | --- |
 | Part VI consolidated at first-pass prose | done | the modules are at F2; the drafting found no inconsistency |
 | Constitutive control placed in Part VI | drafting decision | miracle and providence presuppose it; Part VII will cross-reference |
-| Self-consistency of responsive loops | open, not promoted | stated in S19 and S35; adjacent to $HI_G$ |
+| Self-consistency of responsive loops | open, not promoted; closed in S62 (not absorbed by $HI_G$; C513–C516) | stated in S19 and S35; adjacent to $HI_G$ |
 | Ledger changes | none | consolidation exposed no gap requiring a new commitment |
 
 ## Repository updates

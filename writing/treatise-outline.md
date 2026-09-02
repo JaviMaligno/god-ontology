@@ -175,10 +175,24 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Atemporal grounding and the problem of temporally bounded relata
     - Temporal life-sets and direct existential boundaries
     - Local annihilation versus a terminal boundary of created time
+    - Final annihilation versus a gap in existence
+    - Duplicate reconstruction versus numerical recreation
+    - Why same-individual return requires an independent gap-identity ground
     - Why annihilation does not positively produce non-being
     - $P_{ET}$ as a derived range rather than a primitive inverse power
     - Why type-level constitutive control leaves fixed-history accessibility open
+    - Exact created prefixes and three-part preservation profiles
+    - Neutral history compatibility without ability-circularity
+    - Essential divine power retention across created histories
+    - Local prefix composability and the holistic-modal defeater
+    - Relevant same-agent intervention witnesses
+    - Physical, boundary, nomic, circumstantial, power, and act-directed range
+    - Agency-preserving inputs, option closure, and source override
+    - Joint communication and why only the divine contribution is strongly controlled
+    - Law exceptions versus law replacement
+    - Atemporal settlement without meta-temporal history editing
     - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
+    - Created-order range closure and the remaining action-domain exhaustion problem
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge fallback if unrestricted maximality fails

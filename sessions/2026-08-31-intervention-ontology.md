@@ -192,3 +192,7 @@ Agent-neutral intervention remains compatible with the miracle and providence de
 ## Later constitutive-control integration
 
 [S41](2026-09-02-constitutive-control-and-secondary-causation.md) makes the actual causal distribution explicit. Ordinary derivative effects are proximately produced by created causes rather than immediately by $G$; an immediate post-root divine contribution is a token intervention and therefore remains exceptional to that ordinary rule. Divine capacity to reproduce an eligible source-neutral effect does not imply that the capacity is exercised in the actual history.
+
+## Later fixed-history integration
+
+[S43](2026-09-02-fixed-history-intervention-range.md) refines the intervention tuple with neutral outcome, preservation, and source-role profiles. It supports $HI_G^{elig}$ at F2 through essential power retention and the explicit $LPC_G$ bridge while preserving S04's complete-history, agency, miracle, and providence distinctions.

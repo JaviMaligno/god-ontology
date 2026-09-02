@@ -204,8 +204,10 @@ These modules remain conditional on the upstream case for a necessary agent. The
 30. Close the root-creative bridge without inserting universal range into $P_{OEC}$. S40 derives root directness, requires an agent-relative witness, and establishes $CP_G^{elig}$ at F2 conditional on S39.
 31. Test constitutive control while preserving genuine secondary production. S41 adopts $GSDA$ and supports positive and identity-compatible control without universal divine production of later effects.
 32. Test existential termination before $HI_G$. Completed at F2 in S42: bounded relata of atemporal grounding plus outcome-level $CCS_G$ derive $CC_G^{ann}$; $P_{ET}$ is shorthand rather than a new primitive inverse.
-33. Test $HI_G$ through fixed-prefix histories, identity and law preservation, autonomous source roles, and terminal-boundary tasks; do not infer token accessibility from type-level target range.
-34. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-35. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $HI_G$, task-domain exhaustion, and the F3 consciousness burdens—for selective treatment.
-36. Run the dedicated literature, provenance, and novelty pass.
-37. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+33. Correct reconstruction and numerical recreation. Completed provisionally in S43: a matching new $y$ is distinct reconstruction, while return of the same $x$ is conditionally admissible under an independent $GapIdentity_C$ theory.
+34. Test $HI_G$ through fixed-prefix histories, identity and law preservation, autonomous source roles, and terminal-boundary tasks. Completed at F2 in S43 conditional on explicit essential-retention and local prefix-composability bridges.
+35. Test action-domain exhaustion across residual created-order, self-directed, and non-created-relational task types before assessing unrestricted $OMP_Q$.
+36. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+37. Select the remaining genuinely fragile junctions—CH15 practical accessibility, residual $PMC_U$, strict-*ex-deo* coherence, $LPC_G$, task-domain exhaustion, and the F3 consciousness burdens—for selective treatment.
+38. Run the dedicated literature, provenance, and novelty pass.
+39. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

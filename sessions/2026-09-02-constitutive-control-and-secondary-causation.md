@@ -164,7 +164,7 @@ EssentialTo(F,x)
 \neg Possible[Same(x)\land \neg F(x)].
 \]
 
-$G$ may destroy $x$ and create a qualitatively matching $y$ without thereby making $y=x$. Replacement and destruction-and-recreation are genuine alternatives, not repairs of an incoherent same-bearer task.
+$G$ may destroy $x$ and produce a qualitatively matching $y$ without thereby making $y=x$. Duplicate reconstruction and numerical recreation are different tasks: the latter is possible only if an independent identity ground permits the same $x$ to exist across a gap. Neither is a repair of an incoherent same-bearer modification task.
 
 ## Operation taxonomy
 
@@ -175,11 +175,12 @@ $G$ may destroy $x$ and create a qualitatively matching $y$ without thereby maki
 | power alteration | the bearer's dispositional profile | bearer only if identity permits | $CC_G^{pers}$ |
 | corruption or destruction | organized bearer ceases | underlying created constituents may remain | $CC_G^{+}$, with identity loss explicit |
 | replacement | $y$ occupies a role formerly occupied by $x$ | role or qualitative profile | $CC_G^{+}$; $y\neq x$ |
-| destruction and recreation | first $x$ ceases, then a matching $y$ is originated | qualitative similarity only by default | $CC_G^{+}$ plus $P_{OEC}$ |
+| duplicate reconstruction | first $x$ ceases, then a matching $y\neq x$ is originated | qualitative or role similarity | $CC_G^{+}$ plus $P_{OEC}$ |
+| numerical recreation | $x$ ceases for an interval and the same $x$ returns | $GapIdentity_C(x)$ independently required | conditionally within $CC_G^{ann}+CC_G^{+}$ |
 | annihilation | no created successor bearer or substrate remains | nothing created from the target | $CC_G^{ann}$, open |
 | law alteration | local or global nomic profile changes | depends on the task | target range may be $CC_G^{+}$; fixed-history accessibility belongs to $HI_G$ |
 
-The taxonomy prevents three equivocations. Temporarily blocking a manifestation need not remove its power; destroying an organized entity need not annihilate its constituents; and recreating an exact qualitative duplicate need not restore numerical identity.
+The taxonomy prevents three equivocations. Temporarily blocking a manifestation need not remove its power; destroying an organized entity need not annihilate its constituents; and exact qualitative reconstruction neither guarantees nor excludes numerical recreation. Identity across a gap requires its own ground.
 
 ## Why annihilation remained open in S41
 
@@ -221,9 +222,9 @@ No. Capacity, existential grounding, proximate production, and exercise are sepa
 
 Not by supplying the same contrastive settlement. $G$ can enable the agent, alter circumstances, or reproduce a source-neutral physical outcome. A task requiring $G$ and $A$ each to be the exclusive origin of the same contrast is malformed.
 
-### Does replacement prove same-object modification?
+### Does replacement or reconstruction prove same-object modification?
 
-No. A qualitative duplicate may occupy the same functional role while remaining numerically distinct. Same-bearer modification requires $AdmSame$.
+No. A qualitative duplicate may occupy the same functional role while remaining numerically distinct. Conversely, numerical recreation is not ruled out if an independent gap-identity condition holds. Same-bearer continuous modification still requires $AdmSame$.
 
 ### Do natural laws block constitutive control?
 
@@ -275,3 +276,5 @@ Can the ontology justify an existential-termination capacity without importing c
 ## Later resolution in S42
 
 The author's challenge showed that the open verdict was too cautious. [S42](2026-09-02-existential-boundaries-and-annihilation.md) preserves the rejection of a bare inverse inference from $P_{OEC}$ while deriving $CC_G^{ann}$ from a stronger route: an atemporal grounding relation can ground an independently admissible temporal profile with a terminal boundary, and refined $CCS_G$ ranges over created-order outcomes rather than only positive effects. $P_{ET}$ is therefore derived shorthand, all three type-level $CC_G$ subranges are preferred at F2, and only fixed-history accessibility remains for $HI_G$.
+
+[S43](2026-09-02-fixed-history-intervention-range.md) later corrects the recreation terminology. A matching successor $y\neq x$ is duplicate reconstruction. Numerical recreation is the renewed existence of the same $x$ after a gap and remains conditionally admissible wherever an independent $GapIdentity_C$ relation supports it.

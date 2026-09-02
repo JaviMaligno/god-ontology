@@ -48,3 +48,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S40 — Root creation and qualified creative plenitude](2026-09-02-root-creation-and-creative-plenitude.md)
 - [S41 — Constitutive control and secondary causation](2026-09-02-constitutive-control-and-secondary-causation.md)
 - [S42 — Existential boundaries and annihilation](2026-09-02-existential-boundaries-and-annihilation.md)
+- [S43 — Fixed-history intervention range](2026-09-02-fixed-history-intervention-range.md)

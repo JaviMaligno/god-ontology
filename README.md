@@ -35,7 +35,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root while ordinary created causes genuinely produce later effects within one atemporally known history. S38–S42 support qualified creative plenitude and all three eligible type-level constitutive-control ranges at F2, including annihilation as a terminal boundary of an atemporally grounded temporal profile; fixed-history intervention range remains open.
+The leading model provisionally posits a necessary agent that can originate every essence-compatible admissible created root while ordinary created causes genuinely produce later effects within one atemporally known history. S38–S43 support qualified creative plenitude, constitutive control, and fixed-history intervention range at F2 under explicit modal bridges; numerical recreation remains identity-conditional, and unrestricted divine action-domain exhaustion remains open.
 
 ## Rebuilding the corpus
 

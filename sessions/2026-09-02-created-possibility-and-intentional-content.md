@@ -297,3 +297,7 @@ Essence grounding, powers theories of modality, actualism, possible-world repres
 ## Next question
 
 Can actual one-ground ultimity and the independently established essence of $G$ justify modal sole-source invariance without defining that role into either $G$ or the domain of created possibility?
+
+## Later acceptance and continuation
+
+The author's “DALE” accepts the S38 proposals at their stated levels under the default-acceptance rule. [S39](2026-09-02-modal-source-invariance.md) executes the next priority, prefers conditional modal ultimity abductively, and repairs sole-source invariance by separating ultimate origin from direct $OEC^+$.

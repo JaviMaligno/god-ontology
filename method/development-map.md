@@ -35,7 +35,7 @@ generative creation S        modal powers and knowledge
        time, ACO, providence, and later evaluation
 ```
 
-The arrows express research dependence, not a single ontological relation. Existing downstream modules remain useful but conditional where their upstream premises are provisional.
+The arrows express research dependence, not a single ontological relation. Existing downstream modules remain useful but conditional where their upstream premises are provisional. Since S16 the spine has acquired branches not drawn above: divine constitution and material production (S30–S31, S39) under the necessary agent; the qualified-power hierarchy (S32–S33); goodness → good-orientation → permission and covers → continuation → simple persistence (S27–S28, S36–S38, S41) under later evaluation; the diachronic level of agency (S40) under creaturely agency; and experiential access (S34) under personal availability.
 
 ## Current depth and planned depth
 
@@ -65,15 +65,16 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 The author's brief of 2026-09-02 adds a question-driven track: plain questions from the accessible register that the ledger cannot answer become research items. S34–S38 supplied the first five and returned to the trunk once continuation's remaining burden proved to depend on the identity criterion. Independently, S30–S33 completed the constitution, boundary, and power passes. The author's direction of 2026-09-02 was to press the constitution/production junction further; S39 does so at F3, and the queue returns to the trunk gap S33 named.
 
-1. Test ACO's interpersonal knowledge gap (CH03): does complete propositional truth-knowledge suffice for knowing a creature as a subject, or is acquaintance or irreducible second-person knowledge another capacity?
-2. Cumulative intervention effects on agency: completed at F2 in S40 (C321–C329); the created-level grading of responsibility is CH18 and remains with the axiological branch.
-3. Identity across cessation (CH17): completed at F2 in S41 by deriving simple persistence from the agency model rather than by a criterion; route choice, unrealized existence, and fission remain open, and the reductive realization is disfavored (C336).
-4. Hold the qualified-power hierarchy at F2; S39 completes the constitution/production F3 pass (C311–C320), leaving the range bridge, the operation of an existential power beneath its exercise, and $NI$-based strict *ex deo* as selective F3 triggers.
-5. Retain $G$-grounded $Fit_*$ as provisional with the S36 route as its content; test it further only when divine goodness, providence, or another ontological module requires it.
-6. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
-7. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-8. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
-9. Keep the accessible answers and question bank current: revise an answer whenever a cited commitment changes status; promote an `abierta` question to a session when it becomes load-bearing.
+1. Give creative reason (S18) a selective F2 pass: it carries the goodness chain (C287), the diachronic presumption (C325), and the source cover (C298) while remaining at F1; S42 identifies it as the weakest load-bearing link.
+2. Test ACO's interpersonal knowledge gap (CH03), held by the author: does complete propositional truth-knowledge suffice for knowing a creature as a subject, or is acquaintance or irreducible second-person knowledge another capacity?
+3. Cumulative intervention effects on agency: completed at F2 in S40 (C321–C329); the created-level grading of responsibility is CH18 and remains with the axiological branch.
+4. Identity across cessation (CH17): completed at F2 in S41 by deriving simple persistence from the agency model rather than by a criterion; route choice, unrealized existence, and fission remain open, and the reductive realization is disfavored (C336).
+5. Hold the qualified-power hierarchy at F2; S39 completes the constitution/production F3 pass (C311–C320), leaving the range bridge, the operation of an existential power beneath its exercise, and $NI$-based strict *ex deo* as selective F3 triggers.
+6. Retain $G$-grounded $Fit_*$ as provisional with the S36 route as its content; test it further only when divine goodness, providence, or another ontological module requires it.
+7. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
+8. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+9. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
+10. Keep the accessible answers and question bank current: revise an answer whenever a cited commitment changes status; promote an `abierta` question to a session when it becomes load-bearing.
 
 
 ## Depth-control rules

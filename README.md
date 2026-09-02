@@ -36,7 +36,7 @@ Research notes may be written in Spanish or English. The first treatise draft is
 
 ## Current state in one sentence
 
-The leading model provisionally posits a necessary agent that actualizes a generative structure, within which ordinary causes, genuine creaturely agency, and possible divine interventions jointly—but asymmetrically—constitute an actual history known without temporal acquisition; the exact semantics that make this compatible with libertarian freedom remain open.
+The leading model provisionally posits a necessary, underived, power-structured agent that originates a generative structure without material input, within which ordinary causes, genuine creaturely agency at both the token and the diachronic level, and possible divine interventions jointly—but asymmetrically—constitute an actual history known without temporal acquisition; the agent's established profile is oriented toward the freedom of conscious subjects and truthful relation with them, while its orientation toward what they feel, and the personal continuation that closing that gap would require, are held as faith with stated content.
 
 ## Rebuilding the corpus
 

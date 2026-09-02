@@ -56,7 +56,7 @@ No el que uno hereda de la catequesis, con todas sus propiedades ya puestas. Emp
 - **Sabe todo lo que ocurre de hecho, sin tener que esperar a que ocurra.** Para él la historia entera está a la vista; pero saber lo que hago no es hacer que lo haga.
 - **No está en el tiempo ni en el espacio.** No está en ningún sitio como está una mesa, porque el espacio y el tiempo son parte de lo que él sostiene. Y sin embargo no hay ningún sitio, cosa ni instante que no esté sosteniendo y conociendo.
 - **Está al alcance de cualquiera.** Todo ser consciente puede dirigirse a él y puede ser respondido. Que eso ocurra de hecho es otra cuestión.
-- **Puede hacer cualquier cosa que tenga sentido hacer**, y nada de lo que ha creado puede limitarlo.
+- **Puede hacer con lo creado cualquier cosa que tenga sentido hacer**, y nada de lo que ha creado puede limitarlo. Que no tenga ningún límite en absoluto, ni siquiera alguno que no venga de lo creado, es lo que creo, pero con menos apoyo que el resto.
 - **Puede intervenir en el mundo, pero tiende a respetar nuestra libertad**, porque una de las razones por las que creó seres libres es que fueran libres.
 - **No estaba obligado a crear.** Tenía razones para hacerlo, pero razones que invitan, no que fuerzan.
 
@@ -221,7 +221,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C282–C285; S09, S35 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S35 |
-| Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder cualificado es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
+| Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
 | De qué está hecho Dios y cómo produce materia | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C222–C238, C311–C320; S30–S31, S39 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido | C08, C57, C212–C221; S22, S29 |

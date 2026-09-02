@@ -50,7 +50,7 @@ The following equivalences keep the plain language faithful. They are guides, no
 | due-good privation | evil is a good that ought to be there and is missing or broken; it is not a rival substance |
 | good-oriented profile (C287) | everything established about God points toward the freedom of conscious beings and truthful relation with them |
 | the P-gap (C288) | what has not been established: God's orientation toward what we feel, including our suffering |
-| qualified omnipotence | God can do anything that makes sense to do, and nothing created can limit that |
+| qualified omnipotence ($OMP_C$ preferred, $OMP_Q$ provisional) | God can do with the created order anything that makes sense to do, and nothing created can limit that; that there is no limit at all is believed with less support |
 
 ## Workflow
 

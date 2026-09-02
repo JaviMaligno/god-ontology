@@ -47,3 +47,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S39 — Materiality as instantiated profile and support for OEC⁺ beyond coherence](2026-09-02-materiality-as-instantiated-profile.md)
 - [S40 — Cumulative context control and the diachronic ecology of agency](2026-09-02-cumulative-context-control-and-agency-ecology.md)
 - [S41 — Identity across the cessation of the realization base](2026-09-02-identity-across-cessation.md)
+- [S42 — Section-level coherence audit of the trunk, S30–S41](2026-09-02-trunk-coherence-audit.md)

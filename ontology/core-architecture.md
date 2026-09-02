@@ -464,7 +464,7 @@ Created(x)\not\Rightarrow\exists t\,BeginsToExist(x,t).
 
 Actual human subjects remain temporal and embodied. A created atemporal subject is only a modal edge case and would require individuation from $G$, modal dependence, relation to created time, and compatibility with uniqueness.
 
-Whether a pre-conscious bearer already counts as a person remains open. Phenomenal, access, self, and agentive consciousness may also have different developmental onsets. Empirical evidence can constrain these boundaries only through an explicit bridge from operational profiles to a metaphysical consciousness criterion.
+The pre-conscious bearer and later conscious agent are now treated as one numerical organismic subject. Whether “person” applies before the relevant capacity is present or realized remains a semantic, developmental, and normative boundary question. Phenomenal, access, self, and agentive consciousness may also have different developmental onsets. Empirical evidence can constrain these boundaries only through an explicit bridge from operational profiles to a metaphysical consciousness criterion.
 
 ### Working realization: embodied hylomorphic powers
 
@@ -1327,7 +1327,7 @@ Life_H(x)=J_1\cup J_2,
 \qquad \sup J_1<\inf J_2.
 \]
 
-If $GapIdentity_C(x,J_1,J_2)$ holds, $x$ numerically returns; if it fails, a later qualitative match is a distinct reconstruction. The power architecture permits the first conditionally but does not yet supply the required identity theory.
+If $GapIdentity_C(x,J_1,J_2)$ holds, $x$ numerically returns; if it fails, a later qualitative match is a distinct reconstruction. S45 now supplies a constrained non-criterial interpretation of $GapIdentity_C$ and prefers intermittent identity as metaphysically possible at F2; the power conclusion remains conditional on the eligible history containing that identity fact.
 
 All three $CC_G$ components concern type-level target and operation range. S43 develops the separate shared-history burden. For the complete created prefix
 
@@ -2088,11 +2088,72 @@ OMP_Q^{\mathcal O_*}(G):=
 
 is explicitly relative to the independently accepted kinds, relata, source roles, and identity conditions of the current ontology. Its created fragment and established self-executive fragment are supported; the complete formula and unrestricted $OMP_Q$ remain open.
 
-Identity is now the next F2 trunk priority. It controls transworld divine sameness, embodied persistence, the bearer of conscious episodes, modification versus replacement, numerical recreation, fission, self-copy, and mixed *ex deo*. The next pass will separate numerical identity, individuation, persistence, reidentification evidence, and gap identity before choosing a preferred account for embodied agents.
+S45 supplies the identity framework required by those boundaries. Its result is summarized below.
+
+## Identity, individuation, and persistence
+
+Numerical identity $=_N$ is absolute and fundamental. Kind-sensitive profiles explain and constrain how one bearer persists without replacing identity with similarity:
+
+\[
+PP_K(x,[t_1,t_2])=
+\langle U_K,O_x,C_K,B_K,E_K\rangle,
+\]
+
+where $U_K$ is synchronic unity, $O_x$ the token origin anchor, $C_K$ ordinary causal-organizational continuity, $B_K$ non-branching, and $E_K$ the kind-essential profile. Reidentification evidence and survival-relevant psychological relations remain distinct from the identity fact.
+
+For actual human and animal subjects, the preferred F2 account is anchored hylomorphic-organismic persistence. One integrated living organization bears the phenomenal, cognitive, metabolic, sensorimotor, and agentive powers. The same bearer persists ordinarily through a non-branching immanent causal-organizational career despite matter turnover or intervals without occurrent consciousness. Psychology and information matter to narrative unity, agency, responsibility, and evidence; neither can constitute numerical identity because each can branch or be copied.
+
+The pre-conscious organism and later conscious agent are one numerical individual. `Person` provisionally functions as a capacity or phase predicate of that subject rather than naming a second colocated substance. Its exact onset remains open without reopening bearer identity.
+
+E+ can represent a gappy individual:
+
+\[
+Life_H(x)=J_1\cup J_2,
+\qquad \sup J_1<\inf J_2,
+\]
+
+while $x$ does not exist at any time between the intervals. The gap profile is:
+
+\[
+\begin{aligned}
+GapAdm_K(x,J_1,J_2):={}&IdFact_H(x,J_1,J_2)\\
+&\land SameOriginAnchor(x,J_1,J_2)\\
+&\land EssenceCompatible_K(x,J_1,J_2)\\
+&\land NonBranching_K(x,J_1,J_2)\\
+&\land OneGroundedCareer_H(x,J_1\cup J_2).
+\end{aligned}
+\]
+
+$IdFact_H$ is an explicit primitive rather than a qualitative criterion. The remaining conditions constrain its admissible application and block reassembly, memory, pattern copying, or two-way fission from automatically becoming identity. ACO and MKO track the fact; divine recognition does not manufacture it.
+
+The project now prefers the metaphysical possibility of such a gappy career at F2. No accepted essence of a created human requires temporal connectedness; a complete eternalist history can contain disconnected life intervals; and token-specific existential origination already distinguishes creating $x$ from merely creating some qualitative match. This is an abductive modal result, not a demonstration or claim of actual resurrection.
+
+Hence both actions remain available:
+
+\[
+NumRecreate(G,x,J_1,J_2)
+\]
+
+and:
+
+\[
+DupRecon(G,x,y,t_2),\qquad y\neq x.
+\]
+
+The first restores the de re $x$ within an independently admissible gappy career; the second originates a matching new career. A persisting soul, atom, or information token is not required, though a subsistent-carrier theory remains a live competitor if independently motivated.
+
+$G$ receives a different, non-organismic profile:
+
+\[
+PP_G=\langle UnderivedSubject,NecessaryExistence,
+UnifiedAgency,UPSS,EssentialPowerProfile\rangle.
+\]
+
+Possible histories describe the same actual $G$ de re, not qualitatively matching world-bound copies. A created $G'$ remains numerically distinct and dependent even if qualitatively exact. Loss of $PP_G$ legitimately excludes some self-reconstitution descriptions, while contingent relation and power exercise preserve identity. Strict non-destructive *ex deo* remains open because numerical identity alone does not settle constitution, parthood, depletion, or overlap.
 
 ## Current formal status
 
-S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. S44 then closes the pure created-directed domain at F2 under $CAN_G$, separates self-executive from self-reconstituting descriptions, and leaves unrestricted $OMP_Q$ open. The recurrent identity dependency is promoted to the next F2 trunk module.
+S43 corrects the identity language by distinguishing duplicate reconstruction from numerical recreation under an independent $GapIdentity_C$ condition. It also gives $HI_G^{elig}$ F2 support through exact-prefix compatibility, essential power retention, and the explicit abductive $LPC_G$ bridge. S44 then closes the pure created-directed domain at F2 under $CAN_G$, separates self-executive from self-reconstituting descriptions, and leaves unrestricted $OMP_Q$ open. S45 adopts fundamental absolute identity with anchored hylomorphic-organismic persistence, resolves the one-bearer/person-phase issue, and prefers constrained intermittent identity as metaphysically possible at F2.
 
 The semantic compatibility set, actual marker, and initial causal-role decomposition are provisionally closed in [Session S02](../sessions/2026-08-31-internal-time-and-atemporal-knowledge.md) and [S03](../sessions/2026-08-31-actuality-and-coproduction.md). The intervention ontology begins in [S04](../sessions/2026-08-31-intervention-ontology.md).
 
@@ -2109,3 +2170,5 @@ Therefore exact specification of laws, boundaries, and powers does not entail a 
 Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. S39 prefers conditional modal ultimity B2r at F2 without claiming a deduction from actual uniqueness and separates ultimate sourcehood from direct production. S40 defines root-created specifications, derives direct root origin under B2r, supplies an agent-relative $OEC^+$ witness, and locally establishes essence-qualified creative plenitude. S41 adopts grounding with sparse direct action and establishes positive and identity-compatible constitutive control at F2. S42 treats annihilation as direct settlement of an independently admissible terminal existential boundary, distinguishes local from total annihilation, and closes the type-level $CC_G$ range at F2 while leaving shared-history accessibility to $HI_G$; $PMC_U$, the meta-modal ground of uninstantiated profiles, and strict-overlap coherence remain later challenges.
 
 In parallel, S46–S53, on the question-driven track, add experiential access, the F2 stopping-point comparison, the good-oriented divine profile and the P-gap, permission and covers, conditional continuation, the F3 profile account of matter with the derivation of $\neg PMC_U$, the diachronic level of agency, and simple persistence. [S54](../sessions/2026-09-02-trunk-coherence-audit.md) audits these transitions and finds them consistent; the weakest load-bearing link is creative reason (S18), still at F1 while production is at F3; S56–S57 then bring creative reason and the modal basis to F2. [S60](../sessions/2026-09-02-reconciliation-of-the-two-tracks.md) reconciles the two tracks after the merge of S35–S38: the author's $AE$ profile and $Adm_C$ are canonical, the branch's duplicates are merged, its refinements retained, and, after the merge of S39, $MUNA$ is merged into the author's MUU and the creative-plenitude theorem gains the directness premise B2d (C541–C546).
+
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. S34 closes CH03 locally through actuality-indexed subject acquaintance, keeps reciprocal second-personal presence co-produced, and opens CH14 on imagination, thought, and intentional content. S35 permits asymmetric communication and develops CH15 through token freedom, robust capacity, realized diachronic authorship, the $AE$ profile, and adaptive governance capture; its capacity/achievement distinction is locally accepted at F2, while practical accessibility remains selectively open. S36 opens CH16 by distinguishing conscious bearer, capacity, episode, and content; makes ordinary created episodes temporal but tenselessly actual and atemporally knowable; and proposes bearer–presentation–integration as the minimum personal relation. S37 corrects the mistaken recency-based priority inference and completes the comparative CH16 pass; the author then accepts the embodied power-bearing subject with a thin hylomorphic interpretation at F2, while dual aspect remains the strongest open deeper phenomenal bridge. S38 gives $Poss_C^{ind}$ a constitutive-admissibility actualist account, separates actual cognitive acts from the status of their represented targets, and makes B1 of S33 locally available. S39 prefers conditional modal ultimity B2r at F2 without claiming a deduction from actual uniqueness and separates ultimate sourcehood from direct production. S40 defines root-created specifications, derives direct root origin under B2r, supplies an agent-relative $OEC^+$ witness, and locally establishes essence-qualified creative plenitude. S41 adopts grounding with sparse direct action and establishes positive and identity-compatible constitutive control at F2. S42 treats annihilation as direct settlement of an independently admissible terminal existential boundary, distinguishes local from total annihilation, and closes the type-level $CC_G$ range at F2 while leaving shared-history accessibility to $HI_G$. S43 distinguishes numerical recreation from duplicate reconstruction and supplies fixed-prefix intervention through an explicit local composability bridge. S44 closes pure created-directed tasks conditionally and promotes identity as the next shared dependency. S45 adopts absolute fundamental identity, anchored hylomorphic-organismic persistence, a one-bearer person-phase view, and constrained intermittent existence at F2; $PMC_U$, the meta-modal ground of uninstantiated profiles, strict-overlap coherence, self-executive exhaustion, and unrestricted $OMP_Q$ remain later challenges.

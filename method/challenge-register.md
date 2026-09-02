@@ -48,7 +48,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
-| CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `promoted; next F2` |
+| CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `tested F2` |
 | CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (partial) |
 | CH20 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | personal availability, experiential access, epistemology of the fourth layer, intervention typing | `scoped` |
 | CH21 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | P-gap closure, personal identity, E+, ACO, embodied agency, hell as privation, divine goodness | `tested` (partial) |
@@ -407,7 +407,7 @@ S44 later shows that $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust pur
 
 **Scope:** embodied agents, conscious bearers, divine task identity, modification/replacement, recreation, duplication, fission, self-copy, and strict *ex deo*
 
-**Status:** `promoted; next F2 trunk challenge`
+**Status:** `tested at F2 in S45; deeper ground optional unless load-bearing`
 
 The existing architecture uses numerical identity in several bridges without yet supplying a general theory. S43 introduced $GapIdentity_C$ only as a placeholder. S44 shows that the omission now affects the boundary of $Task_G$ itself: whether an act preserves, replaces, reconstitutes, duplicates, or destroys its subject depends on independently grounded identity conditions.
 
@@ -421,6 +421,12 @@ The F2 pass must distinguish:
 6. creaturely persistence from the identity of underived $G$ across modal witnesses.
 
 Candidate families include organismic or animalist continuity, thin hylomorphic organization, psychological continuity, causal continuity, simple or primitive identity, individual essence or haecceity, constitution views, and information-pattern accounts. Duplicate and fission cases, total bodily replacement, unconscious intervals, and annihilation followed by return will serve as discriminators. Divine recognition or recreation cannot itself be used to define the identity it is supposed to track or restore.
+
+S45 completes the requested F2 pass. Numerical identity is treated as absolute and fundamental, while kind-sensitive persistence profiles explain and constrain ordinary careers. Actual human subjects receive an anchored hylomorphic-organismic profile: one integrated living power-bearer persists through matter turnover and non-conscious intervals; psychology and information remain important but cannot constitute identity because they branch.
+
+The pre-conscious organism and later conscious agent are one numerical subject, with personhood provisionally treated as a phase or capacity predicate. E+ permits a disconnected $Life_H(x)$, and $GapAdm_K$ constrains primitive cross-gap identity through one origin anchor, essence compatibility, non-branching, and one grounded career. This makes intermittent existence a preferred F2 possibility without using reassembly, copied memory, divine recognition, or a persisting hidden carrier as the identity-maker.
+
+CH18 is therefore tested at F2. The deeper choice between constrained non-criterial identity, origin essentialism, and haecceitism remains optional unless another module requires it. The immediate application is strict *ex deo*, where $PP_G$ narrows self-destruction cases but does not itself resolve constitution or overlap.
 
 ## CH19 — The P-gap and permitted suffering
 

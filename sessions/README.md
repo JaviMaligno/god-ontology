@@ -50,6 +50,7 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S42 — Existential boundaries and annihilation](2026-09-02-existential-boundaries-and-annihilation.md)
 - [S43 — Fixed-history intervention range](2026-09-02-fixed-history-intervention-range.md)
 - [S44 — Action-domain exhaustion and the identity handoff](2026-09-02-action-domain-exhaustion.md)
+- [S45 — Identity, individuation, and persistence](2026-09-02-identity-individuation-and-persistence.md)
 - [S46 — The accessible track and the experiential register](2026-09-02-accessible-track-and-experiential-register.md)
 - [S47 — Explanatory stopping points and the necessitation lemma](2026-09-02-explanatory-stopping-points.md)
 - [S48 — A good-oriented divine profile](2026-09-02-good-oriented-divine-profile.md)

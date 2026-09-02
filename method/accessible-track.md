@@ -11,7 +11,7 @@ The project keeps two registers of exposition over one set of commitments.
 | argumentative | build, test, and record the ontology | `ontology/`, `sessions/`, `writing/treatise-outline.md` | English, with bilingual notes |
 | accessible | say the same things plainly and connect them with lived experience | `writing/accessible/` | Spanish first; English versions may follow |
 
-The choice of Spanish for the accessible register follows the author's use: the questions it answers are the ones people ask the author in conversation. The treatise remains an English-first work.
+The choice of Spanish for the accessible register follows the author's use: the questions it answers are the ones people ask the author in conversation. The register also serves the author's own understanding, self-recognition, and expression (C557): an answer must satisfy the author as a reader of their own position, which is why every answer is shown to the author and revised on review. The treatise remains an English-first work.
 
 ## Rules
 

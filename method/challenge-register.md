@@ -42,14 +42,16 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH09 | How can fallible subjects be closer to objective good without possessing a metric, privileged access, or a method that secretly constitutes the standard? | moral epistemology, objective anchors, construction, disagreement | `scoped` |
 | CH10 | Which conscious capacities ground welfare, projects, norm construction, responsibility, and moral status, and why should differences in one role affect another? | consciousness, welfare, agency, moral status, development | `scoped` |
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
-| CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `scoped` |
+| CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
 
 ## Priority gate after S26
 
-Ontology governs the active sequence. S27–S28 complete the current interface response to CH08 and the metaphysically required part of CH11: long-term orientation must receive positive defeasible priority, although a complete strong-longtermist doctrine is not required. Moral-status gradation, population aggregation, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them. CH12 now has priority because it joins the already load-bearing OEC/PMC gap.
+Ontology governs the active sequence. S27–S28 complete the current interface response to CH08 and the metaphysically required part of CH11: long-term orientation must receive positive defeasible priority, although a complete strong-longtermist doctrine is not required. Moral-status gradation, population aggregation, and extended moral epistemology remain preserved but do not trigger immediate work unless an ontological premise or contradiction depends on them.
 
 S29 gives CH13 a local F2 response without displacing CH12: action belongs to an embodied subject across a decision episode; neural preparation and reported awareness do not by themselves locate settlement; and sufficient pre-conscious settlement remains a genuine token-level defeater.
+
+S30 gives CH12 an F2 response through the underived power-structured subject model, minimal constitutive simplicity, and $OEC^+$. It accepts transformative $PMC_T$, leaves universal $PMC_U$ as an unestablished live defeater, and makes the fundamental originative power explicit. CH05 is now the active priority because this constitution model permits a more exact analysis of internal and non-created external limits on qualified power.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -204,7 +206,11 @@ The ordinary-language question “What is $G$ made of?” decomposes into severa
 
 The principal competitors are a non-composite non-material source, a structured non-material divine substance, an *ex deo* continuity model, and an independent or co-fundamental material substrate. The first preserves ultimity and current non-spatiality most directly but owes positive content and a cross-category production account. Internal structure may explain powers more naturally but can threaten unity if its elements require a deeper ground. *Ex deo* supplies continuity but risks making created matter a modification or part of $G$. An external substrate gives material production an input but weakens $G$'s ultimity and existential sovereignty.
 
-Calling “made of” a category error is a possible conclusion only after explaining why composition and substrate language fail or apply analogically. The next F2 pass should therefore develop divine constitution together with OEC/PMC rather than treating matter generation as an isolated causal puzzle.
+S30's preferred answer is an **underived power-structured subject**. $G$ is a substance in the thin sense of a non-abstract identity unit and bearer of powers; $MCS(G)$ denies ontologically prior ingredients and an external bearer while allowing integrated role-distinct powers. Absolute divine simplicity is not inferred.
+
+The productive bridge is strengthened to $OEC^+$: $G$ contingently exercises the explicit fundamental power $P_{OEC}$, under specification $S$, to produce a numerically distinct created basis whose material profile is intrinsic rather than transferred. This supplies positive roles without claiming an intraworld mechanism or treating formal coherence as a proof of metaphysical possibility.
+
+The material-causality challenge divides. $PMC_T$, applying to transformations of a material patient, is accepted. $PMC_U$, requiring a material cause for every concrete caused existence, is unestablished and currently disfavored because intraworld cases do not establish its universal modal scope. It remains a genuine defeater if independently justified. Genuine *ex deo* continuity and co-fundamental matter remain coherent fallbacks but respectively introduce divine–world overlap or replace sole divine ultimity with the joint basis $\langle G,M_0\rangle$.
 
 ## CH13 — Embodied preparation and conscious settlement
 

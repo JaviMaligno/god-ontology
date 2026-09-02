@@ -50,24 +50,24 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | targeted F2 blocker analysis | S11 separates capacity, exercise, and dependence; C142 requires classifying internal, external, created, and incoherent blockers and distinguishing created-order from unrestricted maximality |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | **active targeted F2 blocker analysis** | targeted F2 blocker analysis | S11 separates capacity, exercise, and dependence; S30 supplies $UPSS$ and $P_{OEC}$ for classifying internal, external, created, and incoherent blockers and distinguishing created-order from unrestricted maximality |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
 | Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
-| Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
+| Creation bridge: production and creative reason | trunk-to-creation junction | production F2; reason F1 | hold and reintegrate into intervention and providence | selective F2–F3 | S30 prefers $OEC^+$ with $PMC_T$ accepted and $PMC_U$ retained as a defeater; S18 prefers an agency-oriented plural reason profile |
 | Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 closed with local F2 repair | leave active spine | further F2 only if ontologically load-bearing | S27–S28 supply $\mathcal A_{min}$, decomposed $Fit_*$, due-good privation, epistemically modest sacrifice, positive long-term preference, species continuity, and provisional $G$-grounding; complete longtermist and detailed ethical theories remain optional |
 | Mind–body realization of agency | lateral support | F1 with local F2 episode model | defer after S29 | undecided; F3 only if load-bearing | S07, S22, and S29 prefer unified embodied agency, distinguish preparation from settlement and conscious control, and keep reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open |
 | Literature, provenance, and novelty | evidential track | uneven | targeted searches only when load-bearing | systematic final pass | Does not determine F-level or commitment status |
 
 ## Active queue
 
-1. Give divine constitution and material production a joint F2 pass: clarify what “made of,” substance, composition, and substrate mean for $G$, then compare non-material OEC, structured divine substance, *ex deo* continuity, and co-fundamental matter.
-2. Use that result to deepen the OEC/PMC junction without reopening the now-closed general ethical branch.
-3. Retain qualified-power blockers, ACO's interpersonal knowledge gap, and cumulative intervention effects on agency as the next trunk candidates.
+1. Use $UPSS$ and $P_{OEC}$ for the qualified-power F2 blocker analysis: distinguish created-order maximality from limits arising from incoherence, essential internal structure, or a non-created external condition.
+2. Retain ACO's interpersonal knowledge gap and cumulative intervention effects on agency as the following trunk candidates.
+3. Hold divine constitution and $OEC^+$ at F2 while preserving $PMC_U$ as a live defeater and a selective F3 trigger.
 4. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.
-5. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-6. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
-7. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
+5. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
+6. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+7. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
 
 ## Depth-control rules
 

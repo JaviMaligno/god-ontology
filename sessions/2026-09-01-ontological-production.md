@@ -135,6 +135,10 @@ This preserves asymmetric co-production and avoids occasionalism. It also fits C
 
 The project-specific contribution is presently organizational: it combines OEC with $S$-specification, unified agentic settling, E+, non-continuous global dependence, and asymmetric co-production. No novelty claim is made for creation without material input.
 
+## Later refinement in S30
+
+[S30](2026-09-02-divine-constitution-and-material-production.md) develops this axis to F2. It identifies the source as an underived power-structured subject, makes the originative power $P_{OEC}$ explicit, and strengthens the model to $OEC^+$. It also replaces the undifferentiated PMC with accepted transformative $PMC_T$ and unestablished universal $PMC_U$. The latter remains a live defeater, so the F2 result is still comparative and conditional rather than a proof of metaphysical possibility.
+
 ## Next question
 
 Develop the second axis of the creation bridge: what non-necessitating reasons can make it intelligible that $G$ creates $\mathcal C_0$, selects a generative $S$, and includes both autonomous agents and non-agentic domains?

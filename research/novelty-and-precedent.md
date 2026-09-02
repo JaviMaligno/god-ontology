@@ -1,7 +1,7 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine simplicity, and intergenerational value)
+**Latest targeted update:** 2026-09-02 (divine uniqueness; spatiality, immateriality, omnipresence, the creation bridge, agency-respecting providence, personal availability, goodness, consciousness, well-being, constructivism, moral realism, fittingness, faith, privation, evil, divine constitution, material production, and intergenerational value)
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
 
 ## Bottom line
@@ -30,6 +30,7 @@ The exact label **actuality-complete omniscience** did not appear in the targete
 | Ontological presence as grounding reach + epistemic access + causal availability | Established account family; project-specific typed synthesis | Knowledge, power, and cause-of-being accounts are traditional and contemporary. The local formulation integrates ACO, typed grounding, direct intervention capacity, E+, and non-continuous dependence. |
 | Ontological presence → universal personal availability → exercised regard → shared attention → communion | Established distinction family; project-specific integration | Stump distinguishes general omnipresence, personal presence, and significant presence through joint attention. The local sequence assigns capacity, divine exercise, creaturely co-production, and evaluative union to separate modules. |
 | OEC specified by $S$ and separated from secondary co-production | Established creation family; project-specific synthesis | Creation without material input, divine efficient causation, and formal or exemplar specification are established. The local combination with unified agentic settling and non-occasionalist asymmetric co-production is organizational rather than a new proof. |
+| $UPSS+MCS+P_{OEC}+OEC^+$ | Established component families; project-specific typed synthesis | Thin subject/substance language, weaker simplicity doctrines, power ontologies, creation without material input, emanation, and panentheism have precedents. The local package makes constitution, originative power, specification, effect, and epistemic limits explicit; no novelty or possibility proof is claimed. |
 | Finite analogous sourcehood → generative $S$ → asymmetric co-production | Established themes; potentially useful project synthesis | Divine freedom, creation for the sake of creatures, image-of-God agency, plural reasons, and non-maximizing world choice all have precedents. Their integration with MKO profiles and exclusion of pre-actual selection counterfactuals needs deeper comparison. |
 | Phenomenal, access, self, and agentive consciousness within token-relative freedom | Established distinctions; project-specific integration | Phenomenal/access and reflexive distinctions are standard. $AgCon$ is a local role joining conscious participation to the existing agent-causal conditions; it is not presented as a newly discovered kind of consciousness. |
 | Unified embodied agent + episodic preparation/control/settlement distinction | Established empirical and embodied-agency pressures; project-specific integration | Readiness potentials, intention-timing disputes, veto, and arbitrary/deliberate task differences are established. S29 integrates them with whole-agent sourcehood and explicit empirical bridge premises without claiming that neuroscience demonstrates libertarianism. |
@@ -165,6 +166,18 @@ S22 uses these established distinctions to prevent two local conflations: phenom
 
 S29 draws a methodological and architectural conclusion rather than an empirical proof of freedom: precursor, prediction, preparation, settlement, execution, and report must be typed separately; action is attributed to the embodied subject; and consciousness may contribute after preparation begins but before settlement closes. Whole-agent and embodied approaches are established families, while the exact $RB_A(\delta)$ and $CausalControl$ integration is local notation. No novelty claim is made, and the metaphysical realization of the subject remains open.
 
+## Divine constitution and material production: targeted precedent check
+
+[Aristotle's *Categories*, chapter 5](https://en.wikisource.org/wiki/The_Works_of_Aristotle/Categories) is precedent for primary substance as an individual subject. The project's $Substance_T$ takes only that thin subject role and does not inherit Aristotle's complete category theory.
+
+[Aquinas, *Summa Theologiae* I, q. 3](https://www.newadvent.org/summa/1003.htm) argues for a substantially stronger divine simplicity through exclusions involving matter and form, essence and existence, subject and accident, and act and potency. [Jeffrey Brower's “Making Sense of Divine Simplicity”](https://place.asburyseminary.edu/faithandphilosophy/vol25/iss1/1/) reconstructs the doctrine through contemporary constituent and truthmaker questions. Together they show that $MCS$ is a deliberately weaker thesis and that moving from an underived subject to full identity claims would require additional ontology.
+
+[Aquinas, *Summa Theologiae* I, q. 45](https://www.newadvent.org/summa/1045.htm) treats creation as production of being rather than transformation and treats *ex nihilo* as denial of prior material rather than use of “nothing” as a substrate. [Daniel Soars, “Creation in Aquinas: *ex nihilo* or *ex deo*?”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4A5826AE8894EC8AB283E83F1D2DA747/S002842890000144Xa.pdf/creation-in-aquinas-ex-nihilo-or-ex-deo.pdf) argues that virtual pre-containment and emanation language can blur the contrast. S30 preserves it by reserving genuine *ex deo* for token constitution, persistence, or ontological overlap rather than mere possession of productive power and specification.
+
+Contemporary [grounding panentheism](https://www.cambridge.org/core/journals/religious-studies/article/grounding-panentheism/21D7EB3F1DD9DAFF19106417558BF796) explicitly combines cosmic grounding with divine–world ontological overlap. That supports treating overlap as an additional model rather than an automatic consequence of existential grounding.
+
+S30 makes no novelty claim for thin substance, minimal simplicity, fundamental powers, creation without a patient, emanation, or panentheism. Its local contribution is the typed integration of $UPSS$, $P_{OEC}$, $OEC^+$, $S$-specification, E+, qualified power, and asymmetric co-production. The account exposes its fundamental-power stopping point, distinguishes $PMC_T$ from $PMC_U$, and explicitly denies that formal coherence demonstrates metaphysical possibility.
+
 ## Creative reason and divine freedom: targeted precedent check
 
 The general problem and the principal solution families are well established:
@@ -179,7 +192,7 @@ No component warrants a novelty claim. The more specific package may be composit
 ## Research backlog
 
 1. Compare the E and F models formally with De Florio–Frigerio, Law–Miller–Rasmussen, Rogers, Ockhamism, Molinism, and open theism.
-2. Deepen the OEC/PMC comparison and search scholastic and analytic work on concurrence, secondary causation, conservation, and creaturely causal contribution.
+2. Deepen the remaining $PMC_U$ challenge and search scholastic and analytic work on concurrence, secondary causation, conservation, creaturely causal contribution, and fundamental power theories.
 3. Search whether layered omniscience definitions separate actuality, modal possibility, and counterfactual freedom in the same way as ACO.
 4. Test whether “generating structure” adds ontology or only a useful systems vocabulary for laws plus boundary conditions.
 5. Map goodness proposals against voluntarism, divine nature theory, reasons fundamentalism, and the Euthyphro dilemma.
@@ -189,6 +202,6 @@ No component warrants a novelty claim. The more specific package may be composit
 9. Test $CProf$ against developmental, disability, animal-consciousness, and moral-status literature without deriving status directly from cognitive sophistication.
 10. Test extended beneficiary sets against intergenerational justice, non-identity, population ethics, posthumous interests, and critiques of longtermism.
 11. Test the proposed $\mathcal A_{min}$, decomposed $Fit_*$, and due-good privation against fitting-attitude, reasons-first, natural-law, divine-nature, and plural-value theories only if divine goodness becomes load-bearing.
-12. Compare non-composite and structured divine substance, creation *ex nihilo* and *ex deo*, emanation, hylomorphic and substrate models, and contemporary accounts of divine causal production as the next load-bearing search.
+12. Extend S30's initial comparison of minimal and absolute simplicity, *ex nihilo* and *ex deo*, emanation, co-fundamental substrate, and grounding-panentheist models only if $PMC_U$ or a qualified-power blocker makes it load-bearing.
 13. Compare S29's embodied episode model with enactive, hylomorphic, non-reductive, dual-aspect, interventionist causal, and skilled-action accounts; test whether agent-level causation can avoid both reduction and duplication.
 14. Treat claims about necessary suffering as a separate, high-risk research program rather than a consequence of the current ontology.

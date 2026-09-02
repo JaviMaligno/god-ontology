@@ -191,8 +191,9 @@ These modules remain conditional on the upstream case for a necessary agent. The
 17. Close the minimal axiological interface with only the anchors needed for good and evil, sacrifice, long-term preference, species continuity, and relation to $G$. Completed at F1 in S27.
 18. Apply the requested local F2 repair: make long-term preference positive, replace informational thresholds with an epistemic-orientation profile, decompose $Fit_*$, and formulate evil through due-good privation. Completed in S28.
 19. Repair the consciousness model for embodied and potentially pre-conscious decision processes: distinguish preparation, access, settlement, execution, and report while attributing sourcehood to the whole subject. Completed at local F2 in S29; realization remains open.
-20. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Current task.
-21. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
-22. Select the remaining genuinely fragile junctions—qualified-power blockers, interpersonal knowledge, cumulative agency, and any residual creation gap—for F2–F3 treatment.
-23. Run the dedicated literature, provenance, and novelty pass.
-24. Develop systematic formal appendices after the backbone and chapter architecture stabilize.
+20. Develop divine constitution and material production together at F2, using “What is $G$ made of?” to connect composition and substrate questions to OEC/PMC. Completed in S30 through $UPSS$, $MCS$, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ split.
+21. Test qualified omnipotence at F2 against incoherent, created, essential internal, and non-created external blockers. This is the current task; distinguish maximality over the created order from unrestricted qualified maximality.
+22. Retain $G$-grounded $Fit_*$ as provisional and keep further ethics optional unless it becomes a premise or defeater.
+23. Select the remaining genuinely fragile junctions—interpersonal knowledge, cumulative agency, and the residual $PMC_U$ challenge—for F2–F3 treatment.
+24. Run the dedicated literature, provenance, and novelty pass.
+25. Develop systematic formal appendices after the backbone and chapter architecture stabilize.

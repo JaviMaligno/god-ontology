@@ -401,7 +401,7 @@ The architecture assigns $G$ the power to actualize $S$, but power alone explain
 
 | Axis | Central question | Current status |
 | --- | --- | --- |
-| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | OEC preferred at F1; PMC remains the decisive open objection |
+| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | $OEC^+$ preferred at F2; $PMC_T$ accepted and $PMC_U$ remains an unestablished live defeater |
 | Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | Agency-oriented plural reason profile preferred at F1 |
 
 The required distinctions are:
@@ -417,7 +417,52 @@ Reasons_G(\mathcal C)\not\Rightarrow
 \Box Actualizes(G,\mathcal C).
 \]
 
-The production axis now prefers **originative existential causation** (OEC). Let $\mathcal C_0$ be the created ontological basis. $S$ supplies structural specification; $G$ originates a contentful act; and the immediate terminus is the existence of $\mathcal C_0$, not a new state of a prior material patient:
+The production axis begins with a positive but deliberately thin constitution model. “Made of” decomposes into material input, parts, substrate, constitutive profile, and ontological category. Define an ingredient by distinctness, constitution, and constitutive priority:
+
+\[
+Ingredient(x,y)
+\leftrightarrow
+x\neq y\land Constitutes(x,y)\land ConstitutivelyPrior(x,y).
+\]
+
+$G$ is a substance only in the thin individual-subject sense:
+
+\[
+Substance_T(x)
+\leftrightarrow
+NonAbstractIndividual(x)\land IdentityUnit(x)\land BearsPowers(x).
+\]
+
+Its preferred simplicity is minimal and constitutive:
+
+\[
+MCS(G)
+\leftrightarrow
+\neg\exists x\,Ingredient(x,G)
+\land
+\neg\exists s\,[s\neq G\land ExternalSubstrate(s,G)].
+\]
+
+This excludes an ontologically prior material, assembly, or bearer without identifying every divine feature. Knowledge, modal apprehension, reason-guided settling, grounding, and causal power remain integrated and role-distinct. Their exact property or formal-aspect ontology is open. The resulting model is an **underived power-structured subject**:
+
+\[
+UPSS(G)
+\leftrightarrow
+Substance_T(G)\land Necessary(G)\land Underived(G)
+\land MCS(G)\land PowerStructured(G).
+\]
+
+$MCS$ is weaker than absolute divine simplicity: no present argument establishes the numerical identity of $G$, existence, knowledge, will, power, and goodness. It is stronger than merely declaring composition language inapplicable, because it states what $G$ is and which forms of constitutive dependence are excluded.
+
+The production axis now prefers strengthened **originative existential causation** ($OEC^+$). Causal adequacy does not require material inheritance unless a further universal material-causality principle is true:
+
+\[
+AdequateFor(G,\mathcal C_0,S)
+\leftrightarrow
+Knows_M(G,S)\land HasPower(G,P_{OEC})\land CanSpecify(P_{OEC},S).
+\]
+
+$P_{OEC}$ is the specific fundamental power to originate a new bearer of powers rather than modify a patient already present. Let $\mathcal C_0$ be the created ontological basis. $S$ supplies structural specification; $G$ originates a contentful act; and the immediate terminus is the existence of $\mathcal C_0$:
 
 \[
 C_G^-\not\Rightarrow_{\mathrm{causal}} Act_G(\mathcal C_0),
@@ -429,17 +474,45 @@ Exists(\mathcal C_0)\land Instantiates(\mathcal C_0,S).
 
 The act may therefore sufficiently produce its selected effect while no antecedent condition sufficiently settles the act. This applies the same agentic logic already used elsewhere rather than requiring the created domain to remain indeterminate after it has been chosen.
 
-OEC adds positive causal roles to grounding: a source, an originating exercise, selected structural content, a numerically distinct effect, and the absence of a transformed material input. Grounding then describes the asymmetric dependence of the obtained effect; it is not a substitute word for production.
-
-Mere type continuity between divine and created matter is not a productive relation. Token continuity would be substantive, but it yields an *ex deo* model in which creation is a partition, modification, expression, or ontological overlap of divine substance. That remains coherent but disfavored. The principal defeater for OEC is the still-open Principle of Material Causality:
+More fully:
 
 \[
-\Box PMC
-\Rightarrow
-\neg\Diamond OEC(G,\mathcal C_0,S).
+\begin{aligned}
+OEC^+(G,\mathcal C_0,S)\quad\text{iff}\quad &UPSS(G)\\
+&\land Originates(G,a_C)\\
+&\land ExerciseOf(a_C,P_{OEC})\\
+&\land Specifies(a_C,S)\\
+&\land Causes(a_C,Exists(\mathcal C_0))\\
+&\land Instantiates(\mathcal C_0,S)\\
+&\land \mathcal C_0\neq G\\
+&\land \neg\exists m\,MaterialInput(m,a_C)\\
+&\land GroundsExistence(G,\mathcal C_0).
+\end{aligned}
 \]
 
-Ordinary material transformations do not by themselves establish PMC at this universal modal scope. No independent contradiction in OEC has yet been identified, so the result remains an abductive F1 preference rather than a demonstration.
+$OEC^+$ adds positive causal roles to grounding: a source, a specific power, an originating exercise, selected structural content, a numerically distinct effect, and the absence of a transformed material input. The material profile belongs intrinsically to $\mathcal C_0$ through $S$; it is not transferred from $G$. Knowledge specifies, the exercised power produces, and grounding describes the obtained asymmetric dependence.
+
+The explanation terminates in a fundamental power rather than an intraworld material mechanism. This is admissible within the project because agentive sourcehood and modal powers are already fundamental. It is nonetheless an explicit metaphysical cost, and formal consistency of the representation is not proof of metaphysical possibility.
+
+Mere type continuity between divine and created matter is not a productive relation. Material causality must instead be split:
+
+\[
+PMC_T:\quad MaterialTransformation(e)\rightarrow\exists m\,MaterialPatient(m,e),
+\]
+
+\[
+PMC_U:\quad ConcreteCausedExistence(e)\rightarrow\exists m\,MaterialCause(m,e).
+\]
+
+$PMC_T$ is accepted. $PMC_U$ is unestablished and currently disfavored because evidence from transformations within a material order does not by itself establish universal modal scope. It remains the principal defeater for $OEC^+$:
+
+\[
+\Box PMC_U
+\Rightarrow
+\neg\Diamond OEC^+(G,\mathcal C_0,S).
+\]
+
+“Nothing comes from nothing,” if it denies uncaused origination, is compatible with this account because $G$ supplies the cause. Reading it as requiring material input adds $PMC_U$. A genuine *ex deo* alternative instead requires divine reality to constitute, persist in, or become the effect. It remains coherent but disfavored because it introduces divine–world overlap, weakens the creator distinction, and creates further burdens concerning self-modification, privation, and spatiality. Co-fundamental matter is also coherent, but changes the ultimate basis from $G$ to $\langle G,M_0\rangle$ and therefore revises rather than preserves the current architecture.
 
 The creative-reason axis uses three explanatory levels:
 
@@ -1226,4 +1299,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. The active sequence now returns to the ontological trunk through divine constitution and the production of matter, joining “what is $G$ made of?” to OEC/PMC.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. The active sequence now tests qualified omnipotence against coherent internal and non-created external blockers while retaining $PMC_U$ as a live defeater.

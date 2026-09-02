@@ -4,7 +4,7 @@ Estas son respuestas en primera persona a preguntas que me hacen, o que podrían
 
 Una advertencia que vale para todo lo que sigue: no creo que nada de esto se pueda demostrar. Lo que intento es dar la explicación más coherente y más satisfactoria que soy capaz de sostener, y decir con claridad dónde termina lo que sé.
 
-Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S46, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
+Borrador inicial: 2026-09-02; revisado el mismo día tras S38–S47, e integrando S30–S31 y S34 del tronco. Se revisa cada vez que cambia alguno de los compromisos en que se apoya.
 
 ---
 
@@ -43,6 +43,16 @@ Lo que yo entiendo por posible, para un mundo, son cinco cosas: que sus reglas n
 Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes, otras leyes, otros seres, o ninguno. Que sea este es una elección, no una consecuencia.
 
 Imaginar sigue sirviendo: cuando uno imagina algo con detalle está construyendo un trozo de mundo, y eso es una pista de que es posible. Pero es una pista, no una prueba, igual que reconocer a alguien por su cara es una pista de que es él y no lo que le hace ser él.
+
+### ¿Existen otros universos?
+
+Depende de qué se llame universo, y son tres cosas distintas.
+
+Si se refiere a «mundos posibles», a las otras maneras en que las cosas podrían haber sido, no: esas no existen en ningún sitio. Son posibilidades, y lo que las hace posibles no es que estén por ahí, sino que las reglas y las capacidades de lo real las admiten. Creer que cada mundo posible es un universo real de verdad es una hipótesis que no hace falta y que multiplica lo que existe sin explicar nada más.
+
+Si se refiere al multiverso de los físicos, a muchas regiones o burbujas o ramas dentro de la misma realidad creada, es una pregunta para la física, y yo no tengo opinión metafísica sobre si hay una o muchas. Lo que sí digo es que no cambia nada de lo anterior. Un multiverso entero sigue siendo algo que podría no haber existido, y su mecanismo generador es una consecuencia de las reglas, no algo anterior a ellas. La disputa popular «multiverso o Dios» confunde dos preguntas: una es qué hay dentro del mundo creado, la otra es de qué depende que exista. Yo nunca he apoyado la creencia en Dios en que el universo esté ajustado finamente, así que un multiverso no le quita nada. Hay una sola cosa que sí rechazo: la versión en la que cada vez que alguien decide, todas las alternativas ocurren en ramas distintas. Si fuera así nadie decidiría nada, y creo que decidimos. Es una apuesta metafísica sobre cómo interpretar la física, y la hago con los ojos abiertos.
+
+Y si se refiere a otras creaciones, otros órdenes enteros con sus propias reglas y su propio tiempo, hechos por el mismo Dios, la respuesta honesta es: podría ser. Nada de lo que creo lo impide; de hecho, ya cuento con que pueda haber otro ámbito después de la muerte, y eso es un caso de lo mismo. Dios tendría razones para crear variedad, aunque ninguna lo obligue. Pero desde dentro de este orden no hay manera de saberlo, ni por la ciencia ni por la experiencia. Así que lo dejo en «posible, no descartado, no afirmado». Y si existen, tienen el mismo fondo que este: no hacen falta más dioses para más mundos.
 
 ### ¿Puedes demostrarlo?
 
@@ -249,6 +259,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | No basta con que exista | preferido | C294, C296; S36 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se reconoce | C05, C295–C298; S09, S36 |
+| Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C372–C377; S47 |
 | Qué es posible | preferido; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C365–C369; S46 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S36 |

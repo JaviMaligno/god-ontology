@@ -461,6 +461,10 @@ $G$ need not know a libertarian choice as actual with metaphysical priority over
 
 The observational metaphor is acceptable if read as exhaustive epistemic access to what obtains. It must not suggest sensory reception, temporal discovery, or causal production of the observed fact.
 
+### Other universes
+
+[S47](../sessions/2026-09-02-other-universes.md) separates possible worlds, physical universes within one order, and plural created orders. Possible worlds are representations (C49, C373). A cosmological multiverse is internal to one $S$, empirical, and orthogonal to the ground question (C374); universal Everettian branching at the realization of settlement is excluded by libertarian settling (C375). Plural created orders $\mathcal C_i$, each with its own $S_i$ and $H^*_i$, are coherent and within divine power, grounded by the one $G$, and generalize $\mathfrak R^*$ to a set of orders; their existence is undecidable from inside one order (C376). Theistic plenitude is coherent but not preferred (C377).
+
 ## The creation bridge
 
 The architecture assigns $G$ the power to actualize $S$, but power alone explains neither the ontological transition to created reality nor the contingent exercise of that power. The creation bridge therefore has two distinct axes:

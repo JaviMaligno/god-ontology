@@ -95,6 +95,9 @@ Working language: English. Research notes may remain bilingual. The outline deli
 14. **Actuality and Possible Histories**
     - Avoiding unnecessary reification of possible worlds
     - The grounding of modal space
+    - Other universes: worlds, physical universes within one order, and plural created orders
+    - Why branching at settlement is excluded while branching elsewhere is not
+    - Theistic plenitude as coherent but unrequired
     - Actual imaginative acts versus non-actual intentional contents
     - Why imaginability does not establish metaphysical possibility
 
@@ -265,6 +268,8 @@ Working language: English. Research notes may remain bilingual. The outline deli
 ## Part VIII — Comparison and evaluation
 
 29. **Naturalist and Mathematical-Structural Alternatives**
+    - Why a cosmological multiverse is orthogonal to the ground question
+    - Impersonal plenitude as a stopping point
 30. **Classical Theism, Molinism, Open Theism, and Timeless Models**
 31. **What the Model Explains and Where It Stops**
     - Science as empirical input, realization constraint, and bridge-mediated defeater

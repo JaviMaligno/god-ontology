@@ -423,7 +423,7 @@ The architecture assigns $G$ the power to actualize $S$, but power alone explain
 
 | Axis | Central question | Current status |
 | --- | --- | --- |
-| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | OEC preferred at F1; PMC remains the decisive open objection |
+| Ontological production | By what positive relation do material substances and created structure arise from or depend on $G$? | $OEC^+$ preferred at F2; $PMC_T$ accepted and $PMC_U$ remains an unestablished live defeater |
 | Creative reason | Why does a necessary agent create anything, and why this kind of generative structure? | Agency-oriented plural reason profile preferred at F1 |
 
 The required distinctions are:
@@ -439,7 +439,52 @@ Reasons_G(\mathcal C)\not\Rightarrow
 \Box Actualizes(G,\mathcal C).
 \]
 
-The production axis now prefers **originative existential causation** (OEC). Let $\mathcal C_0$ be the created ontological basis. $S$ supplies structural specification; $G$ originates a contentful act; and the immediate terminus is the existence of $\mathcal C_0$, not a new state of a prior material patient:
+The production axis begins with a positive but deliberately thin constitution model. “Made of” decomposes into material input, parts, substrate, constitutive profile, and ontological category. Define an ingredient by distinctness, constitution, and constitutive priority:
+
+\[
+Ingredient(x,y)
+\leftrightarrow
+x\neq y\land Constitutes(x,y)\land ConstitutivelyPrior(x,y).
+\]
+
+$G$ is a substance only in the thin individual-subject sense:
+
+\[
+Substance_T(x)
+\leftrightarrow
+NonAbstractIndividual(x)\land IdentityUnit(x)\land BearsPowers(x).
+\]
+
+Its preferred simplicity is minimal and constitutive:
+
+\[
+MCS(G)
+\leftrightarrow
+\neg\exists x\,Ingredient(x,G)
+\land
+\neg\exists s\,[s\neq G\land ExternalSubstrate(s,G)].
+\]
+
+This excludes an ontologically prior material, assembly, or bearer without identifying every divine feature. Knowledge, modal apprehension, reason-guided settling, grounding, and causal power remain integrated and role-distinct. Their exact property or formal-aspect ontology is open. The resulting model is an **underived power-structured subject**:
+
+\[
+UPSS(G)
+\leftrightarrow
+Substance_T(G)\land Necessary(G)\land Underived(G)
+\land MCS(G)\land PowerStructured(G).
+\]
+
+$MCS$ is weaker than absolute divine simplicity: no present argument establishes the numerical identity of $G$, existence, knowledge, will, power, and goodness. It is stronger than merely declaring composition language inapplicable, because it states what $G$ is and which forms of constitutive dependence are excluded.
+
+The production axis now prefers strengthened **originative existential causation** ($OEC^+$). Causal adequacy does not require material inheritance unless a further universal material-causality principle is true:
+
+\[
+AdequateFor(G,\mathcal C_0,S)
+\leftrightarrow
+Knows_M(G,S)\land HasPower(G,P_{OEC})\land CanSpecify(P_{OEC},S).
+\]
+
+$P_{OEC}$ is the specific fundamental power to originate a new bearer of powers rather than modify a patient already present. Let $\mathcal C_0$ be the created ontological basis. $S$ supplies structural specification; $G$ originates a contentful act; and the immediate terminus is the existence of $\mathcal C_0$:
 
 \[
 C_G^-\not\Rightarrow_{\mathrm{causal}} Act_G(\mathcal C_0),
@@ -451,17 +496,56 @@ Exists(\mathcal C_0)\land Instantiates(\mathcal C_0,S).
 
 The act may therefore sufficiently produce its selected effect while no antecedent condition sufficiently settles the act. This applies the same agentic logic already used elsewhere rather than requiring the created domain to remain indeterminate after it has been chosen.
 
-OEC adds positive causal roles to grounding: a source, an originating exercise, selected structural content, a numerically distinct effect, and the absence of a transformed material input. Grounding then describes the asymmetric dependence of the obtained effect; it is not a substitute word for production.
-
-Mere type continuity between divine and created matter is not a productive relation. Token continuity would be substantive, but it yields an *ex deo* model in which creation is a partition, modification, expression, or ontological overlap of divine substance. That remains coherent but disfavored. The principal defeater for OEC is the still-open Principle of Material Causality:
+More fully:
 
 \[
-\Box PMC
-\Rightarrow
-\neg\Diamond OEC(G,\mathcal C_0,S).
+\begin{aligned}
+OEC^+(G,\mathcal C_0,S)\quad\text{iff}\quad &UPSS(G)\\
+&\land Originates(G,a_C)\\
+&\land ExerciseOf(a_C,P_{OEC})\\
+&\land Specifies(a_C,S)\\
+&\land Causes(a_C,Exists(\mathcal C_0))\\
+&\land Instantiates(\mathcal C_0,S)\\
+&\land \mathcal C_0\neq G\\
+&\land CCD(G,\mathcal C_0)\\
+&\land \neg\exists m\,MaterialInput(m,a_C)\\
+&\land GroundsExistence(G,\mathcal C_0).
+\end{aligned}
 \]
 
-Ordinary material transformations do not by themselves establish PMC at this universal modal scope. No independent contradiction in OEC has yet been identified, so the result remains an abductive F1 preference rather than a demonstration.
+$OEC^+$ adds positive causal roles to grounding: a source, a specific power, an originating exercise, selected structural content, a numerically distinct and constitutively disjoint effect, and the absence of a transformed material input. $CCD(G,\mathcal C_0)$ excludes shared constituents and mutual mode relations. It is explicit because numerical distinction and $MCS(G)$ do not by themselves entail creator–creation disjointness. The material profile belongs intrinsically to $\mathcal C_0$ through $S$; it is not transferred from $G$. Knowledge specifies, the exercised power produces, and grounding describes the obtained asymmetric dependence.
+
+The explanation terminates in a fundamental power rather than an intraworld material mechanism. This is admissible within the project because agentive sourcehood and modal powers are already fundamental. It is nonetheless an explicit metaphysical cost, and formal consistency of the representation is not proof of metaphysical possibility.
+
+Mere type continuity between divine and created matter is not a productive relation. Material causality must instead be split:
+
+\[
+PMC_T:\quad MaterialTransformation(e)\rightarrow\exists m\,MaterialPatient(m,e),
+\]
+
+\[
+PMC_U:\quad ConcreteCausedExistence(e)\rightarrow\exists m\,MaterialCause(m,e).
+\]
+
+$PMC_T$ is accepted. $PMC_U$ is unestablished and currently disfavored because evidence from transformations within a material order does not by itself establish universal modal scope. It remains the principal defeater for $OEC^+$:
+
+\[
+\Box PMC_U
+\Rightarrow
+\neg\Diamond OEC^+(G,\mathcal C_0,S).
+\]
+
+“Nothing comes from nothing,” if it denies uncaused origination, is compatible with this account because $G$ supplies the cause. Reading it as requiring material input adds $PMC_U$.
+
+“From God” is now typed at four levels: causal source $ED_C$, virtual or exemplar source $ED_V$, participatory derivation $ED_P$, and strict constitutive source $ED_S$. $OEC^+$ entails the first two and permits the third without numerical overlap. Strict *ex deo* begins only when numerically divine reality constitutes, persists in, or becomes the effect:
+
+\[
+ED_S(G,\mathcal C_0)
+\leftrightarrow
+\exists d[DivineToken(d,G)\land(Constitutes(d,\mathcal C_0)\lor PersistsIn(d,\mathcal C_0)\lor Becomes(d,\mathcal C_0))].
+\]
+
+$ED_S$ remains coherent but disfavored because it introduces divine–world overlap, weakens the preferred creator distinction, and creates different burdens in partition, divine-mode, world-as-body, and whole-presence variants. It also answers $PMC_U$ only if the shared divine reality qualifies as a material cause; non-material overlap alone leaves the cross-category burden. Co-fundamental matter is coherent, but changes the ultimate basis from $G$ to $\langle G,M_0\rangle$ and therefore revises rather than preserves the current architecture.
 
 The creative-reason axis uses three explanatory levels:
 
@@ -715,37 +799,140 @@ DependsExistentially(x,G)
 
 Call this **non-continuous global dependence**: the relation obtains across the created history without a sequence of divine acts that re-create each moment. Token interventions remain additional exercises rather than components of routine maintenance.
 
-### Candidate qualified omnipotence
+### Qualified omnipotence at F2
 
-Do not define the power domain as whatever $G$ can do, because that would make omnipotence tautological. Let:
-
-\[
-\mathcal A_M(G)=
-\{a:Coherent(a,N,E_G)\},
-\]
-
-where $N$ contains independently specified necessary constraints and $E_G$ contains only essential features of $G$ established elsewhere. Then:
+Do not define the power domain as whatever $G$ can do, because that would make omnipotence tautological. Let $E_G^{ind}$ contain only essential features established independently of omnipotence and of the incapacity under examination. The eligible task relation is:
 
 \[
-OMP_Q(G)\quad\text{iff}\quad
-\forall a\in\mathcal A_M(G)\;CanPerform(G,a).
+\begin{aligned}
+Task_G(a)\leftrightarrow{}&WellFormedAction(a)
+\land AgentOf(a,G)\\
+&\land Coherent(a,N_L,N_M,N_G)\\
+&\land CompatibleWith(a,E_G^{ind}).
+\end{aligned}
 \]
 
-$OMP_Q$ is qualified omnipotence: power to perform every action metaphysically coherent for the independently characterized agent. The qualification cannot be used to redescribe any discovered incapacity as part of $E_G$.
+This quantifies over actions attributable to $G$, not every possible state. A creature's originating act can be possible without being something $G$ can strongly produce while preserving the creature as its contrastive source.
 
-The domain excludes contradictory task descriptions. For example, sufficiently determining a creature's token act while preserving that same act as libertarian-originated is not one coherent action. $G$ may preserve the freedom, or may override it as allowed by C16 and C39; inability to realize both descriptions together is not a loss of power.
+Power has both **range** and **strength or control**. $StrongCan(G,a)$ means that $G$ can settle and produce the contribution assigned to $G$ without another autonomous source supplying that same contrastive content. This allows secondary causes and asymmetric co-production while distinguishing:
 
-This candidate aligns power with the existing epistemic architecture. MKO includes complete knowledge of $\mathcal A_M(G)$ and the relevant capacities; ACO includes complete knowledge of which powers are actually exercised. Knowledge neither constitutes the power nor necessitates its exercise.
+\[
+StronglyProduces(G,q)
+\]
 
-Current commitments establish actualizing power, existential sovereignty conditionally on C04–C05, and possible intervention. They support $OMP_Q$ as the preferred definition of omnipotence.
+from:
 
-Its application to $G$ is supported abductively rather than demonstrated. A bounded-power alternative would add an ultimate limit $L_G$. No created reality can be the ultimate source of that limit on its own ground. A non-created external limiter or an essential internal limit remains coherent, but either requires independent motivation and the former would add another item to the fundamental ontology. In the absence of such motivation, maximal power unifies the established capacities with less brute boundary-setting. This favors C75 provisionally without importing a separate perfection premise, presupposing uniqueness, or pretending that ultimate grounding deductively entails omnipotence.
+\[
+Enables(G,A,q)\land Originates(A,q).
+\]
 
-Strengthening this result requires more than additional notation. A later F2 pass must classify every candidate blocker as logical incoherence, a created constraint, an independently established internal feature of $G$, or a non-created external limit. Existential sovereignty excludes a created item as the ultimate limiter but does not by itself eliminate the latter two possibilities. That pass should also distinguish maximal power concerning the created order from unrestricted $OMP_Q$: the former may be supported even if an independently motivated coherent limit prevents the latter.
+Define the created-target domain and its maximality:
+
+\[
+\mathcal A_C(G)=\{a:Task_G(a)\land CreatedTarget(a)\},
+\]
+
+\[
+OMP_C(G)
+\leftrightarrow
+\forall a\in\mathcal A_C(G)\;StrongCan(G,a).
+\]
+
+Unrestricted qualified omnipotence is:
+
+\[
+OMP_Q(G)
+\leftrightarrow
+\forall a[Task_G(a)\rightarrow StrongCan(G,a)].
+\]
+
+The architecture supports three evidentially ordered levels:
+
+1. explicit actualizing, $P_{OEC}$, grounding, enabling, and intervening powers;
+2. $OMP_C$, preferred at F2;
+3. unrestricted $OMP_Q$, preferred but more provisional.
+
+Conditional on sole divine ultimity:
+
+\[
+Created(L)\rightarrow\neg UltimateBlocks(L,G).
+\]
+
+A created law, object, agent, or arena may condition a task description but cannot independently ground the final boundary of its own existential ground's power. $P_{OEC}$, variable $S$-specification, and intervention across laws, boundaries, states, circumstances, powers, and acts provide positive cross-category evidence for $OMP_C$.
+
+This is not a deduction of universal range. Absence of an external blocker does not supply a missing power, and $\Sigma_G$ cannot prove omnipotence because it was defined through powers established independently. $RI$ also cannot supply an independent proof because its universal causal-availability component partly inherited provisional C75. A coherent inability with no basis in $E_G^{ind}$ would defeat $OMP_C$.
+
+Blockers divide as follows:
+
+| Candidate | Result |
+| --- | --- |
+| contradiction, identity failure, or source-role mismatch | no eligible divine task |
+| created resistance or law | dependent condition, not ultimate blocker |
+| preservation condition internal to a task | constrains that task without limiting every alternative action |
+| independently established essential feature | legitimately types $Task_G$ |
+| brute incapacity relabeled essential | circular and potentially defeats $OMP_Q$ |
+| necessary abstract truth or structure | modal constraint, not automatically a causal competitor |
+| non-created concrete limiter | genuine defeater for $OMP_Q$ or sole divine ultimity |
+
+A non-created concrete $L$ that independently blocks an eligible task changes the ultimate basis to $\langle G,L\rangle$, makes $L$ prior in the relevant respect, or yields a bounded demiurgic $G$. These are coherent but disfavored competitor architectures. No such $L$ has been established, so $OMP_Q$ remains preferred; its status is not upgraded to demonstrated.
+
+Actual creator–creation disjointness is not an essential modal policy. If a non-destructive strict-*ex-deo* manifestation is coherent with $E_G^{ind}$, $OMP_Q$ conditionally places it within divine capacity. A formulation in which necessary $G$ ceases to be the same subject is incoherent. Either way, capacity does not require exercise, and constitutively disjoint $OEC^+$ remains the preferred actual creation model.
+
+The strict self-copy challenge is similarly typed. A $G'$ cannot be both created and underived in the same respect, so an exact dependent-and-ultimate duplicate is not an eligible task. A dependent qualitative near-copy remains open.
+
+### Universal-range bridge under investigation
+
+S33 decomposes the missing bridge before attempting to strengthen C261. Created-order maximality contains at least:
+
+\[
+OMP_C\supseteq\{CP_G,CC_G,HI_G\},
+\]
+
+where $CP_G$ is creative plenitude, $CC_G$ is constitutive control over created powers and constituents, and $HI_G$ is intervention range relative to an obtaining history. The notation marks required subranges rather than a set-theoretic definition. Unrestricted $OMP_Q$ additionally needs a justified exhaustion of eligible divine action-types.
+
+The strongest current candidate for $CP_G$ is a four-premise **modal-source bridge**. Let $Poss_C^{ind}(S)$ state the genuine possibility of a fundamental created specification without defining that possibility through $G$'s capacity. The bridge requires:
+
+1. independently grounded created possibility $Poss_C^{ind}(S)$;
+2. modal sole-source invariance: the same necessary $G$ originates every possible fundamental created basis;
+3. essential rather than environmentally acquired $P_{OEC}$;
+4. an agent-relative witnessing world in which the difference is grounded in $G$'s own settling while the necessary base and essential agent remain fixed.
+
+Conditional on these premises:
+
+\[
+Poss_C^{ind}(S)\rightarrow CanCreate(G,S),
+\]
+
+and universal generalization yields $CP_G$. The argument is not yet complete. C48 partly grounds possibility in actualizing powers, so it cannot establish $Poss_C^{ind}$ under a power-relative reading. Actual one-ground ultimity also requires a further essential-role argument before becoming modal sole-source invariance.
+
+Specification transparency supplies compatible abductive support:
+
+\[
+Poss_C^{ind}(S)
+\land Selects(G,S)
+\land P_{OEC}(G)
+\rightarrow Produces(G,\mathcal C_S).
+\]
+
+$P_{OEC}$ operates without a prior patient or created causal genus, making it plausible that $S$ supplies the effect-type without an independent medium imposing a narrower range. Universal transparency must not be built into the definition of $P_{OEC}$; doing so would merely rename creative plenitude.
+
+The remaining bridges stay distinct. Grounding a created relatum does not by itself entail power to modify it after origination, and a possible alternative creation does not witness an intervention ability relative to the same fixed history. Likewise, $CP_G$, $CC_G$, and $HI_G$ do not establish $OMP_Q$ until eligible creative, created-target, self-directed, and non-created-relational actions are exhaustively typed.
+
+Aquinas's route from unlimited actuality and being to unlimited active power is retained as a genuine historical bridge with stronger premises not adopted here. A primitive Infinite Power account is also coherent, but it posits the target rather than deriving it and, when formulated as absolute control over every proposition, conflicts with the project's creaturely source-role constraint. The preferred research direction is therefore the modal-source plus specification-transparency route, retained for F3 rather than treated as a completed proof.
 
 ## Ontological omnipresence
 
-Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. Define the actual created domain:
+Because $G$ is fundamentally non-spatial, presence cannot mean bodily extension or occupation of every created region. “External to creation” therefore does not locate $G$ in a second spatial region. The preferred independence claim is **constitutive transcendence**:
+
+\[
+CT(G,\mathcal C_0)
+\leftrightarrow
+GroundPrior(G,\mathcal C_0)
+\land\neg ConstitutedBy(G,\mathcal C_0)
+\land\neg PhysicalMember(G,S_{phys}).
+\]
+
+Creation neither constitutes $G$ nor supplies its physical category. This leaves immediate relations available. Define the actual created domain:
 
 \[
 D(\mathcal C^*)=
@@ -780,7 +967,17 @@ OP_A(G)
 \forall x\in D(\mathcal C^*)\;Present_O(G,x).
 \]
 
-This is preferred conditionally on C11, C73, C75, C84, and C86. It applies across the complete E+ history without distributing parts of $G$ across places or times.
+This is preferred conditionally on C11, C73, C75, C84, and C86. It applies across the complete E+ history without distributing parts of $G$ across places or times. Its universal relational profile can be called **relational immanence**:
+
+\[
+RI(G,\mathcal C^*)
+\leftrightarrow
+\forall x\in D(\mathcal C^*)\;Present_O(G,x).
+\]
+
+$CT(G,\mathcal C_0)\land RI(G,\mathcal C^*)$ is coherent because the predicates concern constitution and relation respectively. $RI$ neither entails nor independently excludes strict *ex deo*; the preferred $CCD$ condition supplies the separate exclusion of substantial overlap.
+
+A direct intervention is a targeted exercise of the causal availability already included in $RI$. It requires no travel across a cosmic boundary or acquisition of local spatial extension. “Direct” excludes a necessary created intermediary; it does not identify $G$ with the target or make a divine constituent part of it.
 
 The domain treatment is ontology-neutral. If empty spacetime regions are entities or structural relata, they belong to $D(\mathcal C^*)$ because their existence, facts, and causal accessibility fall under the three dimensions. If an empty region is merely the absence of occupants, no additional entity is required; $G$ still knows the absence and can act with respect to that spatial structure.
 
@@ -1325,4 +1522,4 @@ Act(A,t,h_a)\neq Act(A,t,h_b).
 
 Therefore exact specification of laws, boundaries, and powers does not entail a unique complete history. Adding the actual output to $S$ would instead contradict the intended distinction between structure and agent contribution. This test is provisionally passed given C08.
 
-Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. The active sequence now returns to the ontological trunk through divine constitution and the production of matter, joining “what is $G$ made of?” to OEC/PMC.
+Agency-preserving intervention and the intervention–miracle–providence relation begin in S04. S05–S15 develop ACO/MKO, unified agency, attribute order, qualified power, unity, non-spatiality, and ontological omnipresence. S16–S20 audit and extend that architecture through the creation bridge, qualified agency-respecting providence, and universal personal availability. S21–S25 develop the evaluative branch through finite welfare, objective anchors, sacrifice, and extended beneficiaries. S26 gives ontology priority and science a bridge-mediated constraining role. S27 closes the minimal axiological interface at F1; S28 gives it a local F2 repair through positive long-term preference, epistemic orientation under uncertainty, decomposed $Fit_*$, due-good privation, and a conditional interpretation of hell-like absence. S29 locally repairs agentive consciousness through unified embodiment, decision episodes, preparation–settlement typing, and conscious causal control without choosing a final mind–body realization. S30 develops divine constitution and material production to F2 through $UPSS$, minimal constitutive simplicity, $P_{OEC}$, $OEC^+$, and the $PMC_T/PMC_U$ distinction. S31 distinguishes constitutive transcendence from relational immanence, adds explicit creator–creation disjointness, and types *ex deo*. S32 completes the qualified-power blocker pass: $OMP_C$ is preferred at F2, unrestricted $OMP_Q$ remains preferred but more provisional, and coherent non-destructive strict-*ex-deo* capacity remains conditional without requiring exercise. S33 searches for the universal-range bridge and identifies a conditional modal-source route to creative plenitude while preserving separate gaps for constitutive control, history-sensitive intervention, and task-domain exhaustion. The active sequence now moves to ACO's interpersonal-knowledge gap while retaining the power bridge, cumulative agency, $PMC_U$, and strict-overlap coherence as later challenges.

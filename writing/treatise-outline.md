@@ -122,21 +122,52 @@ Working language: English. Research notes may remain bilingual. The outline deli
     - Partitioned, joint, and redundantly total plural-ground models
     - Conditional Thomistic routes and the cumulative abductive case
 24. **Can Omnipotence Be Derived?**
-    - Maximal power over the created order versus unrestricted qualified maximality
-    - Incoherent, created, internal, and non-created external blockers
+    - Established powers, created-order maximality $OMP_C$, and unrestricted $OMP_Q$
+    - Eligible divine actions versus every possible state of affairs
+    - The independent divine essence profile and the anti-circularity rule
+    - Range versus strength or control
+    - Strong divine production versus enabling creaturely origination
+    - Why no created relatum can be the ultimate blocker of its ground
+    - Why absence of a blocker does not supply every power
+    - Incoherent, role-mismatched, created, internal, abstract, and non-created concrete blockers
+    - The circularity of using $\Sigma_G$ or relational immanence to prove maximality
+    - Why $OMP_C$ is better supported than unrestricted $OMP_Q$
+    - The universal-range problem: $CP_G$, $CC_G$, $HI_G$, and task-domain exhaustion
+    - Modal-source bridge: independent possibility, invariant source, essential power, and choice accessibility
+    - Specification transparency and the danger of defining plenitude into $P_{OEC}$
+    - Why creative plenitude would not yet establish every intervention or unrestricted $OMP_Q$
+    - The exact-copy paradox and derivative near-copies
+    - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
+    - The bounded-demiurge fallback if unrestricted maximality fails
 25. **Immateriality and the Ground of Created Space**
     - Created-space aspatiality, physical immateriality, and absolute non-spatiality
-    - What is $G$ made of? Composition, substrate, constitution, and analogical substance
-    - Non-composite source, structured non-material substance, *ex deo*, and co-fundamental substrate models
+    - What is $G$ made of? Material input, parts, substrate, constitutive profile, and ontological category
+    - Thin substance: $G$ as identity unit, bearer, and source rather than material stuff or bare substratum
+    - Minimal constitutive simplicity and the underived power-structured subject model
+    - Integrated role-distinct powers without an inference to absolute divine simplicity
+    - Constitutive transcendence versus spatial externality and relational remoteness
+    - Relational immanence through grounding, knowledge, and causal availability
+    - Numerical distinction versus creator–creation constitutive disjointness
+    - Underived non-material source, fundamental structured variant, *ex deo*, and co-fundamental substrate models
     - What grounding spacetime and atemporality do and do not entail
     - Higher-dimensional, intrinsic-geometric, and ubiquitous-occupation alternatives
-    - Why non-spatiality does not entail full simplicity
-    - Cross-category production, OEC/PMC, and material-continuity alternatives
+    - Why non-spatiality and minimal constitutive simplicity do not entail absolute simplicity
+    - Causal adequacy without material inheritance
+    - $P_{OEC}$ and $OEC^+$: source, exercise, specification, distinct effect, and dependence
+    - $PMC_T$ versus $PMC_U$ and the limits of evidence from intraworld transformation
+    - Why a fundamental power is an explanatory stopping point rather than a material mechanism
+    - Formal coherence versus demonstrated metaphysical possibility
+    - Causal, virtual, participatory, and strict constitutive senses of *ex deo*
+    - Partition, divine-mode, world-as-body, and whole-presence overlap variants
+    - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
+    - Material-continuity and co-fundamental alternatives
 26. **What Could Omnipresence Mean Outside Space?**
     - Grounding reach, epistemic access, and causal availability
     - Individual presence versus distributed coverage
     - Existing empty regions and ontology-neutral domain scope
     - Actual omnipresence versus modal capacity
+    - Why relational immanence neither entails nor excludes constitutive overlap
+    - Direct intervention without spatial entry or substance sharing
     - Ontological presence versus personal presence
     - Universal personal availability
     - Exercised regard, response, and atemporal address

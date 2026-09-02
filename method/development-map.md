@@ -50,11 +50,11 @@ The arrows express research dependence, not a single ontological relation. Exist
 | Modality and possible histories | cross-cutting | F2 | hold pending backbone pass | F3 | Affects contingency, freedom, and knowledge |
 | Time, eternalism, and ACO | cross-cutting | F2 | hold pending backbone pass | F3 | S01–S05; compatibility module |
 | Intervention, miracle, and providence | downstream | F2 | hold | F2–F3 if retained | Depends on creation, agency, knowledge, and attributes |
-| Actualizing power, sustenance, and omnipotence | attribute branch | F1 | hold; retain maximality as defeasible | targeted F2 blocker analysis | S11 separates capacity, exercise, and dependence; C142 requires classifying internal, external, created, and incoherent blockers and distinguishing created-order from unrestricted maximality |
+| Actualizing power, sustenance, and omnipotence | attribute branch | F2 | hold after S33; retain evidential asymmetry | selective F3 bridge work | S32 distinguishes $OMP_C$ from $OMP_Q$; S33 identifies the modal-source plus specification-transparency route to $CP_G$ while leaving modal invariance, constitutive control, history-sensitive intervention, and domain exhaustion open |
 | Unity/uniqueness | attribute prerequisite | F1 | hold as preferred after S13 | selective F2 if challenged | $U_G$ is preferred abductively and supports $U_D$ under C04–C05; no unrestricted uniqueness of necessary entities |
-| Omnipresence and personal availability | dependent attribute | F1 | hold after S20 | selective F2 | Ontological omnipresence and universal personal availability are preferred; exercised regard, shared attention, and communion remain stronger relations |
+| Omnipresence and personal availability | dependent attribute | F1 with local F2 boundary refinement | hold after S31 | selective F2 | S31 interprets omnipresence as relational immanence compatible with constitutive transcendence and disjointness; exercised regard, shared attention, and communion remain stronger relations |
 | Immateriality/non-spatiality | attribute prerequisite | F1 | hold after S14 | selective F2 if challenged | Created-space aspatiality and physical immateriality are preferred; absolute non-spatiality is preferred abductively |
-| Creation bridge: production and creative reason | trunk-to-creation junction | F1 on both axes | reintegrate into intervention and providence | selective F2–F3 | S17 prefers OEC with PMC open; S18 prefers an agency-oriented plural reason profile |
+| Creation bridge: production and creative reason | trunk-to-creation junction | production F2; reason F1 | hold and reintegrate into intervention and providence | selective F2–F3 | S30–S31 prefer constitutively disjoint $OEC^+$, type *ex deo* into four levels, accept $PMC_T$, and retain $PMC_U$ as a defeater; S18 supplies the reason profile |
 | Goodness, reasons, suffering, and responsibility | bounded axiological interface | F1 closed with local F2 repair; S36 adds a good-oriented profile; S37 structures the P-gap | hold; closure of the P-gap depends on CH16 | further F2 only if ontologically load-bearing | S27–S28 supply $\mathcal A_{min}$, decomposed $Fit_*$, due-good privation, epistemically modest sacrifice, positive long-term preference, species continuity, and provisional $G$-grounding; complete longtermist and detailed ethical theories remain optional |
 | Mind–body realization of agency | lateral support | F1 with local F2 episode model | defer after S29 | undecided; F3 only if load-bearing | S07, S22, and S29 prefer unified embodied agency, distinguish preparation from settlement and conscious control, and keep reductive, non-reductive embodied, dual-aspect, hylomorphic, and substance-dualist realizations open |
 | Personal continuation and bearer horizons | trunk dependency opened by the P-gap | F1 | hold after S38; identity criterion (CH17) waits on the mind–body branch | F2 if it becomes the closure of $GoodOrient_P$ | C304–C310; coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, conditional on $GoodOrient_P(G)$ |
@@ -63,17 +63,19 @@ The arrows express research dependence, not a single ontological relation. Exist
 
 ## Active queue
 
-The author's brief of 2026-09-02 adds a question-driven track: plain questions from the accessible register that the ledger cannot answer become research items. S34–S38 supplied the first five. S38 leaves continuation conditional and relocates its remaining burden to the identity criterion, which depends on the deferred mind–body realization. The track therefore returns to the trunk.
+The author's brief of 2026-09-02 adds a question-driven track: plain questions from the accessible register that the ledger cannot answer become research items. S34–S38 supplied the first five and returned to the trunk once continuation's remaining burden proved to depend on the identity criterion. Independently, S30–S33 completed the constitution, boundary, and power passes. The author's direction of 2026-09-02 is to press the constitution/production junction further before the next trunk gap.
 
-1. Give divine constitution and material production a joint F2 pass: clarify what “made of,” substance, composition, and substrate mean for $G$, then compare non-material OEC, structured divine substance, *ex deo* continuity, and co-fundamental matter (CH12).
-2. Use that result to deepen the OEC/PMC junction without reopening the now-closed general ethical branch, and note what it implies for the substance of created subjects.
-3. Treat the identity criterion for continuation (CH17) once a realization model is selected or the constitution result constrains it; do not settle identity by stipulation.
-4. Retain qualified-power blockers, ACO's interpersonal knowledge gap, and cumulative intervention effects on agency as the next trunk candidates.
-5. Retain $G$-grounded $Fit_*$ as provisional with the S36 route as its content; test it further only when divine goodness, providence, or another ontological module requires it.
-6. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
-7. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
-8. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
-9. Keep the accessible answers and question bank current: revise an answer whenever a cited commitment changes status; promote an `abierta` question to a session when it becomes load-bearing.
+1. Deepen divine constitution and material production toward F3 (S39): materiality as an $S$-instantiated profile, the level argument against $PMC_U$, the derivation of $OEC^+$ from sole ultimity plus the contingency of matter, the ontology of integrated powers against the parts objection, and the non-inheritance condition for non-destructive strict *ex deo*.
+2. Test ACO's interpersonal knowledge gap (CH03): does complete propositional truth-knowledge suffice for knowing a creature as a subject, or is acquaintance or irreducible second-person knowledge another capacity?
+3. Retain cumulative intervention effects on agency as the following trunk candidate.
+4. Treat the identity criterion for continuation (CH17) once a realization model is selected or the constitution result constrains it; do not settle identity by stipulation.
+5. Hold the qualified-power hierarchy at F2; retain S33's non-circular range bridge, residual $PMC_U$, non-created concrete limiters, and strict-*ex-deo* coherence as selective F3 triggers.
+6. Retain $G$-grounded $Fit_*$ as provisional with the S36 route as its content; test it further only when divine goodness, providence, or another ontological module requires it.
+7. Retain S29's embodied decision-episode model as a conditional module; deepen its realization only if empirical settlement or causal duplication becomes load-bearing.
+8. Apply scientific results through explicit empirical–ontological bridges; distinguish actual-world realization constraints from metaphysical definitions.
+9. Retain a complete strong-longtermist theory, population ethics, moral-status gradation, and aggregation as optional; positive defeasible long-term preference remains part of the ontology-facing interface.
+10. Keep the accessible answers and question bank current: revise an answer whenever a cited commitment changes status; promote an `abierta` question to a session when it becomes load-bearing.
+
 
 ## Depth-control rules
 

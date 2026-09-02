@@ -129,6 +129,10 @@ The first conflicts with $G$'s ultimacy over the total created order. The second
 
 Physical immateriality remains preferred, in line with the author's intuition, but the cross-category grounding relation is now an explicit open burden rather than a solved transition. This does not block omnipresence because that attribute depends on non-containment and immediate relations, not on a completed theory of substance production.
 
+## Later refinement in S30
+
+[S30](2026-09-02-divine-constitution-and-material-production.md) answers the constitution burden at F2 with an underived power-structured subject and minimal constitutive simplicity. The model excludes ontologically prior ingredients and an external substrate while allowing integrated role-distinct powers; it therefore preserves this session's refusal to infer absolute divine simplicity from immateriality or non-spatiality. Material production is represented by $OEC^+$, with universal $PMC_U$ retained as a live defeater.
+
 ## Next question
 
 Given a unique and fundamentally non-spatial $G$, what positive relation makes $G$ present to a created entity or region? The F1 omnipresence pass must compare grounding, epistemic access, direct power, and personal availability, and must determine whether presence ranges over empty regions or only existing entities.

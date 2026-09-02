@@ -4,6 +4,8 @@
 
 Build the strongest coherent ontology the author can endorse. Originality is welcome but secondary. Classical theism is a comparison target and possible destination, not a package of premises.
 
+John C. Lennox is the author's principal philosophical inspiration for the project. That orientation identifies questions worth testing but does not import Lennox's conclusions as premises. In particular, the challenge from evolutionary naturalism to trust in truth-directed cognition is retained as background and comparative abductive motivation: it is not a new commitment, it does not treat evolution as wholly random, and it must be assessed together with naturalistic accounts of adaptive reliability and scientific error correction as well as the theistic burden of explaining both intended cognitive reliability and actual human fallibility.
+
 ## Constructive decision standard
 
 The project does not expect a demonstrative proof that uniquely selects one ultimate metaphysical foundation. At fundamental underdetermined junctions, its aim is a reasoned working choice based on:

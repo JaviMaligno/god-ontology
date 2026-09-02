@@ -37,7 +37,9 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P11 | ¿Hay un solo Dios? | `respondida` | C78–C83; S13 | CH01 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
-| P14 | ¿De qué está hecho Dios? ¿Y cómo puede algo así producir materia? | `respondida` | C222–C238, C433–C442; S30–S31, S48 (queda abierto cómo opera el poder de hacer existir) | CH12 |
+| P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C438–C439; S30–S31, S48 (sujeto único con capacidades que son aspectos, no partes) | — |
+| P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C433–C437, C442; S48 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
+| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida` | C261–C262, C372, C375–C376, C380, C398–C401; S32, S40–S42 (poder sobre lo creado; plenitud creadora cualificada; las «tareas» incoherentes sobre Dios no son límites; capacidad no es ejercicio) | CH05 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C467–C472; S18, S53 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
@@ -73,6 +75,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
+| P45 | ¿Son el pensar y el sentir dos caminos distintos, o uno? ¿Es todo comunicación? | `respondida` | C295–C296, C415, C417, C493; S35, S43, S59 (dirección del autor: conocimiento por la lógica, sentimiento y experiencia por el arte; todo es comunicación entre nosotros y con Dios) | — |
 | P33 | ¿A Dios se le puede sentir, o solo pensar? | `respondida` | C122–C124, C412–C416; S20, S43 | CH19 |
 | P34 | ¿Sirven de algo rezar, la música o el arte para acercarse a Dios? | `parcial` | C415, C417; S43 | CH19 |
 | P35 | ¿Por qué hay gente que no siente nada? | `respondida` | C123–C124, C416 | — |

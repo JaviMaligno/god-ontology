@@ -64,3 +64,5 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S56 — Consolidation pass of Parts III–IV](2026-09-02-consolidation-parts-iii-iv.md)
 - [S57 — Reconciliation of the two tracks after the merge of S35–S38](2026-09-02-reconciliation-of-the-two-tracks.md)
 - [S58 — Consolidation pass of Part V](2026-09-02-consolidation-part-v.md)
+- [S59 — The author's first review of the accessible answers, and reconciliation with S40–S42](2026-09-02-author-review-of-accessible-answers.md)
+- [S60 — Consolidation pass of Part VI](2026-09-02-consolidation-part-vi.md)

@@ -23,6 +23,8 @@ The choice of Spanish for the accessible register follows the author's use: the 
 6. **Experience is a register, not a proof.** The experiential approach — art, music, prayer, religious experience — is taken seriously as the fourth evidential layer of the research method. The ontology says what it can and cannot support (C412–C417): experience can be veridical of standing presence or of exercised regard, is defeasible first-person evidence of presence or relation, and is never evidence for the specific architecture.
 7. **The hemisphere image is a metaphor.** The picture of an analytic left hemisphere and an experiential right one is used only as a figure for the two registers and is flagged as such wherever it appears. It is not an empirical premise (R143; C183–C184).
 8. **No repetition of the treatise.** The accessible answers are not a summary of the treatise and do not follow its order. They follow the order in which people ask.
+9. **Author review loop.** Every batch of answers, new or revised, is shown to the author in the reply, not only written to the file. Each review is recorded as a session that lists the corrections, classifies each as language, argument, structure, or gap, and gives the ledger basis of the change (S59 is the first).
+10. **The author's framing of the two registers.** The author frames both registers as communication: metaphysics, mathematics, and science communicate certain kinds of knowledge through logic; art, music, and religion communicate feelings and experiences; all of it is communication among subjects and with $G$ (C493). This is a framing consistent with asymmetric communication (C295–C296) and the complementarity of the registers (C415), not a premise of the ontology.
 
 ## Translation register
 

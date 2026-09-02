@@ -1994,6 +1994,8 @@ Continuity relations are evidence and normal realization (C453). Under E+ a temp
 
 ### Experiential access and the two registers
 
+The author frames both registers as communication, among subjects and with $G$: knowledge through logic on one side, feeling and experience through art, music, and religion on the other (C493). The framing is consistent with asymmetric communication (C295–C296) and with C415, and is recorded as a direction rather than a premise.
+
 [S43](../sessions/2026-09-02-accessible-track-and-experiential-register.md) asks what the architecture says about experience of $G$. Personal availability (C122) permits a direct address $Address(G,A,t)$, typed as a circumstantial or informational contribution (C41) or as bare regard, never as source override (C412). Given ontological omnipresence, an experience $Exp_G(A,e,t)$ has three possible relations to its truthmaker:
 
 | Case | Truthmaker |

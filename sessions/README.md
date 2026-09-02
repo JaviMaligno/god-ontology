@@ -83,3 +83,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S75 — Distinct non-created concreta under the strongest justified uniqueness thesis](2026-09-02-distinct-non-created-concreta.md)
 - [S76 — Reconciliation of S75 with the author's S73 (universal concrete dependence)](2026-09-02-reconciliation-with-universal-dependence.md)
 - [S77 — The author's review of P47 and P49, and answers to P50–P52](2026-09-02-author-review-of-p47-p49-and-new-answers.md)
+- [S78 — The P-reason routes, and how much of the P-gap the established profile already closes](2026-09-02-p-reason-routes.md)

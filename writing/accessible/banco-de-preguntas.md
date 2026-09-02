@@ -70,7 +70,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P23 | ¿Por qué crees que existe el bien? | `respondida` | C186–C196; S27 | CH04 |
 | P24 | ¿El bien es objetivo o lo inventamos? | `respondida` | C168–C177, C187–C188; S25, S27 | CH09 |
 | P25 | ¿Qué es el mal? | `respondida` | C189–C190, C206–C207; S27–S28 | — |
-| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49 | CH04, CH19 |
+| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49, C612–C618; S78 (no usa el sufrimiento de nadie como medio: derivado de la relación verdadera; lo demás sigue siendo creencia con contenido exacto) | CH04, CH19 |
 | P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C472–C479; S49 (coberturas de política; el resto depende de P31) | CH19, CH21 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |

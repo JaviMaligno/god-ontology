@@ -6,17 +6,17 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 611 |
-| Rejected or corrected moves (R) | 237 |
+| Working commitments (C) | 618 |
+| Rejected or corrected moves (R) | 240 |
 | Challenges (CH) | 25 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 251 |
-| preferred | 243 |
+| accepted | 255 |
+| preferred | 245 |
 | other | 62 |
 | provisional | 25 |
-| open | 11 |
+| open | 12 |
 | merged | 11 |
 | deferred | 4 |
 | rejected | 2 |
@@ -494,7 +494,7 @@
 | C461 | Necessitarianism is excluded as a working option. | `accepted exclusion` |
 | C462 | $Fit_*$ can be grounded in $G$ non-circularly: $G$ necessarily instantiates the kinds from which the sourcehood and truthful-relation anchors take their fit conditions, and existentially and modally grounds the kind fixing the valence anchor, all established without evaluative premises. | `provisional` |
 | C463 | $G$'s established profile is good-oriented toward sourcehood and truthful relation: $GoodOrient_S(G)\land GoodOrient_R(G)$. | `preferred`, earned in the architecture |
-| C464 | $GoodOrient_P(G)$ — divine orientation toward the valence of created subjects — is not earned; this P-gap is where the problem of evil enters the architecture. | `accepted`, structured |
+| C464 | $GoodOrient_P(G)$ — divine orientation toward the valence of created subjects — is not earned; this P-gap is where the problem of evil enters the architecture. | `accepted; refined by C612–C613 (S78): $G_2$ earned from $R$, $G_1$ and $G_3$ unearned`, structured |
 | C465 | Good-orientation is not omnibenevolence; the latter requires universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence. | `accepted` |
 | C466 | Divine direct address is an exercise of personal availability typed as a circumstantial or informational contribution or as bare regard; it is never a source override. | `preferred` |
 | C467 | An experience presenting $G$ as present, addressing, or responding can be veridical of standing ontological presence, veridical of exercised regard, or non-veridical; the three cases have different truthmakers. | `accepted distinction` |
@@ -556,7 +556,7 @@
 | C523 | The organizing agency reason is requiring at the architecture level: given creation for actual finite otherness and analogous sourcehood, every eligible $S$ enables autonomous agents. C106 follows, while non-creation remains live at the creation level. | `preferred refinement` |
 | C524 | The established S18 reason profile has targets $S$ and $R$ only; good-orientation toward sourcehood and relation (C463) follows by typing. | `accepted` |
 | C525 | The P-gap is the absence of a P-directed reason in the established profile: $GoodOrient_P(G)$ holds iff the profile contains an exercised reason whose target is conscious valence. | `accepted diagnosis` |
-| C526 | Two candidate routes to a P-reason exist: reading actual finite otherness as making subjects actual for their own sake, and regard internal to truthful relation with a valenced subject. Each is an abductive addition at C105's evidential level; neither is adopted. | `open` |
+| C526 | Two candidate routes to a P-reason exist: reading actual finite otherness as making subjects actual for their own sake, and regard internal to truthful relation with a valenced subject. Each is an abductive addition at C105's evidential level; neither is adopted. | `open; tested in S78 (C615–C617): route 2 cognitive only, route 2′ and route 3 added, route 1 closes only in requiring mode` |
 | C527 | The token and diachronic agency-preservation presumptions follow from the requiring sourcehood reason, whose target includes the diachronic level of agency; the source cover conflicts with an admissibility condition, not only a preference. | `accepted` |
 | C528 | $Poss_C^{ind}(S)$ holds iff $S$ is consistent under $N_L$, admits at least one complete history under $N_M$, its specified created powers are compossible, it is a created specification of instantiable profiles with no self-existent constituent, and it requires nothing $G$'s independently established essence excludes. | `merged into C344–C345 (S60); model existence explicit, $E_G$ clause relocated to B4` |
 | C529 | The definition of $Poss_C^{ind}$ is non-circular: no clause quantifies over divine power, the only $G$-clause uses $E_G^{ind}$, and imaginability appears in no clause. | `accepted` |
@@ -642,6 +642,13 @@
 | C609 | The non-created-relatum condition on unrestricted $OMP_Q$ reduces to $MGC^+\land MUU$: a limiting non-created concretum is possible exactly when one of them fails, so unrestricted $OMP_Q$ over concreta is as strong as conditional modal ultimity and no stronger. The remaining cross-ontology test is an independently motivated novel action kind. | `refined by C600 (S76): the existence question closes under $UCD_G$, the blocker question already under $MGC^+\land MUU$` |
 | C610 | Reconciliation of S75 with the author's S73: creation as existential dependence (C586), $UCD_G$ (C591), and $NCCBlock$ (C599) are canonical; the branch retains the bridge $NCCBlock_G(L,a)\rightarrow Limiter_G(L)$ and the no-limiter lemma as a weaker-premise route to the power conclusion, with its condition on $MUU$ recorded; the branch's taxonomy, emanation cell, and task list are merged or superseded. | `accepted reconciliation` |
 | C611 | The accessible register may not assert a settled ground for necessary truths, numbers, or ideas: they are neither made as the world is made nor human inventions, though our symbols and concepts are ours; they are not things apart from $G$ that compete with him; their ultimate ground is open between the structure of $G$'s own nature and authorless necessary truth (C350–C351). | `accepted author correction` |
+| C612 | $GoodOrient_P(G)$ decomposes into $G_1$ (no permitted suffering is gratuitous), $G_2$ (no bearer's suffering is a mere means to others' goods), and $G_3$ (every bearer's suffering is covered within the bearer's own horizon); $G_3$ entails $G_1$ and $G_2$. | `accepted analysis` |
+| C613 | $G_2$ follows from the earned orientation toward truthful relation: permitting a bearer's suffering for others' goods with nothing for the bearer is the vehicle treatment $R$ forbids (C477). The first $P$-relevant disposition is earned, from $R$ and not from valence. | `preferred derivation` |
+| C614 | Every divine permission is a reason-guided settlement, since non-prevention by an aware and able $G$ is intentional refraining (C577) and divine settling is for reasons (C109, C460); but a reason is a cover only if it targets an anchor and defeats the misfit (C473), so $G_1$ is not earned. | `accepted scope result` |
+| C615 | C526's second route yields cognitive regard only ($ASA$; C96). Its conative variant, Route 2′, with the explicit premise that adequate recognition of a subject counts the subject's anchors among defeating considerations, yields $G_1$ but not $G_3$. | `preferred analysis` |
+| C616 | C526's first route (otherness as for-the-sake-of) closes $G_3$ only in requiring mode, and then entails, as an admissibility condition on every eligible history, the continuation of every bearer whose embodied life ends in uncovered suffering (C478, C485); in favoring mode it yields a defeasible presumption and closes nothing. | `accepted result` |
+| C617 | A third route, divine affective regard toward creatures, would ground $P$-orientation by the mechanism of C462, since $G$'s profile is fit toward the anchors $G$ instantiates and $G$ is attributed no valence; its costs are passibility, an account of divine valence (C465), and the stronger acquaintance model of C288. | `open route; not adopted` |
+| C618 | The accessible register's belief that $G$ is good in what we feel is Route 1 in requiring mode: its content is $G_3$ and its consequence is continuation, as C479 states; Route 2′ alone would earn $G_1$ and leave the belief at $G_3$. | `accepted specification` |
 
 ## Rejected or corrected moves
 
@@ -884,6 +891,9 @@
 | R235 | $MUU$ entails that no necessary concrete other than $G$ is possible. | `rejected overreach` |
 | R236 | $MGC^+$ is demonstrated because $U_G$ holds actually. | `rejected` |
 | R237 | The necessary existence of an emanated or inert concretum, which $G$ cannot annihilate or refrain from grounding, is a divine incapacity. | `rejected` |
+| R238 | $GoodOrient_R(G)$ entails $GoodOrient_P(G)$. | `rejected` |
+| R239 | Because every divine permission is reason-guided, every permitted suffering is covered. | `rejected` |
+| R240 | $ASA$'s acquaintance with a subject's suffering entails conative orientation toward that subject's valence. | `rejected` |
 
 ## Challenges
 
@@ -907,7 +917,7 @@
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | `tested F2` |
-| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | `tested` (partial) |
+| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | `tested` (partial; reduced to $G_1$ and $G_3$ in S78) |
 | CH20 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | `scoped` |
 | CH21 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | `tested` (partial) |
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | `tested` (partial) |

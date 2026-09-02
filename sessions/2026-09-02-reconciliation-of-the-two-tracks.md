@@ -62,6 +62,10 @@ The two tracks were developed in parallel on the same day without sight of each 
 
 **The sole-source question.** The author's next priority (C357; queue item 1) asks whether one-ground ultimity and $G$'s independently established essence justify modal sole-source invariance *without defining that role into $G$ or into the domain of created possibility*. S51's $MUNA$ route is a candidate answer to exactly that question, and the constraint is met: the route excludes impersonal grounds of contingent orders by C369, which is a result of the stopping-point comparison and not a definition, and it excludes other necessary agents by $MUNA$ (C441), which is supported abductively by the considerations behind $U_D$ and not by fiat. What remains for the author's test is whether $MUNA$ can be held at the level of $U_D$ or whether necessary-agent plurality has a cost structure that $U_D$'s argument does not reach. The creative-plenitude theorem (C442) stands as conditional on $MUNA$, B3, and B4, with B1 now supplied by $Adm_C$.
 
+### Addendum after the author's S39
+
+The author's S39, merged after this session was first written, runs the sole-source test itself and prefers conditional modal ultimity $CMU_G$ (C360), decomposed into modal grounding coverage (MGC), modal uniqueness of the underived concrete source (MUU), and a grounding–origin link (GOL) (C362). The branch's candidate (C453) is mapped onto it: $MUNA$ (C441) is MUU restricted to necessary agents, and MUU is preferable because it also excludes impersonal underived sources without a detour through C369; the branch's use of C369 to exclude brute or impersonal grounds is the work MGC and GOL do explicitly. C453 is therefore superseded. One correction to S51 follows: S39 separates ultimate origin (B2r) from direct production (B2d, C359, C365), and S51's creative-plenitude theorem (C442) had assumed the old B2 in its direct form. C442 now reads: $MUU$, B2d, B3, and B4 entail creative plenitude; its status is unchanged in kind, conditional on preferred premises, but its antecedent has one more member. The author's queue item 1 is now the directness test (C366).
+
 ## Junction 3: the persisting subject (S36–S37 versus S47 and S49)
 
 **Canonical:** the bearer–presentation–integration relation (C314), bearer persistence through non-conscious intervals (C315), the four temporal predicates (C313), the accepted embodied power-bearing subject under a thin hylomorphic interpretation (C330–C332), and the open person boundary (C320).
@@ -94,7 +98,9 @@ C324 is adopted on the branch without reservation. Applying it retrospectively: 
 | C443 | accepted | restated over $Adm_C$ | criterion renamed | this session |
 | C451 | — | `accepted reconciliation` | agency junction: $AE$ and the three standings canonical; funnelling, evaluative authorship, rational/a-rational influence, direct address, the diachronic cover component, and the $AE$ reading of the ecology conditions retained as refinements | this session |
 | C452 | — | `accepted reconciliation` | possibility junction: $Adm_C$ canonical; model existence explicit; $E_G$ clause relocated to B4 | this session |
-| C453 | — | `preferred candidate` | $MUNA$ route as candidate for modal sole-source invariance, meeting the no-definition constraint of C357 | this session; C369, C441 |
+| C453 | — | `preferred candidate`, then `superseded by C360–C362` | $MUNA$ route as candidate for modal sole-source invariance; superseded by the author's S39 after the second merge | this session; C369, C441 |
+| C442 | preferred conditional | preferred conditional; requires B2d in addition | S39's B2r/B2d repair | addendum |
+| C456 | — | `accepted reconciliation` | $MUNA$ merged into MUU; C442's antecedent gains B2d | addendum; C358–C366 |
 | C454 | — | `accepted consistency check` | simple persistence and the identity partition are consistent with the accepted embodied hylomorphic subject and leave C320 open | this session |
 | C455 | — | `accepted` | C324 adopted on the branch; S52 recorded as a recency deviation with no queue precedent | this session |
 
@@ -109,4 +115,4 @@ C324 is adopted on the branch without reservation. Applying it retrospectively: 
 
 ## Next question
 
-Part V of the treatise (knowledge, time, and freedom) is consolidated next, as approved. On the trunk, the author's queue item 1 now has a concrete candidate (C453) to test.
+Part V of the treatise (knowledge, time, and freedom) is consolidated next, as approved. On the trunk, the author's S39 has since answered the sole-source question; queue item 1 is now the directness test (C366).

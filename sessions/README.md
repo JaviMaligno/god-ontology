@@ -60,3 +60,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S52 — Other universes: possible worlds, cosmological multiverses, and plural created orders](2026-09-02-other-universes.md)
 - [S53 — Consolidation pass of Parts III–IV](2026-09-02-consolidation-parts-iii-iv.md)
 - [S54 — Reconciliation of the two tracks after the merge of S35–S38](2026-09-02-reconciliation-of-the-two-tracks.md)
+- [S55 — Consolidation pass of Part V](2026-09-02-consolidation-part-v.md)

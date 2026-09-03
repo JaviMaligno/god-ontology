@@ -49,13 +49,14 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `tested F2` |
-| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (partial; reduced to $G_1$ and $G_3$ in S78) |
+| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (narrowed to $G_3$ in S81) |
 | CH20 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | personal availability, experiential access, epistemology of the fourth layer, intervention typing | `scoped` |
 | CH21 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | P-gap closure, personal identity, E+, ACO, embodied agency, hell as privation, divine goodness | `tested` (partial) |
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | personal continuation, mind–body realization, individuation, divine re-realization, P-gap closure | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | agency ecology, manipulation, responsibility, finite norm construction, moral status | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
 | CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; conditionally closed under proposed UCD_G` |
+| CH26 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S81; first typing in S82` |
 
 ## Priority gate after S26
 
@@ -455,6 +456,8 @@ S49 supplies that partial result. Cases 1 and 3 receive the policy-level source 
 
 S78 decomposes $GoodOrient_P$ into non-gratuitousness ($G_1$), non-instrumentalization ($G_2$), and bearer-level closure ($G_3$), and shows that $G_2$ is already earned from the truthful-relation anchor (C613), that every permission has a reason though not necessarily a cover (C614), and that of C526's routes only the first, in requiring mode, closes $G_3$, at the cost of continuation for every uncovered bearer as an admissibility condition (C616). A third route, divine affective regard, is recorded and not adopted (C617). The challenge stays `tested`; what remains is $G_1$ and $G_3$, and the choice among routes is the author's (C618).
 
+S81 records the author's choice: Route 2′ and Route 1 in favoring mode are adopted (C632–C633). $G_1$ is thereby earned and $G_3$ becomes a defeasible presumption; the P-gap narrows to the guarantee of $G_3$ (C634), and the register's belief is the completion of that presumption (C635). Route 3 is opened as CH26 (C636).
+
 ## CH20 — Veridicality of experiential access
 
 S46 distinguishes experience veridical of standing presence, veridical of exercised regard, and non-veridical. The challenge is to specify, beyond that partition, which features of an experience or of the subject's practice bear on veridicality and which defeat it, without making the experiential register either self-authenticating or empty.
@@ -518,3 +521,12 @@ The support is abductive and independent of omnipotence: one terminal concrete e
 Mere $NCC_G(L)$ is not a power defeater. Creating the same essentially uncreated $L$, annihilating the same necessary $L$, and producing another agent's autonomous contrastive settlement fail `Task_G`. Knowledge belongs to ACO; address, attention, cooperation, and response preserve source roles. A genuine defeater is `NCCBlock`: $L$ must enter an independently eligible action, supply an underived final boundary, and make $StrongCan(G,a)$ false. Causal isolation or coexistence alone is insufficient.
 
 CH25 is therefore conditionally closed at F2 under proposed $UCD_G$. If that thesis is rejected, the challenge reopens only upon presentation of a positively motivated necessary independent concrete with a fully specified `NCCBlock`, not merely a grammatically possible second entity. The next power challenge is whether a genuinely new divine action kind extends the established executive grammar.
+
+## CH26 — Love, divine affect, and the affective route to the P-gap
+
+**Status:** `opened in S81 by the author's questions; first typing in S82`
+
+**Scope:** love typed under the anchors; the biological origin of the capacity versus the objectivity of its fit; interpersonal love and love of $G$ under asymmetric communication; $G$'s love for each subject (volitional, from C632–C633 with $ASA$ and $UPA$) and what affective regard (Route 3, C617) would add; $G$'s self-love under $MCS$ and the absence of divine misfit; the cost of passibility.
+
+The challenge is the ontological core of the author's questions after S78. Its power-side consequence is Route 3: if $G$ has affective regard toward creatures, $P$-orientation follows by the mechanism of C462, and $G_3$ would be earned rather than believed. Its cost is passibility, an account of divine valence (C465), and the stronger acquaintance model (C288). The line is developed, not adopted.
+

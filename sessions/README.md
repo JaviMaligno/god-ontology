@@ -86,3 +86,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S78 — The P-reason routes, and how much of the P-gap the established profile already closes](2026-09-02-p-reason-routes.md)
 - [S79 — The ground of necessary structure](2026-09-02-ground-of-necessary-structure.md)
 - [S80 — Intentional content and reference: CH14's remaining parts](2026-09-02-intentional-content-and-reference.md)
+- [S81 — The author's decision on the P-reason routes, and a research line on love](2026-09-02-author-adopts-routes-b-and-c.md)

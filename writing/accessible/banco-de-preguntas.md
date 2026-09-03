@@ -47,8 +47,12 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P51 | ¿Necesita Dios que le recemos o le adoremos? | `parcial` | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S77 (no necesita nada; rezar y adorar son la parte nuestra de una relación disponible y una manera de estar en la verdad; si Dios la quiere por nosotros es la ruta segunda de C526, no adoptada) | CH19 |
 | P52 | ¿Existen los números y las ideas? ¿Los hizo Dios, o los inventamos nosotros? | `respondida` | C03, C52, C264, C343, C350–C351, C429, C611, C619–C625; S05, S32, S38, S77, S79 (símbolos y conceptos son nuestros; la estructura es la naturaleza de Dios en cuanto participable: no hecha, no aparte, no nuestra; la necesidad sin fundamento es la alternativa coherente, desfavorecida) | CH14 |
 | P53 | ¿Qué es lo que pienso cuando pienso en algo que no existe? | `respondida` | C53–C54, C347, C352–C354, C626–C631; S05, S38, S80 (el acto es real y tiene una condición de satisfacción; sin llave no hay referencia; posibles son perfiles con nombre, imposibles sumas que no encajan, ficciones descripciones con historia; el puente de la intencionalidad queda en F3) | CH14 |
+| P54 | ¿El amor es algo más que biología? | `abierta` | C187–C189, C321, C636; S27, S81 (la biología explica de dónde sale la capacidad; si lo que hace que amar sea acertado es objetivo es cosa del ajuste a los anclajes) | CH26 |
+| P55 | ¿Es lo mismo querer a una persona y querer a Dios? | `abierta` | C121–C124, C295–C296, C636; S20, S35, S81 (relación asimétrica; misma estructura de reconocimiento y respuesta) | CH26 |
+| P56 | ¿Me quiere Dios a mí, en concreto? | `abierta` | C122, C284–C286, C632–C633, C636; S20, S34, S81 (disponible para cada uno, conocido de uno en uno, creado por sí mismo como preferencia; si además siente algo es la ruta afectiva) | CH26 |
+| P57 | ¿Se quiere Dios a sí mismo? | `abierta` | C224–C227, C462, C636; S30, S48, S81 (sin desajuste hacia sí; qué sería amarse sin carencia) | CH26 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `fusionada en P44` | C74–C76, C142; S11 | CH05 |
-| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
+| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta), C633; S81 (añadida la razón dirigida a lo que sentimos como preferencia) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
 
 ## C. Libertad, conocimiento e intervención
@@ -71,8 +75,8 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P23 | ¿Por qué crees que existe el bien? | `respondida` | C186–C196; S27 | CH04 |
 | P24 | ¿El bien es objetivo o lo inventamos? | `respondida` | C168–C177, C187–C188; S25, S27 | CH09 |
 | P25 | ¿Qué es el mal? | `respondida` | C189–C190, C206–C207; S27–S28 | — |
-| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49, C612–C618; S78 (no usa el sufrimiento de nadie como medio: derivado de la relación verdadera; lo demás sigue siendo creencia con contenido exacto) | CH04, CH19 |
-| P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C472–C479; S49 (coberturas de política; el resto depende de P31) | CH19, CH21 |
+| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49, C612–C618; S78 (no usa el sufrimiento de nadie como medio: derivado de la relación verdadera; lo demás sigue siendo creencia con contenido exacto), C632–C635; S81 (ninguna permisión sin cobertura; preferencia por el cierre de cada vida; la garantía es fe) | CH04, CH19 |
+| P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C472–C479; S49 (coberturas de política; el resto depende de P31), C632–C635; S81 | CH19, CH21 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |
 | P30 | ¿Existe el infierno? | `parcial` | C208–C209, C486 (privación de comunión como caso negativo de la continuación; no impuesta) | CH21 |

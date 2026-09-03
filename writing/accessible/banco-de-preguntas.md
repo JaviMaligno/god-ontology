@@ -41,7 +41,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
 | P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C615; S32, S40–S44, S71–S74 (toda tarea admitida queda cubierta; el audit de tipos nuevos no encuentra un testigo positivo; `SQBlock` y `NCCBlock` fijan las condiciones de reapertura) | CH05, CH25, CH26 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
-| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
+| P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526, C616–C623; S18, S56, S75 (razones plausibles tipadas; razón tenue dirigida a lo que sienten los sujetos; el motivo real no se pretende conocer, C113) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |
 
 ## C. Libertad, conocimiento e intervención
@@ -64,7 +64,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P23 | ¿Por qué crees que existe el bien? | `respondida` | C186–C196; S27 | CH04 |
 | P24 | ¿El bien es objetivo o lo inventamos? | `respondida` | C168–C177, C187–C188; S25, S27 | CH09 |
 | P25 | ¿Qué es el mal? | `respondida` | C189–C190, C206–C207; S27–S28 | — |
-| P26 | ¿Es Dios bueno? | `parcial` | C133, C462–C465, C479; S21, S48–S49 | CH04, CH19 |
+| P26 | ¿Es Dios bueno? | `parcial reforzada` | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 (orientación $S/R$ establecida; razón P tenue preferida; respuesta invicta a todo sufrimiento abierta) | CH04, CH19 |
 | P27 | ¿Por qué permite Dios el sufrimiento? | `parcial` | C472–C479; S49 (coberturas de política; el resto depende de P31) | CH19, CH21 |
 | P28 | ¿Por qué merece la pena sacrificarse? | `respondida` | C162–C164, C194, C200–C202; S24, S27–S28 | CH08 |
 | P29 | ¿Importa lo que pase después de mi muerte, o las generaciones futuras? | `respondida` | C186, C192–C193; S27–S28 | CH11 |

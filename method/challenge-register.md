@@ -437,7 +437,7 @@ CH18 is therefore tested at F2. The deeper choice between constrained non-criter
 
 ## CH19 — The P-gap and permitted suffering
 
-S48 establishes $GoodOrient_S(G)\land GoodOrient_R(G)$ and finds no established divine disposition toward the valence of created subjects. The challenge is not the classical inference from evil to non-existence, which does not run against a $G$ whose full goodness and unrestricted power are unearned; it is whether the good-oriented profile can be extended to $P$ at all.
+S48 establishes $GoodOrient_S(G)\land GoodOrient_R(G)$ and initially finds no established divine disposition toward the valence of created subjects. The challenge is not the classical inference from evil to non-existence, which does not run against a $G$ whose full goodness and unrestricted power are unearned. After S75, applicable and operative P-reasons are distinguished from exhaustive P-orientation; the remaining challenge is whether the profile responds fittingly to $P$ in every actual case.
 
 The test must distinguish at least:
 
@@ -449,6 +449,8 @@ The test must distinguish at least:
 Constraints already in force: R06 forbids treating every humanly perceived evil as evil from the complete perspective, but C184-style honesty forbids using that as a blanket excuse; C132 removes any requirement of an optimal world; the thesis that robust agency requires difficulty remains unassessed and high-burden. The result may be a conditional, partial $GoodOrient_P$ rather than a theodicy.
 
 S49 supplies that partial result. Cases 1 and 3 receive the policy-level source cover and case 2 the regularity cover; both leave a threshold residue whose arbitrary-threshold reply is recorded as contested. Case 4 is defined as gratuitous suffering. The bearer-level remainder shows that policy-level covers cannot by themselves close the gap for a bearer whose life ends in uncovered suffering, which opens CH21. The challenge remains `tested` rather than `resolved`.
+
+S75 tests C526's prior question whether any P-directed reason belongs to the profile. It adds reason-ground to the C521 form, separates applicability, uptake, exercise, and orientation, and derives pro tanto P-reason applicability to $G$ conditionally on $Fit_*$. The cumulative otherness, sourcehood, $ASA$, and relation profile abductively favors uptake through a participant rather than a merely instrumental reading. A thin favoring $r_P$ is therefore preferred at F2: structure-indexed in creative deliberation and de re bearer-indexed only after actuality. This does not close CH19: $GoodOrient_P(G)$ still requires every relevant P-response to be undefeated, hence no gratuitous suffering and adequate bearer horizons. The live challenge is now the move from thin uptake to exhaustive orientation, not the bare existence of any P-reason.
 
 ## CH20 — Veridicality of experiential access
 

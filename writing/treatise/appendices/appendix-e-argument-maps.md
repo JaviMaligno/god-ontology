@@ -81,8 +81,10 @@ Omnipresence: Present_O = grounding reach + epistemic access + causal availabili
   └─ five levels of personal presence; UPA; co-produced reciprocity                     [C121–C124]
 Goodness: A_min = {P,S,R}; Fit_*; due-good privation                                     [C187–C190, C206]
   ├─ non-circular G-grounding of Fit_*                                                   [C462]
-  ├─ typed reasons; established profile targets S and R only                            [C521–C524]
-  └─ GoodOrient_S ∧ GoodOrient_R earned; GoodOrient_P not earned (the P-gap)             [C463–C464]
+  ├─ typed reasons: ground, target, mode, and level                                      [C521, C616]
+  ├─ GoodOrient_S ∧ GoodOrient_R earned                                                  [C463]
+  ├─ P-fit applies to G + participant reading → thin operative P-reason preferred       [C618–C621]
+  └─ undefeated GoodOrient_P not earned (the remaining P-gap)                           [C622–C623]
 Evil: permission is the load-bearing relation; source and regularity covers; bearer-level remainder;
   continuation load-bearing; belief with exact content                                   [C472–C479]
 Identity: absolute primitive =_N; organismic persistence; gappy careers admissible       [C435–C456]

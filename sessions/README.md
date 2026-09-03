@@ -80,3 +80,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S72 — Self-executive action and intrinsic manifestation](2026-09-02-self-executive-action-and-intrinsic-manifestation.md)
 - [S73 — Non-created concreta and universal dependence](2026-09-02-non-created-concreta-and-universal-dependence.md)
 - [S74 — Self-qualification and action topology](2026-09-03-self-qualification-and-action-topology.md)
+- [S75 — The P-reason: ground, target, uptake, and orientation](2026-09-03-p-reason-ground-and-uptake.md)

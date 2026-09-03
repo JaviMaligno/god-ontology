@@ -352,7 +352,10 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Provisional essential grounding of objective fit in $G$
     - The non-circular route: kinds $G$ instantiates or grounds
     - A good-oriented divine profile toward sourcehood and relation
-    - The P-gap: why orientation toward created valence is where evil enters
+    - Reason-ground versus response-target: how relation can ground a valence-directed reason
+    - Applicability, uptake, exercise, and exhaustive orientation
+    - The thin P-reason: objective valence plus the participant reading of finite otherness
+    - The remaining P-gap: why undefeated orientation toward created valence is where evil enters
     - Good-orientation is not omnibenevolence
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**

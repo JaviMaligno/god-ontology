@@ -50,8 +50,8 @@ The following equivalences keep the plain language faithful. They are guides, no
 | anchors $P$, $S$, $R$ | what can suffer and enjoy; what can choose; what can know and be known truthfully |
 | objective fit ($Fit_*$) | what actually suits a being given what it is, whether or not anyone believes it |
 | due-good privation | evil is a good that ought to be there and is missing or broken; it is not a rival substance |
-| good-oriented profile (C463) | everything established about God points toward the freedom of conscious beings and truthful relation with them |
-| the P-gap (C464) | what has not been established: God's orientation toward what we feel, including our suffering |
+| good-oriented profile and thin P-reason (C463, C621) | God's established profile protects freedom and truthful relation; there is also a preferred but non-conclusive reason for what conscious beings feel to count in creation |
+| the remaining P-gap (C622–C623) | what has not been established: that the reason concerning what we feel is answered fittingly without exception, so that no suffering is gratuitous |
 | qualified omnipotence ($OMP_C$ preferred, $OMP_Q$ provisional) | God can do with the created order anything that makes sense to do, and nothing created can limit that; S73 provisionally extends all concrete reality into dependence on God, and S74 finds no positive new action kind while preserving self-qualification as an exact reopening test rather than claiming a proof |
 
 ## Workflow

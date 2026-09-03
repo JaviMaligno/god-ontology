@@ -155,6 +155,15 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Peter Geach on prayer for past events | **C** | Exact source: “Praying for Things to Happen,” in *God and the Soul* (Routledge & Kegan Paul, 1969), 86-99. Geach argues that impetratory prayer concerns future two-way contingencies and rejects prayer for past events. He is a contrast to Dummett, not a co-author of the same independence condition. |
 | Kit Fine and Gideon Rosen on grounding | **C/Q** | Exact sources: Fine, “Guide to Ground,” in *Metaphysical Grounding* (Cambridge, 2012), 37-80; Rosen, “Metaphysical Dependence: Grounding and Reduction,” in *Modality* (Oxford, 2010), 109-136. They establish the grounding framework, but the [SEP discussion of fundamentality](https://plato.stanford.edu/entries/fundamentality/#WellFoun) shows that strong well-foundedness and bans on infinite chains are contested and admit multiple formulations. WFR remains a project commitment or derivation from its own C29-C30/S39 assumptions, not a theorem obtained merely by citing Fine and Rosen. |
 
+## S75 — P-reason ground and uptake (C616-C623)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Mark C. Murphy, *God's Own Ethics* (2017) | **V/Q** | The [OUP record](https://doi.org/10.1093/oso/9780198796916.001.0001) states that God may rationally promote creaturely well-being without being governed by an automatic requiring norm to do so. This directly supports the coherence of a non-requiring divine welfare reason; S75 does not import Murphy's perfect-being framework or contingent self-legislation. |
+| Niko Kolodny, “Love as Valuing a Relationship” (2003) | **V/Q** | The [author-hosted article](https://www.mit.edu/~shaslang/mprg/KolodnyLVR.pdf) distinguishes the ground of valuation from its focus and argues that a relationship can give a participant reasons to act in the other's interests. This supports C616's formal distinction; the divine application and the cumulative participant inference remain local. |
+| Stephen Darwall, “Respect and the Second-Person Standpoint” (2004) | **Q** | The [author manuscript](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/62458/Darwall2004_Respect_and_the_Second-Person_Standpoint.pdf%3Bsequence%3D1) connects recognition of persons with second-personal practical authority. It is a stronger comparison, not a premise: the project has not adopted equal reciprocal authority between $G$ and created agents. |
+| Aquinas on love as willing another's good | **Q** | The traditional route makes concern for another's good internal to love. It cannot establish S75's result because divine love has not been independently derived; using it here would assume the attribute under investigation. |
+
 ## Classification disposition
 
 The overall classification remains “established components; project-specific synthesis” for S46-S58 and S64, with three sharpenings:

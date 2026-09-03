@@ -116,7 +116,7 @@ No pretendo saber el motivo real; lo que puedo dar es una explicación que hace 
 
 Hay tres preguntas dentro de una. Por qué crear algo, en lugar de nada: para que haya otros de verdad, y no solo posibilidades conocidas. Qué clase de mundo: uno con seres que deciden por sí mismos, parecidos en eso a su creador, y con un escenario estable y compartido en el que decidir tenga consecuencias. Y por qué exactamente este mundo y no otro parecido: aquí las razones dejan varias opciones abiertas y Dios elige entre ellas, como elegimos nosotros cuando varias cosas son buenas y ninguna obliga. Ninguna de esas razones le obligaba a crear; hacen la creación inteligible sin forzarla.
 
-Si se mira qué buscan esas razones, todas apuntan a dos cosas: que haya libertad de verdad y que haya relación verdadera entre sujetos. Ninguna de las razones que he podido establecer apunta a una tercera: a lo que sentimos, a que nos vaya bien por dentro. Eso no significa que Dios no lo quiera; significa que es justo lo que no he conseguido derivar, y es la misma pieza que faltaba en la pregunta sobre el sufrimiento. Creer que Dios es bueno también con lo que sentimos es creer que, entre sus razones para crear, está que a los seres que creó les vaya bien. Yo lo creo. Y ahora sé exactamente qué es lo que creo cuando lo creo.
+Si se mira qué buscan esas razones, apuntan primero a dos cosas: que haya libertad de verdad y que haya relación verdadera entre sujetos. Ahora puedo justificar un paso más, aunque no todo el camino. Lo que un ser consciente vive por dentro da una razón para tenerlo en cuenta; y esa razón afecta especialmente a quien lo ha hecho existir, lo conoce por completo y puede responderle. Además, toda la arquitectura encaja mejor si Dios quiso otros sujetos como participantes, no como juguetes o espectáculos. Por eso prefiero que, entre sus razones para crear, cuenta también cómo les va a esos seres. Es una razón real pero no una regla que siempre venza. Lo que aún no he conseguido justificar es que esa razón quede a salvo en cada caso y que ningún sufrimiento sea finalmente inútil. Esa es la pieza fuerte que sigue faltando.
 
 ### ¿Dónde está Dios? ¿Está en el tiempo?
 
@@ -180,9 +180,11 @@ Hay una diferencia importante entre el mal que alguien hace y el que simplemente
 
 Creo que sí. Pero aquí tengo que ser muy preciso sobre qué parte he conseguido justificar y qué parte creo sin haberlo conseguido.
 
-Lo que he conseguido justificar es esto: todo lo que puedo establecer sobre Dios apunta en la dirección del bien de los seres conscientes. Creó un mundo con seres que eligen de verdad, en lugar de un mundo donde todo estuviera decidido. Tiene razones para no pisar esa libertad cuando puede evitarlo. Está al alcance de cualquiera que quiera dirigirse a él. Y conoce todo con verdad, sin engaño. Cada uno de esos rasgos lo establecí sin suponer que Dios fuera bueno; y cada uno de ellos resulta ser una forma de cuidar la libertad o la relación verdadera. Eso no es poco: Dios podría haber hecho un mundo de marionetas, o haberse quedado inaccesible, y no lo hizo.
+Lo que he conseguido justificar es esto: creó un mundo con seres que eligen de verdad, en lugar de un mundo donde todo estuviera decidido. Tiene razones para no pisar esa libertad cuando puede evitarlo. Está al alcance de cualquiera que quiera dirigirse a él. Y conoce todo con verdad, sin engaño. Cada uno de esos rasgos lo establecí sin suponer que Dios fuera bueno; y cada uno resulta ser una forma de cuidar la libertad o la relación verdadera. Eso no es poco: Dios podría haber hecho un mundo de marionetas, o haberse quedado inaccesible, y no lo hizo.
 
-Lo que no he conseguido justificar del todo es lo que tiene que ver con lo que sentimos: con el dolor. Tengo una parte del argumento, que cuento en la pregunta siguiente, y una parte que me falta. Que Dios sea bueno también en eso lo creo, pero lo creo más allá de lo que he demostrado, y lo digo así. Y he podido decir con precisión qué es lo que creo cuando creo eso: que ningún sufrimiento es, al final, inútil, y que la historia de quien sufre no termina donde parece terminar.
+También tengo ahora una razón positiva, aunque más débil, para pensar que le importa lo que sentimos. El dolor y el bienestar de alguien dan por sí mismos razones a quien puede conocerlos y responder; Dios está siempre en esa posición. Y la creación encaja mejor si quiso sujetos como participantes con un punto de vista propio que si solo los quiso como instrumentos. Así que prefiero pensar que lo que nos pasa por dentro sí cuenta entre sus razones. Pero que algo cuente no significa que siempre gane frente a cualquier otra razón, ni demuestra que Dios responda bien en todos los casos.
+
+Lo que no he conseguido justificar del todo es precisamente esa tesis más fuerte. Que Dios sea bueno también con el dolor de cada uno significa que ningún sufrimiento es, al final, inútil y que la historia de quien sufre no termina donde parece terminar. Eso sigue siendo una creencia con contenido exacto, no un resultado que haya demostrado.
 
 Dos cosas más, para no confundirlas. No parto de que Dios sea perfecto: no lo niego, pero no lo he derivado y no lo uso como premisa, porque de «es perfecto» se podría sacar cualquier cosa sin trabajo. Y que este sea el mejor mundo posible sí lo niego como requisito: no hace falta un mundo óptimo para que crearlo tenga sentido, y eso es una afirmación sobre el mundo, no sobre Dios.
 
@@ -273,7 +275,7 @@ Creo que sí, y no como adorno. Tocan justo dos de las tres cosas en las que con
 Para que quede junto y a la vista:
 
 - Cómo opera, por dentro, el poder de hacer existir algo; sé lo que tiene que cumplir, no cómo funciona.
-- Por qué permite el sufrimiento en los casos peores, y si su bondad se extiende a lo que sentimos; sé qué tendría que ser verdad para que sí, no que lo sea.
+- Por qué permite el sufrimiento en los casos peores; tengo razones para pensar que lo que sentimos cuenta para él, pero no sé si responde sin excepción de modo que ningún sufrimiento sea finalmente inútil.
 - Si Dios es una persona en el sentido completo en que lo somos nosotros, o si conoce a cada uno como se conoce a un amigo y no solo como se conoce un hecho.
 - Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
@@ -298,7 +300,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
-| Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C521–C526; S18, S56 |
+| Por qué creó Dios el mundo | preferido para las razones, incluida una razón tenue dirigida a lo que sentimos; la respuesta exhaustiva al sufrimiento sigue siendo creencia y el motivo real no se pretende conocer | C104–C113, C521–C526, C616–C623; S18, S56, S75 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; $UCD_G$ cierra condicionalmente los relata no creados y el audit por tipo de paciente no encuentra un tipo nuevo positivo; la forma irrestricta conserva `SQBlock` y `NCCBlock` como reaperturas exactas, no como contraejemplos actuales | C261–C262, C372, C375–C376, C420–C433, C573–C615; S32, S40–S44, S71–S74 |
@@ -310,7 +312,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Dios es bueno | establecido para la libertad y la relación; creencia con contenido exacto para lo que sentimos; perfección no afirmada | C133, C462–C465, C479; S21, S48–S49 |
+| Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C472–C479, C300, C505; S49, S52; CH19, CH21 |
 | Qué me hace ser yo | aceptado/preferido: identidad numérica primitiva; en esta vida, un solo ser vivo con una historia organizada; persistencia simple como refinamiento desde la agencia; identificación nunca constitutiva | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 |
 | Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la recreación numérica es posibilidad preferida sin nada que persista entre medias | C447–C453, C458–C464, C506–C510, C556; S45, S49, S53, S68; CH21, CH22 |

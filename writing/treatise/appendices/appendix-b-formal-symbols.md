@@ -90,7 +90,10 @@
 | --- | --- | --- | --- | --- |
 | $\mathcal A_{min}=\{P,S,R\}$ | anchors | conscious valence, agentive sourcehood, truthful recognition or relation | preferred (C187) | S27 |
 | $Fit_*(x,a,B,C,\tau)$ | objective fit | bearer eligibility, directed anchor profile, apt proportionate response, scope, defeat | preferred (C188–C189, C203) | S27–S28 |
-| $GoodOrient_a(G)$ | good-orientation | $\forall d\in Disp^{est}(G)[Relevant(d,a)\rightarrow Fit_*(d,a,\ldots)]$; holds for $S,R$; open for $P$ | preferred/open (C463–C464) | S47 |
+| $GoodOrient_a(G)$ | good-orientation | $\forall d\in Disp^{est}(G)[Relevant(d,a)\rightarrow Fit_*(d,a,\ldots)]$; holds for $S,R$; undefeated exhaustive response remains open for $P$ | preferred/open (C463–C464, C622–C623) | S48, S75 |
 | $Permits(G,s)$, $Cover(r,s)$, $Gratuitous(s)$ | permission structure | $Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s)$; undefeated misfit prevention would produce; permitted with no cover | accepted (C473) | S48 |
 | $ContHorizon(B)$ | continuation | numerically same bearer with undefeated $P$-fit beyond $Life(B)$, anywhere in $\mathfrak R^*$ | conditional (C480–C485) | S49 |
-| typed creative reason $\langle target, mode, level\rangle$ | reasons | requiring/favoring/justifying at creation/architecture/specification | accepted (C521–C527) | S55 |
+| typed creative reason $\langle ground,target,mode,level\rangle$ | reasons | the fact grounding a reason is distinguished from its response target; requiring/favoring/justifying at creation/architecture/specification | proposed accepted refinement (C521, C616) | S56, S75 |
+| $PCase(x,B,C,\tau)$, $RespScope(A,B,x,C,\tau)$ | P-reason applicability | an obtaining realization, protection, loss, or corruption of P-fit; $A$ can identify it and its bearer, can respond, and stands in a pertinent causal, creative, or personal nexus | proposed preferred conditional (C618) | S75 |
+| $Applies(r,A)$, $Owns(A,r)$, $Exercises(A,r,\alpha)$ | reason standings | normative applicability; uptake into the agent's profile; explanatory exercise in an act | proposed accepted distinction (C617) | S75 |
+| $r_P^{thin}$ | valence-directed reason | structural-profile-indexed in creative deliberation and de re bearer-indexed in actual response; favoring without maximizing or guaranteeing undefeated response | proposed preferred at F2 (C621–C623) | S75 |

@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 615 |
-| Rejected or corrected moves (R) | 238 |
+| Working commitments (C) | 623 |
+| Rejected or corrected moves (R) | 242 |
 | Challenges (CH) | 26 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 246 |
+| accepted | 245 |
 | preferred | 241 |
-| other | 74 |
+| other | 83 |
 | provisional | 25 |
 | open | 12 |
 | merged | 9 |
@@ -555,7 +555,7 @@
 | C522 | The eligible set is the intersection of the admissibility sets of the requiring reasons with coherence; $G$ settles within the undominated set of the partial attraction order; plural favoring reasons typically leave more than one undominated structure, so reasons do not necessitate the exact specification. | `accepted` |
 | C523 | The organizing agency reason is requiring at the architecture level: given creation for actual finite otherness and analogous sourcehood, every eligible $S$ enables autonomous agents. C106 follows, while non-creation remains live at the creation level. | `preferred refinement` |
 | C524 | The established S18 reason profile has targets $S$ and $R$ only; good-orientation toward sourcehood and relation (C463) follows by typing. | `accepted` |
-| C525 | The P-gap is the absence of a P-directed reason in the established profile: $GoodOrient_P(G)$ holds iff the profile contains an exercised reason whose target is conscious valence. | `accepted diagnosis` |
+| C525 | At the S56 stage, the established S18 profile contained no P-directed reason; its further biconditional between one exercised P-reason and $GoodOrient_P(G)$ was too strong. | `historical diagnosis; biconditional corrected by C617 and C622` |
 | C526 | Two candidate routes to a P-reason exist: reading actual finite otherness as making subjects actual for their own sake, and regard internal to truthful relation with a valenced subject. Each is an abductive addition at C105's evidential level; neither is adopted. | `open` |
 | C527 | The token and diachronic agency-preservation presumptions follow from the requiring sourcehood reason, whose target includes the diachronic level of agency; the source cover conflicts with an admissibility condition, not only a preference. | `accepted` |
 | C528 | $Poss_C^{ind}(S)$ holds iff $S$ is consistent under $N_L$, admits at least one complete history under $N_M$, its specified created powers are compossible, it is a created specification of instantiable profiles with no self-existent constituent, and it requires nothing $G$'s independently established essence excludes. | `merged into C344–C345 (S60); model existence explicit, $E_G$ clause relocated to B4` |
@@ -646,6 +646,14 @@
 | C613 | A genuine $SQBlock_G(a,m)$ requires an independently possible $CNBIM$, an eligible $SelfQualAdm_G$ action, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
 | C614 | No current candidate satisfies `SQBlock`; no independently established new basic divine action kind extends $\mathcal K_G^{est}$. | `proposed preferred F2 negative audit result` |
 | C615 | The novel-action-kind priority is closed at F2 without promoting unrestricted $OMP_Q$ to a demonstration. | `proposed preferred bounded closure` |
+| C616 | Creative reasons have both a ground and a target. Their canonical full form is $\langle g,a,\mu,\ell\rangle$, while C521's triple remains shorthand when the ground is suppressed or coincides with the target. | `proposed accepted refinement` |
+| C617 | Normative applicability, uptake into an agent's reason profile, exercise in an act, and good-orientation are distinct. $GoodOrient_P(G)$ implies P-reason uptake and applicability, but the converses fail. | `proposed accepted distinction` |
+| C618 | Conditional on preferred $Fit_*$, P-fit and P-misfit supply pro tanto reasons to agents within `RespScope`; $G$ satisfies that scope for every actual conscious bearer through existential grounding, ACO/$ASA$, causal availability, and personal availability. | `proposed preferred conditional theorem` |
+| C619 | Actual finite otherness alone and truthful cognitive recognition alone do not entail conative concern for conscious valence. | `proposed accepted limit` |
+| C620 | The cumulative profile favors the participant reading $H_{participant}$ over the merely instrumental $H_{means}$: created subjects are sought as participants whose sourcehood and standpoint matter. | `proposed preferred abductive reading` |
+| C621 | The direct and relational routes jointly support $Owns(G,r_P^{thin})$. Its creative application is indexed to modal structural P-profiles; once a bearer is actual, its response-reason instances are de re and bearer-indexed. | `proposed preferred at F2` |
+| C622 | C525's equivalence is corrected: possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation requires undefeated fitting response in every relevant actual case and therefore excludes gratuitous suffering. | `proposed accepted correction` |
+| C623 | C526 is boundedly closed: its two routes are complementary and a thin operative P-reason is preferred, while exhaustive P-orientation, continuation, divine love, affective valence, and omnibenevolence remain open. | `proposed bounded closure at F2` |
 
 ## Rejected or corrected moves
 
@@ -889,6 +897,10 @@
 | R236 | Every non-executive intrinsic difference in $G$ must add an essential power, proper part, substrate, or bearer. | `rejected correction` |
 | R237 | If $G$ can intend or prefer an intrinsic mode, $G$ can thereby produce that mode in itself. | `rejected` |
 | R238 | Failure to find a new action-kind witness demonstrates unrestricted omnipotence. | `rejected` |
+| R239 | Every applicable normative reason is automatically owned, exercised, or perfectly satisfied by a rational agent. | `rejected` |
+| R240 | A reason grounded in $R$ must target $R$, so relation cannot ground a genuinely P-directed reason. | `rejected` |
+| R241 | Any P-directed reason entails welfare maximization, a best world, or prevention of every suffering. | `rejected` |
+| R242 | Accurate acquaintance with a subject's experience alone establishes concern for that experience. | `rejected` |
 
 ## Challenges
 

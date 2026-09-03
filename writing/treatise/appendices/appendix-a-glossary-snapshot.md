@@ -2,7 +2,7 @@
 
 *Generated 2026-09-03 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
 
-Entries: 326.
+Entries: 330.
 
 | Term | Working definition | Status/source |
 | --- | --- | --- |
@@ -326,7 +326,11 @@ Entries: 326.
 | **Modal identity** | The identity of an agent across diverging possible histories, the same primitive as its individuation. It makes alternatives the same agent's. | accepted; C519 |
 | **Creative reason (typed)** | A triple of target (an anchor or a non-axiological feature), mode (favoring, justifying, requiring), and level (creation, architecture, specification). | accepted; C521, S56 |
 | **Eligibility filter and attraction order** | Requiring reasons filter structures into the eligible set; favoring reasons induce a partial attraction order on it; $G$ settles within the undominated set. Plural reasons leave the undominated set non-singleton. | accepted; C522 |
-| **P-reason** | A creative reason whose target is the conscious valence of created subjects. Absent from the established profile; its presence and exercise is what $GoodOrient_P(G)$ would require. | open; C525–C526 |
+| **Reason ground / reason target** | In the full creative-reason form $\langle g,a,\mu,\ell\rangle$, the ground $g$ is that in virtue of which the reason obtains and the target $a$ is what its response concerns. A reason grounded in relation may therefore be directed at a participant's valence. | proposed accepted refinement; C616 |
+| **Reason applicability / uptake / exercise** | An objective reason may apply to an agent, be admitted into that agent's standing profile, and partly explain a particular act; these are progressively stronger claims and none alone establishes exhaustive good-orientation. | proposed accepted distinction; C617 |
+| **Response scope `RespScope`** | The epistemic, capacitative, and causal, creative, or personal nexus that makes an agent an appropriate respondent to a bearer's objective P-fit or P-misfit. | proposed preferred conditional device; C618 |
+| **Thin P-reason $r_P^{thin}$** | A favoring reason under which conscious valence genuinely counts. In creative deliberation it concerns modal structural P-profiles without reifying possible individuals; after actuality its response instances are de re and bearer-indexed. It entails neither maximization nor undefeated response. | proposed preferred at F2; C620–C623 |
+| **P-reason** | A reason whose response target is the conscious valence of created subjects, whether its ground is $P$ directly or an $R$-relation. A thin operative P-reason is preferred; exhaustive $GoodOrient_P(G)$ remains open. | proposed preferred with strong remainder; C525–C526, C616–C623 |
 | **Independent created possibility $Poss_C^{ind}(S)$ (S57 formulation)** | The five-clause definition of S57 (consistency, model existence, compossible created powers, createdness, $E_G^{ind}$-compatibility). Reconciled in S60 with $Adm_C$: the first four clauses are merged into $Adm_C$ with model existence explicit; the $E_G$ clause is relocated to accessibility (B4). | merged; C528, C542, S60 |
 | **Modal uniqueness of necessary agents ($MUNA$)** | Exactly one necessary agent exists, in every world. Stronger than $U_D$; supported by the same considerations; entails modal sole-source invariance for created orders. | preferred; C531 |
 | **Creative plenitude (conditional)** | Every independently possible created specification is within $G$'s creative capacity, given $MUNA$, essential originative power, and agent-relative accessibility. | preferred conditional; C532 |

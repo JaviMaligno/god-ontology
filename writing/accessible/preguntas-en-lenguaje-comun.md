@@ -92,7 +92,9 @@ Dos cosas más. Puede también deshacer lo que ha hecho, incluso hacer que algo 
 
 La prueba del otro ser concreto ya está hecha y ha aclarado bastante. «Creado» quiere decir que depende de Dios, aunque exista siempre o incluso necesariamente; no quiere decir que empiece en un momento. Si Dios fundamenta todo lo contingente, un ser concreto que de verdad no dependiera de él tendría que ser necesario e independiente. Mis argumentos anteriores excluían que fuera otra fuente de un mundo, pero no demostraban que no pudiera existir aislado. Prefiero una extensión más fuerte: todo ser concreto distinto de Dios, si existe, depende de él. La prefiero porque deja un solo fondo concreto de la realidad, no para proteger el poder de Dios; no puedo demostrarla y una metafísica con dos fondos necesarios sigue siendo describible.
 
-Incluso si hubiera ese segundo ser, no sería un límite solo por existir. Crear al mismo ser conservándolo «no creado», destruirlo conservándolo necesario, o fabricar su decisión y conservarla libre son descripciones incoherentes. El caso que sí pondría un límite sería uno concreto: que hubiera una acción que Dios pudiera realizar de manera coherente sobre ese ser, que el ser la bloqueara por un poder propio e independiente y que Dios no pudiera aportar el resultado que le corresponde. No tenemos un caso así. Con la tesis de un solo fondo concreto, esta rama queda cerrada de forma provisional; falta todavía comprobar si existe algún tipo genuino de acción divina que no haya entrado en las clases ya construidas.
+Incluso si hubiera ese segundo ser, no sería un límite solo por existir. Crear al mismo ser conservándolo «no creado», destruirlo conservándolo necesario, o fabricar su decisión y conservarla libre son descripciones incoherentes. El caso que sí pondría un límite sería uno concreto: que hubiera una acción que Dios pudiera realizar de manera coherente sobre ese ser, que el ser la bloqueara por un poder propio e independiente y que Dios no pudiera aportar el resultado que le corresponde. No tenemos un caso así. Con la tesis de un solo fondo concreto, esta rama queda cerrada de forma provisional.
+
+También he comprobado si falta algún tipo entero de acción. Palabras como amar, perdonar, prometer, juzgar o imaginar no prueban por sí mismas que haya capacidades nuevas: suelen juntar conocer, decidir, comunicar, producir un efecto y la respuesta de otra persona. El único hueco estructural verdadero sería que Dios pudiera darse a sí mismo una cualidad intrínseca contingente —por ejemplo, algún estado fenomenal o afectivo— sin dejar de ser el mismo ni adquirir una pieza o capacidad esencial nueva. La idea es coherente, pero todavía no tenemos ningún caso que se siga de lo que ya sabemos de Dios. Y poder querer estar en un estado no demuestra poder producirlo. Por eso no digo que la omnipotencia esté demostrada: digo que no hemos encontrado un límite y que ya sabemos exactamente qué tendría que mostrar un contraejemplo.
 
 ### ¿De qué está hecho Dios?
 
@@ -276,7 +278,8 @@ Para que quede junto y a la vista:
 - Qué somos exactamente en el fondo: creo con razones que en esta vida soy un solo ser vivo, y que lo que me hace ser yo no es ninguna descripción; si además hay algo de mí que no dependa del cuerpo, no lo sé, y no lo necesito para lo anterior.
 - Cuál fue la razón concreta por la que Dios creó; sé qué razones podría tener, no cuál tuvo.
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
-- Si puede existir otro ser concreto que no haya sido creado por Dios y que limite su poder; nuestra ontología no contiene ninguno, pero todavía no he descartado todas las ontologías rivales.
+- Si puede existir otro ser concreto que no haya sido creado por Dios y que limite su poder; prefiero una ontología que lo excluye, pero no he demostrado que toda rival sea imposible.
+- Si existe alguna cualidad intrínseca contingente que Dios pudiera darse a sí mismo y que no sea simplemente uno de sus actos ya conocidos; la clase es coherente, pero no tenemos un caso positivo.
 
 ---
 
@@ -298,7 +301,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Por qué creó Dios el mundo | preferido para las razones; creencia para la razón dirigida a lo que sentimos; el motivo real no se pretende conocer | C104–C113, C521–C526; S18, S56 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
-| Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; la rama de relata no creados queda condicionalmente cerrada mediante $UCD_G$ y la forma irrestricta sigue pendiente de tipos de acción genuinamente nuevos | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 |
+| Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; $UCD_G$ cierra condicionalmente los relata no creados y el audit por tipo de paciente no encuentra un tipo nuevo positivo; la forma irrestricta conserva `SQBlock` y `NCCBlock` como reaperturas exactas, no como contraejemplos actuales | C261–C262, C372, C375–C376, C420–C433, C573–C615; S32, S40–S44, S71–S74 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |
 | Plan para mi vida; manipulación | preferido/aceptado; el modelo canónico es el de S35, con los refinamientos de S52 | C18, C119, C297–C308, C497–C505, C541; S35, S52, S60 |

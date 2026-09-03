@@ -1,22 +1,22 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-02 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-03 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 600 |
-| Rejected or corrected moves (R) | 234 |
-| Challenges (CH) | 25 |
+| Working commitments (C) | 615 |
+| Rejected or corrected moves (R) | 238 |
+| Challenges (CH) | 26 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 246 |
 | preferred | 241 |
-| other | 60 |
+| other | 74 |
 | provisional | 25 |
-| open | 11 |
+| open | 12 |
 | merged | 9 |
 | deferred | 4 |
 | rejected | 2 |
@@ -24,7 +24,7 @@
 
 | Challenge status (first word) | Count |
 | --- | --- |
-| tested | 17 |
+| tested | 18 |
 | scoped | 8 |
 
 ## Working commitments
@@ -292,7 +292,7 @@
 | C259 | Conditional on sole divine ultimity and existential sovereignty, no created entity, law, field, agent, or spacetime region can be the ultimate limiter of $G$. | `preferred conditional consequence` |
 | C260 | $P_{OEC}$, variable $S$-specification, and typed intervention provide broad cross-category evidence for maximal created-order power but do not entail a universal range. | `accepted evidential assessment` |
 | C261 | $G$ satisfies created-order qualified maximality $OMP_C$. | `preferred at F2` |
-| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity or, if $UCD_G$ fails, an $NCCBlock$. | `accepted evidential ordering; refined by S72–S73` |
+| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity, an $SQBlock$, or, if $UCD_G$ fails, an $NCCBlock$. | `accepted evidential ordering; refined by S72–S74` |
 | C263 | An alleged essential internal limit qualifies the action domain only if the essential feature is established independently of that incapacity and omnipotence. | `accepted anti-circularity rule` |
 | C264 | Logical, identity, and mathematical constraints are not thereby non-created agents or causal blockers competing in power with $G$. | `preferred` |
 | C265 | A necessary concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `refined as NCCBlock by C587–C600` |
@@ -456,7 +456,7 @@
 | C423 | Conditional on $CAN_G$ and the earlier range bridges, $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust pure created-directed tasks at F2. | `preferred F2 domain-closure result` |
 | C424 | Self-executive action exercises a divine power while preserving $E_G^{ind}$; it is distinct from treating $G$ as a patient whose essential constitution is replaced. | `preferred distinction` |
 | C425 | The architecture establishes a positive fragment $SE_G^{est}$ containing the self-executive types already used in creation, no-creation, intervention, and communication. | `preferred F2 partial range` |
-| C426 | Universal range over every independently eligible self-executive action remained open after S44. | `historical burden resolved within $\mathcal O_*$ by C573–C585` |
+| C426 | Universal range over every independently eligible self-executive action remained open after S44. | `historical burden resolved within $\mathcal O_*$ by C573–C615` |
 | C427 | A self-reconstituting description fails $Task_G$ when its result removes an independently established identity condition of the same $G$ to whom the complete action is attributed. | `preferred identity qualification` |
 | C428 | Divine states and relations are not automatically further divine actions. | `accepted analytic distinction` |
 | C429 | Logical, mathematical, modal, and identity necessities constrain task coherence but are not thereby causal patients or resistant non-created agents. | `preferred application` |
@@ -601,7 +601,7 @@
 | C568 | The preferred actual creation remains constitutively disjoint $OEC^+_{CCD}$ even if $ANDC$ is an eligible divine capacity. | `preferred actual/capacity distinction` |
 | C569 | An eligible $ANDC$ creation whose divine-side result is only relational normalizes to $RootForm$ rather than requiring an intrinsic self-reconstitution power. | `preferred S71 application of S45 identity` |
 | C570 | $CP_G^{elig}$ covers every independently admissible $ANDC$ root specification satisfying $Elig_{ANDC}^G$. | `preferred at F2 conditional on prior bridges` |
-| C571 | A genuinely intrinsic contingent divine mode that constitutes creation was not covered by $CP_G^{elig}$ alone and passed to the self-executive or self-modificatory range audit. | `historical residual split by C581–C584` |
+| C571 | A genuinely intrinsic contingent divine mode that constitutes creation was not covered by $CP_G^{elig}$ alone and passed to the self-executive or self-modificatory range audit. | `historical residual refined through C615` |
 | C572 | S71 establishes neither actual panentheism, actual strict *ex deo*, world embodiment, nor incarnation. | `accepted scope limit` |
 | C573 | Self-executive action is defined on the action side through $G$'s direct executive sourcehood, with no distinct bearer or causal patient required for its executive result and with $PP_G$ preserved. | `proposed preferred refinement` |
 | C574 | The established divine executive grammar $\mathcal K_G^{est}$ contains cognitive-attentional, rational-volitional, communicative-address, originative-existential, and interventive manifestation kinds. | `proposed preferred F2 taxonomy` |
@@ -612,10 +612,10 @@
 | C579 | $FEG_G$ closes $SE_G^{est}$ but does not extend to arbitrary compatible manifestations, novel power kinds, or every intrinsic description of $G$. | `proposed accepted scope limit` |
 | C580 | Divine reasons-apprehension, selection, and execution may be logically ordered aspects of one atemporal action; contingent specification and a created manifestation at $t$ do not require temporal succession in $G$. | `proposed preferred E+ integration` |
 | C581 | An executive intrinsic mode $ExecMode_G$ is an occurrent intrinsic aspect of an established power's token exercise that preserves $PP_G$ and adds no new constitutive basis. | `proposed preferred F2 distinction` |
-| C582 | A qualitative intrinsic mode $QualMode_G$ adds a new quality, power, part, substrate-state, or determinant not reducible to an established exercise token. | `open ontology extension` |
-| C583 | The intrinsic-mode *ex deo* family divides into executive-token $ED_{IM}^{exec}$ and qualitative self-modificatory $ED_{IM}^{qual}$. | `proposed accepted refinement` |
-| C584 | A jointly admissible $ED_{IM}^{exec}$ specification is conditionally within divine capacity through token unity, $FEG_G$, and $CP_G^{elig}$; $ED_{IM}^{qual}$ remains open. | `proposed preferred conditional F2 capacity` |
-| C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure; external branch refined by C600` |
+| C582 | A qualitative intrinsic mode $QualMode_G$ is the broad non-executive genus; it must be divided into basic reconstitution and a possible contingent non-basic intrinsic mode rather than assumed always to add a power, proper part, substrate, or essential determinant. | `corrected and refined by C604–C614` |
+| C583 | The intrinsic-mode *ex deo* family divides into executive-token $ED_{IM}^{exec}$ and broad qualitative $ED_{IM}^{qual}$. | `proposed accepted refinement; qualitative family partitioned by C604–C605` |
+| C584 | A jointly admissible $ED_{IM}^{exec}$ specification is conditionally within divine capacity through token unity, $FEG_G$, and $CP_G^{elig}$; the broad $ED_{IM}^{qual}$ family requires the S74 partition. | `proposed preferred conditional F2 capacity; qualitative branch refined` |
+| C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure; external branches refined by C600–C615` |
 | C586 | For concrete relata, creation by $G$ is existential dependence on $G$, direct or through a well-founded derivative chain; it entails neither temporal beginning nor immediate production by the actual contingent $OEC^+$ act. | `proposed accepted clarification` |
 | C587 | $NCC_G(L)$ says only that $L$ is concrete, numerically distinct from $G$, and not existentially dependent on $G$; necessity, agency, grounding, interaction, and resistance require separate premises. | `proposed accepted analytic rule` |
 | C588 | Conditional on C04's grounding of total contingent reality, every $NCC_G(L)$ is necessary. | `proposed preferred consequence` |
@@ -630,7 +630,22 @@
 | C597 | If $UCD_G$ is false, modifying, constraining, disclosing to, cooperating with, or producing a source-neutral result concerning $L$ may pass $Task_G$ when the complete action is independently essence-compatible and source-consistent. | `proposed conditional task range` |
 | C598 | Joint action with an autonomous non-created agent is typed by asymmetric contributions: $G$ must strongly produce its own contribution, not the other agent's contrastive settlement. | `proposed accepted source-role extension` |
 | C599 | A genuine $NCCBlock_G(L,a)$ requires $NCC_G(L)$, an independently eligible $LTask_G(a,L)$, an underived boundary supplied by $L$, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
-| C600 | Under proposed $UCD_G$, the distinct-non-created-concrete branch of action-domain exhaustion is closed at F2; without it, only an $NCCBlock$ defeats unrestricted $OMP_Q$. | `proposed preferred conditional closure` |
+| C600 | Under proposed $UCD_G$, the distinct-non-created-concrete branch of action-domain exhaustion is closed at F2; without it, only an $NCCBlock$ defeats unrestricted $OMP_Q$. | `proposed preferred conditional closure; novel-kind branch continued in C601–C615` |
+| C601 | Divine action-domain exhaustion should be organized by immediate-patient topology: no distinct patient, a result in the created domain, a distinct non-created concrete, $G$ as result-bearer, or an abstract coherence constraint rather than a causal patient. | `proposed preferred F2 taxonomy` |
+| C602 | The no-further-patient, created-domain, and distinct-non-created classes are respectively governed by $FEG_G$, the created-order ranges, and proposed $UCD_G$/`NCCBlock`; abstracta constrain task coherence without receiving causal action. | `proposed preferred integration` |
+| C603 | Loving, forgiving, promising, judging, imagining, enjoying, responding, and similar thick descriptions do not by themselves establish new basic divine action kinds. | `proposed preferred analytic rule` |
+| C604 | The intrinsic-mode field divides into executive token-aspects, extrinsic or Cambridge modes, basic reconstitution, and contingent non-basic intrinsic modes. | `proposed corrected F2 partition` |
+| C605 | $CNBIM_G(m)$ is a contingent intrinsic mode of $G$ compatible with $PP_G$, neither an established exercise-token aspect nor a Cambridge mode, and adding no essential power, proper part, substrate, or bearer. | `proposed candidate schema; no positive witness` |
+| C606 | $SelfQualAdm_G(a,m)$ is a non-destructive self-qualificatory task in which $G$ is both direct executive source and immediate bearer of an independently admissible $CNBIM$ result while $PP_G$ is preserved. | `proposed preferred residual task schema` |
+| C607 | Non-destructive self-qualification is not existential self-causation and need not be temporal change. | `proposed preferred E+ distinction` |
+| C608 | Capacity to intend, prefer, or settle that $m$ obtain does not entail capacity to produce $m$ in oneself. | `proposed accepted range limit` |
+| C609 | Universal self-qualificatory generality $SQG_G$ is not adopted. | `open bridge` |
+| C610 | ACO's actual marker and history-varying content do not by themselves establish a contingent non-basic intrinsic mode in $G$. | `proposed accepted underdetermination` |
+| C611 | $ASA$ does not entail that $G$ instantiates a creature's phenomenal token or a matching divine quale. | `proposed accepted scope result` |
+| C612 | Affective or phenomenal response is the strongest candidate family for a divine $CNBIM$, but no accepted premise establishes its divine realization or actional production. | `open candidate, not a witness` |
+| C613 | A genuine $SQBlock_G(a,m)$ requires an independently possible $CNBIM$, an eligible $SelfQualAdm_G$ action, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
+| C614 | No current candidate satisfies `SQBlock`; no independently established new basic divine action kind extends $\mathcal K_G^{est}$. | `proposed preferred F2 negative audit result` |
+| C615 | The novel-action-kind priority is closed at F2 without promoting unrestricted $OMP_Q$ to a demonstration. | `proposed preferred bounded closure` |
 
 ## Rejected or corrected moves
 
@@ -870,6 +885,10 @@
 | R232 | $UCD_G$ may be adopted solely because unrestricted omnipotence requires it. | `rejected as circular` |
 | R233 | $UCD_G$ is a demonstrated theorem of the contingency argument. | `rejected` |
 | R234 | $UCD_G$ implies that some creature necessarily exists or that the actual root creation is necessary. | `rejected scope error` |
+| R235 | Every thick predicate of divine agency names a distinct basic divine action kind or power. | `rejected` |
+| R236 | Every non-executive intrinsic difference in $G$ must add an essential power, proper part, substrate, or bearer. | `rejected correction` |
+| R237 | If $G$ can intend or prefer an intrinsic mode, $G$ can thereby produce that mode in itself. | `rejected` |
+| R238 | Failure to find a new action-kind witness demonstrates unrestricted omnipotence. | `rejected` |
 
 ## Challenges
 
@@ -879,7 +898,7 @@
 | CH02 | Must every actual physical feature have its own creative reason, or is derivation from a reason-supported $S$ explanatorily sufficient? | `scoped` |
 | CH03 | Can $G$ know and relate to a created subject *as a subject* using ACO's current propositional form, or is acquaintance or irreducible second-person knowledge required? | `tested` |
 | CH04 | Does relational normative fit give goodness substantive content without becoming an unexplained standard ontologically prior to $G$? | `scoped` |
-| CH05 | Does the current power argument establish only maximality over the created order, ontology-relative qualified omnipotence, or unrestricted qualified omnipotence; what could ground a coherent limiter? | `tested F2; non-created branch conditionally closed in S73; novel-kind branch open` |
+| CH05 | Does the current power argument establish only maximality over the created order, ontology-relative qualified omnipotence, or unrestricted qualified omnipotence; what could ground a coherent limiter? | `tested F2; external and novel-kind branches have exact reopening conditions after S73–S74` |
 | CH06 | Could $G$ design a subject for whom pain, servitude, deception, or another apparent harm is genuinely good, and what would that show about value constitution? | `scoped` |
 | CH07 | Could all evaluative concepts or truths be constructed only by created subjects while $G$ has no native evaluative standpoint? | `scoped` |
 | CH08 | What makes some sacrifice and long-term commitment superior to conflicting short-term pleasure without privileging cost or duration as such? | `tested` |
@@ -900,3 +919,4 @@
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | `tested F2` |
 | CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; conditionally closed under proposed UCD_G` |
+| CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | `tested F2; no positive SQBlock witness` |

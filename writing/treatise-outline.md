@@ -249,8 +249,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Independent $SEAdm_G$ and formal executive generality $FEG_G$
     - Intentional refraining versus mere non-occurrence or inability
     - Atemporal action: logical order without a divine temporal sequence
-    - Executive intrinsic modes versus qualitative self-modification
-    - Conditional coverage of $ED_{IM}^{exec}$ and the open $ED_{IM}^{qual}$ extension
+    - Executive intrinsic modes, Cambridge modes, basic reconstitution, and contingent non-basic intrinsic modes
+    - Conditional coverage of $ED_{IM}^{exec}$ and correction of the broad $ED_{IM}^{qual}$ extension
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Creation as existential dependence rather than temporal beginning or only direct $OEC^+$
@@ -260,7 +260,9 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Necessary existence *ab alio* and why a necessary dependent concrete remains created
     - Non-created-relational tasks: malformed existential tasks, source-indexed joint action, and possible direct effects
     - `NCCBlock`: the exact external-defeater form
-    - Ontology-relative $OMP_Q^{\mathcal O_*}$, conditional non-created closure, and the remaining novel-action-kind problem
+    - Immediate-patient topology as structural action-domain exhaustion
+    - Non-destructive self-qualification, the unadopted $SQG_G$ bridge, and `SQBlock`
+    - Ontology-relative $OMP_Q^{\mathcal O_*}$ and exact conditions for reopening unrestricted range
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge or plural-ultimate fallback if $UCD_G$ or unrestricted maximality fails

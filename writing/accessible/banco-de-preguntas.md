@@ -39,7 +39,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
 | P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
 | P43 | ¿Cómo puede algo que no es material producir materia? | `respondida` | C487–C491, C496; S51 (la materia es un perfil instanciado, no una sustancia traspasada; las leyes de conservación no rigen el origen del orden) | CH12 |
-| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 (toda tarea actual queda cubierta; $UCD_G$ cierra condicionalmente los relata no creados; faltan tipos de acción genuinamente nuevos) | CH05, CH25 |
+| P44 | ¿Puede Dios hacer cualquier cosa? | `respondida con límite explícito` | C261–C262, C372, C375–C376, C420–C433, C573–C615; S32, S40–S44, S71–S74 (toda tarea admitida queda cubierta; el audit de tipos nuevos no encuentra un testigo positivo; `SQBlock` y `NCCBlock` fijan las condiciones de reapertura) | CH05, CH25, CH26 |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `parcial` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526; S18, S56 (razones plausibles tipadas; el motivo real no se pretende conocer, C113; la razón dirigida a lo que sentimos es la que falta) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |

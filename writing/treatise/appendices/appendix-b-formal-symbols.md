@@ -64,6 +64,9 @@
 | $Created_G(x)$, $NCC_G(L)$ | creation; non-created concrete | $Created_G(x):=x\neq G\land DependsExistentially(x,G)$; $NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L)$ | proposed clarification (C586–C590) | S73 |
 | $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred F2, abductive (C591–C594) | S73 |
 | $LTask_G(a,L)$, $NCCBlock_G(L,a)$ | non-created task; blocker | an eligible divine task genuinely concerning $L$; an underived $L$-boundary plus failure of $StrongCan$ | proposed diagnostic (C597–C600) | S73 |
+| $CNBIM_G(m)$ | contingent non-basic intrinsic mode | intrinsic, contingent, $PP_G$-compatible, non-executive, non-Cambridge mode adding no essential power, proper part, substrate, or bearer | proposed candidate schema, no positive witness (C604–C605) | S74 |
+| $SelfQualAdm_G(a,m)$ | non-destructive self-qualification | independently eligible action with $G$ as direct source and immediate bearer of a $CNBIM$ result | proposed residual task schema (C606–C609) | S74 |
+| $SQG_G$, $SQBlock_G(a,m)$ | self-qualificatory range bridge; blocker | universal strong capacity over `SelfQualAdm`; independently possible eligible self-qualification plus failure of $StrongCan$ | bridge not adopted; blocker diagnostic (C609–C615) | S74 |
 | $RCB(C,S)$, $AOR$, $Elig_C^G$, $CP_G^{elig}$ (trunk) | root creation; plenitude | root created basis; agentic-origin realization; essence-compatible eligibility; $\forall S[Elig_C^G(S)\rightarrow CanCreate(G,S)]$ | preferred (C369–C376) | S40 |
 | $CC_G=CC_G^{+}\land CC_G^{pers}\land CC_G^{ann}$ (trunk) | constitutive control | positive, persistence-sensitive, annihilative ranges | preferred (C385–C401) | S41–S42 |
 | $Life_H(x)$, $Ann(G,x,t_1)$ (trunk) | life-set; annihilation | bounded temporal profile; direct terminal boundary with no specified created remainder | preferred (C392–C395) | S42 |

@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 618 |
-| Rejected or corrected moves (R) | 240 |
+| Working commitments (C) | 625 |
+| Rejected or corrected moves (R) | 243 |
 | Challenges (CH) | 25 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 255 |
-| preferred | 245 |
-| other | 62 |
+| accepted | 260 |
+| preferred | 246 |
+| other | 63 |
 | provisional | 25 |
 | open | 12 |
 | merged | 11 |
@@ -380,8 +380,8 @@
 | C347 | A partial specification $s$ is possible only if it has at least one complete extension satisfying the independent admissibility conditions. | `preferred F2; accepted by default` |
 | C348 | Possible structures and possible histories are distinct: a history must satisfy an admissible $S$ and its token events must be compatible with the powers and shared past specified there. | `preferred integration` |
 | C349 | Possible histories and world-models represent compossible ways reality could be; they are not thereby additional concrete eternalist universes. | `preferred actualist clarification` |
-| C350 | Type-level constitutive profiles may constrain possible created kinds without concrete tokens of those kinds already existing. | `preferred with F3 ontology open` |
-| C351 | Necessary constitutive or structural truths are not automatically concrete substances, causal competitors, or co-ultimate agents. | `preferred typed distinction` |
+| C350 | Type-level constitutive profiles may constrain possible created kinds without concrete tokens of those kinds already existing. | `preferred; ground supplied at F2 by C620 (S79)` |
+| C351 | Necessary constitutive or structural truths are not automatically concrete substances, causal competitors, or co-ultimate agents. | `preferred typed distinction; resolved toward grounding in $G$ by C620, fallback C622 (S79)` |
 | C352 | An actual imaginative or thinking episode is a temporal act of the embodied subject with an actual representational organization and an actual fact that it has content $p$. | `preferred F1–F2; accepted by default` |
 | C353 | The object or situation represented by an actual cognitive act may be actual, non-actual but possible, impossible, fictional, or insufficiently specified. | `preferred distinction` |
 | C354 | Detailed imagination may provide defeasible modal evidence when it is stable under scrutiny and not carried merely by assignment, but it neither constitutes nor guarantees metaphysical possibility. | `preferred F1–F2; accepted by default` |
@@ -641,7 +641,7 @@
 | C608 | The only tasks concerning a surviving non-created relatum that pass $Task_G$ are contingent, essence-compatible state changes; creating or annihilating a necessary relatum is not an eligible task, and its own settlings as a dependent agent are not divine tasks. Their range would extend $CC_G^{elig}$ and $HI_G^{elig}$ to dependent non-created bearers, a burden of any ontology that adopts such relata. | `merged into C595–C598 (S76)` |
 | C609 | The non-created-relatum condition on unrestricted $OMP_Q$ reduces to $MGC^+\land MUU$: a limiting non-created concretum is possible exactly when one of them fails, so unrestricted $OMP_Q$ over concreta is as strong as conditional modal ultimity and no stronger. The remaining cross-ontology test is an independently motivated novel action kind. | `refined by C600 (S76): the existence question closes under $UCD_G$, the blocker question already under $MGC^+\land MUU$` |
 | C610 | Reconciliation of S75 with the author's S73: creation as existential dependence (C586), $UCD_G$ (C591), and $NCCBlock$ (C599) are canonical; the branch retains the bridge $NCCBlock_G(L,a)\rightarrow Limiter_G(L)$ and the no-limiter lemma as a weaker-premise route to the power conclusion, with its condition on $MUU$ recorded; the branch's taxonomy, emanation cell, and task list are merged or superseded. | `accepted reconciliation` |
-| C611 | The accessible register may not assert a settled ground for necessary truths, numbers, or ideas: they are neither made as the world is made nor human inventions, though our symbols and concepts are ours; they are not things apart from $G$ that compete with him; their ultimate ground is open between the structure of $G$'s own nature and authorless necessary truth (C350–C351). | `accepted author correction` |
+| C611 | The accessible register may not assert a settled ground for necessary truths, numbers, or ideas: they are neither made as the world is made nor human inventions, though our symbols and concepts are ours; they are not things apart from $G$ that compete with him; their ultimate ground is open between the structure of $G$'s own nature and authorless necessary truth (C350–C351). | `accepted author correction; decided in S79 (C620, C625)` |
 | C612 | $GoodOrient_P(G)$ decomposes into $G_1$ (no permitted suffering is gratuitous), $G_2$ (no bearer's suffering is a mere means to others' goods), and $G_3$ (every bearer's suffering is covered within the bearer's own horizon); $G_3$ entails $G_1$ and $G_2$. | `accepted analysis` |
 | C613 | $G_2$ follows from the earned orientation toward truthful relation: permitting a bearer's suffering for others' goods with nothing for the bearer is the vehicle treatment $R$ forbids (C477). The first $P$-relevant disposition is earned, from $R$ and not from valence. | `preferred derivation` |
 | C614 | Every divine permission is a reason-guided settlement, since non-prevention by an aware and able $G$ is intentional refraining (C577) and divine settling is for reasons (C109, C460); but a reason is a cover only if it targets an anchor and defeats the misfit (C473), so $G_1$ is not earned. | `accepted scope result` |
@@ -649,6 +649,13 @@
 | C616 | C526's first route (otherness as for-the-sake-of) closes $G_3$ only in requiring mode, and then entails, as an admissibility condition on every eligible history, the continuation of every bearer whose embodied life ends in uncovered suffering (C478, C485); in favoring mode it yields a defeasible presumption and closes nothing. | `accepted result` |
 | C617 | A third route, divine affective regard toward creatures, would ground $P$-orientation by the mechanism of C462, since $G$'s profile is fit toward the anchors $G$ instantiates and $G$ is attributed no valence; its costs are passibility, an account of divine valence (C465), and the stronger acquaintance model of C288. | `open route; not adopted` |
 | C618 | The accessible register's belief that $G$ is good in what we feel is Route 1 in requiring mode: its content is $G_3$ and its consequence is continuation, as C479 states; Route 2′ alone would earn $G_1$ and leave the belief at $G_3$. | `accepted specification` |
+| C619 | Necessary structure is grounded neither in $G$'s will, since a willed necessity would have alternatives and be contingent, nor in $G$'s knowledge, since MKO tracks admissibility (C355), nor in $G$'s power (C274, C529), nor in a rival concrete ground (C264, C351). | `accepted exclusions` |
+| C620 | **Essential-structure grounding $ESG$:** logical and identity truths hold in virtue of $G$'s nature and of every dependent by its dependence ($ESG_1$); a type-level constitutive profile is admissible iff it is a way $G$'s being can be participated by a dependent, $\Box\forall\pi[Adm_C(\pi)\leftrightarrow Participable(\pi,Nat(G))]$ ($ESG_2$); mathematical structure is the structure of possible plurality so grounded. | `proposed preferred at F2` |
+| C621 | $ESG$ changes no clause of $Adm_C$ and preserves criterion independence (C343, C529, C542); it supplies the ontological dependence C343 left open and sits upstream of $CP_G^{elig}$, adding no premise to it. | `accepted clarification` |
+| C622 | Primitive necessity is the coherent fallback to $ESG$, disfavored by WEP as a second unexplained fundamental; an independent abstract realm is rejected as a stopping point by the grounds that support $UCD_G$, with the brute concordance between what the realm permits and what $G$'s nature admits as the decisive cost. | `preferred comparison` |
+| C623 | The bootstrapping objection reads grounding as production; “true in virtue of a nature” is neither causal nor prior to the nature, so logical truths and truths about $G$ are grounded in $Nat(G)$ without regress or circle. | `accepted reply` |
+| C624 | $ESG$ preserves $MCS$ (participable ways are not constituents), the contingency of creation (C111, C363), and the order of the argument to $G$: the argument uses logic as a tool and $ESG$ explains the tool downstream. | `accepted compatibility` |
+| C625 | The accessible register's decided answer on numbers, ideas, and necessary truths: not made, since no exercise produced them; not apart from $G$, since they are $G$'s way of being as shareable; not ours, since we abstract them from a created order made according to them. | `accepted specification` |
 
 ## Rejected or corrected moves
 
@@ -894,6 +901,9 @@
 | R238 | $GoodOrient_R(G)$ entails $GoodOrient_P(G)$. | `rejected` |
 | R239 | Because every divine permission is reason-guided, every permitted suffering is covered. | `rejected` |
 | R240 | $ASA$'s acquaintance with a subject's suffering entails conative orientation toward that subject's valence. | `rejected` |
+| R241 | $G$ wills the necessary truths, which could therefore have been otherwise. | `rejected` |
+| R242 | Grounding necessary structure in $G$'s nature defines possibility through divine power. | `rejected` |
+| R243 | $ESG$ is demonstrated rather than abductively preferred. | `rejected overreach` |
 
 ## Challenges
 

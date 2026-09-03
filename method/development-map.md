@@ -78,7 +78,7 @@ The arrows express research dependence, not a single ontological relation. Exist
 10. Preserve S41's $GSDA$: ordinary secondary causes proximately produce derivative effects even though $G$ has source-neutral substitutive capacity.
 11. Hold S40's $CP_G^{elig}$ at F2, explicitly conditional on S39's abductive $CMU_G$; apply it to $ANDC$ only after independent constitutive admissibility.
 12. Hold S39's conditional modal ultimity as an abductive F2 preference; strengthen MGC or MUU only if later work requires demonstrative force rather than the project's normal comparative standard.
-13. Hold S38's constitutive-admissibility account at F2; revisit the ultimate meta-modal ground of uninstantiated profiles only if the active bridge requires it.
+13. Hold S38's constitutive-admissibility account at F2. S79 supplies its ground at F2 under the author's direction: essential-structure grounding $ESG$ (C620), criterion untouched (C621), primitive necessity as fallback (C622); the participation relation is the residual (open question 5).
 14. Hold S37's accepted embodied power-bearing subject at F2; revisit its dual-aspect ground, causal non-competition, or onset criteria only when load-bearing.
 15. Retain CH15's practical-accessibility question as a selective precision burden rather than an active blocker.
 16. Retain $G$-grounded $Fit_*$ as a provisional dependency; test it only when divine goodness, providence, or another ontological module requires it.

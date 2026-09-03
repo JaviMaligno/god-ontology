@@ -56,7 +56,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | agency ecology, manipulation, responsibility, finite norm construction, moral status | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
 | CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; conditionally closed under proposed UCD_G` |
-| CH26 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S81; first typing in S82` |
+| CH26 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S81; typed in S82; Route 3 developed, not adopted` |
 
 ## Priority gate after S26
 
@@ -524,9 +524,11 @@ CH25 is therefore conditionally closed at F2 under proposed $UCD_G$. If that the
 
 ## CH26 — Love, divine affect, and the affective route to the P-gap
 
-**Status:** `opened in S81 by the author's questions; first typing in S82`
+**Status:** `opened in S81 by the author's questions; typed in S82 (C637–C642); Route 3 developed, not adopted`
 
 **Scope:** love typed under the anchors; the biological origin of the capacity versus the objectivity of its fit; interpersonal love and love of $G$ under asymmetric communication; $G$'s love for each subject (volitional, from C632–C633 with $ASA$ and $UPA$) and what affective regard (Route 3, C617) would add; $G$'s self-love under $MCS$ and the absence of divine misfit; the cost of passibility.
 
 The challenge is the ontological core of the author's questions after S78. Its power-side consequence is Route 3: if $G$ has affective regard toward creatures, $P$-orientation follows by the mechanism of C462, and $G_3$ would be earned rather than believed. Its cost is passibility, an account of divine valence (C465), and the stronger acquaintance model (C288). The line is developed, not adopted.
+
+S82 types love as a standing, particular, three-anchor fit with volitional, recognitional, and affective components (C637). Love exceeds biology by its objective fit (C638); love of $G$ is the same genus under the asymmetry of C295–C296 (C639); $G$'s volitional-recognitional love of each subject is earned, the affective component and exercised communion are not (C640); $G$'s self-love is C462's fit plus true self-knowledge (C641). Route 3 is modeled as an executive intrinsic mode under C288's stronger acquaintance model, with its cost reduced to that one model choice and its gain the guarantee of $G_3$ (C642). The residual is C288 and the Trinitarian question.
 

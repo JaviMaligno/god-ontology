@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 636 |
-| Rejected or corrected moves (R) | 245 |
+| Working commitments (C) | 642 |
+| Rejected or corrected moves (R) | 247 |
 | Challenges (CH) | 26 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 267 |
-| preferred | 249 |
-| other | 65 |
+| preferred | 254 |
+| other | 66 |
 | provisional | 25 |
 | open | 11 |
 | merged | 11 |
@@ -667,7 +667,13 @@
 | C633 | Route 1 is adopted in favoring mode: $\langle P,\text{favoring},\text{creation}\rangle$ and $\langle P,\text{favoring},\text{specification}\rangle$ belong to $\mathcal R_G$: subjects are made actual for their own sake, and structures and interventions that realize bearers' own horizons more fully are more attractive. This yields a defeasible presumption toward bearer-level closure, not $G_3$. | `accepted author adoption; preferred F2` |
 | C634 | $GoodOrient_P(G)$ is partial in a precise sense: the profile contains a $P$-reason and satisfies $G_1$ and $G_2$, while $G_3$ is a presumption. The P-gap narrows to the guarantee of $G_3$; the problem of evil enters at $G_3$ only; the threshold residue becomes the question whether the diachronic source cover (C504) defeats the misfit in the gravest cases. | `accepted result` |
 | C635 | The register's belief that $G$ is good in what we feel (C479, C618) is now the completion of a presumption the profile contains: that the presumption toward closure is never defeated, that is, that $G_3$ holds, with continuation for the uncovered as its consequence. Continuation remains faith content, not an admissibility condition. | `accepted specification` |
-| C636 | Divine affective regard (Route 3, C617) and love are opened as a research line, CH26: love beyond biology, interpersonal love and love of $G$, $G$'s love for each subject, $G$'s self-love. Volitional love, willing the good of the other, is what C632–C633 earn; affective love is what Route 3 would add. | `research line opened` |
+| C636 | Divine affective regard (Route 3, C617) and love are opened as a research line, CH26: love beyond biology, interpersonal love and love of $G$, $G$'s love for each subject, $G$'s self-love. Volitional love, willing the good of the other, is what C632–C633 earn; affective love is what Route 3 would add. | `research line opened; first typing in S82 (C637–C642)` |
+| C637 | Love is a standing disposition of a whole agent toward a particular subject that is fit toward all three of that subject's anchors ($P$, $S$, $R$), with volitional (willing and serving the good), recognitional (true regard), and affective (felt regard keyed to the beloved's state) components. | `preferred F1–F2 typing` |
+| C638 | Biology explains the origin and realization of the capacity to love through a bridge premise; what makes a loving response fitting is objective fit, so love's significance beyond biology is that fit, and its objects include the dead, the distant future, and $G$. | `preferred` |
+| C639 | Love of persons and love of $G$ are one genus with an asymmetric species: toward $G$ the serving and protecting parts have no work, and what remains is truthful recognition, uptake of and consent to the relation, willing what $G$ wills (including the good of creatures, C633), and delight, which belongs to the experiential register (C471). | `preferred` |
+| C640 | $G$'s volitional-recognitional love of each subject in particular is earned: subject-indexed acquaintance (C284), personal availability (C122), agency preservation at both levels (C115, C501), and, after S81, otherness for its own sake with favored closure of each horizon (C632–C633), with bearer-indexed fit. Exercised communion (co-produced, C124) and the affective component are not earned. | `preferred; affective component open` |
+| C641 | $G$'s self-love is the fit of $G$'s dispositions toward what $G$ is (C462's mechanism) together with $G$'s true self-knowledge (C47); it has no serving component, since there is no divine misfit; the affective component is not attributed; the Trinitarian requirement of another within $G$ is set aside with CH01's fourth variant. | `preferred; affective component not attributed` |
+| C642 | Route 3 developed: divine affective regard modeled as an executive intrinsic mode (C581) of the joint exercise of $ASA$ and volitional love, under C288's stronger acquaintance model; no new power kind, $PP_G$ and $MCS$ preserved, impassibility given up only in the weak sense S72 admits (contingent occurrent aspects); if adopted, the $P$-disposition becomes bearer-indexed and standing and C462's mechanism yields $GoodOrient_P$ and $G_3$. | `developed, not adopted` |
 
 ## Rejected or corrected moves
 
@@ -918,6 +924,8 @@
 | R243 | $ESG$ is demonstrated rather than abductively preferred. | `rejected overreach` |
 | R244 | Imagining a merely possible individual is a relation to a possibile. | `rejected` |
 | R245 | Intentional content must be an abstract proposition in a realm distinct from specifications. | `rejected` |
+| R246 | Love is nothing but its biological realization. | `rejected` |
+| R247 | $G$'s love for a creature requires that $G$ be benefited or completed by the creature. | `rejected` |
 
 ## Challenges
 
@@ -948,4 +956,4 @@
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | `tested F2` |
 | CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; conditionally closed under proposed UCD_G` |
-| CH26 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S81; first typing in S82` |
+| CH26 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S81; typed in S82; Route 3 developed, not adopted` |

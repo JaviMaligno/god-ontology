@@ -2,7 +2,7 @@
 
 *Generated 2026-09-03 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
 
-Entries: 333.
+Entries: 334.
 
 | Term | Working definition | Status/source |
 | --- | --- | --- |
@@ -338,4 +338,5 @@ Entries: 333.
 | **Participable profile $Participable(\pi,Nat(G))$** | A constitutive profile whose instantiation would be a coherent dependent of $G$: coherent in itself, in its powers and their compossibility, and as dependent. The ground of $Adm_C$, not a clause of it. | C620–C621, S79 |
 | **Intentional content (act, vehicle, satisfaction condition, referent)** | An act of thought is actual; its vehicle is the actual representational organization it realizes; its satisfaction condition is a specification an item would have to meet, objective because specifications are participable profiles (C620); its referent is the actual item meeting the condition under an anchoring relation, if any. | preferred F2; C626–C627, S80 |
 | **Stipulated specification $Fic(\sigma,h)$** | A specification introduced under stipulation by an actual authorial history $h$; the ontology of fiction. Characters are individuated by $h$; truths in fiction are actual truths about $\sigma$ under $h$ and the practice's import rules. | preferred F2; C629, S80 |
+| **Love $Loves(x,y)$** | A standing disposition of a whole agent toward a particular subject, fit toward all three of that subject's anchors; volitional, recognitional, and affective components. $G$'s volitional-recognitional love of each subject is earned; the affective component is Route 3, modeled as an executive intrinsic mode under C288's stronger model and not adopted. | preferred F1–F2 typing; C637–C642, S82 |
 | **Theistic plenitude** | The thesis that $G$ actualizes every eligible or undominated structure. Coherent; not preferred, since it needs a requiring reason for maximal variety. | open; C540 |

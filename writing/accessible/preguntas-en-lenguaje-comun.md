@@ -286,6 +286,26 @@ Porque uno no es solo lo que siente ahora. Un sacrificio tiene sentido cuando al
 
 Por eso también importa lo que pase después de mi muerte y lo que les pase a los que vendrán. Los que vivirán dentro de cien años no son menos reales por estar más lejos en el tiempo. Lo que les dejamos cuenta.
 
+### ¿El amor es algo más que biología?
+
+Sí, y se puede decir en qué. La biología explica de dónde nos viene la capacidad de querer: el apego, la pareja, el cuidado de las crías, todo el aparato de sentir por otro. Eso lo acepto entero. Lo que la biología no dice es qué hace que querer a alguien sea *acertado*: que uno responda bien a lo que esa persona es, a lo que es suyo de hacer y a cómo le va por dentro. Eso es una relación entre mi respuesta y ella, no un hecho sobre mis genes; el mismo aparato sirve para querer y para lo que se le parece y no lo es, y lo que los distingue no está en el aparato. Y hay una prueba sencilla: queremos a los muertos, a los que vendrán dentro de cien años, y a Dios, y la biología no tiene nada que hacer con ninguno de los tres. Así que la capacidad es biológica; lo que la capacidad acierta, no.
+
+Querer a alguien, dicho con las tres cosas en que consiste el bien: querer que le vaya bien y ayudar a que le vaya bien; respetar y ayudar a lo que es suyo de decidir; y verle de verdad, como quien es y no como uno lo necesita. Las tres a la vez, hacia esa persona y no hacia un tipo de persona, y de manera estable, no en un arranque. Usar a alguien con mucho cariño no es quererlo; hacerle el bien con frialdad tampoco del todo; sentir mucho y no dejarle ser, tampoco.
+
+### ¿Es lo mismo querer a una persona y querer a Dios?
+
+Es la misma clase de cosa hecha con una diferencia que pone él. A una persona la puedo ayudar, proteger, hacerle bien; a Dios no le falta nada, no se le puede hacer bien ni mal, y no hay nada suyo que yo tenga que dejarle decidir. Así que de las tres partes de querer, hacia Dios se caen las de ayudar y proteger, y quedan las otras: verle de verdad, que es lo que he llamado adorar; responder a la relación que él pone a disposición, poner mi parte; querer lo que él quiere, y como él quiere que a cada uno le vaya bien, querer a Dios acaba incluyendo querer a los demás; y alegrarse de él, que es cosa de la experiencia y no del argumento. La relación es de dos que no son iguales, y ya dije que eso no la hace menos real. Y la diferencia en sentido contrario: cuando se quiere a una persona hay cosas que hacer; cuando se quiere a Dios, sobre todo hay algo que reconocer.
+
+### ¿Me quiere Dios a mí, en concreto?
+
+Aquí puedo decir bastante, y separo lo que sé de lo que creo. Lo que sé: Dios me conoce a mí, no a un tipo de persona, y sabe cómo me va por dentro. Está disponible para mí. No pisa lo que es mío de decidir, y prefiere que lo que haga con mi vida sea mío. Y, desde lo último que he trabajado, me ha creado por mí mismo y prefiere que mi vida se cierre bien; nada de lo que me permite lo permite por algo que no pese, y nunca me usa para el bien de otro. Todo eso junto, hacia mí en concreto y de manera estable, es querer, en el sentido de querer el bien de alguien y verle de verdad. Así que sí: en ese sentido sé que me quiere.
+
+Lo que no sé, dos cosas. Que esa preferencia suya por que me vaya bien gane siempre; eso lo creo. Y si además de querer mi bien *siente* algo conmigo, si mi alegría o mi dolor son algo para él: eso es la pregunta de si Dios siente, y la tengo abierta, no negada. Y una tercera que no es de Dios sino de los dos: que me quiera no significa que yo esté en relación con él; eso lo ponemos entre los dos, y mi parte no la pone él.
+
+### ¿Se quiere Dios a sí mismo?
+
+En el sentido en que quererse es verse de verdad y querer lo que uno es, sí, y no podría no hacerlo: se conoce entero y sin engaño, y todo lo que hace va en la dirección de lo que él es, porque lo que es ya es la medida de lo que quiere. No hay en él nada que arreglar ni que proteger, así que quererse, en su caso, no tiene la parte de ayudarse que tiene en nosotros. Si además siente algo consigo mismo, no lo digo, por lo mismo que no lo digo de nosotros. Y hay una respuesta más honda que dan los cristianos, que el amor necesita otro y que ese otro está en Dios mismo; esa la dejo, porque exige una idea de persona y de ser que no he construido.
+
 ---
 
 ## Sentir y pensar
@@ -338,6 +358,7 @@ Para que quede junto y a la vista:
 - Si escuchar música o mirar un cuadro es ya, en algún sentido, estar con él.
 - Si se puede demostrar, y no solo preferir como la mejor explicación, que todo lo concreto distinto de Dios depende de él; de eso depende que nada no creado pueda limitarlo.
 - Por qué Dios no se muestra algo más a quien lo busca de buena fe; sé por qué no se muestra de forma aplastante, no por qué no un poco más.
+- Si Dios siente algo con nosotros, además de querernos el bien; lo tengo como pregunta abierta, y he visto lo que costaría decir que sí.
 - Si Dios puede darse a sí mismo una cualidad o un poder que no tenga ya; lo que hace con los poderes que tiene está cubierto, y lo demás no lo sé.
 
 ---
@@ -363,6 +384,10 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S74 |
 | Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración; corregida por el autor en lo relativo a las verdades necesarias | C586–C600, C603–C611; S73, S75–S77 |
 | Existen los números y las ideas | preferido: la estructura necesaria es la manera de ser de Dios en cuanto participable, no hecha ni aparte ni nuestra; la necesidad sin fundamento queda como alternativa coherente | C03, C52, C264, C343, C350–C351, C429, C611, C619–C625; S05, S32, S38, S77, S79 |
+| El amor es más que biología | preferido: la capacidad es biológica, el acierto es objetivo | C187–C189, C321, C637–C638; S27, S82 |
+| Querer a una persona y querer a Dios | preferido: mismo género, asimetría | C124, C295–C296, C471, C639; S20, S35, S46, S82 |
+| Me quiere Dios en concreto | preferido para querer el bien y ver de verdad; creencia para la garantía; abierto si siente | C115, C122, C284–C286, C632–C635, C640; S20, S34, S81–S82 |
+| Se quiere Dios a sí mismo | preferido sin componente afectivo; lo trinitario se deja | C47, C462, C641; S48, S82 |
 | Qué pienso cuando pienso en lo que no existe | preferido: el acto es real y apunta a una condición; la referencia es a lo actual; posibles, imposibles y ficciones sin objetos; cómo apunta la materia queda con el problema de la conciencia | C53–C54, C347, C352–C354, C626–C631; S05, S38, S80 |
 | Por qué Dios no se muestra más claramente | parcial: la mitad estructural es preferida (relación de dos, sin instalar la respuesta); el umbral y la parte de lo que sentimos son creencia | C91, C122–C124, C296, C466–C470, C498, C503; S20, S35, S46, S52, S77 |
 | Necesita Dios que le recemos | parcial: que no necesita es preferido; lo que la relación es para nosotros es establecido; que la quiera por nosotros es creencia | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S77 |

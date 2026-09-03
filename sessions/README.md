@@ -87,3 +87,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S79 — The ground of necessary structure](2026-09-02-ground-of-necessary-structure.md)
 - [S80 — Intentional content and reference: CH14's remaining parts](2026-09-02-intentional-content-and-reference.md)
 - [S81 — The author's decision on the P-reason routes, and a research line on love](2026-09-02-author-adopts-routes-b-and-c.md)
+- [S82 — Love: a first typing under the anchors, and what the affective route would require](2026-09-02-love-first-typing.md)

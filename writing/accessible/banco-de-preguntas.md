@@ -34,7 +34,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P08 | ¿Qué tipo de Dios es ese? | `respondida` | mapa de atributos; C06, C81, C84–C91, C122 | — |
 | P09 | ¿Es el Dios de alguna religión concreta? | `fuera de alcance` | C21; comparación planificada en la parte VIII del tratado | — |
 | P10 | ¿Dios es una persona? | `parcial` | C55–C67, C121–C126; personalidad clásica completa abierta | CH03 |
-| P11 | ¿Hay un solo Dios? | `respondida con extensión modal provisional` | C78–C83, C586–C594; S13, S73 (un solo fundamento del orden contingente; se propone además que todo concreto distinto dependa de él, sin negar abstractos necesarios) | CH01, CH25 |
+| P11 | ¿Hay un solo Dios? | `respondida; soberanía modal condicional` | C78–C83, C586–C594, C634–C644; S13, S73, S77 (un solo fundamento concreto actual; otro concreto necesario sería actual; excluir además todo concreto bruto meramente posible requiere un puente modal) | CH01, CH25 |
 | P12 | ¿Dónde está Dios? | `respondida` | C84–C91; S14–S15 | — |
 | P13 | ¿Dios está en el tiempo? ¿Tiene pasado y futuro? | `respondida` | C14, C22–C28; S01–S02 | — |
 | P14 | ¿De qué está hecho Dios? | `respondida` | C222–C238, C492–C493; S30–S31, S51 (sujeto único con capacidades que son aspectos, no partes) | — |
@@ -51,7 +51,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P46 | ¿Puede Dios responder a una oración antes de que la haga? | `respondida` | C120, C417, C549–C553; S19, S43, S64 (sí, si la respuesta no entra en la situación de quien pide antes de pedir; una respuesta nunca es causa de lo que responde) | — |
 | P18 | Si Dios sabe lo que voy a hacer, ¿soy libre? | `respondida` | C10–C13, C22–C30; S01–S03 | — |
 | P19 | ¿Somos libres de verdad, o decide el cerebro antes que nosotros? | `respondida` | C08, C57, C212–C221; S22, S29 | CH13 |
-| P47 | ¿Qué existe cuando imagino o pienso en algo que no existe? | `parcial` | C352–C354, C534, C624–C633; S38, S57, S76 (episodio corporal real, perfil de contenido y papel objetivo; referente solo si existe y se alcanza; ficción pública como artefacto y expediente; cierre F2 pendiente de revisión autoral) | CH14 |
+| P47 | ¿Qué existe cuando imagino o pienso en algo que no existe? | `respondida a F2; profundización selectiva abierta` | C352–C354, C534, C624–C633; S38, S57, S76 (episodio corporal real, perfil de contenido y papel objetivo; referente solo si existe y se alcanza; ficción pública como artefacto y expediente; cierre F2 aceptado) | CH14 |
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C466–C470; S20, S46 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
 | P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C501–C503; S52 (providencia como tablero preparado, no guion ni embudo) | — |

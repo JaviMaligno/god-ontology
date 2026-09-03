@@ -228,22 +228,24 @@ The final family is preferred as the F2 working account. It combines a real toke
 
 | Claim ID | Status | Content |
 | --- | --- | --- |
-| C624 | `proposed preferred at F2` | A finite cognitive episode is an actual temporal manifestation of the unified embodied subject; its realized content-profile is an actual formal/relational aspect of that token, not another substance or a merely neural description. |
-| C625 | `proposed preferred abstraction` | Repeatable content is represented through $c_i\equiv_C c_j$ and a content type at a selected grain; no independently existing or causally active abstract entity is required at F2. |
-| C626 | `proposed accepted distinction` | Intentional target-role or referential purport is distinct from successful reference: $PurportsRef(i,\rho)$ does not entail $\exists x Ref(i,x)$. |
-| C627 | `proposed preferred reference schema` | Actual reference requires an actual relatum, a successful plural reference route, and role-fit; external anchors permit de re content without reducing reference to description. |
-| C628 | `proposed accepted modal integration` | A target-role is possibly satisfiable exactly when an `Adm_C` specification contains a satisfier; thought does not create possibility or a merely possible individual. |
-| C629 | `proposed preferred fiction minimum` | Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. Fiction-internal predication uses $In_F$; dependent abstract characters remain an optional stronger ontology. |
-| C630 | `proposed accepted typing` | Content possession does not entail truth-aptness; belief, image, question, plan, and fiction carry different satisfaction or accuracy profiles. |
-| C631 | `proposed preferred causal integration at F2` | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. |
-| C632 | `proposed accepted divine-knowledge constraint` | ACO/ASA know the actual creaturely episode and its subject-indexed content; MKO knows modal satisfaction. This entails neither acquaintance with non-actual individuals nor a temporal or embodied vehicle in $G$. |
-| C633 | `proposed bounded closure of CH14 at F2` | CH14 is complete enough for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated; original intentionality, abstract types, and cultural-artifact ontology remain selective deeper questions. |
+| C624 | `preferred at F2; accepted` | A finite cognitive episode is an actual temporal manifestation of the unified embodied subject; its realized content-profile is an actual formal/relational aspect of that token, not another substance or a merely neural description. |
+| C625 | `preferred abstraction; accepted` | Repeatable content is represented through $c_i\equiv_C c_j$ and a content type at a selected grain; no independently existing or causally active abstract entity is required at F2. |
+| C626 | `accepted distinction` | Intentional target-role or referential purport is distinct from successful reference: $PurportsRef(i,\rho)$ does not entail $\exists x Ref(i,x)$. |
+| C627 | `preferred reference schema; accepted` | Actual reference requires an actual relatum, a successful plural reference route, and role-fit; external anchors permit de re content without reducing reference to description. |
+| C628 | `accepted modal integration` | A target-role is possibly satisfiable exactly when an `Adm_C` specification contains a satisfier; thought does not create possibility or a merely possible individual. |
+| C629 | `preferred fiction minimum; accepted` | Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. Fiction-internal predication uses $In_F$; dependent abstract characters remain an optional stronger ontology. |
+| C630 | `accepted typing` | Content possession does not entail truth-aptness; belief, image, question, plan, and fiction carry different satisfaction or accuracy profiles. |
+| C631 | `preferred causal integration at F2; accepted` | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. |
+| C632 | `accepted divine-knowledge constraint` | ACO/ASA know the actual creaturely episode and its subject-indexed content; MKO knows modal satisfaction. This entails neither acquaintance with non-actual individuals nor a temporal or embodied vehicle in $G$. |
+| C633 | `accepted bounded closure of CH14 at F2` | CH14 is complete enough for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated; original intentionality, abstract types, and cultural-artifact ontology remain selective deeper questions. |
 | R243 | `rejected` | Every intentional act requires an existing entity as its object. |
 | R244 | `rejected` | Every content is a truth-apt abstract proposition. |
 | R245 | `rejected` | A non-existent target or abstract content type must be an efficient cause if a thought about it affects behavior. |
 | R246 | `rejected` | Internally or descriptively matching content tokens necessarily refer to the same actual individual. |
 
 ## Literature and novelty notes
+
+**Author review (2026-09-03):** the author advanced to the next priority without correction and then authorized S77. Under the default-acceptance protocol, C624–C633 are accepted at their stated levels. The explicitly optional dependent-abstract-artifact extension and the deeper residual questions remain open.
 
 - [Tim Crane, “Intentionalism” (2009)](https://doi.org/10.1093/oxfordhb/9780199262618.003.0029) distinguishes intentional mode, content, and object and argues that an intentional state's nature need not contain its object. This is the closest precedent for the session's initial partition; S76 adds the actualist target-role and anchoring machinery required by this project.
 - [R. M. Sainsbury, “Intentionality without Exotica” (2009)](https://www.marksainsbury.net/uploads/9/7/2/9/97295048/rmsintentionality.pdf) defends intelligible, truth-evaluable content containing singular expressions without referents. The session uses the ontological possibility of referential purport without a relatum, while leaving Sainsbury's particular free-logic verdicts open.

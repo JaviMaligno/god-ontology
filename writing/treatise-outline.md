@@ -260,9 +260,13 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Creation as existential dependence rather than temporal beginning or only direct $OEC^+$
-    - Why every genuine non-created concrete must be necessary under the total-contingent-ground thesis
+    - Why every actual non-created concrete must be necessary under the actual total-contingent-ground thesis
     - The exact scope limit of $U_G$, $U_D$, $CMU_G$, and $MUU$
-    - Universal concrete dependence $UCD_G$ as an abductive extension, not unrestricted necessary-entity uniqueness
+    - Actual concrete dependence $ACD_G$ as the principal one-terminus result
+    - Essentially independent necessary concreta and why necessary actuality makes them direct rivals to $ACD_G$
+    - The strongest residual countermodel: a brute contingent independent concrete in a non-actual history
+    - $UCD_G\leftrightarrow CTD_G\land NCD_G$ and the modal total-ground/dependence-essentiality bridges
+    - Universal concrete dependence $UCD_G$ as a conditional modal-sovereignty completion, not a consequence of actual economy
     - Necessary existence *ab alio* and why a necessary dependent concrete remains created
     - Non-created-relational tasks: malformed existential tasks, source-indexed joint action, and possible direct effects
     - `NCCBlock`: the exact external-defeater form

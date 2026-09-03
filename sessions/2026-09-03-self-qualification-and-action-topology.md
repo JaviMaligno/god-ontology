@@ -2,6 +2,8 @@
 
 **Date:** 2026-09-03
 **Session ID:** S74
+
+**Later refinement (S77):** S73's third-class closure is now graded. $ACD_G$ closes the actual concrete domain, while closure over every possible non-created concrete remains conditional on full $UCD_G$ or a separate range bridge.
 **Primary question:** Does an independently motivated divine action kind or qualitative intrinsic mode extend the established range without violating $PP_G/UPSS$ or defining eligibility through power?
 **Dependencies:** C55–C60, C75–C76, C223–C231, C255–C265, C283–C296, C420–C433, C451–C455, C492, C559–C600; S32, S34, S44–S45, S71–S73
 **Origin:** First trunk priority after S73; the author's parallel work remains outside this session

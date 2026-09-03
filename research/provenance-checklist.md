@@ -1,8 +1,8 @@
 # Provenance Checklist for the Literature Pass
 
 **Prepared:** 2026-09-02 (S69 addendum).
-**Verified:** 2026-09-02 in a networked local pass.
-**Scope:** the two opening John C. Lennox attributions and all sources that S46-S58 and S64 had cited from memory. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book.
+**Verified:** 2026-09-04 after the S77 targeted update.
+**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S77 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
 
 Legend: **V** verified; **Q** verified with a qualification; **C** corrected; **M** metadata verified but the stronger attribution still needs page-level support.
 
@@ -173,13 +173,24 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Amie L. Thomasson, “Fiction, Modality and Dependent Abstracta” (1996) | **V** | The [author-hosted article](https://www.amiethomasson.org/_files/ugd/63fc8a_b7987a44d0ab4ad188da8ae99f2257b4.pdf), *Philosophical Studies* 84:295–320, presents fictional characters as created, multiply dependent abstract artifacts. It is a stronger live alternative to S76's minimum dossier-role account. |
 | William Jaworski, “Hylomorphism, Explanatory Practice, and the Problem of Mental Causation” (2020) | **V/Q** | [DOI:10.2307/48570647](https://doi.org/10.2307/48570647), *American Philosophical Quarterly* 57(1):79–100, argues that hylomorphic structure permits mental and physical causation to be different and non-competing. This supports C631 conditionally on S37; it does not independently prove the project's hylomorphic subject model. |
 
+## S77 — Graded concrete dependence and modal sovereignty (C634-C644)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Aquinas, *Summa Theologiae* I, q. 44, aa. 1–2 | **V/Q** | The [primary text](https://www.newadvent.org/summa/1044.htm) argues that every being apart from God is caused by the first being, including necessary beings and prime matter. It verifies the universal-sourcehood precedent; the derivation depends on participation, uniquely subsistent being, and the wider simplicity framework not accepted here. |
+| William E. Mann, “Divine Sovereignty and Aseity” (2015) | **V/Q** | The [OUP chapter record and abstract](https://doi.org/10.1093/acprof:oso/9780199370764.003.0007) distinguish divine aseity from progressively stronger sovereignty theses. This supports S77's quantifier-direction warning, but the abstract alone does not verify every intermediate level in the chapter. |
+| Gregory J. Robson, “Reconsidering the Necessary Beings of Aquinas’s Third Way” (2012) | **V/Q** | The [journal DOI and abstract](https://doi.org/10.24204/ejpr.v4i1.315) verify the focus on derivative necessary beings in the Third Way. This supports separating necessity from underivedness; it does not establish $NCD_G$ or an origin-essentiality bridge. |
+| Eric Steinhart, “On the Plurality of Gods” (2013) | **V** | The [Cambridge abstract](https://www.cambridge.org/core/journals/religious-studies/article/abs/on-the-plurality-of-gods/B8DA7B15FE34870DF983765B24019B31) explicitly presents ordinal polytheism: necessary concrete gods, each grounding a universe, ordered without a maximally perfect god. It verifies that plural terminal models can be systematic, not that they are compatible with this project's $CMU_G$. |
+| Jonathan Schaffer, “Monism: The Priority of the Whole” (2010) | **V/Q** | The [journal DOI](https://doi.org/10.1215/00318108-2009-025) verifies the priority-monist distinction between how many concrete objects exist and how many are fundamental. The paper concerns the cosmos rather than divine dependence; S77 uses it only as a taxonomy of existence versus fundamentality. |
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76, with four sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, S76, and S77, with five sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
 - S53's non-criterial and intermittent persistence has a direct close precedent in Merricks; the project's distinctiveness lies in deriving and integrating it with sourcehood, eternalism, and re-realization.
 - S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
+- S77's sourcehood, aseity, derivative-necessity, plural-terminal, and priority distinctions all have precedents; its contribution is the graded diagnostic integration and the explicit refusal to infer a modal operator from actual explanatory economy.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 633 |
-| Rejected or corrected moves (R) | 246 |
+| Working commitments (C) | 644 |
+| Rejected or corrected moves (R) | 251 |
 | Challenges (CH) | 26 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 250 |
-| preferred | 244 |
-| other | 86 |
+| accepted | 255 |
+| preferred | 249 |
+| other | 87 |
 | provisional | 25 |
 | open | 11 |
 | merged | 9 |
@@ -292,10 +292,10 @@
 | C259 | Conditional on sole divine ultimity and existential sovereignty, no created entity, law, field, agent, or spacetime region can be the ultimate limiter of $G$. | `preferred conditional consequence` |
 | C260 | $P_{OEC}$, variable $S$-specification, and typed intervention provide broad cross-category evidence for maximal created-order power but do not entail a universal range. | `accepted evidential assessment` |
 | C261 | $G$ satisfies created-order qualified maximality $OMP_C$. | `preferred at F2` |
-| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity, an $SQBlock$, or, if $UCD_G$ fails, an $NCCBlock$. | `accepted evidential ordering; refined by S72–S74` |
+| C262 | Unrestricted $OMP_Q$ has weaker support than $OMP_C$ and remains defeasible by an independently established essence-compatible incapacity, an $SQBlock$, or, without full $UCD_G$ or another range bridge, an $NCCBlock$. | `accepted evidential ordering; refined by S72–S74 and S77` |
 | C263 | An alleged essential internal limit qualifies the action domain only if the essential feature is established independently of that incapacity and omnipotence. | `accepted anti-circularity rule` |
 | C264 | Logical, identity, and mathematical constraints are not thereby non-created agents or causal blockers competing in power with $G$. | `preferred` |
-| C265 | A necessary concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `refined as NCCBlock by C587–C600` |
+| C265 | A concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `refined as NCCBlock by C587–C600 and graded by S77` |
 | C266 | Creating an exact divine duplicate is incoherent when exactness includes both created dependence and underived ultimate-ground status. | `preferred resolution of strict CH01` |
 | C267 | Creation of a dependent qualitative or derivative near-copy of $G$ remains open. | `open` |
 | C268 | Actual $CCD(G,\mathcal C_0)$ does not establish that every possible divine creative act must be constitutively disjoint. | `accepted modal distinction` |
@@ -312,7 +312,7 @@
 | C279 | Aquinas's route from unlimited actuality and being to unlimited active power is a genuine reference bridge but is not presently available inside the working architecture. | `conditional resource` |
 | C280 | The modal-source program reaches essence-qualified creative plenitude through S38–S40 while keeping constitutive control, history-sensitive intervention, and unrestricted $OMP_Q$ separate. | `locally completed at F2 by C367–C377` |
 | C281 | The possibility of a created specification $S$ receives a metaphysical criterion independent enough to constrain rather than presuppose divine creative range. | `addressed at F2 by C343–C356` |
-| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F1–F2; residual completion proposed in S76` |
+| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F2; bounded residual completion accepted after S76` |
 | C283 | Propositional completeness and completeness of epistemic mode are distinct: ACO knows every actual truth without thereby defining every direct or interpersonal way in which $G$ knows. | `accepted distinction` |
 | C284 | $G$ has actual subject acquaintance $ASA(G,A)$ with every actual conscious subject: direct, factive, subject-indexed access to $A$ and the first-personal organization of $A$'s actual conscious states. | `preferred at local F2` |
 | C285 | $ASA$ is actuality-indexed: MKO may represent possible subject-types and states, but concrete acquaintance requires the numerically particular subject and token state to be actual. | `accepted` |
@@ -564,7 +564,7 @@
 | C531 | Modal uniqueness of necessary agents ($MUNA$): exactly one necessary agent exists, in every world. It entails modal sole-source invariance (B2) once impersonal grounds are excluded from the created domain by createdness. | `preferred` |
 | C532 | Creative plenitude is a conditional theorem: $MUNA$, essential originative power (B3), and agent-relative accessibility (B4) entail that every independently possible created specification is within $G$'s creative capacity. | `superseded by C375–C376 (S40); see C548` |
 | C533 | The eligible set of creative reason ranges over $Poss_C^{ind}$ structures, and $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$, with equality exactly when creative plenitude holds. | `accepted; restated over $Adm_C$ (S60)` |
-| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual and its content may be impossible. At S57 the ontology of content, empty reference, fiction, and causal efficacy remained open; S76 supplies their proposed completion. | `accepted modal component; residual completion proposed by C624–C633` |
+| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual and its content may be impossible. At S57 the ontology of content, empty reference, fiction, and causal efficacy remained open; S76 supplies their accepted F2 completion. | `accepted modal component; bounded residual completion accepted through C624–C633` |
 | C535 | “Other universes” divides into possible worlds (representations of compossible manifestations), physical universes within one created order, and plural created orders; each receives a different verdict. | `accepted distinction` |
 | C536 | Concrete modal realism is excluded: possibility is grounded in constraints and powers, not in concrete worlds, and the weak explanatory preference counts against the posit. | `accepted` |
 | C537 | A cosmological multiverse is internal to one created order, empirical through bridges, and orthogonal to the ground question: it neither reduces contingency nor bypasses the necessary ground, and the project's motivation does not rest on fine-tuning. | `accepted` |
@@ -618,21 +618,21 @@
 | C585 | The cumulative architecture supports ontology-relative qualified omnipotence $OMP_Q^{\mathcal O_*}$ at F2, while unrestricted $OMP_Q$ remains preferred but provisional. | `proposed preferred F2 closure; external branches refined by C600–C615` |
 | C586 | For concrete relata, creation by $G$ is existential dependence on $G$, direct or through a well-founded derivative chain; it entails neither temporal beginning nor immediate production by the actual contingent $OEC^+$ act. | `proposed accepted clarification` |
 | C587 | $NCC_G(L)$ says only that $L$ is concrete, numerically distinct from $G$, and not existentially dependent on $G$; necessity, agency, grounding, interaction, and resistance require separate premises. | `proposed accepted analytic rule` |
-| C588 | Conditional on C04's grounding of total contingent reality, every $NCC_G(L)$ is necessary. | `proposed preferred consequence` |
+| C588 | Conditional on C04's actual grounding scope, every **actual** $NCC_G(L)$ would have to be non-contingent; this does not classify a non-actual possible $NCC_G(L)$ without a modal total-ground bridge. | `scope-corrected consequence after S77` |
 | C589 | $U_G$, $U_D$, $CMU_G$, and current $MUU$ exclude a second ultimate source in their contingent-grounding or created-origin roles but do not by themselves exclude an independent necessary concrete with no such role. | `proposed accepted scope result` |
 | C590 | A non-created-concrete profile must type modal status, dependence, agency, grounding role, causal accessibility, and admissible action roles before it can enter a power argument. | `proposed preferred F2 taxonomy` |
-| C591 | **Universal concrete dependence $UCD_G$:** necessarily, every concrete entity numerically distinct from $G$, if it exists, depends existentially on $G$. | `proposed preferred at F2` |
-| C592 | $UCD_G$ is supported abductively and independently of omnipotence by one terminal concrete explanation, well-founded dependence, the lack of a positive role for a second terminus, and the costs of partition, conflict, reciprocal limitation, or brute concordance. | `proposed comparative justification` |
+| C591 | **Universal concrete dependence $UCD_G$:** necessarily, every concrete entity numerically distinct from $G$, if it exists, depends existentially on $G$. | `S73 proposal; retained conditionally and decomposed by C634–C643` |
+| C592 | One terminal concrete explanation, well-founded dependence, the lack of a positive role for a second terminus, and the costs of partition, conflict, reciprocal limitation, or brute concordance support actual concrete dependence and favor a modally uniform extension independently of omnipotence. | `comparative support retained with S77 scope correction` |
 | C593 | $UCD_G$ neither establishes unrestricted uniqueness of every necessary entity nor excludes necessary dependent concreta. | `proposed accepted scope limit` |
-| C594 | The project does not demonstrate that plural independent necessary concreta are contradictory; their models are retained as rival ultimate ontologies rejected by the proposed $UCD_G$. | `proposed accepted evidential limit` |
+| C594 | The project does not demonstrate that plural independent necessary concreta are contradictory; under S5-style necessary actuality, their models are rival ultimate ontologies disfavored by the proposed $ACD_G$, while $UCD_G$ supplies the stronger all-history exclusion. | `proposed accepted evidential limit; scope refined by S77` |
 | C595 | Creating the very same essentially non-created $L$, annihilating the same necessary $L$, or strongly producing an autonomous settlement while preserving it as $L$'s free contribution fails $Task_G$. | `proposed preferred task exclusions` |
 | C596 | Knowledge of an actual non-created $L$ would fall within ACO's complete-actuality scope and is not a further causal action; attention or address may use $FEG_G$, while uptake or autonomous response remains source-indexed to $L$. | `proposed integration` |
 | C597 | If $UCD_G$ is false, modifying, constraining, disclosing to, cooperating with, or producing a source-neutral result concerning $L$ may pass $Task_G$ when the complete action is independently essence-compatible and source-consistent. | `proposed conditional task range` |
 | C598 | Joint action with an autonomous non-created agent is typed by asymmetric contributions: $G$ must strongly produce its own contribution, not the other agent's contrastive settlement. | `proposed accepted source-role extension` |
 | C599 | A genuine $NCCBlock_G(L,a)$ requires $NCC_G(L)$, an independently eligible $LTask_G(a,L)$, an underived boundary supplied by $L$, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
-| C600 | Under proposed $UCD_G$, the distinct-non-created-concrete branch of action-domain exhaustion is closed at F2; without it, only an $NCCBlock$ defeats unrestricted $OMP_Q$. | `proposed preferred conditional closure; novel-kind branch continued in C601–C615` |
+| C600 | Under full $UCD_G$, the distinct-non-created-concrete branch of action-domain exhaustion is closed at F2; without it, only an $NCCBlock$ defeats unrestricted $OMP_Q$. | `conditional closure retained; modal support refined by C634–C643` |
 | C601 | Divine action-domain exhaustion should be organized by immediate-patient topology: no distinct patient, a result in the created domain, a distinct non-created concrete, $G$ as result-bearer, or an abstract coherence constraint rather than a causal patient. | `proposed preferred F2 taxonomy` |
-| C602 | The no-further-patient, created-domain, and distinct-non-created classes are respectively governed by $FEG_G$, the created-order ranges, and proposed $UCD_G$/`NCCBlock`; abstracta constrain task coherence without receiving causal action. | `proposed preferred integration` |
+| C602 | The no-further-patient, created-domain, and distinct-non-created classes are respectively governed by $FEG_G$, the created-order ranges, and the graded $ACD_G$/$UCD_G$/`NCCBlock` analysis; abstracta constrain task coherence without receiving causal action. | `proposed preferred integration; refined by S77` |
 | C603 | Loving, forgiving, promising, judging, imagining, enjoying, responding, and similar thick descriptions do not by themselves establish new basic divine action kinds. | `proposed preferred analytic rule` |
 | C604 | The intrinsic-mode field divides into executive token-aspects, extrinsic or Cambridge modes, basic reconstitution, and contingent non-basic intrinsic modes. | `proposed corrected F2 partition` |
 | C605 | $CNBIM_G(m)$ is a contingent intrinsic mode of $G$ compatible with $PP_G$, neither an established exercise-token aspect nor a Cambridge mode, and adding no essential power, proper part, substrate, or bearer. | `proposed candidate schema; no positive witness` |
@@ -654,16 +654,27 @@
 | C621 | The direct and relational routes jointly support $Owns(G,r_P^{thin})$. Its creative application is indexed to modal structural P-profiles; once a bearer is actual, its response-reason instances are de re and bearer-indexed. | `preferred at F2` |
 | C622 | C525's equivalence is corrected: possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation requires undefeated fitting response in every relevant actual case and therefore excludes gratuitous suffering. | `accepted correction` |
 | C623 | C526 is boundedly closed: its two routes are complementary and a thin operative P-reason is preferred, while exhaustive P-orientation, continuation, divine love, affective valence, and omnibenevolence remain open. | `accepted bounded closure at F2` |
-| C624 | A finite cognitive episode is an actual temporal manifestation of the unified embodied subject; its realized content-profile is an actual formal or relational aspect of that token, not another substance or a merely neural description. | `proposed preferred at F2` |
-| C625 | Repeatable content is represented through an equivalence $c_i\equiv_C c_j$ among token profiles at a selected grain; no independently existing or causally active abstract content entity is required at F2. | `proposed preferred abstraction` |
-| C626 | Intentional target-role or referential purport is distinct from successful reference: $PurportsRef(i,\rho)$ does not entail $\exists x Ref(i,x)$. | `proposed accepted distinction` |
-| C627 | Actual reference requires an actual relatum, a successful reference route, and role-fit; reference routes may be demonstrative, causal, acquaintance-based, memorial, linguistic-historical, or sufficiently determining descriptions. | `proposed preferred reference schema` |
-| C628 | A target-role is possibly satisfiable exactly when an `Adm_C` specification contains a satisfier; a partial role is possible when an admissible completion does. Thought creates neither possibility nor a merely possible individual. | `proposed accepted modal integration` |
-| C629 | Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. Fiction-internal predication uses $In_F$; dependent abstract characters remain an optional stronger ontology. | `proposed preferred fiction minimum` |
-| C630 | Possession of content does not entail truth-aptness: beliefs, images, questions, plans, suppositions, and fictions have typed truth, accuracy, answerability, executability, or internal-coherence conditions. | `proposed accepted typing` |
-| C631 | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. | `proposed preferred causal integration at F2` |
-| C632 | ACO and $ASA$ know an actual creaturely cognitive episode and its subject-indexed content, while MKO knows modal satisfaction and failure; this entails neither acquaintance with non-actual individuals nor a temporal or embodied cognitive vehicle in $G$. | `proposed accepted divine-knowledge constraint` |
-| C633 | CH14 is complete enough at F2 for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated. | `proposed bounded closure of CH14 at F2` |
+| C624 | A finite cognitive episode is an actual temporal manifestation of the unified embodied subject; its realized content-profile is an actual formal or relational aspect of that token, not another substance or a merely neural description. | `preferred at F2; accepted` |
+| C625 | Repeatable content is represented through an equivalence $c_i\equiv_C c_j$ among token profiles at a selected grain; no independently existing or causally active abstract content entity is required at F2. | `preferred abstraction; accepted` |
+| C626 | Intentional target-role or referential purport is distinct from successful reference: $PurportsRef(i,\rho)$ does not entail $\exists x Ref(i,x)$. | `accepted distinction` |
+| C627 | Actual reference requires an actual relatum, a successful reference route, and role-fit; reference routes may be demonstrative, causal, acquaintance-based, memorial, linguistic-historical, or sufficiently determining descriptions. | `preferred reference schema; accepted` |
+| C628 | A target-role is possibly satisfiable exactly when an `Adm_C` specification contains a satisfier; a partial role is possible when an admissible completion does. Thought creates neither possibility nor a merely possible individual. | `accepted modal integration` |
+| C629 | Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. Fiction-internal predication uses $In_F$; dependent abstract characters remain an optional stronger ontology. | `preferred fiction minimum; accepted` |
+| C630 | Possession of content does not entail truth-aptness: beliefs, images, questions, plans, suppositions, and fictions have typed truth, accuracy, answerability, executability, or internal-coherence conditions. | `accepted typing` |
+| C631 | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. | `preferred causal integration at F2; accepted` |
+| C632 | ACO and $ASA$ know an actual creaturely cognitive episode and its subject-indexed content, while MKO knows modal satisfaction and failure; this entails neither acquaintance with non-actual individuals nor a temporal or embodied cognitive vehicle in $G$. | `accepted divine-knowledge constraint` |
+| C633 | CH14 is complete enough at F2 for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated. | `accepted bounded closure of CH14 at F2` |
+| C634 | **Actual concrete dependence $ACD_G$:** every actual concrete entity numerically distinct from $G$ depends existentially on $G$. | `proposed preferred actual thesis at F2` |
+| C635 | The support for $ACD_G$ has two layers: the provisional total-contingent-ground thesis covers actual contingent concreta, and the comparative one-terminus case extends the preferred actual ontology against necessary independent concreta. | `proposed comparative support` |
+| C636 | $ENCC_G(L)$ designates a concrete $L\neq G$ that exists necessarily and is essentially existentially independent of $G$. | `proposed accepted rival definition` |
+| C637 | $ACD_G\rightarrow\neg\exists L\,ENCC_G(L)$: an essentially independent necessary concrete would be actual and would therefore both depend and not depend on $G$. | `proposed conditional deduction` |
+| C638 | $ACD_G$ does not entail full $UCD_G$. The strongest residual countermodel preserves actual one-terminus dependence while allowing a brute contingent concrete independent of $G$ in some non-actual history. | `proposed accepted scope correction` |
+| C639 | Let $CTD_G$ require every contingent concrete in every admissible history to depend on $G$, and $NCD_G$ require the same of every necessary concrete; under exhaustive modal status, $UCD_G\leftrightarrow CTD_G\land NCD_G$. | `proposed accepted decomposition` |
+| C640 | $CTD_G$ requires a modal total-ground bridge, while $NCD_G$ requires an appropriate dependence-status or origin-essentiality bridge beyond actual $ACD_G$. | `proposed accepted bridge diagnosis` |
+| C641 | Divine aseity, originative creative power, actual total grounding, and qualified omnipotence do not independently establish full $UCD_G$; classical universal-dependence arguments use stronger participation, simplicity, or being-by-essence premises not presently accepted. | `proposed evidential limit` |
+| C642 | The preferred graded position retains $ACD_G$ as the principal actual result and full $UCD_G$ as a cleaner but conditional modal-sovereignty completion; the latter is not reported as derived from the former. | `proposed preferred graded position at F2–F2+` |
+| C643 | Ontology-relative $OMP_Q^{\mathcal O_*}$, actual existential sovereignty, and divine-ground uniqueness survive the S77 correction; exclusion of every possible non-created relatum and unrestricted cross-ontology $OMP_Q$ remain conditional on full $UCD_G$ or a separate non-created-relatum range bridge. | `proposed accepted downstream constraint` |
+| C644 | CH25 is complete enough at F2 once actual dependence, essentially independent necessary rivals, brute contingent modal rivals, and the missing modal bridge are separated. | `proposed bounded closure of the S77 audit` |
 
 ## Rejected or corrected moves
 
@@ -915,6 +926,11 @@
 | R244 | Every content is a truth-apt abstract proposition. | `rejected` |
 | R245 | A non-existent target or abstract content type must be an efficient cause if a thought about it affects behavior. | `rejected` |
 | R246 | Internally or descriptively matching content tokens necessarily refer to the same actual individual. | `rejected` |
+| R247 | $ACD_G$ entails full $UCD_G$ without an explicit modal bridge. | `rejected` |
+| R248 | Lack of a positive reason to posit an additional concrete establishes its metaphysical impossibility. | `rejected` |
+| R249 | A necessarily existing independent concrete can remain confined to a merely non-actual possible history. | `rejected` |
+| R250 | Divine aseity by itself entails that everything else depends on $G$. | `rejected` |
+| R251 | Plural necessary agents are contradictory without further simplicity, maximality, individuation, or conflict premises. | `rejected` |
 
 ## Challenges
 
@@ -933,7 +949,7 @@
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F2; bounded closure proposed in S76` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F2; bounded closure accepted after S76` |
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | `tested F2` |
@@ -944,5 +960,5 @@
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | `tested F2` |
-| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; conditionally closed under proposed UCD_G` |
+| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; graded closure proposed in S77` |
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | `tested F2; no positive SQBlock witness` |

@@ -21,13 +21,13 @@
 | $ASA(G,A)$ | actual subject acquaintance | $Actual(A)\land ConsciousSubject(A)\land DirectEpistemicAccess(G,A)\land\forall c[ActualStateOf(c,A)\rightarrow GraspsAsPresentedTo(G,c,A)]$ | preferred (C284) | S34 |
 | $K_G^{total}=\langle ACO_P,MKO,ASA\rangle$ | divine epistemic profile | role-structured, not stages or faculties | preferred (C289) | S34 |
 | $K_G^{h}(p)$ iff $h\vDash p$ | local ACO semantics | grounding biconditional, not temporal | preferred | S02 |
-| $Cog(A,i,c,t)$, $HasContent(i,c)$ | finite cognition | actual temporal manifestation $i$ of embodied subject $A$ with an instantiated content-profile $c$ | proposed preferred F2 (C624) | S76 |
-| $c_i=\langle m,f,\rho,\alpha,\kappa\rangle$ | content-profile normal form | mode, representational format, target-role, anchoring profile, and typed satisfaction/accuracy profile; analytic aspects, not mental parts | proposed analytic device (C624) | S76 |
-| $c_i\equiv_C c_j$ | repeatable content | equivalence of token profiles at a selected content-relevant grain; type abstraction without required independent abstract causation | proposed preferred (C625) | S76 |
-| $PurportsRef(i,\rho)$, $Ref(i,x)$ | target-role; actual reference | purport does not entail a referent; reference requires actual $x$, a successful plural route, and role-fit | proposed preferred distinction/schema (C626–C627) | S76 |
-| $PossSat(\rho)$, $PossSat^{partial}(\rho)$ | modal target satisfaction | an `Adm_C` specification contains a role-fitting satisfier; a partial role has an admissible completion that does | proposed accepted integration (C628) | S76 |
-| $FicArt(F)$, $Introduces(F,\rho_F)$, $In_F(P(\rho_F))$ | public fiction | actual artifact/practice and stabilized dossier-role; fiction-internal predication without a required concrete character | proposed preferred minimum (C629) | S76 |
-| $CausalContent(i,e)$ | content-sensitive causal role | the actual contentful episode manifests the integrated subject's cognitive power and contributes to $e$; target/type is no second efficient cause | proposed preferred F2 (C631) | S76 |
+| $Cog(A,i,c,t)$, $HasContent(i,c)$ | finite cognition | actual temporal manifestation $i$ of embodied subject $A$ with an instantiated content-profile $c$ | preferred F2; accepted (C624) | S76 |
+| $c_i=\langle m,f,\rho,\alpha,\kappa\rangle$ | content-profile normal form | mode, representational format, target-role, anchoring profile, and typed satisfaction/accuracy profile; analytic aspects, not mental parts | accepted analytic device (C624) | S76 |
+| $c_i\equiv_C c_j$ | repeatable content | equivalence of token profiles at a selected content-relevant grain; type abstraction without required independent abstract causation | preferred; accepted (C625) | S76 |
+| $PurportsRef(i,\rho)$, $Ref(i,x)$ | target-role; actual reference | purport does not entail a referent; reference requires actual $x$, a successful plural route, and role-fit | preferred distinction/schema; accepted (C626–C627) | S76 |
+| $PossSat(\rho)$, $PossSat^{partial}(\rho)$ | modal target satisfaction | an `Adm_C` specification contains a role-fitting satisfier; a partial role has an admissible completion that does | accepted integration (C628) | S76 |
+| $FicArt(F)$, $Introduces(F,\rho_F)$, $In_F(P(\rho_F))$ | public fiction | actual artifact/practice and stabilized dossier-role; fiction-internal predication without a required concrete character | preferred minimum; accepted (C629) | S76 |
+| $CausalContent(i,e)$ | content-sensitive causal role | the actual contentful episode manifests the integrated subject's cognitive power and contributes to $e$; target/type is no second efficient cause | preferred F2; accepted (C631) | S76 |
 
 ## B.2 Agency and intervention
 
@@ -69,7 +69,10 @@
 | $Poss_C^{ind}$ (qd five-clause) | independent possibility | merged into $Adm_C$; model existence explicit; $E_G$ clause relocated to B4 | reconciled (C542) | S56, S59 |
 | $CMU_G$, MGC, MUU, GOL (trunk) | conditional modal ultimity | $\Box\forall C[(Exists(C)\land FundCreatedBasis(C))\rightarrow UltimateOrigin(G,C)]$ | preferred (C360–C362) | S39 |
 | $Created_G(x)$, $NCC_G(L)$ | creation; non-created concrete | $Created_G(x):=x\neq G\land DependsExistentially(x,G)$; $NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L)$ | proposed clarification (C586–C590) | S73 |
-| $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred F2, abductive (C591–C594) | S73 |
+| $ACD_G$ | actual concrete dependence | $\forall x[(Actual(x)\land Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred actual thesis at F2 (C634–C635) | S77 |
+| $ENCC_G(L)$ | essentially independent necessary concrete | $Concrete(L)\land L\neq G\land \Box Exists(L)\land \Box(Exists(L)\rightarrow\neg DependsExistentially(L,G))$ | proposed rival definition; conditionally excluded by $ACD_G$ (C636–C637) | S77 |
+| $CTD_G$, $NCD_G$ | modal contingent-total; necessary-concrete dependence | modal dependence of every contingent concrete; modal dependence of every necessary concrete; under exhaustive modal status, their conjunction is $UCD_G$ | proposed decomposition and bridge diagnosis (C638–C640) | S77 |
+| $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | conditional modal-sovereignty completion, not derived from $ACD_G$ (C591–C594, C639–C643) | S73, S77 |
 | $LTask_G(a,L)$, $NCCBlock_G(L,a)$ | non-created task; blocker | an eligible divine task genuinely concerning $L$; an underived $L$-boundary plus failure of $StrongCan$ | proposed diagnostic (C597–C600) | S73 |
 | $CNBIM_G(m)$ | contingent non-basic intrinsic mode | intrinsic, contingent, $PP_G$-compatible, non-executive, non-Cambridge mode adding no essential power, proper part, substrate, or bearer | proposed candidate schema, no positive witness (C604–C605) | S74 |
 | $SelfQualAdm_G(a,m)$ | non-destructive self-qualification | independently eligible action with $G$ as direct source and immediate bearer of a $CNBIM$ result | proposed residual task schema (C606–C609) | S74 |

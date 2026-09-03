@@ -47,6 +47,11 @@
 | root created basis | base creada raíz | *el punto de partida de lo creado* |
 | qualified creative plenitude | plenitud creadora cualificada | *puede crear cualquier mundo posible* |
 | conditional modal ultimity | ultimidad modal condicional | *si hay un mundo creado, su fuente última es el mismo Dios* |
+| actual concrete dependence ($ACD_G$) | dependencia concreta actual | *todo ser concreto que existe de hecho y no es Dios depende de Dios* |
+| essentially independent necessary concrete ($ENCC_G$) | concreto necesario esencialmente independiente | *otro ser concreto que no pudiera no existir y que no dependiera de Dios* |
+| modal contingent-total / necessary-concrete dependence ($CTD_G/NCD_G$) | dependencia modal de todo concreto contingente / de los concretos necesarios | *los dos puentes que harían valer la dependencia en todos los mundos posibles* |
+| universal concrete dependence ($UCD_G$) | dependencia concreta universal | *en cualquier mundo posible, todo ser concreto distinto de Dios dependería de Dios* |
+| modal sovereignty | soberanía modal | *ser el único término concreto independiente en cualquier mundo posible* |
 | qualified omnipotence ($OMP_C$, $OMP_Q$) | omnipotencia cualificada | *puede hacer cualquier cosa que tenga sentido hacer* |
 | ontology-relative maximality | maximalidad relativa a la ontología | *todo lo que la ontología deja definido como tarea* |
 | ontological omnipresence | omnipresencia ontológica | *no hay sitio, cosa ni instante que no esté sosteniendo y conociendo* |

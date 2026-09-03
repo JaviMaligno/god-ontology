@@ -5,6 +5,8 @@
 **Primary question:** Is a concrete relatum distinct from and not created by $G$ metaphysically possible under the strongest justified uniqueness and ultimity theses, and which actions concerning it could threaten unrestricted $OMP_Q$?
 **Dependencies:** C04–C05, C29–C34, C73–C83, C98–C100, C223–C231, C255–C265, C319, C343–C376, C420–C430, C573–C585; S13, S30, S32, S36, S39–S40, S44, S72
 **Origin:** First trunk priority after S72; the author's parallel publication-protocol work is explicitly outside this session
+
+**Later refinement (S77):** this session records the original S73 proposal and is retained as historical reasoning. S77 corrects its modal scope: the one-terminal argument principally supports actual concrete dependence $ACD_G$; full modal $UCD_G$ additionally requires modal total-ground and dependence/origin-essentiality bridges. Any S73 language of F2 closure should therefore be read through C634–C644 rather than as an independently completed derivation.
 **Target depth:** F2 modal and task-domain audit; no claim of a premise-free demonstration
 
 ## Outcome

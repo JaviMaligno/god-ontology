@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 625 |
-| Rejected or corrected moves (R) | 243 |
+| Working commitments (C) | 631 |
+| Rejected or corrected moves (R) | 245 |
 | Challenges (CH) | 25 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 260 |
-| preferred | 246 |
+| accepted | 263 |
+| preferred | 249 |
 | other | 63 |
 | provisional | 25 |
 | open | 12 |
@@ -312,7 +312,7 @@
 | C279 | Aquinas's route from unlimited actuality and being to unlimited active power is a genuine reference bridge but is not presently available inside the working architecture. | `conditional resource` |
 | C280 | The modal-source program reaches essence-qualified creative plenitude through S38–S40 while keeping constitutive control, history-sensitive intervention, and unrestricted $OMP_Q$ separate. | `locally completed at F2 by C367–C377` |
 | C281 | The possibility of a created specification $S$ receives a metaphysical criterion independent enough to constrain rather than presuppose divine creative range. | `addressed at F2 by C343–C356` |
-| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F1–F2` |
+| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F2; content and reference closed by S80 (C626–C631)` |
 | C283 | Propositional completeness and completeness of epistemic mode are distinct: ACO knows every actual truth without thereby defining every direct or interpersonal way in which $G$ knows. | `accepted distinction` |
 | C284 | $G$ has actual subject acquaintance $ASA(G,A)$ with every actual conscious subject: direct, factive, subject-indexed access to $A$ and the first-personal organization of $A$'s actual conscious states. | `preferred at local F2` |
 | C285 | $ASA$ is actuality-indexed: MKO may represent possible subject-types and states, but concrete acquaintance requires the numerically particular subject and token state to be actual. | `accepted` |
@@ -564,7 +564,7 @@
 | C531 | Modal uniqueness of necessary agents ($MUNA$): exactly one necessary agent exists, in every world. It entails modal sole-source invariance (B2) once impersonal grounds are excluded from the created domain by createdness. | `preferred` |
 | C532 | Creative plenitude is a conditional theorem: $MUNA$, essential originative power (B3), and agent-relative accessibility (B4) entail that every independently possible created specification is within $G$'s creative capacity. | `superseded by C375–C376 (S40); see C548` |
 | C533 | The eligible set of creative reason ranges over $Poss_C^{ind}$ structures, and $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$, with equality exactly when creative plenitude holds. | `accepted; restated over $Adm_C$ (S60)` |
-| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual, its content may be impossible; the ontology of content, the reference of imaginings to fictions and impossibilities, and the causal efficacy of thought remain CH14's open parts. | `accepted partial` |
+| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual, its content may be impossible; the ontology of content, the reference of imaginings to fictions and impossibilities, and the causal efficacy of thought remain CH14's open parts. | `accepted; open parts closed at F2 by C626–C631 (S80)` |
 | C535 | “Other universes” divides into possible worlds (representations of compossible manifestations), physical universes within one created order, and plural created orders; each receives a different verdict. | `accepted distinction` |
 | C536 | Concrete modal realism is excluded: possibility is grounded in constraints and powers, not in concrete worlds, and the weak explanatory preference counts against the posit. | `accepted` |
 | C537 | A cosmological multiverse is internal to one created order, empirical through bridges, and orthogonal to the ground question: it neither reduces contingency nor bypasses the necessary ground, and the project's motivation does not rest on fine-tuning. | `accepted` |
@@ -656,6 +656,12 @@
 | C623 | The bootstrapping objection reads grounding as production; “true in virtue of a nature” is neither causal nor prior to the nature, so logical truths and truths about $G$ are grounded in $Nat(G)$ without regress or circle. | `accepted reply` |
 | C624 | $ESG$ preserves $MCS$ (participable ways are not constituents), the contingency of creation (C111, C363), and the order of the argument to $G$: the argument uses logic as a tool and $ESG$ explains the tool downstream. | `accepted compatibility` |
 | C625 | The accessible register's decided answer on numbers, ideas, and necessary truths: not made, since no exercise produced them; not apart from $G$, since they are $G$'s way of being as shareable; not ours, since we abstract them from a created order made according to them. | `accepted specification` |
+| C626 | An act of imagining or thinking has an actual act, an actual vehicle (the representational organization realized by the act), an objective satisfaction condition (a specification, complete or partial, grounded as in C620), and an actual referent if any; content is vehicle plus satisfaction condition, with no further abstract entity. | `preferred F2 partition` |
+| C627 | Reference is a relation to actual items under an anchoring relation (causal-historical, descriptive, or $ASA$ for $G$); when nothing actual meets the condition the act is about a specification; a merely possible individual is a profile plus an assigned label, and no possibile is a relatum. | `preferred F2` |
+| C628 | An impossible content is a satisfaction condition with no admissible completion whose parts are separately satisfiable; it is representable without a satisfier, entertainable because of its parts, and unfulfillable because of their conjunction, for which there is no participable profile. | `accepted application` |
+| C629 | A fiction is a specification under stipulation with an actual authorial provenance; fictional characters are individuated by provenance, not by a possibile; truths in fiction are actual truths about the stipulated specification and the practice's import rules; no fictional or non-existent objects are posited. | `preferred F2` |
+| C630 | Divine knowledge of thought is ACO of the act, its vehicle, and the fact that it has its content; MKO of the condition's admissibility; and $ASA$ of what the act is like for the subject; there is no possibile to know. | `accepted integration` |
+| C631 | Thought is causally efficacious through its vehicle; content-involving explanation is constitutive explanation of the act's organization, non-competing with causal explanation (C335), so there is neither epiphenomenalism nor overdetermination; how an embodied organization bears a satisfaction condition at all is the intentionality bridge, the same F3 burden as phenomenality. | `accepted at F2; bridge at F3` |
 
 ## Rejected or corrected moves
 
@@ -904,6 +910,8 @@
 | R241 | $G$ wills the necessary truths, which could therefore have been otherwise. | `rejected` |
 | R242 | Grounding necessary structure in $G$'s nature defines possibility through divine power. | `rejected` |
 | R243 | $ESG$ is demonstrated rather than abductively preferred. | `rejected overreach` |
+| R244 | Imagining a merely possible individual is a relation to a possibile. | `rejected` |
+| R245 | Intentional content must be an abstract proposition in a realm distinct from specifications. | `rejected` |
 
 ## Challenges
 
@@ -922,7 +930,7 @@
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F1–F2` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F2; content and reference closed in S80; intentionality bridge F3` |
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | `tested F2` |

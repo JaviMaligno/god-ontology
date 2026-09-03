@@ -56,6 +56,14 @@ Así que las verdades necesarias no están hechas, porque no salen de ninguna de
 
 Dos aclaraciones. Una: esto no hace a Dios complicado ni «lleno de matemáticas»; lo múltiple está en las maneras de participarlo, que son de las cosas, no de él. Otra, sobre el orden del argumento: uso la lógica para llegar a Dios, sí, como uso el lenguaje; eso no la pone por encima de él, igual que usar una regla para medir una casa no pone la regla por encima del arquitecto. Primero se llega a que hay un fundamento; después se entiende qué era la regla. Y lo digo como lo digo todo lo demás de este tipo: es la mejor explicación que encuentro, no una demostración; quien prefiera decir que esas verdades sencillamente son así, sin fundamento, no se contradice, solo deja algo más sin explicar.
 
+### ¿Qué es lo que pienso cuando pienso en algo que no existe?
+
+Cuando pienso en un dragón, o en un amigo que podría haber tenido, o en un círculo cuadrado, hay algo que es de verdad y algo que no. Lo que es de verdad es el acto: yo, aquí, pensándolo, con una organización en mí que apunta a algo. Lo que no hace falta que exista es aquello a lo que apunta. Un pensamiento es como una cerradura: es real aunque no exista ninguna llave que encaje. Pensar en un dragón es tener una cerradura para la que no hay llave; pensar en mi mesa es tener una para la que sí la hay, y ahí sí me refiero a algo.
+
+Con eso se explican los casos raros. El amigo que podría haber tenido no es nadie: es un perfil, una descripción, a la que le pongo un nombre; no hay una persona posible esperando en algún sitio. El círculo cuadrado se puede pensar porque «círculo» y «cuadrado» encajan cada uno por su lado; lo que no encaja es la suma, y por eso se puede decir y no se puede tener. Y Sherlock Holmes: dos lectores piensan «el mismo» Holmes no porque exista un Holmes, sino porque su idea les viene de la misma historia, la que escribió alguien de verdad; lo que Conan Doyle creó fue una descripción con historia, no un ser.
+
+Dios lo sabe todo de esto sin que haga falta añadir nada: sabe que pienso, cómo lo pienso y qué es lo que pienso, y sabe si aquello a lo que apunta es posible; y no sabe quién sería mi amigo posible, porque no hay nada que saber. Lo que no sé yo es cómo llega un trozo de materia organizada, mi cerebro, a apuntar a algo; eso lo dejo en el mismo sitio donde dejo por qué siente.
+
 ### ¿Existen otros universos?
 
 Depende de qué se llame universo, y son tres cosas distintas.
@@ -355,6 +363,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S74 |
 | Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración; corregida por el autor en lo relativo a las verdades necesarias | C586–C600, C603–C611; S73, S75–S77 |
 | Existen los números y las ideas | preferido: la estructura necesaria es la manera de ser de Dios en cuanto participable, no hecha ni aparte ni nuestra; la necesidad sin fundamento queda como alternativa coherente | C03, C52, C264, C343, C350–C351, C429, C611, C619–C625; S05, S32, S38, S77, S79 |
+| Qué pienso cuando pienso en lo que no existe | preferido: el acto es real y apunta a una condición; la referencia es a lo actual; posibles, imposibles y ficciones sin objetos; cómo apunta la materia queda con el problema de la conciencia | C53–C54, C347, C352–C354, C626–C631; S05, S38, S80 |
 | Por qué Dios no se muestra más claramente | parcial: la mitad estructural es preferida (relación de dos, sin instalar la respuesta); el umbral y la parte de lo que sentimos son creencia | C91, C122–C124, C296, C466–C470, C498, C503; S20, S35, S46, S52, S77 |
 | Necesita Dios que le recemos | parcial: que no necesita es preferido; lo que la relación es para nosotros es establecido; que la quiera por nosotros es creencia | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S77 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; la rama de relata no creados queda condicionalmente cerrada mediante $UCD_G$ y la forma irrestricta sigue pendiente de tipos de acción genuinamente nuevos | C261–C262, C372, C375–C376, C420–C433, C573–C600; S32, S40–S44, S71–S73 |

@@ -2,7 +2,7 @@
 
 *Generated 2026-09-03 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
 
-Entries: 331.
+Entries: 333.
 
 | Term | Working definition | Status/source |
 | --- | --- | --- |
@@ -336,4 +336,6 @@ Entries: 331.
 | **No-limiter lemma $NLL$** | $MGC^+\land MUU\rightarrow\neg\Diamond\exists L\,Limiter_G(L)$: under extended coverage and modal uniqueness of the underived source, no non-created concrete can limit $G$; the non-created-relatum condition on unrestricted $OMP_Q$ reduces to those two premises. | preferred F2 conditional consequence; retained beside canonical $UCD_G$ closure (C600) as the weaker-premise route to the blocker question (S76); C606, C609, S75 |
 | **Essential-structure grounding $ESG$** | Logical and identity truths hold in virtue of $G$'s nature and of every dependent by dependence; a type-level profile is admissible iff it is a way $G$'s being can be participated by a dependent. Necessary structure is thereby not made, not apart from $G$, and not constituted by divine will, knowledge, or power. | proposed preferred at F2; C619–C625, S79 |
 | **Participable profile $Participable(\pi,Nat(G))$** | A constitutive profile whose instantiation would be a coherent dependent of $G$: coherent in itself, in its powers and their compossibility, and as dependent. The ground of $Adm_C$, not a clause of it. | C620–C621, S79 |
+| **Intentional content (act, vehicle, satisfaction condition, referent)** | An act of thought is actual; its vehicle is the actual representational organization it realizes; its satisfaction condition is a specification an item would have to meet, objective because specifications are participable profiles (C620); its referent is the actual item meeting the condition under an anchoring relation, if any. | preferred F2; C626–C627, S80 |
+| **Stipulated specification $Fic(\sigma,h)$** | A specification introduced under stipulation by an actual authorial history $h$; the ontology of fiction. Characters are individuated by $h$; truths in fiction are actual truths about $\sigma$ under $h$ and the practice's import rules. | preferred F2; C629, S80 |
 | **Theistic plenitude** | The thesis that $G$ actualizes every eligible or undominated structure. Coherent; not preferred, since it needs a requiring reason for maximal variety. | open; C540 |

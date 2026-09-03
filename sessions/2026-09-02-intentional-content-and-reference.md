@@ -1,15 +1,15 @@
 # Session: Intentional content and reference: CH14's remaining parts
 
 **Date:** 2026-09-02
-**Session ID:** S80
-**Primary question:** S38 and S57 fixed the modal status of imagined content and left open the ontology of content, reference to fictions and impossibilities, and the causal efficacy of thought (C534; open question 13). What kind of reality do these have, given the embodied subject of S37 and the ground of necessary structure of S79?
-**Dependencies:** S38 (C343–C354, its five categories); S57/S60 (C534, C542); S05 (C53–C54); S34 (C284–C286); S36–S37 (C310–C321, C330–C338); S79 (C620–C621); CH14
-**Origin:** the question-driven track's next item after S78–S79 (development map item 22; open question 13)
+**Session ID:** S83
+**Primary question:** S38 and S57 fixed the modal status of imagined content and left open the ontology of content, reference to fictions and impossibilities, and the causal efficacy of thought (C534; open question 13). What kind of reality do these have, given the embodied subject of S37 and the ground of necessary structure of S82?
+**Dependencies:** S38 (C343–C354, its five categories); S57/S60 (C534, C542); S05 (C53–C54); S34 (C284–C286); S36–S37 (C310–C321, C330–C338); S82 (C653–C654); CH14
+**Origin:** the question-driven track's next item after S81–S82 (development map item 22; open question 13)
 **Target depth:** F2 for the partition of act, vehicle, satisfaction condition, and referent, and for the treatment of the four hard cases; the intentionality bridge is left at F3 beside phenomenality
 
 ## Outcome
 
-An act of imagining or thinking has three actual constituents and one that need not be actual. The **act** is a temporal manifestation of a power of the embodied subject (C334). Its **vehicle** is the representational organization the act realizes, which is actual and located in the subject's realization base. Its **satisfaction condition** is a specification, complete or partial (C347), that an item would have to meet for the act to be fulfilled; it is objective, because specifications are instantiable profiles, and by S79 those are ways $G$'s being can be participated (C620), not members of a third realm. The **referent**, when there is one, is the actual item that meets the satisfaction condition under an anchoring relation; when nothing actual meets it, there is no referent, and the act is about a specification. This is immanent-content actualism with objective satisfaction conditions, and it closes CH14's remaining parts at F2.
+An act of imagining or thinking has three actual constituents and one that need not be actual. The **act** is a temporal manifestation of a power of the embodied subject (C334). Its **vehicle** is the representational organization the act realizes, which is actual and located in the subject's realization base. Its **satisfaction condition** is a specification, complete or partial (C347), that an item would have to meet for the act to be fulfilled; it is objective, because specifications are instantiable profiles, and by S82 those are ways $G$'s being can be participated (C653), not members of a third realm. The **referent**, when there is one, is the actual item that meets the satisfaction condition under an anchoring relation; when nothing actual meets it, there is no referent, and the act is about a specification. This is immanent-content actualism with objective satisfaction conditions, and it closes CH14's remaining parts at F2.
 
 The hard cases are handled by the same four items. Imagining a merely possible individual is having a vehicle whose satisfaction condition is a profile plus an assigned label; there is no possibile to which the act is related, since a merely possible individual has no identity ground (C53). Thinking an impossibility is having a vehicle whose satisfaction condition has no admissible completion but whose parts are separately satisfiable, which is why it can be entertained and why it cannot be fulfilled (C347). A fiction is a specification under stipulation with an actual authorial provenance; fictional characters are individuated by that provenance, which is why two readers think of the same Holmes without there being a Holmes. Divine knowledge of all this is already provided for: the act, vehicle, and the fact that the act has the content it has are actual and fall under ACO; the admissibility of the satisfaction condition falls under MKO; what the imagining is like for the subject falls under $ASA$; and there is nothing further to know, because there is no possibile (C54). Thought is causally efficacious through its vehicle; content-involving explanation is constitutive, not a second cause (C335), so there is neither epiphenomenalism nor overdetermination. What remains is the intentionality bridge, how an embodied organization comes to bear a satisfaction condition at all, and it is the same F3 burden as phenomenality (C337–C338), not a burden CH14 adds.
 
@@ -21,10 +21,10 @@ For an act $i$ of subject $A$ at $t$:
 | --- | --- | --- | --- |
 | act | $i$ | actual, temporal (C312, C352) | manifestation of a power of the whole embodied subject through its realization base (C334) |
 | vehicle | $V(i)$ | actual | the representational organization the act realizes; part of the subject's exercise, not a second agent (C334) |
-| satisfaction condition | $Sat(i)=\sigma$ | objective, not an event | a specification, complete or partial; an instantiable profile or a description built from such profiles; grounded as in C620 |
+| satisfaction condition | $Sat(i)=\sigma$ | objective, not an event | a specification, complete or partial; an instantiable profile or a description built from such profiles; grounded as in C653 |
 | referent | $Ref(i)$ | actual if any | the actual item meeting $\sigma$ under the act's anchoring relation |
 
-S38's minimum, $Img(A,i,p,t)\rightarrow Actual(i,t)\land Rep(i,p)$, is preserved: $Rep(i,p)$ is $Sat(i)=\sigma_p$. What the session adds is the separation of vehicle from satisfaction condition, so that “content” no longer names two things at once (the actual organization and the objective condition), and the location of the objective condition in profiles rather than in a realm of propositions. Nothing here needs an abstract proposition as a further entity: the satisfaction condition is a specification, and specifications are what S38's category 5 already contained, now grounded by S79.
+S38's minimum, $Img(A,i,p,t)\rightarrow Actual(i,t)\land Rep(i,p)$, is preserved: $Rep(i,p)$ is $Sat(i)=\sigma_p$. What the session adds is the separation of vehicle from satisfaction condition, so that “content” no longer names two things at once (the actual organization and the objective condition), and the location of the objective condition in profiles rather than in a realm of propositions. Nothing here needs an abstract proposition as a further entity: the satisfaction condition is a specification, and specifications are what S38's category 5 already contained, now grounded by S82.
 
 ## Step 2: reference
 
@@ -38,7 +38,7 @@ Second, the anchoring relation does the individuating work that intuition assign
 
 **Merely possible individuals.** Imagining “a particular person who could have existed” is having a vehicle whose satisfaction condition is a profile together with an assigned label (Kung's assigned content; S38). The label adds no constitutive detail and no identity ground, so the act is about the profile, and “this possible person” is a manner of speaking. C53 and C54 already say the corresponding thing for $G$: MKO knows possible types, powers, and relations, not ungrounded individuals, and omniscience is not limited by the absence of a truth that has no truthmaker. The account explains why de re modal thought about actual individuals is different: an actual person has an identity ground, and an act anchored to her can represent her otherwise than she is (C53's de re alternatives).
 
-**Impossibilities.** Thinking a square circle is having a vehicle whose satisfaction condition has no admissible completion (C347, C353). The condition is representable because representation requires a vehicle with a satisfaction condition, not a satisfier, and it is entertainable because its parts, square and circle, are each satisfiable; what fails is their conjunction. Under S79 this has an exact gloss: there is no participable profile for the conjunction (C620), and the subject's act, which is actual, latches onto two profiles at once and a conjunction that is not one. This also explains why impossibilities can seem possible on inspection (C354): the vehicle presents the parts, and the absence of a completion is not itself presented.
+**Impossibilities.** Thinking a square circle is having a vehicle whose satisfaction condition has no admissible completion (C347, C353). The condition is representable because representation requires a vehicle with a satisfaction condition, not a satisfier, and it is entertainable because its parts, square and circle, are each satisfiable; what fails is their conjunction. Under S82 this has an exact gloss: there is no participable profile for the conjunction (C653), and the subject's act, which is actual, latches onto two profiles at once and a conjunction that is not one. This also explains why impossibilities can seem possible on inspection (C354): the vehicle presents the parts, and the absence of a completion is not itself presented.
 
 ## Step 4: fictions
 
@@ -64,7 +64,7 @@ What this does not explain is how an embodied organization comes to have a satis
 
 ### Is a satisfaction condition just an abstract proposition under another name?
 
-It is a specification, and the project already had specifications (S38's category 5) and has now grounded them (S79). What is refused is a further entity, a proposition, over and above the specification that the vehicle is organized to satisfy. If someone calls specifications propositions, nothing changes except the word, provided the realm is not reintroduced (C622).
+It is a specification, and the project already had specifications (S38's category 5) and has now grounded them (S82). What is refused is a further entity, a proposition, over and above the specification that the vehicle is organized to satisfy. If someone calls specifications propositions, nothing changes except the word, provided the realm is not reintroduced (C655).
 
 ### Does the account make thought about the non-actual second-rate?
 
@@ -86,16 +86,16 @@ It presupposes that some acts have satisfaction conditions, which the project al
 
 | Claim ID | Old status | New status | Content | Provenance |
 | --- | --- | --- | --- | --- |
-| C626 | — | `preferred F2 partition` | An act of thought has an actual act, an actual vehicle, an objective satisfaction condition (a specification, grounded as in C620), and an actual referent if any; content is vehicle plus satisfaction condition, with no further abstract entity | this session; C347, C352, C620 |
-| C627 | — | `preferred F2` | Reference is a relation to actual items under an anchoring relation; when nothing actual meets the condition the act is about a specification; a merely possible individual is a profile plus an assigned label, with no possibile as relatum | this session; C53–C54, C349 |
-| C628 | — | `accepted application` | An impossible content is a satisfaction condition with no admissible completion whose parts are separately satisfiable; representable without a satisfier, entertainable because of its parts, unfulfillable because of their conjunction | this session; C347, C353–C354 |
-| C629 | — | `preferred F2` | A fiction is a specification under stipulation with an actual authorial provenance; characters are individuated by provenance; truths in fiction are actual truths about the stipulated specification and its import rules; no fictional or non-existent objects | this session; C352 |
-| C630 | — | `accepted integration` | Divine knowledge of thought is ACO of the act, vehicle, and content-fact, MKO of the condition's admissibility, and $ASA$ of what the act is like; there is no possibile to know | this session; C47, C53–C54, C284–C286, C355 |
-| C631 | — | `accepted at F2; bridge at F3` | Thought is efficacious through its vehicle; content-explanation is constitutive and non-competing (C335); the intentionality bridge, how an organization bears a satisfaction condition, is the same F3 burden as phenomenality (C337–C338) | this session; C334–C335, C337–C338 |
-| C534 | `accepted partial` | `accepted; open parts closed at F2 by C626–C631` | | this session |
-| C282 | `tested at F1–F2` | `tested at F2; content and reference closed by S80` | | this session |
-| R244 | — | `rejected` | Imagining a merely possible individual is a relation to a possibile | this session; C627 |
-| R245 | — | `rejected` | Intentional content must be an abstract proposition in a realm distinct from specifications | this session; C626, C622 |
+| C659 | — | `preferred F2 partition` | An act of thought has an actual act, an actual vehicle, an objective satisfaction condition (a specification, grounded as in C653), and an actual referent if any; content is vehicle plus satisfaction condition, with no further abstract entity | this session; C347, C352, C653 |
+| C660 | — | `preferred F2` | Reference is a relation to actual items under an anchoring relation; when nothing actual meets the condition the act is about a specification; a merely possible individual is a profile plus an assigned label, with no possibile as relatum | this session; C53–C54, C349 |
+| C661 | — | `accepted application` | An impossible content is a satisfaction condition with no admissible completion whose parts are separately satisfiable; representable without a satisfier, entertainable because of its parts, unfulfillable because of their conjunction | this session; C347, C353–C354 |
+| C662 | — | `preferred F2` | A fiction is a specification under stipulation with an actual authorial provenance; characters are individuated by provenance; truths in fiction are actual truths about the stipulated specification and its import rules; no fictional or non-existent objects | this session; C352 |
+| C663 | — | `accepted integration` | Divine knowledge of thought is ACO of the act, vehicle, and content-fact, MKO of the condition's admissibility, and $ASA$ of what the act is like; there is no possibile to know | this session; C47, C53–C54, C284–C286, C355 |
+| C664 | — | `accepted at F2; bridge at F3` | Thought is efficacious through its vehicle; content-explanation is constitutive and non-competing (C335); the intentionality bridge, how an organization bears a satisfaction condition, is the same F3 burden as phenomenality (C337–C338) | this session; C334–C335, C337–C338 |
+| C534 | `accepted partial` | `accepted; open parts closed at F2 by C659–C664` | | this session |
+| C282 | `tested at F1–F2` | `tested at F2; content and reference closed by S83` | | this session |
+| R256 | — | `rejected` | Imagining a merely possible individual is a relation to a possibile | this session; C660 |
+| R257 | — | `rejected` | Intentional content must be an abstract proposition in a realm distinct from specifications | this session; C659, C655 |
 
 ## Literature and precedent
 
@@ -103,11 +103,11 @@ Recorded from memory; to be verified in the author's next literature pass. The v
 
 ## Repository updates
 
-- [x] commitment ledger (C626–C631, R244–R245; C282, C534 annotated; open question 13 replaced)
+- [x] commitment ledger (C659–C664, R256–R257; C282, C534 annotated; open question 13 replaced)
 - [x] glossary (intentional content; anchoring relation; stipulated specification)
 - [x] challenge register (CH14)
 - [x] treatise Part IV
-- [x] accessible answer P53 and bank
+- [x] accessible answer P54 and bank
 - [x] session index, development map, research method
 
 ## Next question

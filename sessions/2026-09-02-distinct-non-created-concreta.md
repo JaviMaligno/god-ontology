@@ -1,12 +1,12 @@
 # Session: Distinct non-created concreta under the strongest justified uniqueness thesis
 
 **Date:** 2026-09-02
-**Session ID:** S75
+**Session ID:** S78
 **Primary question:** Is a distinct non-created concrete relatum metaphysically possible under the strongest justified uniqueness and ultimity theses, and if so which actions concerning it pass $Task_G$ and threaten unrestricted $OMP_Q$? (The trunk's open question 1 after S72; active-queue item 1 of the development map.)
 **Dependencies:** S13 ($U_G$, $U_D$, C78–C83); S32 (blocker taxonomy, C255–C265); S39 ($CMU_G$ and its decomposition into $MGC$, $MUU$, and the grounding–origin link, C358–C364); S40 (direct-root lemma, C369–C371); S44 (C430–C433); S47 (necessitation lemma and the partition of stopping points, C457–C461); S51 (C490–C491); S71–S72 (C559–C572, C573–C585); C32 (typed grounding relations); C111, C132, C363 (contingency of divine exercise)
-**Origin:** the author's instruction to continue with the active queue after S74
+**Origin:** the author's instruction to continue with the active queue after S77
 **Target depth:** F2; a taxonomy, one diagnostic definition, one explicit strengthening of a preferred premise, and one conditional lemma; no new primitive
-**Reconciliation:** written in parallel with the author's S73, which is canonical (creation as existential dependence, $UCD_G$, $NCCBlock$); see S76 for what here is merged, superseded, or retained. In particular, under C586 the emanation cell below is a necessary creature *ab alio*, not a non-created concrete.
+**Reconciliation:** written in parallel with the author's S73, which is canonical (creation as existential dependence, $UCD_G$, $NCCBlock$); see S79 for what here is merged, superseded, or retained. In particular, under C586 the emanation cell below is a necessary creature *ab alio*, not a non-created concrete.
 
 ## Outcome
 
@@ -88,7 +88,7 @@ Hence, under the two premises, every possible $NCC$ relatum is an emanation or a
 The second half of the question is answered by the same elimination. For an emanation $E$ or an inert necessary concretum $I$:
 
 - *Create $E$ or $I$*: not an eligible task; both exist necessarily, and “originate what exists in every world” contradicts the description (S32 row 1).
-- *Annihilate $E$ or $I$*: not an eligible task, for the same reason; this is not an incapacity but a necessary constraint (row 7), and treating it as an incapacity would be the move R237 rejects.
+- *Annihilate $E$ or $I$*: not an eligible task, for the same reason; this is not an incapacity but a necessary constraint (row 7), and treating it as an incapacity would be the move R249 rejects.
 - *Change a contingent, essence-compatible state of $E$*: eligible in form, and its range is a dependent-relatum analogue of the created-directed ranges. $CC_G^{elig}$ and $HI_G^{elig}$ are defined over created relata, so covering $E$ would need their preservation and prefix conditions restated for a dependent but non-created bearer. This is a small extension, and it is not undertaken here because $\mathcal O_*$ contains no $E$; an ontology that adopts emanation owes the extension. Nothing about $E$ suggests the extension would fail, since the reasons the created ranges succeed (specification fidelity, preservation profiles, source roles) do not depend on the bearer being created.
 - *Settle a state that is $E$'s own free settling*, if $E$ is an agent: a role mismatch, not a divine task (C256), exactly as for creatures.
 - *Any task concerning $I$*: none is eligible, since $I$ has no contingent states.
@@ -105,7 +105,7 @@ C265's “live defeater” status should be read accordingly: the defeater is li
 
 ### Is $MGC^+$ a hidden strengthening that does all the work?
 
-It is a strengthening and it is not hidden: C605 records it with its own status. It does the work jointly with $MUU$, and it is exactly the modal form of $U_G$'s quantification over the total contingent order. The alternative, keeping $MGC$ restricted to fundamental created bases, would leave contingent facts about a non-created concrete without an explanatory demand while imposing one on created bases, which no argument in S39 or S47 motivates. A theorist who rejects $MGC^+$ accepts brute contingent facts somewhere, and then the project's stopping-point comparison (S47) applies to them as it applies to a brute created order.
+It is a strengthening and it is not hidden: C638 records it with its own status. It does the work jointly with $MUU$, and it is exactly the modal form of $U_G$'s quantification over the total contingent order. The alternative, keeping $MGC$ restricted to fundamental created bases, would leave contingent facts about a non-created concrete without an explanatory demand while imposing one on created bases, which no argument in S39 or S47 motivates. A theorist who rejects $MGC^+$ accepts brute contingent facts somewhere, and then the project's stopping-point comparison (S47) applies to them as it applies to a brute created order.
 
 ### Does $NLL$ define the limiter away?
 
@@ -155,13 +155,13 @@ Recorded from memory; to be verified in the author's next literature pass under 
 
 ## Repository updates
 
-- [x] commitment ledger (C603–C609, R235–R237; open question 1 replaced)
+- [x] commitment ledger (C636–C642, R247–R249; open question 1 replaced)
 - [x] glossary ($NCC$, $Limiter_G$, $MGC^+$, $NLL$)
 - [x] core architecture (paragraph under the blocker table)
 - [x] attribute derivation map (qualified omnipotence row)
 - [x] challenge register (CH05 note)
 - [x] treatise Parts VII and VIII
-- [x] accessible answer and bank entry (P49); two further questions banked (P50–P51)
+- [x] accessible answer and bank entry (P50); two further questions banked (P51–P52)
 - [x] session index, development map, research method
 
 ## Next question

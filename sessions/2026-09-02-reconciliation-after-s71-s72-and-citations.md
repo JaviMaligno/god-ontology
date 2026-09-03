@@ -1,7 +1,7 @@
 # Session: Reconciliation with the trunk's S71–S72 and the citation pass
 
 **Date:** 2026-09-02
-**Session ID:** S74
+**Session ID:** S77
 **Primary question:** The author merged the branch into main, added S71 (strict *ex deo* and mixed constitution after identity), S72 (self-executive action and intrinsic manifestation), the Lennox motivation, and a networked verification of every source S46–S58 and S64 had cited from memory. What on the question-driven track is superseded, what changes status, and what does the accessible register still lack?
 **Dependencies:** the author's S71 (C558–C572, CH24) and S72 (C573–C585); the provenance checklist's seven record-changing findings; S51 (C487–C496), S64 (C549–C553), S48, S50, S53, S57, S58; the accessible bank
 **Origin:** required by the merge (rule: the trunk's formulations are canonical, C324); the author's message that main now carries the branch plus new work and a bibliography review
@@ -19,11 +19,11 @@ The branch fast-forwarded onto main without conflict, since main's merge-base wa
 | C496 (with the weak explanatory preference, disjoint $OEC^+$ leaves fewer residues than non-destructive strict *ex deo*) | confirmed: the actual model retains $CCD$ even if $ANDC$ is an eligible capacity (C568) | unchanged; C568 is the trunk's formulation |
 | C495 (created subjects as $Substance_T$ with an instantiated material profile) | S71 normalizes an eligible $ANDC$ creation to $RootForm$ (C569) and keeps the creature's own origin anchor, unity, and persistence profile (C566) | unchanged |
 | P14 “¿De qué está hecho Dios?” and P43 “¿Cómo puede algo que no es material producir materia?” | both already deny transfer and material input; S71 adds nothing they assert and rejects nothing they say | unchanged |
-| the accessible register | had no answer to the question S71 settles, whether the world is made of $G$ | new answer P47 written and shown to the author |
+| the accessible register | had no answer to the question S71 settles, whether the world is made of $G$ | new answer P48 written and shown to the author |
 
 ## S72 mapped onto the branch
 
-The author already rewrote P44 (“¿Puede Dios hacer cualquier cosa?”) on main to carry S72's ontology-relative closure and its explicit limit, and edited Parts III, VII, and VIII accordingly. The branch's S64 is untouched by S72: well-founded responsiveness constrains the reason-structure of responses and does not depend on the executive grammar. What the register still lacks is the residual S72 leaves open, whether $G$ can give itself a genuinely new quality or power (C582, open question 2); this is banked as P48 `abierta` and added to the list of what the author does not know. It is not promoted (C324).
+The author already rewrote P44 (“¿Puede Dios hacer cualquier cosa?”) on main to carry S72's ontology-relative closure and its explicit limit, and edited Parts III, VII, and VIII accordingly. The branch's S64 is untouched by S72: well-founded responsiveness constrains the reason-structure of responses and does not depend on the executive grammar. What the register still lacks is the residual S72 leaves open, whether $G$ can give itself a genuinely new quality or power (C582, open question 2); this is banked as P49 `abierta` and added to the list of what the author does not know. It is not promoted (C324).
 
 ## The citation pass mapped onto the branch
 
@@ -48,12 +48,12 @@ P15 and P44 asked the same question; P44 is the answered one. P15 is marked merg
 | Item | Status | Reason |
 | --- | --- | --- |
 | C494 annotated as superseded by S71 | done | the $NI$ boundary is replaced by the trunk's taxonomy and $ANDC$ |
-| C601 records the reconciliation | done | one row, as C541–C545 and C556 did for earlier merges |
-| new accessible answer P47 on whether the world is made of $G$ | written, pending author review | S71 settles a question people ask in exactly this form |
-| P48 banked as `abierta` | done | S72's residual; not promoted |
+| C634 records the reconciliation | done | one row, as C541–C545 and C556 did for earlier merges |
+| new accessible answer P48 on whether the world is made of $G$ | written, pending author review | S71 settles a question people ask in exactly this form |
+| P49 banked as `abierta` | done | S72's residual; not promoted |
 | C550–C551 status | unchanged | their basis is internal; the finding corrects a literature note, not a derivation |
 | treatise text | unchanged | the author edited Parts III, VI, VII, VIII for S71–S72; Part VI's WFR passage already derives WFR from the project's grounding order |
 
 ## Next question
 
-None promoted. The trunk's active question is the author's: whether a distinct non-created concrete relatum is possible under the strongest justified uniqueness thesis. The branch waits for the author's review of P47.
+None promoted. The trunk's active question is the author's: whether a distinct non-created concrete relatum is possible under the strongest justified uniqueness thesis. The branch waits for the author's review of P48.

@@ -1,10 +1,10 @@
 # Session: The P-reason routes, and how much of the P-gap the established profile already closes
 
 **Date:** 2026-09-02
-**Session ID:** S78
+**Session ID:** S81
 **Primary question:** C526 records two candidate routes to a P-directed creative reason and adopts neither. Can either be derived from established commitments rather than added; if not, what is the weakest addition that would close the P-gap, what would it cost, and how much of the gap is already closed without it?
 **Dependencies:** S56 (C521–C527); S48 (C462–C465); S49 (C472–C479); S50 (C480–C486); S27–S28 (C187–C195); S34 (C283–C291); S52 (C497–C505); S72 (C577); C55–C60, C96, C109, C460; the accessible answers on goodness, suffering, and the reason for creation
-**Origin:** the question-driven track's next item after S77 (development map item 19; CH19); the trunk's own queue is left to the author
+**Origin:** the question-driven track's next item after S80 (development map item 19; CH19); the trunk's own queue is left to the author
 **Target depth:** F2 for the decomposition and the route tests; adoption of a P-reason is not attempted (C324; the author's faith content is C479)
 
 ## Outcome
@@ -105,18 +105,18 @@ The answer “¿Es Dios bueno?” can now say one more earned thing: $G$ does no
 
 | Claim ID | Old status | New status | Content | Provenance |
 | --- | --- | --- | --- | --- |
-| C612 | — | `accepted analysis` | $GoodOrient_P$ decomposes into $G_1$ (no gratuitous suffering), $G_2$ (no bearer a mere means), $G_3$ (bearer-level closure); $G_3$ entails the others | this session; C473, C477 |
-| C613 | — | `preferred derivation` | $G_2$ follows from $GoodOrient_R$ via C477; the first $P$-relevant disposition earned, from $R$ | this session; C463, C477 |
-| C614 | — | `accepted scope result` | Every permission is a reason-guided settlement, but a reason need not be a cover; $G_1$ is not earned | this session; C109, C473, C577 |
-| C615 | — | `preferred analysis` | Route 2 yields cognition only; Route 2′ (recognition counts the subject's anchors) yields $G_1$ and not $G_3$ | this session; C96, C284–C287 |
-| C616 | — | `accepted result` | Route 1 closes $G_3$ only in requiring mode, and then entails continuation for every bearer with uncovered suffering as an admissibility condition; in favoring mode it yields a presumption | this session; C478, C485, C521 |
-| C617 | — | `open route` | Route 3, divine affective regard, would ground $P$-orientation by C462's mechanism; costs passibility and an account of divine valence; not adopted | this session; C462, C465, C288 |
-| C618 | — | `accepted specification` | The register's belief that $G$ is good in what we feel is Route 1 in requiring mode; its content is $G_3$ and its consequence is continuation, as C479 already states | this session; C479, C525 |
-| C464 | `accepted`, structured | `accepted`, refined by C612–C613 | $G_2$ is now an established $P$-relevant disposition; the unearned remainder is $G_1$ and $G_3$ | this session |
-| C526 | `open` | `open; tested in S78` | route 2 dead for conation; route 2′ and route 3 added; route 1's mode fixed | this session |
-| R238 | — | `rejected` | $GoodOrient_R$ entails $GoodOrient_P$ | this session; C613 gives $G_2$ only |
-| R239 | — | `rejected` | Reason-guided permission entails covered permission | this session; C614 |
-| R240 | — | `rejected` | $ASA$'s acquaintance with a subject's suffering entails conative orientation toward it | this session; C96, C615 |
+| C645 | — | `accepted analysis` | $GoodOrient_P$ decomposes into $G_1$ (no gratuitous suffering), $G_2$ (no bearer a mere means), $G_3$ (bearer-level closure); $G_3$ entails the others | this session; C473, C477 |
+| C646 | — | `preferred derivation` | $G_2$ follows from $GoodOrient_R$ via C477; the first $P$-relevant disposition earned, from $R$ | this session; C463, C477 |
+| C647 | — | `accepted scope result` | Every permission is a reason-guided settlement, but a reason need not be a cover; $G_1$ is not earned | this session; C109, C473, C577 |
+| C648 | — | `preferred analysis` | Route 2 yields cognition only; Route 2′ (recognition counts the subject's anchors) yields $G_1$ and not $G_3$ | this session; C96, C284–C287 |
+| C649 | — | `accepted result` | Route 1 closes $G_3$ only in requiring mode, and then entails continuation for every bearer with uncovered suffering as an admissibility condition; in favoring mode it yields a presumption | this session; C478, C485, C521 |
+| C650 | — | `open route` | Route 3, divine affective regard, would ground $P$-orientation by C462's mechanism; costs passibility and an account of divine valence; not adopted | this session; C462, C465, C288 |
+| C651 | — | `accepted specification` | The register's belief that $G$ is good in what we feel is Route 1 in requiring mode; its content is $G_3$ and its consequence is continuation, as C479 already states | this session; C479, C525 |
+| C464 | `accepted`, structured | `accepted`, refined by C645–C646 | $G_2$ is now an established $P$-relevant disposition; the unearned remainder is $G_1$ and $G_3$ | this session |
+| C526 | `open` | `open; tested in S81` | route 2 dead for conation; route 2′ and route 3 added; route 1's mode fixed | this session |
+| R250 | — | `rejected` | $GoodOrient_R$ entails $GoodOrient_P$ | this session; C646 gives $G_2$ only |
+| R251 | — | `rejected` | Reason-guided permission entails covered permission | this session; C647 |
+| R252 | — | `rejected` | $ASA$'s acquaintance with a subject's suffering entails conative orientation toward it | this session; C96, C648 |
 
 ## Literature and precedent
 
@@ -124,7 +124,7 @@ Recorded from memory; to be verified in the author's next literature pass. The d
 
 ## Repository updates
 
-- [x] commitment ledger (C612–C618, R238–R240; C464, C526 annotated)
+- [x] commitment ledger (C645–C651, R250–R252; C464, C526 annotated)
 - [x] glossary ($G_1$–$G_3$; Route 2′; Route 3)
 - [x] challenge register (CH19)
 - [x] treatise Part VII

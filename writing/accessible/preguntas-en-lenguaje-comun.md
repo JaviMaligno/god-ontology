@@ -44,6 +44,18 @@ Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes
 
 Imaginar sigue sirviendo: cuando uno imagina algo con detalle está construyendo un trozo de mundo, y eso es una pista de que es posible. Pero es una pista, no una prueba, igual que reconocer a alguien por su cara es una pista de que es él y no lo que le hace ser él.
 
+### ¿Qué existe cuando imagino algo que no existe?
+
+Si imagino un dragón, el dragón no empieza a existir en una especie de mundo mental. Lo que existe soy yo imaginándolo y el episodio real que ocurre en mí: una actividad de la persona entera, realizada mediante el cuerpo y el cerebro, que tiene una organización y un contenido determinados. Esa organización incluye una especie de hueco con condiciones —aquello a lo que mi pensamiento apunta y cómo lo presenta—, pero el hueco no es otra cosa escondida. Puede no haber nada que lo ocupe.
+
+Si pienso en una persona real, además tiene que haber algún camino que conecte de verdad mi pensamiento con ella: verla, recordarla, haber aprendido su nombre dentro de una historia de usos o describirla de una manera que la determine. Sin ese camino puedo tener un pensamiento perfectamente real y, sin embargo, equivocarme de persona o no referirme a nadie. Por eso pensar «sobre algo» no garantiza que ese algo exista.
+
+Que lo imaginado sea posible es otra pregunta. Si el papel que he construido podría ser ocupado en algún mundo completo que cumpla las condiciones de lo posible, he imaginado un tipo de cosa posible, pero no a un individuo posible que ya exista en algún sitio. Si ningún mundo coherente puede cumplirlo —un círculo cuadrado—, el pensamiento sigue existiendo y lo que falla es que tenga algo que pueda satisfacerlo.
+
+La ficción pública añade cosas reales: un autor, un texto o una representación, lectores, una historia de transmisión y un expediente compartido sobre el personaje. Decir que Sherlock Holmes es detective es decir que lo es dentro de ese expediente; decir que Conan Doyle lo creó habla de la obra y del papel que introdujo. Por ahora no necesito añadir un detective abstracto llamado Holmes, aunque esa teoría sigue siendo una alternativa si resulta explicar mejor cómo hablamos de los personajes.
+
+Y una cosa inexistente no causa nada. No es el dragón el que me hace correr: es mi miedo real, con ese contenido, el que interviene en lo que hago. Tampoco hace falta que una «idea abstracta» empuje mis neuronas desde fuera. Soy yo quien actúa mediante un episodio a la vez corporal y cargado de sentido. Esta es la interpretación que propongo; queda pendiente decidir si su economía compensa frente a teorías que convierten los personajes en artefactos abstractos.
+
 ### ¿Existen otros universos?
 
 Depende de qué se llame universo, y son tres cosas distintas.
@@ -297,6 +309,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C458–C461, C513; S09, S47, S62 |
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
 | Qué es posible | preferido; el criterio es el del tronco (S38), con la formulación de S57 reconciliada en S60; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C343–C348, C531–C532, C542; S38, S57, S60 |
+| Qué existe cuando imagino algo inexistente | propuesta preferida a F2 pendiente de revisión: episodio y perfil de contenido reales; papel objetivo sin entidad obligatoria; referente mediante un camino real; ficción como artefacto y expediente; causalidad por el sujeto encarnado | C352–C354, C534, C624–C633; S38, S57, S76 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |

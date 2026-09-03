@@ -164,12 +164,22 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Stephen Darwall, “Respect and the Second-Person Standpoint” (2004) | **Q** | The [author manuscript](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/62458/Darwall2004_Respect_and_the_Second-Person_Standpoint.pdf%3Bsequence%3D1) connects recognition of persons with second-personal practical authority. It is a stronger comparison, not a premise: the project has not adopted equal reciprocal authority between $G$ and created agents. |
 | Aquinas on love as willing another's good | **Q** | The traditional route makes concern for another's good internal to love. It cannot establish S75's result because divine love has not been independently derived; using it here would assume the attribute under investigation. |
 
+## S76 — Thought, imagination, and non-actual reference (C624-C633)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Tim Crane, “Intentionalism” (2009) | **V/Q** | [DOI and institutional record](https://doi.org/10.1093/oxfordhb/9780199262618.003.0029) confirm the mode/content/object partition and Crane's claim that an intentional state's nature need not contain its object. S76's target-role and plural anchoring are local developments, not Crane's terminology. |
+| R. M. Sainsbury, “Intentionality without Exotica” (2009) | **V/Q** | The [author-hosted paper](https://www.marksainsbury.net/uploads/9/7/2/9/97295048/rmsintentionality.pdf) explicitly permits fully intelligible singular expressions and individual concepts without referents to contribute to truth-evaluable content. S76 does not import the paper's rule that simple empty singular contents are false. |
+| Amie L. Thomasson, “Fiction, Modality and Dependent Abstracta” (1996) | **V** | The [author-hosted article](https://www.amiethomasson.org/_files/ugd/63fc8a_b7987a44d0ab4ad188da8ae99f2257b4.pdf), *Philosophical Studies* 84:295–320, presents fictional characters as created, multiply dependent abstract artifacts. It is a stronger live alternative to S76's minimum dossier-role account. |
+| William Jaworski, “Hylomorphism, Explanatory Practice, and the Problem of Mental Causation” (2020) | **V/Q** | [DOI:10.2307/48570647](https://doi.org/10.2307/48570647), *American Philosophical Quarterly* 57(1):79–100, argues that hylomorphic structure permits mental and physical causation to be different and non-competing. This supports C631 conditionally on S37; it does not independently prove the project's hylomorphic subject model. |
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58 and S64, with three sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76, with four sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
 - S53's non-criterial and intermittent persistence has a direct close precedent in Merricks; the project's distinctiveness lies in deriving and integrating it with sourcehood, eternalism, and re-realization.
+- S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

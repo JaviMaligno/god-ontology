@@ -44,7 +44,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `tested F1–F2` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `tested F2; bounded closure proposed in S76` |
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
@@ -304,7 +304,15 @@ without entailing $Actual(p)$, $Exists(Obj(p))$, or $Poss(p)$. The actual items 
 
 Detailed imagination may provide defeasible evidence when it is stable under scrutiny and does not carry the decisive content merely by assignment. It is neither sufficient nor necessary for metaphysical possibility. $Poss_C^{ind}$ is instead tested by complete constitutive admissibility: logic and identity, real definitions, power profiles, global compossibility, and created-dependence constraints. CH14 is therefore locally tested and held unless a later theory of intentional content becomes load-bearing.
 
-S57 supplies the modal-status component: the possibility of imagined content is fixed by $Poss_C^{ind}$ (C528), imaginability is defeasible finite evidence of possibility rather than its constitution (C530), and the act's actuality never confers possibility on its content (C534). The ontology of content, reference to fictions and impossibilities, and the causal efficacy of thought remain open.
+S57 supplies the modal-status component: the possibility of imagined content is fixed by $Poss_C^{ind}$ (C528), imaginability is defeasible finite evidence of possibility rather than its constitution (C530), and the act's actuality never confers possibility on its content (C534).
+
+S76 proposes the residual F2 completion. A finite cognitive episode is an actual temporal manifestation of the embodied subject, and its content-profile is an actually instantiated aspect of that token rather than another substance. Its target-role is a position within the content, not an entity:
+
+\[
+PurportsRef(i,\rho)\not\Rightarrow\exists x\,Ref(i,x).
+\]
+
+Actual reference requires an actual relatum, a successful demonstrative, causal, acquaintance, memory, linguistic-historical, or descriptive route, and role-fit. Merely possible satisfaction is assessed independently by `Adm_C`, which adds no possible individual. Public fiction minimally adds actual artifacts, practices, and stabilized dossier-roles evaluated under $In_F$; dependent abstract characters remain an optional stronger theory. Content is causally relevant through the actual contentful episode and the integrated subject, not through a non-existent target or an abstract type acting as a second cause. ACO/$ASA$ know the actual episode, while MKO tracks its modal satisfaction. Original intentionality, the general ontology of abstract types and cultural artifacts, and empty-name semantics remain selective deeper questions. Subject to author review, C624–C633 close CH14 at the current F2 target without claiming a reduction of intentionality.
 
 ## CH15 — Cumulative control and diachronic authorship
 

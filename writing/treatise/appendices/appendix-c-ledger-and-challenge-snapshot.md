@@ -6,17 +6,17 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 623 |
-| Rejected or corrected moves (R) | 242 |
+| Working commitments (C) | 633 |
+| Rejected or corrected moves (R) | 246 |
 | Challenges (CH) | 26 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 245 |
-| preferred | 241 |
-| other | 83 |
+| accepted | 250 |
+| preferred | 244 |
+| other | 86 |
 | provisional | 25 |
-| open | 12 |
+| open | 11 |
 | merged | 9 |
 | deferred | 4 |
 | rejected | 2 |
@@ -312,7 +312,7 @@
 | C279 | Aquinas's route from unlimited actuality and being to unlimited active power is a genuine reference bridge but is not presently available inside the working architecture. | `conditional resource` |
 | C280 | The modal-source program reaches essence-qualified creative plenitude through S38–S40 while keeping constitutive control, history-sensitive intervention, and unrestricted $OMP_Q$ separate. | `locally completed at F2 by C367–C377` |
 | C281 | The possibility of a created specification $S$ receives a metaphysical criterion independent enough to constrain rather than presuppose divine creative range. | `addressed at F2 by C343–C356` |
-| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F1–F2` |
+| C282 | The ontology of imagination, thought, intentional content, and their relation to possibility is tested through CH14. | `tested at F1–F2; residual completion proposed in S76` |
 | C283 | Propositional completeness and completeness of epistemic mode are distinct: ACO knows every actual truth without thereby defining every direct or interpersonal way in which $G$ knows. | `accepted distinction` |
 | C284 | $G$ has actual subject acquaintance $ASA(G,A)$ with every actual conscious subject: direct, factive, subject-indexed access to $A$ and the first-personal organization of $A$'s actual conscious states. | `preferred at local F2` |
 | C285 | $ASA$ is actuality-indexed: MKO may represent possible subject-types and states, but concrete acquaintance requires the numerically particular subject and token state to be actual. | `accepted` |
@@ -382,8 +382,8 @@
 | C349 | Possible histories and world-models represent compossible ways reality could be; they are not thereby additional concrete eternalist universes. | `preferred actualist clarification` |
 | C350 | Type-level constitutive profiles may constrain possible created kinds without concrete tokens of those kinds already existing. | `preferred with F3 ontology open` |
 | C351 | Necessary constitutive or structural truths are not automatically concrete substances, causal competitors, or co-ultimate agents. | `preferred typed distinction` |
-| C352 | An actual imaginative or thinking episode is a temporal act of the embodied subject with an actual representational organization and an actual fact that it has content $p$. | `preferred F1–F2; accepted by default` |
-| C353 | The object or situation represented by an actual cognitive act may be actual, non-actual but possible, impossible, fictional, or insufficiently specified. | `preferred distinction` |
+| C352 | An actual imaginative or thinking episode is a temporal act of the embodied subject with an actual representational organization and an actual fact that it has content $p$. | `preferred F1–F2; accepted by default; refined by C624–C625` |
+| C353 | The object or situation represented by an actual cognitive act may be actual, non-actual but possible, impossible, fictional, or insufficiently specified. | `preferred distinction; refined by C626–C630` |
 | C354 | Detailed imagination may provide defeasible modal evidence when it is stable under scrutiny and not carried merely by assignment, but it neither constitutes nor guarantees metaphysical possibility. | `preferred F1–F2; accepted by default` |
 | C355 | MKO tracks independently grounded admissibility and compossibility; divine representation does not make its represented possibilities true. | `preferred repair of C48` |
 | C356 | B1 of the S33 modal-source bridge is locally available at F2 through constitutive admissibility, but the full bridge still depends on modal source invariance, essential originative power, and agent-relative accessibility. | `accepted F2 assessment` |
@@ -556,7 +556,7 @@
 | C523 | The organizing agency reason is requiring at the architecture level: given creation for actual finite otherness and analogous sourcehood, every eligible $S$ enables autonomous agents. C106 follows, while non-creation remains live at the creation level. | `preferred refinement` |
 | C524 | The established S18 reason profile has targets $S$ and $R$ only; good-orientation toward sourcehood and relation (C463) follows by typing. | `accepted` |
 | C525 | At the S56 stage, the established S18 profile contained no P-directed reason; its further biconditional between one exercised P-reason and $GoodOrient_P(G)$ was too strong. | `historical diagnosis; biconditional corrected by C617 and C622` |
-| C526 | Two candidate routes to a P-reason exist: reading actual finite otherness as making subjects actual for their own sake, and regard internal to truthful relation with a valenced subject. Each is an abductive addition at C105's evidential level; neither is adopted. | `open` |
+| C526 | S56 identified two candidate routes to a P-reason: reading actual finite otherness as making subjects actual for their own sake, and regard internal to truthful relation with a valenced subject. S75 recasts them as complementary rather than rival routes. | `historical alternatives; boundedly closed by C623` |
 | C527 | The token and diachronic agency-preservation presumptions follow from the requiring sourcehood reason, whose target includes the diachronic level of agency; the source cover conflicts with an admissibility condition, not only a preference. | `accepted` |
 | C528 | $Poss_C^{ind}(S)$ holds iff $S$ is consistent under $N_L$, admits at least one complete history under $N_M$, its specified created powers are compossible, it is a created specification of instantiable profiles with no self-existent constituent, and it requires nothing $G$'s independently established essence excludes. | `merged into C344–C345 (S60); model existence explicit, $E_G$ clause relocated to B4` |
 | C529 | The definition of $Poss_C^{ind}$ is non-circular: no clause quantifies over divine power, the only $G$-clause uses $E_G^{ind}$, and imaginability appears in no clause. | `accepted` |
@@ -564,7 +564,7 @@
 | C531 | Modal uniqueness of necessary agents ($MUNA$): exactly one necessary agent exists, in every world. It entails modal sole-source invariance (B2) once impersonal grounds are excluded from the created domain by createdness. | `preferred` |
 | C532 | Creative plenitude is a conditional theorem: $MUNA$, essential originative power (B3), and agent-relative accessibility (B4) entail that every independently possible created specification is within $G$'s creative capacity. | `superseded by C375–C376 (S40); see C548` |
 | C533 | The eligible set of creative reason ranges over $Poss_C^{ind}$ structures, and $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$, with equality exactly when creative plenitude holds. | `accepted; restated over $Adm_C$ (S60)` |
-| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual, its content may be impossible; the ontology of content, the reference of imaginings to fictions and impossibilities, and the causal efficacy of thought remain CH14's open parts. | `accepted partial` |
+| C534 | The modal status of imagined content is fixed by $Poss_C^{ind}$; the imaginative act is actual and its content may be impossible. At S57 the ontology of content, empty reference, fiction, and causal efficacy remained open; S76 supplies their proposed completion. | `accepted modal component; residual completion proposed by C624–C633` |
 | C535 | “Other universes” divides into possible worlds (representations of compossible manifestations), physical universes within one created order, and plural created orders; each receives a different verdict. | `accepted distinction` |
 | C536 | Concrete modal realism is excluded: possibility is grounded in constraints and powers, not in concrete worlds, and the weak explanatory preference counts against the posit. | `accepted` |
 | C537 | A cosmological multiverse is internal to one created order, empirical through bridges, and orthogonal to the ground question: it neither reduces contingency nor bypasses the necessary ground, and the project's motivation does not rest on fine-tuning. | `accepted` |
@@ -646,14 +646,24 @@
 | C613 | A genuine $SQBlock_G(a,m)$ requires an independently possible $CNBIM$, an eligible $SelfQualAdm_G$ action, and failure of $StrongCan(G,a)$. | `proposed preferred diagnostic` |
 | C614 | No current candidate satisfies `SQBlock`; no independently established new basic divine action kind extends $\mathcal K_G^{est}$. | `proposed preferred F2 negative audit result` |
 | C615 | The novel-action-kind priority is closed at F2 without promoting unrestricted $OMP_Q$ to a demonstration. | `proposed preferred bounded closure` |
-| C616 | Creative reasons have both a ground and a target. Their canonical full form is $\langle g,a,\mu,\ell\rangle$, while C521's triple remains shorthand when the ground is suppressed or coincides with the target. | `proposed accepted refinement` |
-| C617 | Normative applicability, uptake into an agent's reason profile, exercise in an act, and good-orientation are distinct. $GoodOrient_P(G)$ implies P-reason uptake and applicability, but the converses fail. | `proposed accepted distinction` |
-| C618 | Conditional on preferred $Fit_*$, P-fit and P-misfit supply pro tanto reasons to agents within `RespScope`; $G$ satisfies that scope for every actual conscious bearer through existential grounding, ACO/$ASA$, causal availability, and personal availability. | `proposed preferred conditional theorem` |
-| C619 | Actual finite otherness alone and truthful cognitive recognition alone do not entail conative concern for conscious valence. | `proposed accepted limit` |
-| C620 | The cumulative profile favors the participant reading $H_{participant}$ over the merely instrumental $H_{means}$: created subjects are sought as participants whose sourcehood and standpoint matter. | `proposed preferred abductive reading` |
-| C621 | The direct and relational routes jointly support $Owns(G,r_P^{thin})$. Its creative application is indexed to modal structural P-profiles; once a bearer is actual, its response-reason instances are de re and bearer-indexed. | `proposed preferred at F2` |
-| C622 | C525's equivalence is corrected: possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation requires undefeated fitting response in every relevant actual case and therefore excludes gratuitous suffering. | `proposed accepted correction` |
-| C623 | C526 is boundedly closed: its two routes are complementary and a thin operative P-reason is preferred, while exhaustive P-orientation, continuation, divine love, affective valence, and omnibenevolence remain open. | `proposed bounded closure at F2` |
+| C616 | Creative reasons have both a ground and a target. Their canonical full form is $\langle g,a,\mu,\ell\rangle$, while C521's triple remains shorthand when the ground is suppressed or coincides with the target. | `accepted refinement` |
+| C617 | Normative applicability, uptake into an agent's reason profile, exercise in an act, and good-orientation are distinct. $GoodOrient_P(G)$ implies P-reason uptake and applicability, but the converses fail. | `accepted distinction` |
+| C618 | Conditional on preferred $Fit_*$, P-fit and P-misfit supply pro tanto reasons to agents within `RespScope`; $G$ satisfies that scope for every actual conscious bearer through existential grounding, ACO/$ASA$, causal availability, and personal availability. | `preferred conditional theorem` |
+| C619 | Actual finite otherness alone and truthful cognitive recognition alone do not entail conative concern for conscious valence. | `accepted limit` |
+| C620 | The cumulative profile favors the participant reading $H_{participant}$ over the merely instrumental $H_{means}$: created subjects are sought as participants whose sourcehood and standpoint matter. | `preferred abductive reading at F2` |
+| C621 | The direct and relational routes jointly support $Owns(G,r_P^{thin})$. Its creative application is indexed to modal structural P-profiles; once a bearer is actual, its response-reason instances are de re and bearer-indexed. | `preferred at F2` |
+| C622 | C525's equivalence is corrected: possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation requires undefeated fitting response in every relevant actual case and therefore excludes gratuitous suffering. | `accepted correction` |
+| C623 | C526 is boundedly closed: its two routes are complementary and a thin operative P-reason is preferred, while exhaustive P-orientation, continuation, divine love, affective valence, and omnibenevolence remain open. | `accepted bounded closure at F2` |
+| C624 | A finite cognitive episode is an actual temporal manifestation of the unified embodied subject; its realized content-profile is an actual formal or relational aspect of that token, not another substance or a merely neural description. | `proposed preferred at F2` |
+| C625 | Repeatable content is represented through an equivalence $c_i\equiv_C c_j$ among token profiles at a selected grain; no independently existing or causally active abstract content entity is required at F2. | `proposed preferred abstraction` |
+| C626 | Intentional target-role or referential purport is distinct from successful reference: $PurportsRef(i,\rho)$ does not entail $\exists x Ref(i,x)$. | `proposed accepted distinction` |
+| C627 | Actual reference requires an actual relatum, a successful reference route, and role-fit; reference routes may be demonstrative, causal, acquaintance-based, memorial, linguistic-historical, or sufficiently determining descriptions. | `proposed preferred reference schema` |
+| C628 | A target-role is possibly satisfiable exactly when an `Adm_C` specification contains a satisfier; a partial role is possible when an admissible completion does. Thought creates neither possibility nor a merely possible individual. | `proposed accepted modal integration` |
+| C629 | Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. Fiction-internal predication uses $In_F$; dependent abstract characters remain an optional stronger ontology. | `proposed preferred fiction minimum` |
+| C630 | Possession of content does not entail truth-aptness: beliefs, images, questions, plans, suppositions, and fictions have typed truth, accuracy, answerability, executability, or internal-coherence conditions. | `proposed accepted typing` |
+| C631 | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. | `proposed preferred causal integration at F2` |
+| C632 | ACO and $ASA$ know an actual creaturely cognitive episode and its subject-indexed content, while MKO knows modal satisfaction and failure; this entails neither acquaintance with non-actual individuals nor a temporal or embodied cognitive vehicle in $G$. | `proposed accepted divine-knowledge constraint` |
+| C633 | CH14 is complete enough at F2 for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated. | `proposed bounded closure of CH14 at F2` |
 
 ## Rejected or corrected moves
 
@@ -901,6 +911,10 @@
 | R240 | A reason grounded in $R$ must target $R$, so relation cannot ground a genuinely P-directed reason. | `rejected` |
 | R241 | Any P-directed reason entails welfare maximization, a best world, or prevention of every suffering. | `rejected` |
 | R242 | Accurate acquaintance with a subject's experience alone establishes concern for that experience. | `rejected` |
+| R243 | Every intentional act requires an existing entity as its object. | `rejected` |
+| R244 | Every content is a truth-apt abstract proposition. | `rejected` |
+| R245 | A non-existent target or abstract content type must be an efficient cause if a thought about it affects behavior. | `rejected` |
+| R246 | Internally or descriptively matching content tokens necessarily refer to the same actual individual. | `rejected` |
 
 ## Challenges
 
@@ -919,7 +933,7 @@
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F1–F2` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | `tested F2; bounded closure proposed in S76` |
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | `tested F2` |

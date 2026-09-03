@@ -1405,7 +1405,37 @@ Poss_C^{ind}(S)\leftrightarrow
 Cons_{N_L}(S)\land\mathcal H(S)\neq\varnothing\land Compos(Pow(S))\land Created(S)\land Compat(S,E_G^{ind}),
 \]
 
-with no clause quantifying over divine power and none over imaginability (C528–C529). Createdness excludes impersonal grounds from the created domain, and necessary existence transfers across worlds, so B2 reduces to modal uniqueness of necessary agents, $MUNA$, preferred at $U_D$'s level (C531). Creative plenitude is then a conditional theorem: $MUNA\land B3\land B4\Rightarrow\forall S[Poss_C^{ind}(S)\rightarrow CanCreate(G,S)]$ (C532); $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$ with equality exactly then (C533). Imaginability is defeasible evidence of possibility, never its constitution (C530); the modal status of imagined content is fixed by the definition while CH14's remaining parts stay open (C534).
+with no clause quantifying over divine power and none over imaginability (C528–C529). Createdness excludes impersonal grounds from the created domain, and necessary existence transfers across worlds, so B2 reduces to modal uniqueness of necessary agents, $MUNA$, preferred at $U_D$'s level (C531). Creative plenitude is then a conditional theorem: $MUNA\land B3\land B4\Rightarrow\forall S[Poss_C^{ind}(S)\rightarrow CanCreate(G,S)]$ (C532); $\Sigma_G\subseteq\{S:Poss_C^{ind}(S)\}$ with equality exactly then (C533). Imaginability is defeasible evidence of possibility, never its constitution (C530); the modal status of imagined content is fixed by the definition (C534).
+
+### Thought, content, and non-actual targets
+
+S76 proposes the residual CH14 ontology. A finite cognitive token is an actual temporal manifestation of the unified embodied subject, realized through a bodily and neural vehicle while instantiating a content-profile:
+
+\[
+Cog(A,i,c,t)\rightarrow
+Actual(A,t)\land Actual(i,t)\land Manifests(i,A,P_{cog})\land HasContent(i,c).
+\]
+
+The analytic form $c_i=\langle m,f,\rho,\alpha,\kappa\rangle$ distinguishes intentional mode, representational format, target-role, anchoring profile, and satisfaction conditions. It does not split the episode into substances. The token profile is an actual formal or relational aspect of the event; a repeatable content type is represented at F2 through an equivalence $c_i\equiv_C c_j$ at a selected grain, without requiring an independently existing or causally active abstract entity (C624–C625).
+
+Direction toward a target is not yet a relation to an entity:
+
+\[
+PurportsRef(i,\rho)\not\Rightarrow\exists x\,Ref(i,x).
+\]
+
+The target-role $\rho$ is a position and constraint within the content-profile. Actual reference additionally requires an actual relatum, a successful demonstrative, causal, acquaintance, memory, linguistic-historical, or descriptive route, and role-fit (C626–C627). This preserves de re external anchoring without making every content descriptive. A role has a possible satisfier exactly when some constitutively admissible specification contains one:
+
+\[
+PossSat(\rho)\leftrightarrow
+\exists S\exists x[Adm_C(S)\land In_S(x)\land RoleFit_S(x,\rho)].
+\]
+
+The formula adds no merely possible individual. An impossible role has no admissible satisfier; the episode and its structured failure remain actual (C628).
+
+Public fiction minimally adds actual historically grounded representational artifacts, practices, and stabilized dossier-roles. $In_F(P(\rho_F))$ records fiction-internal predication without treating the represented character as a concrete being. A dependent-abstract-artifact theory remains an admissible stronger account if literal metafictional discourse requires it (C629). Content is correspondingly typed: beliefs may be true, images accurate, questions answerable, plans executable, and stories internally coherent; content possession alone does not imply truth-aptness (C630).
+
+Causal relevance belongs to the actual subject through the actual contentful episode. The target, when absent, causes nothing, and a repeatable content type is not another efficient cause beside neural realization. Psychological/content, bodily, and personal-source descriptions type one organized token causal process under the preferred hylomorphic model (C631). ACO and $ASA$ include the actual episode and its subject-indexed content; MKO tracks the role's modal satisfaction or failure. This neither gives $G$ acquaintance with non-actual individuals nor transfers the finite episode's temporal and embodied realization to divine cognition (C632). Subject to author review, this is the proposed bounded F2 closure of CH14; original intentionality, abstract types, empty-name semantics, and cultural-artifact ontology remain selective deeper questions (C633).
 
 ## Ontological omnipresence
 

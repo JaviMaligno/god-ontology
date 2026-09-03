@@ -134,6 +134,12 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Theistic plenitude as coherent but unrequired
     - Actual imaginative acts versus non-actual intentional contents
     - Representational vehicles, content, intentional targets, and modal status
+    - The actual cognitive token: subject, embodied vehicle, content-profile, and target-role
+    - Referential purport versus successful reference; external anchors and de re thought
+    - Possible and impossible role-satisfaction under $Adm_C$ without possible individuals
+    - Public fictions as actual artifacts, practices, and dossier-roles; optional dependent abstract characters
+    - Truth, accuracy, answerability, executability, and fiction-internal satisfaction as typed standards
+    - Content-sensitive causation through the embodied subject, without ghost causes
     - Assigned content, hidden constitutive conflict, and incomplete scenarios
     - Why imaginability does not establish metaphysical possibility
 

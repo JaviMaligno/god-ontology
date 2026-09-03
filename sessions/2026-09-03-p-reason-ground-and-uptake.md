@@ -149,7 +149,7 @@ $r_P^{thin}$ has two logically ordered applications that must not be conflated:
 
 The creative reason may operate at creation, architecture, or specification level wherever modal P-profiles differ. It is not a maximizing rule, a total ordering, or a requiring reason that selects a unique world. It uses no pre-actual libertarian choice and attributes no welfare claim to a merely possible individual. Once a bearer is actual, its token reasons do not collapse into the earlier structural profile.
 
-At the project's constructive standard, $Owns(G,r_P^{thin})$ is **proposed preferred at F2**, at the same abductive evidential level as the organizing reasons of C105. The result is stronger than bare faith that valence somehow matters to $G$, but weaker than $GoodOrient_P(G)$.
+At the project's constructive standard, $Owns(G,r_P^{thin})$ is **preferred at F2**, at the same abductive evidential level as the organizing reasons of C105. The result is stronger than bare faith that valence somehow matters to $G$, but weaker than $GoodOrient_P(G)$.
 
 ## Step 6: what remains open
 
@@ -193,20 +193,22 @@ Under C473, the remaining claim is equivalent to the absence of gratuitous suffe
 
 | Claim ID | Status | Content |
 | --- | --- | --- |
-| C616 | `proposed accepted refinement` | Creative reasons have a ground and a target; the canonical full form is $\langle g,a,\mu,\ell\rangle$, with C521's triple retained as shorthand when the ground is suppressed. |
-| C617 | `proposed accepted distinction` | Normative applicability, uptake, exercise, and good-orientation are distinct; their implications run from orientation toward applicability, not conversely. |
-| C618 | `proposed preferred conditional theorem` | Under the preferred $Fit_*$ account, P-fit or P-misfit supplies a pro tanto reason to any agent satisfying $RespScope$; $G$ satisfies that scope for every actual conscious bearer through grounding, ACO/$ASA$, causal availability, and personal availability. |
-| C619 | `proposed accepted limit` | Neither actual finite otherness nor truthful cognitive recognition alone entails conative P-concern. |
-| C620 | `proposed preferred abductive reading` | The cumulative profile favors $H_{participant}$ over $H_{means}$: created subjects are sought as participants whose sourcehood and standpoint matter, not merely as instruments or displays. |
-| C621 | `proposed preferred at F2` | The direct and relational routes jointly support $Owns(G,r_P^{thin})$: its creative application is indexed to modal structural P-profiles, while its actual response instances are de re and bearer-indexed. |
-| C622 | `proposed accepted correction of C525` | Possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation additionally requires undefeated fitting response in every relevant actual case and therefore no gratuitous suffering. |
-| C623 | `proposed bounded closure of C526` | C526's alternatives are complementary and the existence of a thin operative P-reason is preferred; exhaustive P-orientation, continuation, love, and omnibenevolence remain open. |
+| C616 | `accepted refinement` | Creative reasons have a ground and a target; the canonical full form is $\langle g,a,\mu,\ell\rangle$, with C521's triple retained as shorthand when the ground is suppressed. |
+| C617 | `accepted distinction` | Normative applicability, uptake, exercise, and good-orientation are distinct; their implications run from orientation toward applicability, not conversely. |
+| C618 | `preferred conditional theorem` | Under the preferred $Fit_*$ account, P-fit or P-misfit supplies a pro tanto reason to any agent satisfying $RespScope$; $G$ satisfies that scope for every actual conscious bearer through grounding, ACO/$ASA$, causal availability, and personal availability. |
+| C619 | `accepted limit` | Neither actual finite otherness nor truthful cognitive recognition alone entails conative P-concern. |
+| C620 | `preferred abductive reading at F2` | The cumulative profile favors $H_{participant}$ over $H_{means}$: created subjects are sought as participants whose sourcehood and standpoint matter, not merely as instruments or displays. |
+| C621 | `preferred at F2` | The direct and relational routes jointly support $Owns(G,r_P^{thin})$: its creative application is indexed to modal structural P-profiles, while its actual response instances are de re and bearer-indexed. |
+| C622 | `accepted correction of C525` | Possessing or exercising one P-reason is insufficient for $GoodOrient_P(G)$; strong orientation additionally requires undefeated fitting response in every relevant actual case and therefore no gratuitous suffering. |
+| C623 | `accepted bounded closure of C526 at F2` | C526's alternatives are complementary and the existence of a thin operative P-reason is preferred; exhaustive P-orientation, continuation, love, and omnibenevolence remain open. |
 | R239 | `rejected` | Every applicable normative reason is automatically owned, exercised, or perfectly satisfied by a rational agent. |
 | R240 | `rejected` | A reason grounded in $R$ must target $R$, so relation cannot ground a genuinely P-directed reason. |
 | R241 | `rejected` | Any P-directed reason entails welfare maximization, a best world, or the prevention of every suffering. |
 | R242 | `rejected` | Accurate acquaintance with a subject's experience alone establishes concern for that experience. |
 
 ## Literature and novelty notes
+
+**Author review (2026-09-03):** after comparison with austere relationalism, instrumental creation, and contingent divine self-binding, the author judged the integrated participant interpretation reasonable. C616–C623 are therefore accepted at their stated levels; this does not upgrade the explicitly open claims about exhaustive P-orientation or omnibenevolence.
 
 - [Mark C. Murphy, *God's Own Ethics* (2017)](https://doi.org/10.1093/oso/9780198796916.001.0001) argues that God may rationally promote creaturely welfare without being governed by an automatic requiring norm to do so. This is a close precedent for a non-requiring P-reason, though Murphy's perfect-being framework and self-imposed-norm conclusion are not imported.
 - [Niko Kolodny, “Love as Valuing a Relationship” (2003)](https://www.mit.edu/~shaslang/mprg/KolodnyLVR.pdf) distinguishes the ground of valuation from its focus and argues that a relationship can provide reasons to act in a participant's interests. S75 borrows the ground/target distinction, not Kolodny's theory of love or its application to $G$.

@@ -51,6 +51,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P46 | ¿Puede Dios responder a una oración antes de que la haga? | `respondida` | C120, C417, C549–C553; S19, S43, S64 (sí, si la respuesta no entra en la situación de quien pide antes de pedir; una respuesta nunca es causa de lo que responde) | — |
 | P18 | Si Dios sabe lo que voy a hacer, ¿soy libre? | `respondida` | C10–C13, C22–C30; S01–S03 | — |
 | P19 | ¿Somos libres de verdad, o decide el cerebro antes que nosotros? | `respondida` | C08, C57, C212–C221; S22, S29 | CH13 |
+| P47 | ¿Qué existe cuando imagino o pienso en algo que no existe? | `parcial` | C352–C354, C534, C624–C633; S38, S57, S76 (episodio corporal real, perfil de contenido y papel objetivo; referente solo si existe y se alcanza; ficción pública como artefacto y expediente; cierre F2 pendiente de revisión autoral) | CH14 |
 | P20 | ¿Interviene Dios en el mundo? ¿Existen los milagros? | `respondida` | C15–C18, C35–C46, C115–C119; S04, S19 | — |
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C466–C470; S20, S46 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
 | P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C501–C503; S52 (providencia como tablero preparado, no guion ni embudo) | — |

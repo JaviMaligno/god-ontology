@@ -21,6 +21,13 @@
 | $ASA(G,A)$ | actual subject acquaintance | $Actual(A)\land ConsciousSubject(A)\land DirectEpistemicAccess(G,A)\land\forall c[ActualStateOf(c,A)\rightarrow GraspsAsPresentedTo(G,c,A)]$ | preferred (C284) | S34 |
 | $K_G^{total}=\langle ACO_P,MKO,ASA\rangle$ | divine epistemic profile | role-structured, not stages or faculties | preferred (C289) | S34 |
 | $K_G^{h}(p)$ iff $h\vDash p$ | local ACO semantics | grounding biconditional, not temporal | preferred | S02 |
+| $Cog(A,i,c,t)$, $HasContent(i,c)$ | finite cognition | actual temporal manifestation $i$ of embodied subject $A$ with an instantiated content-profile $c$ | proposed preferred F2 (C624) | S76 |
+| $c_i=\langle m,f,\rho,\alpha,\kappa\rangle$ | content-profile normal form | mode, representational format, target-role, anchoring profile, and typed satisfaction/accuracy profile; analytic aspects, not mental parts | proposed analytic device (C624) | S76 |
+| $c_i\equiv_C c_j$ | repeatable content | equivalence of token profiles at a selected content-relevant grain; type abstraction without required independent abstract causation | proposed preferred (C625) | S76 |
+| $PurportsRef(i,\rho)$, $Ref(i,x)$ | target-role; actual reference | purport does not entail a referent; reference requires actual $x$, a successful plural route, and role-fit | proposed preferred distinction/schema (C626–C627) | S76 |
+| $PossSat(\rho)$, $PossSat^{partial}(\rho)$ | modal target satisfaction | an `Adm_C` specification contains a role-fitting satisfier; a partial role has an admissible completion that does | proposed accepted integration (C628) | S76 |
+| $FicArt(F)$, $Introduces(F,\rho_F)$, $In_F(P(\rho_F))$ | public fiction | actual artifact/practice and stabilized dossier-role; fiction-internal predication without a required concrete character | proposed preferred minimum (C629) | S76 |
+| $CausalContent(i,e)$ | content-sensitive causal role | the actual contentful episode manifests the integrated subject's cognitive power and contributes to $e$; target/type is no second efficient cause | proposed preferred F2 (C631) | S76 |
 
 ## B.2 Agency and intervention
 
@@ -93,7 +100,7 @@
 | $GoodOrient_a(G)$ | good-orientation | $\forall d\in Disp^{est}(G)[Relevant(d,a)\rightarrow Fit_*(d,a,\ldots)]$; holds for $S,R$; undefeated exhaustive response remains open for $P$ | preferred/open (C463–C464, C622–C623) | S48, S75 |
 | $Permits(G,s)$, $Cover(r,s)$, $Gratuitous(s)$ | permission structure | $Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s)$; undefeated misfit prevention would produce; permitted with no cover | accepted (C473) | S48 |
 | $ContHorizon(B)$ | continuation | numerically same bearer with undefeated $P$-fit beyond $Life(B)$, anywhere in $\mathfrak R^*$ | conditional (C480–C485) | S49 |
-| typed creative reason $\langle ground,target,mode,level\rangle$ | reasons | the fact grounding a reason is distinguished from its response target; requiring/favoring/justifying at creation/architecture/specification | proposed accepted refinement (C521, C616) | S56, S75 |
-| $PCase(x,B,C,\tau)$, $RespScope(A,B,x,C,\tau)$ | P-reason applicability | an obtaining realization, protection, loss, or corruption of P-fit; $A$ can identify it and its bearer, can respond, and stands in a pertinent causal, creative, or personal nexus | proposed preferred conditional (C618) | S75 |
-| $Applies(r,A)$, $Owns(A,r)$, $Exercises(A,r,\alpha)$ | reason standings | normative applicability; uptake into the agent's profile; explanatory exercise in an act | proposed accepted distinction (C617) | S75 |
-| $r_P^{thin}$ | valence-directed reason | structural-profile-indexed in creative deliberation and de re bearer-indexed in actual response; favoring without maximizing or guaranteeing undefeated response | proposed preferred at F2 (C621–C623) | S75 |
+| typed creative reason $\langle ground,target,mode,level\rangle$ | reasons | the fact grounding a reason is distinguished from its response target; requiring/favoring/justifying at creation/architecture/specification | accepted refinement (C521, C616) | S56, S75 |
+| $PCase(x,B,C,\tau)$, $RespScope(A,B,x,C,\tau)$ | P-reason applicability | an obtaining realization, protection, loss, or corruption of P-fit; $A$ can identify it and its bearer, can respond, and stands in a pertinent causal, creative, or personal nexus | preferred conditional (C618) | S75 |
+| $Applies(r,A)$, $Owns(A,r)$, $Exercises(A,r,\alpha)$ | reason standings | normative applicability; uptake into the agent's profile; explanatory exercise in an act | accepted distinction (C617) | S75 |
+| $r_P^{thin}$ | valence-directed reason | structural-profile-indexed in creative deliberation and de re bearer-indexed in actual response; favoring without maximizing or guaranteeing undefeated response | preferred at F2 (C621–C623) | S75 |

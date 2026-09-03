@@ -81,3 +81,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S73 — Non-created concreta and universal dependence](2026-09-02-non-created-concreta-and-universal-dependence.md)
 - [S74 — Self-qualification and action topology](2026-09-03-self-qualification-and-action-topology.md)
 - [S75 — The P-reason: ground, target, uptake, and orientation](2026-09-03-p-reason-ground-and-uptake.md)
+- [S76 — Thought, imagination, and non-actual reference](2026-09-03-thought-imagination-and-nonactual-reference.md)

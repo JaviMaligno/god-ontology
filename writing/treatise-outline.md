@@ -25,6 +25,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
 3. **The Question Beyond the Model**
    - Why fundamental structure invites interpretation
    - Brute facts as a live stopping point
+   - Absolute nothing as quantificational absence, not a causal rival; why *ex nihilo* denies material input
 
 ## Part II — Method: Constructing rather than importing an ontology
 
@@ -39,7 +40,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
    - Logic, identity, essence, power profiles, dependence, and compossibility
    - Partial specifications and complete admissible extensions
    - Why possible-world semantics does not require concrete possible universes
-   - The open meta-modal ground of uninstantiated constitutive profiles
+   - Bounded constitutive primitivism for uninstantiated profiles; stronger divine-essential grounding as an open F3 route
    - Independent possibility of a created specification: consistency, admitted histories, compossible powers, createdness, essence-compatibility
    - Why possibility must not be defined by divine capacity; imaginability as evidence, never constitution
 6. **The Adversarial and Provenance Method**
@@ -341,6 +342,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The remaining normative burden in what is due to a bearer, capacity, or relation
     - Due-good privation and positive experiential or causal vehicles of evil
     - Broad and grave evil; moral and non-agentic causal origins
+    - Temporal embodied change, structural vulnerability, and why profile-relative exposure does not justify token suffering
     - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
     - Sacrifice: cost, belief, trust, hope or faith, agentic excellence, objective fit, causal success, and value for contemporary or future others
     - Defeasible priority for commitments extending beyond the agent's life

@@ -183,14 +183,27 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Eric Steinhart, “On the Plurality of Gods” (2013) | **V** | The [Cambridge abstract](https://www.cambridge.org/core/journals/religious-studies/article/abs/on-the-plurality-of-gods/B8DA7B15FE34870DF983765B24019B31) explicitly presents ordinal polytheism: necessary concrete gods, each grounding a universe, ordered without a maximally perfect god. It verifies that plural terminal models can be systematic, not that they are compatible with this project's $CMU_G$. |
 | Jonathan Schaffer, “Monism: The Priority of the Whole” (2010) | **V/Q** | The [journal DOI](https://doi.org/10.1215/00318108-2009-025) verifies the priority-monist distinction between how many concrete objects exist and how many are fundamental. The paper concerns the cosmos rather than divine dependence; S77 uses it only as a taxonomy of existence versus fundamentality. |
 
+## S78 — Nothing, bounded modal structure, and temporal identity (C645-C658)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Aquinas, *Summa Theologiae* I, q. 45 | **V** | The [primary text](https://www.newadvent.org/summa/1045.htm) explicitly analyzes “from nothing” as absence of presupposed matter and denies that nothing is a material or causal principle. This directly supports C647; S78 does not import Aquinas's act/potency analysis of creation. |
+| Thomas Baldwin, “There Might Be Nothing” (1996) | **V/Q** | The [OUP DOI record](https://doi.org/10.1093/analys/56.4.231) verifies the article; subsequent literature identifies its subtraction argument with the possibility of a world without concrete objects. It supports treating metaphysical nihilism as a quantified modal thesis rather than belief in a named entity; it does not establish the stronger absence of abstracta or compatibility with necessary $G$. |
+| Brian Leftow, *God and Necessity* (2012) | **V/Q** | The [OUP monograph record and abstract](https://doi.org/10.1093/acprof:oso/9780199263356.001.0001) describe a theory that locates modal work in God and divine mental activity rather than possible worlds or independent abstracta. This verifies the competitor family; S78's diagnosis of conflict with its own anti-circular truth-tracking direction is local. |
+| Aristotle, *Physics* IV | **V** | The [primary translation](https://classics.mit.edu/Aristotle/physics.4.iv.html) treats time as the number or measure of motion/change in respect of before and after. It verifies the relationist precedent, not the framework-neutral entailment rejected in C655. |
+| Sydney Shoemaker, “Time Without Change” (1969) | **V** | The [JSTOR record](https://www.jstor.org/stable/2023892) verifies the article and the global-freeze argument for possible time without change. It supplies the canonical countermodel motivating C655's open universal. |
+| Denis Corish, “Could Time be Change?” (2009) | **V/Q** | The [Cambridge DOI and abstract](https://doi.org/10.1017/S0031819109000199) state that Shoemaker's argument presupposes absolute time and defend a relationist alternative. The source confirms that the issue is framework-dependent; S78 chooses no final theory of time. |
+| Aquinas, *Summa Theologiae* I, q. 48 | **V/Q** | The [primary text](https://www.newadvent.org/summa/1048.htm) distinguishes privation from pure negation and relates evil to a due good absent in a subject. It supports the inherited privation family; its teleological argument from corruptibility to universal perfection is not adopted by C656–C657. |
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, S76, and S77, with five sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S78, with six sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
 - S53's non-criterial and intermittent persistence has a direct close precedent in Merricks; the project's distinctiveness lies in deriving and integrating it with sourcehood, eternalism, and re-realization.
 - S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
 - S77's sourcehood, aseity, derivative-necessity, plural-terminal, and priority distinctions all have precedents; its contribution is the graded diagnostic integration and the explicit refusal to infer a modal operator from actual explanatory economy.
+- S78's anti-reification distinctions, modal primitivism, divine modal competitor, time–change debate, privation, and non-criterial identity all have precedents; its contribution is their integration with $Adm_C$, temporal token onset, and the separation of structural exposure from token permission.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

@@ -83,3 +83,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S75 — The P-reason: ground, target, uptake, and orientation](2026-09-03-p-reason-ground-and-uptake.md)
 - [S76 — Thought, imagination, and non-actual reference](2026-09-03-thought-imagination-and-nonactual-reference.md)
 - [S77 — Graded concrete dependence and modal sovereignty](2026-09-03-graded-concrete-dependence-and-modal-sovereignty.md)
+- [S78 — Nothing, the meta-modal ground, and temporal identity](2026-09-04-nothing-modal-ground-and-temporal-identity.md)

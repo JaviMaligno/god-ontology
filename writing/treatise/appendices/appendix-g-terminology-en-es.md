@@ -38,6 +38,8 @@
 | *ex deo* (causal, virtual, participatory, strict) | *ex deo* (causal, virtual, participativo, estricto) | *que sale de Dios, en varios sentidos* |
 | materiality as instantiated profile | materialidad como perfil instanciado | *ser material es tener cierta organización* |
 | constitutive admissibility ($Adm_C$) | admisibilidad constitutiva | *que una descripción de mundo pueda cumplirse* |
+| bounded constitutive primitivism ($BCP$) | primitivismo constitutivo limitado | *la posibilidad puede ser una verdad estructural básica sin ser otra cosa existente* |
+| absolute nothingness; creation *ex nihilo* | nada absoluta; creación *ex nihilo* | *ausencia de todo; crear sin materia previa, no desde una cosa llamada Nada* |
 | cognitive episode / content-profile | episodio cognitivo / perfil de contenido | *el pensamiento real y la forma en que presenta algo* |
 | intentional target-role | papel objetivo intencional | *el hueco al que apunta el pensamiento* |
 | referential purport / successful reference | pretensión referencial / referencia lograda | *apuntar a algo / alcanzar de verdad a la cosa* |
@@ -61,6 +63,7 @@
 | anchors $P$, $S$, $R$ | anclas $P$, $S$, $R$ | *lo que se siente, lo que se elige, lo que se reconoce con verdad* |
 | objective fit ($Fit_*$) | ajuste objetivo | *lo que de verdad le conviene a un ser dado lo que es* |
 | due-good privation | privación de un bien debido | *un bien que debería estar y falta* |
+| structural vulnerability | vulnerabilidad estructural | *un mundo estable de cuerpos y agentes deja bienes reales expuestos al daño* |
 | good-oriented profile | perfil orientado al bien | *todo lo establecido apunta a la libertad y a la relación verdadera* |
 | the P-gap | el hueco P | *lo que no he conseguido establecer: la orientación a lo que sentimos* |
 | permission; cover; gratuitous suffering | permisión; cobertura; sufrimiento gratuito | *dejar que ocurra; la razón que lo cubre; dolor que ninguna razón cubre* |
@@ -73,5 +76,6 @@
 | anchored hylomorphic-organismic persistence | persistencia hilemórfico-organísmica anclada | *en esta vida, un solo ser vivo* |
 | numerical recreation; duplicate reconstruction | recreación numérica; reconstrucción duplicada | *hacerme existir de nuevo; hacer otro igual* |
 | gappy career | carrera con hueco | *una vida con un hueco* |
+| token onset; tenseless identity fact | comienzo del individuo; hecho de identidad sin tiempo | *empiezo con mi primera etapa, aunque toda mi historia sea verdad junta* |
 | three-way veridicality of experience | veridicidad triple de la experiencia | *sentir algo que es verdad siempre; ser interpelado; ilusión* |
 | the two registers | los dos registros | *pensar y sentir; hemisferio izquierdo y derecho, como imagen* |

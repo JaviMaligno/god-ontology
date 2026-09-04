@@ -59,6 +59,7 @@
 | $UPSS(G)$ | divine constitution | underived power-structured subject: thin substance, identity unit and bearer, no prior ingredients or substrate | preferred (C223–C228) | S30 |
 | $MCS(G)$ | minimal constitutive simplicity | no parts as ingredients; aspect-powers; does not entail absolute simplicity | preferred (C227, C492) | S30, S50 |
 | $P_{OEC}$, $OEC^+(G,C,S)$ | originative existential power; creation | patient-independent production of a created basis $C$ instantiating $S$, under $CCD$ | preferred (C229–C236, C248) | S30–S31 |
+| $CreatesExNihilo(G,x)$ | creation without material input | $Creates(G,x)\land\neg\exists m\,MaterialInput(m,x)$; absolute nothing is no causal relatum | proposed accepted clarification (C646–C647) | S78 |
 | $CT/RI$, $CCD$ | transcendence/immanence; disjointness | constitutive transcendence with relational immanence; creator–creation constitutive disjointness | preferred (C241–C242, C248) | S31 |
 | $ED_C, ED_V, ED_P, ED_S$ | *ex deo* senses | causal, virtual/exemplar, participatory (accepted); strict constitutive (open) | C245–C254 | S31 |
 | $\Pi_{phys}$, $Mat(x)$ | material profile | $Mat(x)\leftrightarrow Instantiates(x,\Pi_{phys})$ | preferred (C487) | S50 |
@@ -66,12 +67,13 @@
 | $OMP_C$, $OMP_Q$ | qualified omnipotence | created-order maximality (preferred at F2); unrestricted qualified maximality (provisional) | C261–C262 | S32 |
 | $OMP_Q^{\mathcal O_*}$ (trunk) | ontology-relative maximality | $\forall a[Task_G^{\mathcal O_*}(a)\rightarrow StrongCan(G,a)]$ | preferred fragmentwise (C432–C433) | S44 |
 | $Adm_C(S)$ (trunk) | constitutive admissibility | $WF\land Cons_{LM}\land EssSat\land PowSat\land Comp\land DepSat_C$; $Poss_C^{ind}(S)\leftrightarrow Adm_C(S)$ | preferred (C344–C345) | S38 |
+| $BCP$ | bounded constitutive primitivism | profiles represent objective $Adm_C$ facts; local clauses are grounded by logic, identity, actual essences/powers, compossibility, and dependence; alien-profile coherence remains primitive | proposed preferred F2+ (C649–C652) | S78 |
 | $Poss_C^{ind}$ (qd five-clause) | independent possibility | merged into $Adm_C$; model existence explicit; $E_G$ clause relocated to B4 | reconciled (C542) | S56, S59 |
 | $CMU_G$, MGC, MUU, GOL (trunk) | conditional modal ultimity | $\Box\forall C[(Exists(C)\land FundCreatedBasis(C))\rightarrow UltimateOrigin(G,C)]$ | preferred (C360–C362) | S39 |
 | $Created_G(x)$, $NCC_G(L)$ | creation; non-created concrete | $Created_G(x):=x\neq G\land DependsExistentially(x,G)$; $NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L)$ | proposed clarification (C586–C590) | S73 |
-| $ACD_G$ | actual concrete dependence | $\forall x[(Actual(x)\land Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred actual thesis at F2 (C634–C635) | S77 |
-| $ENCC_G(L)$ | essentially independent necessary concrete | $Concrete(L)\land L\neq G\land \Box Exists(L)\land \Box(Exists(L)\rightarrow\neg DependsExistentially(L,G))$ | proposed rival definition; conditionally excluded by $ACD_G$ (C636–C637) | S77 |
-| $CTD_G$, $NCD_G$ | modal contingent-total; necessary-concrete dependence | modal dependence of every contingent concrete; modal dependence of every necessary concrete; under exhaustive modal status, their conjunction is $UCD_G$ | proposed decomposition and bridge diagnosis (C638–C640) | S77 |
+| $ACD_G$ | actual concrete dependence | $\forall x[(Actual(x)\land Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | preferred actual thesis at F2; accepted (C634–C645) | S77–S78 |
+| $ENCC_G(L)$ | essentially independent necessary concrete | $Concrete(L)\land L\neq G\land \Box Exists(L)\land \Box(Exists(L)\rightarrow\neg DependsExistentially(L,G))$ | accepted rival definition; conditionally excluded by $ACD_G$ (C636–C645) | S77–S78 |
+| $CTD_G$, $NCD_G$ | modal contingent-total; necessary-concrete dependence | modal dependence of every contingent concrete; modal dependence of every necessary concrete; under exhaustive modal status, their conjunction is $UCD_G$ | accepted decomposition and bridge diagnosis (C638–C645) | S77–S78 |
 | $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | conditional modal-sovereignty completion, not derived from $ACD_G$ (C591–C594, C639–C643) | S73, S77 |
 | $LTask_G(a,L)$, $NCCBlock_G(L,a)$ | non-created task; blocker | an eligible divine task genuinely concerning $L$; an underived $L$-boundary plus failure of $StrongCan$ | proposed diagnostic (C597–C600) | S73 |
 | $CNBIM_G(m)$ | contingent non-basic intrinsic mode | intrinsic, contingent, $PP_G$-compatible, non-executive, non-Cambridge mode adding no essential power, proper part, substrate, or bearer | proposed candidate schema, no positive witness (C604–C605) | S74 |
@@ -93,6 +95,7 @@
 | $GapAdm_K$, $GapIdentity_C$, $NumRecreate$, $DupRecon$ (trunk) | gappy careers; recreation | identity fact, origin anchor, essence, non-branching, one grounded career; recreation vs duplicate | preferred (C447–C453) | S45 |
 | $PP_G$ (trunk) | divine identity profile | underived subject, necessary existence, unified agency, $UPSS$, essential powers | preferred (C454) | S45 |
 | simple persistence (qd) | sources | identity of a source not constituted by continuity; retained as agency-side refinement | reconciled (C528, C556) | S53, S68 |
+| $TokenOnset(B,t_0)$ | temporal beginning of a created subject | first actual stage of $B$'s career; prior type possibility does not supply a de re individual; exact organismic threshold open | proposed accepted clarification (C653–C654) | S78 |
 
 ## B.5 Value and the P-gap
 
@@ -107,3 +110,4 @@
 | $PCase(x,B,C,\tau)$, $RespScope(A,B,x,C,\tau)$ | P-reason applicability | an obtaining realization, protection, loss, or corruption of P-fit; $A$ can identify it and its bearer, can respond, and stands in a pertinent causal, creative, or personal nexus | preferred conditional (C618) | S75 |
 | $Applies(r,A)$, $Owns(A,r)$, $Exercises(A,r,\alpha)$ | reason standings | normative applicability; uptake into the agent's profile; explanatory exercise in an act | accepted distinction (C617) | S75 |
 | $r_P^{thin}$ | valence-directed reason | structural-profile-indexed in creative deliberation and de re bearer-indexed in actual response; favoring without maximizing or guaranteeing undefeated response | preferred at F2 (C621–C623) | S75 |
+| $StructuralVulnerability(S)$ | profile-relative exposure | stable secondary causation, finite embodiment, plural agency, and temporal goods expose bearers to loss, conflict, or harm; no token-permission inference | proposed preferred (C655–C657) | S78 |

@@ -1,20 +1,20 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-03 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-04 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 644 |
-| Rejected or corrected moves (R) | 251 |
-| Challenges (CH) | 26 |
+| Working commitments (C) | 658 |
+| Rejected or corrected moves (R) | 261 |
+| Challenges (CH) | 28 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 255 |
-| preferred | 249 |
-| other | 87 |
+| accepted | 265 |
+| preferred | 251 |
+| other | 89 |
 | provisional | 25 |
 | open | 11 |
 | merged | 9 |
@@ -24,8 +24,8 @@
 
 | Challenge status (first word) | Count |
 | --- | --- |
-| tested | 18 |
-| scoped | 8 |
+| tested | 19 |
+| scoped | 9 |
 
 ## Working commitments
 
@@ -664,17 +664,31 @@
 | C631 | Content is causally relevant through the actual contentful episode and the integrated power of its embodied subject; neither a non-existent target nor a content type is an additional efficient cause. | `preferred causal integration at F2; accepted` |
 | C632 | ACO and $ASA$ know an actual creaturely cognitive episode and its subject-indexed content, while MKO knows modal satisfaction and failure; this entails neither acquaintance with non-actual individuals nor a temporal or embodied cognitive vehicle in $G$. | `accepted divine-knowledge constraint` |
 | C633 | CH14 is complete enough at F2 for the current architecture: episode, token content, repeatability, target-role, actual reference, modal status, fiction, truth-typing, causal role, and divine knowledge are integrated. | `accepted bounded closure of CH14 at F2` |
-| C634 | **Actual concrete dependence $ACD_G$:** every actual concrete entity numerically distinct from $G$ depends existentially on $G$. | `proposed preferred actual thesis at F2` |
-| C635 | The support for $ACD_G$ has two layers: the provisional total-contingent-ground thesis covers actual contingent concreta, and the comparative one-terminus case extends the preferred actual ontology against necessary independent concreta. | `proposed comparative support` |
-| C636 | $ENCC_G(L)$ designates a concrete $L\neq G$ that exists necessarily and is essentially existentially independent of $G$. | `proposed accepted rival definition` |
-| C637 | $ACD_G\rightarrow\neg\exists L\,ENCC_G(L)$: an essentially independent necessary concrete would be actual and would therefore both depend and not depend on $G$. | `proposed conditional deduction` |
-| C638 | $ACD_G$ does not entail full $UCD_G$. The strongest residual countermodel preserves actual one-terminus dependence while allowing a brute contingent concrete independent of $G$ in some non-actual history. | `proposed accepted scope correction` |
-| C639 | Let $CTD_G$ require every contingent concrete in every admissible history to depend on $G$, and $NCD_G$ require the same of every necessary concrete; under exhaustive modal status, $UCD_G\leftrightarrow CTD_G\land NCD_G$. | `proposed accepted decomposition` |
-| C640 | $CTD_G$ requires a modal total-ground bridge, while $NCD_G$ requires an appropriate dependence-status or origin-essentiality bridge beyond actual $ACD_G$. | `proposed accepted bridge diagnosis` |
-| C641 | Divine aseity, originative creative power, actual total grounding, and qualified omnipotence do not independently establish full $UCD_G$; classical universal-dependence arguments use stronger participation, simplicity, or being-by-essence premises not presently accepted. | `proposed evidential limit` |
-| C642 | The preferred graded position retains $ACD_G$ as the principal actual result and full $UCD_G$ as a cleaner but conditional modal-sovereignty completion; the latter is not reported as derived from the former. | `proposed preferred graded position at F2–F2+` |
-| C643 | Ontology-relative $OMP_Q^{\mathcal O_*}$, actual existential sovereignty, and divine-ground uniqueness survive the S77 correction; exclusion of every possible non-created relatum and unrestricted cross-ontology $OMP_Q$ remain conditional on full $UCD_G$ or a separate non-created-relatum range bridge. | `proposed accepted downstream constraint` |
-| C644 | CH25 is complete enough at F2 once actual dependence, essentially independent necessary rivals, brute contingent modal rivals, and the missing modal bridge are separated. | `proposed bounded closure of the S77 audit` |
+| C634 | **Actual concrete dependence $ACD_G$:** every actual concrete entity numerically distinct from $G$ depends existentially on $G$. | `preferred actual thesis at F2; accepted` |
+| C635 | The support for $ACD_G$ has two layers: the provisional total-contingent-ground thesis covers actual contingent concreta, and the comparative one-terminus case extends the preferred actual ontology against necessary independent concreta. | `accepted comparative support` |
+| C636 | $ENCC_G(L)$ designates a concrete $L\neq G$ that exists necessarily and is essentially existentially independent of $G$. | `accepted rival definition` |
+| C637 | $ACD_G\rightarrow\neg\exists L\,ENCC_G(L)$: an essentially independent necessary concrete would be actual and would therefore both depend and not depend on $G$. | `accepted conditional deduction` |
+| C638 | $ACD_G$ does not entail full $UCD_G$. The strongest residual countermodel preserves actual one-terminus dependence while allowing a brute contingent concrete independent of $G$ in some non-actual history. | `accepted scope correction` |
+| C639 | Let $CTD_G$ require every contingent concrete in every admissible history to depend on $G$, and $NCD_G$ require the same of every necessary concrete; under exhaustive modal status, $UCD_G\leftrightarrow CTD_G\land NCD_G$. | `accepted decomposition` |
+| C640 | $CTD_G$ requires a modal total-ground bridge, while $NCD_G$ requires an appropriate dependence-status or origin-essentiality bridge beyond actual $ACD_G$. | `accepted bridge diagnosis` |
+| C641 | Divine aseity, originative creative power, actual total grounding, and qualified omnipotence do not independently establish full $UCD_G$; classical universal-dependence arguments use stronger participation, simplicity, or being-by-essence premises not presently accepted. | `accepted evidential limit` |
+| C642 | The preferred graded position retains $ACD_G$ as the principal actual result and full $UCD_G$ as a cleaner but conditional modal-sovereignty completion; the latter is not reported as derived from the former. | `preferred graded position at F2–F2+; accepted` |
+| C643 | Ontology-relative $OMP_Q^{\mathcal O_*}$, actual existential sovereignty, and divine-ground uniqueness survive the S77 correction; exclusion of every possible non-created relatum and unrestricted cross-ontology $OMP_Q$ remain conditional on full $UCD_G$ or a separate non-created-relatum range bridge. | `accepted downstream constraint` |
+| C644 | CH25 is complete enough at F2 once actual dependence, essentially independent necessary rivals, brute contingent modal rivals, and the missing modal bridge are separated. | `accepted bounded closure of the S77 audit` |
+| C645 | S77's graded dependence result is retained: actual $ACD_G$ is principal, while full $UCD_G$ remains a cleaner conditional completion with exact downstream limits. | `accepted by default at stated levels` |
+| C646 | Absolute nothingness is absence expressed quantificationally; an empty-world thesis, a physical vacuum, an unexplained brute reality, and an entity named Nothing are different claims. | `proposed accepted distinction` |
+| C647 | Creation *ex nihilo* denies prior material input and assigns positive sourcehood to $G$; absolute nonbeing is neither a material nor a cause. | `proposed accepted ex-nihilo clarification` |
+| C648 | The empirical non-observability of absolute nothing and of non-physical $G$ does not give them evidential parity. | `proposed accepted epistemic constraint` |
+| C649 | **Bounded constitutive primitivism $BCP$:** profiles are representational nominalizations; $Adm_C$ states objective necessary constitutive facts; the coherence of a wholly alien uninstantiated profile is presently irreducible without being a concrete possible being. | `proposed preferred F2+ meta-modal stopping point` |
+| C650 | The ground of $Adm_C$ is distributed: logic, identity, actual essences and powers, compossibility, and dependence explain their respective clauses locally; the distinctive new primitive is the alien-profile coherence residue, alongside already fundamental logical and identity structure. | `proposed accepted grounding distribution` |
+| C651 | A necessary structural truth is not thereby a substance, agent, efficient cause, or concrete rival to $G$. | `proposed accepted ultimacy constraint` |
+| C652 | A necessary non-volitional feature of $G$ might ground the complete space of coherent created forms, but this is not yet derived from $UPSS$ or $P_{OEC}$ and cannot be defined through the creative range it is meant to constrain. | `proposed open F3 direction` |
+| C653 | A created subject begins with the first stage of its actual token career; before that, only a type-level person-profile may be possible, not that individual de re. | `proposed accepted identity clarification; exact boundary open` |
+| C654 | A bounded or gappy person's identity facts and complete career can be tenselessly actual without that person existing at every created time or in an atemporal mode. | `proposed accepted eternalist clarification` |
+| C655 | Temporal embodied life of the selected kind requires change, while the framework-neutral thesis that all time requires change remains open. | `proposed accepted scope distinction` |
+| C656 | Stable secondary causation, embodied finite organization, plural agency, and temporal goods make exposure to loss, conflict, and harm intelligible and may make some exposure constitutive relative to a selected world-profile. | `proposed preferred structural-vulnerability thesis` |
+| C657 | Structural exposure neither entails death or evil in every material world nor justifies any particular suffering; profile-relative cost, nomological inevitability, token inevitability, and token permission remain distinct. | `proposed accepted P-gap constraint` |
+| C658 | The meta-modal ground is complete enough at F2+ under $BCP$; stronger divine-essential grounding is selective F3, and structural vulnerability remains banked unless it becomes load-bearing for the P-gap. | `proposed bounded closure and priority` |
 
 ## Rejected or corrected moves
 
@@ -931,6 +945,16 @@
 | R249 | A necessarily existing independent concrete can remain confined to a merely non-actual possible history. | `rejected` |
 | R250 | Divine aseity by itself entails that everything else depends on $G$. | `rejected` |
 | R251 | Plural necessary agents are contradictory without further simplicity, maximality, individuation, or conflict premises. | `rejected` |
+| R252 | Atheism or metaphysical nihilism is belief in an entity named Nothing. | `rejected` |
+| R253 | Creation *ex nihilo* means that absolute nothing causes or becomes the created order. | `rejected` |
+| R254 | Shared empirical non-observability gives $G$ and absolute nothing equal epistemic standing. | `rejected` |
+| R255 | Type profiles must be concrete possible objects or pre-existing individual bearers. | `rejected` |
+| R256 | Divine knowledge, will, or $P_{OEC}$ constitutes the independent possibility domain used to assess divine creative range. | `rejected for the current architecture` |
+| R257 | All time necessarily requires change as a framework-neutral theorem already established here. | `rejected overreach` |
+| R258 | Change by itself entails death, evil, or loss of a due good. | `rejected` |
+| R259 | Structural vulnerability or profile-relative cost justifies every actual token suffering. | `rejected` |
+| R260 | Atemporal truth about a whole personal career makes its bearer atemporal or everlasting. | `rejected` |
+| R261 | No change, physical singularity, perfection, and $G$ name one metaphysical condition. | `rejected` |
 
 ## Challenges
 
@@ -960,5 +984,7 @@
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | `tested F2` |
-| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; graded closure proposed in S77` |
+| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | `tested F2; graded closure accepted in S78` |
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | `tested F2; no positive SQBlock witness` |
+| CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | `tested F2 in S78` |
+| CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | `scoped in S78; ontology branch before ethics` |

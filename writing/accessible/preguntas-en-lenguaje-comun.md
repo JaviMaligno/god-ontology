@@ -24,6 +24,14 @@ No es una demostración. Es la explicación que me parece más razonable y que m
 
 Bastar, basta: no es una postura absurda. Lo que pasa es que es la postura que menos explica. Deja sin cuenta el hecho más grande de todos, que es que exista algo que podría no haber existido, y que sea esto y no otra cosa. Yo prefiero la explicación que deja menos cosas sin explicar, siempre que no cueste más de lo que aporta. Es una preferencia, no una prueba. Pero es la misma preferencia que hace que uno no se conforme con ninguna otra pregunta.
 
+### ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada?
+
+La broma tiene una intuición buena, aunque tomada literalmente hace trampas. «Nada» no es el nombre de una cosa extraña en la que crea el ateo. Decir que no hay nada significa que no existe ninguna cosa; por eso la nada absoluta no puede causar, convertirse en materia ni hacer nada. Un ateo puede pensar que el universo existe sin explicación, que hay una estructura impersonal necesaria, o simplemente que no sabe cuál es la explicación. Esas son alternativas reales; no quedan refutadas diciendo que la nada no existe.
+
+La intuición aprovechable es esta: la ausencia de una causa no puede funcionar ella misma como causa. Cuando digo que Dios crea de la nada quiero decir que crea sin usar una materia anterior. Hay una fuente positiva —Dios— y no hay un material previo; no quiero decir que una cosa llamada Nada se transforme en universo. Eso hace que creer en Dios me parezca explicativamente más fértil que detenerme en una realidad bruta, pero la preferencia se apoya en el argumento completo, no en el juego de palabras.
+
+Tampoco pone a Dios y a la nada en empate el hecho de que ninguno sea un objeto visible. Observar la nada absoluta sería imposible porque observar ya requiere que existan un observador y una experiencia. Que algo no se pueda observar físicamente solo fija el límite de ese método; no dice por sí solo qué explicación es mejor.
+
 ### ¿No es «Dios» solo un nombre para lo que la ciencia todavía no explica?
 
 No, y ese es justamente el error que intento evitar. Que la ciencia no haya explicado algo no es prueba de nada. Y que queramos una explicación tampoco. Lo que digo es otra cosa: la ciencia describe cómo funciona el mundo, y lo hace cada vez mejor. Lo que no hace, ni puede hacer con sus propios medios, es decir por qué las reglas fundamentales son las que son y por qué hay reglas. Esa pregunta no es un hueco que la ciencia vaya a rellenar mañana; es una pregunta de otro tipo. Dios no está en los huecos de la ciencia; está, si está, debajo de toda ella.
@@ -39,6 +47,8 @@ Alguien puede decir que «eligió por motivos» es solo ponerle nombre al azar. 
 «Posible» se usa de tres maneras que conviene no mezclar. Que algo se pueda imaginar; que no sea contradictorio; y que de verdad pudiera existir. Las dos primeras no bastan. Se pueden imaginar cosas que no podrían existir, y hay descripciones sin contradicción que no describen ningún mundo completo. Un ejemplo: unas leyes que dicen que cierta cantidad se conserva siempre, y unas condiciones de partida y de llegada en las que esa cantidad vale distinto. Cada frase por separado es coherente; juntas no dejan ninguna historia que las cumpla. Que una descripción no se contradiga no garantiza que haya algo que la satisfaga.
 
 Lo que yo entiendo por posible, para un mundo, es que su descripción completa cumpla varias cosas a la vez: que esté bien definida; que sus reglas no se contradigan y que, con sus constantes y su punto de partida, admitan al menos una historia completa; que los tipos de cosas que contiene sean de verdad lo que dicen ser, con la organización que los hace ser eso; que las capacidades que ese mundo atribuye a sus cosas puedan ejercerse y no se anulen entre sí; y que todo eso pueda darse junto, en un solo orden que depende de otra cosa y no existe por sí mismo. Lo importante es lo que no está en la lista: no dice «lo que Dios puede hacer», y de hecho no dice nada de Dios. Eso es a propósito: si «posible» significara «lo que Dios puede», decir que Dios puede crear cualquier mundo posible sería no decir nada. Qué puede hacer Dios con los mundos posibles es otra pregunta, y la respondo más abajo, en la parte sobre qué Dios.
+
+¿Y por qué existen esas posibilidades, sobre todo las de tipos de cosas que nunca han existido? Mi respuesta actual se detiene antes de fingir que lo sabe todo. Las posibilidades no son cosas ni universos guardados en otra parte; son verdades estructurales sobre qué descripciones completas pueden cumplirse. Muchas se explican por la lógica, la identidad y las capacidades de cosas reales. Para un tipo completamente nuevo queda un resto básico: que esa organización sea posible es, por ahora, un hecho estructural necesario. Me atrae más que esa estructura salga de la naturaleza necesaria de Dios, pero todavía no he justificado qué característica suya haría ese trabajo sin volver a definir «posible» como «lo que Dios puede hacer». Prefiero dejar visible ese pequeño primitivo que esconder el mismo problema dentro de una palabra.
 
 Y sí: el mundo podría haber sido de muchas otras maneras, con otras constantes, otras leyes, otros seres, o ninguno. Que sea este es una elección, no una consecuencia.
 
@@ -190,6 +200,14 @@ El mal no es una cosa, ni una fuerza opuesta a Dios. Es un bien que debería est
 
 Hay una diferencia importante entre el mal que alguien hace y el que simplemente ocurre. Un terremoto y un asesinato pueden causar la misma pérdida, pero solo en el segundo hay alguien que la ha querido. Y en ese caso el autor es la persona, no Dios: que Dios sostenga el mundo en el que ocurre no lo convierte en el autor de lo que nosotros decidimos.
 
+### ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal?
+
+Hay una parte fuerte de esa idea que sí me sirve. La vida corporal que conocemos necesita cambio: metabolizar, crecer, percibir, aprender, actuar y tener una historia son procesos. Además, un mundo compartido con leyes estables, cuerpos finitos y varios agentes hace que exista vulnerabilidad real. Lo que permite que mis actos tengan consecuencias permite también que dañen; lo que mantiene un organismo puede fallar; los proyectos de sujetos distintos pueden entrar en conflicto. Un mundo así no puede garantizar desde dentro que nada valioso esté nunca expuesto.
+
+Eso todavía no demuestra que todo tiempo imaginable necesite cambio, ni que todo cambio sea una pérdida. Crecer, descubrir o actuar también son cambios. Tampoco demuestra que cualquier mundo material tenga que contener exactamente nuestra mortalidad, nuestras enfermedades o esta cantidad de dolor. Como mucho, ofrece una explicación estructural de por qué ciertos bienes temporales vienen con riesgo y vulnerabilidad.
+
+Y queda intacta la pregunta más difícil: aunque alguna exposición al daño fuera inevitable para este tipo de mundo, ¿por qué ocurrió este sufrimiento, con esta intensidad, y por qué Dios no evitó este caso? Pasar de «el sistema necesita que algo pueda salir mal» a «este daño estaba justificado» sería un salto. La idea mejora la explicación general del mundo; no liquida el problema del mal ni sustituye la respuesta que todavía falta para cada persona.
+
 ### ¿Es Dios bueno?
 
 Creo que sí. Pero aquí tengo que ser muy preciso sobre qué parte he conseguido justificar y qué parte creo sin haberlo conseguido.
@@ -245,6 +263,14 @@ A la tercera: no son las células, que cambian toda la vida, ni los recuerdos, q
 A la cuarta: los demás me reconocen por la continuidad, y pueden equivocarse. Dios no: me conoce directamente como quien soy, no por señas. Y ese conocimiento no me hace ser yo; solo lo sabe. Esto es lo que hace que, si Dios me hiciera existir de nuevo, me hiciera existir a mí y no a una copia.
 
 Una consecuencia que me parece importante: cuando a alguien lo manipulan o lo encauzan, no lo convierten en otra persona. Es la misma persona a la que le han quitado la autoría de su vida. Por eso se le puede devolver.
+
+### ¿Cuándo empiezo a ser yo? ¿Mi identidad existe eternamente?
+
+Empiezo a existir con la primera parte real de mi vida. Antes puede estar descrito el tipo de ser que podría llegar a existir, igual que puede estar descrita una clase de mundo posible, pero no hay una persona concreta esperando en algún almacén de posibilidades. Al crearme aparecen este individuo y esta vida; Dios no elige entre copias mías ya existentes. No tengo todavía una fecha biológica exacta: depende de cuándo existe por primera vez un solo organismo con la unidad que puede sostener esa vida, y ese umbral necesita más trabajo.
+
+La historia completa cambia la manera de decirlo, pero no el momento en que existo. Mi vida entera —pasado, presente y futuro— forma parte de la historia actual y Dios la conoce junta. Eso hace que sea verdad sin esperar al futuro que el niño, el adulto y el anciano son el mismo. No hace que yo exista antes de comenzar, después de terminar o fuera del tiempo. La identidad tampoco es una pieza que exista eternamente por separado: es el hecho de que todas esas etapas son de este mismo individuo.
+
+Si hubiera un tramo posterior a la muerte, podría ser de la misma persona aunque no existiera nada de ella durante el intervalo. Harían falta una sola historia, el mismo origen, ninguna bifurcación en dos copias y el hecho real de que el tramo posterior es de ese individuo. La semejanza, los recuerdos reconstruidos y que Dios lo llame por el mismo nombre no bastarían por sí solos.
 
 ### ¿Por qué merece la pena sacrificarse?
 
@@ -307,10 +333,11 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | --- | --- | --- |
 | Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C457–C460; S09, S47 |
 | No basta con que exista | preferido | C457, C459; S47 |
+| Dios y «la nada» | preferido con distinción aceptada propuesta: la nada absoluta no es fuente; *ex nihilo* niega materia previa; el rival serio es la realidad bruta u otro fundamento | C646–C648; S78, CH27 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C458–C461, C513; S09, S47, S62 |
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
-| Qué es posible | preferido; el criterio es el del tronco (S38), con la formulación de S57 reconciliada en S60; la plenitud creadora depende de premisas preferidas, sobre todo la unicidad modal de los agentes necesarios | C343–C348, C531–C532, C542; S38, S57, S60 |
+| Qué es posible | preferido a F2+: criterio constitutivo del tronco; perfiles como representaciones; residuo de tipos nunca instanciados como estructura necesaria primitiva; fundamento divino-esencial más fuerte abierto | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 |
 | Qué existe cuando imagino algo inexistente | posición aceptada a F2: episodio y perfil de contenido reales; papel objetivo sin entidad obligatoria; referente mediante un camino real; ficción como artefacto y expediente; causalidad por el sujeto encarnado | C352–C354, C534, C624–C633; S38, S57, S76 |
 | No se puede demostrar | establecido como método | estándar constructivo; S09 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
@@ -327,9 +354,11 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
+| Cambio, muerte y mal | parcial: cambio requerido por la vida corporal seleccionada y vulnerabilidad estructural preferida; necesidad universal y permiso de cada caso abiertos | C655–C657; S78, CH19, CH28 |
 | Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C472–C479, C300, C505; S49, S52; CH19, CH21 |
 | Qué me hace ser yo | aceptado/preferido: identidad numérica primitiva; en esta vida, un solo ser vivo con una historia organizada; persistencia simple como refinamiento desde la agencia; identificación nunca constitutiva | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 |
+| Cuándo empiezo y si mi identidad es eterna | parcial a F2: el sujeto comienza con su primera etapa actual; el umbral biológico exacto sigue abierto; la carrera completa y su identidad son verdades sin tiempo, pero el sujeto no existe en todo tiempo | C653–C654; S78 |
 | Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la recreación numérica es posibilidad preferida sin nada que persista entre medias | C447–C453, C458–C464, C506–C510, C556; S45, S49, S53, S68; CH21, CH22 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C466–C470; S20, S46 |

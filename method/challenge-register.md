@@ -55,8 +55,10 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | personal continuation, mind–body realization, individuation, divine re-realization, P-gap closure | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | agency ecology, manipulation, responsibility, finite norm construction, moral status | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
-| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; graded closure proposed in S77` |
+| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; graded closure accepted in S78` |
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | divine action, identity, constitution, timelessness, consciousness, qualified omnipotence | `tested F2; no positive SQBlock witness` |
+| CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | contingency, explanatory stopping points, creation, material production, scientific access | `tested F2 in S78` |
+| CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | time, materiality, secondary causation, privation, P-gap, divine permission | `scoped in S78; ontology branch before ethics` |
 
 ## Priority gate after S26
 
@@ -69,6 +71,8 @@ S30 gives CH12 an F2 response through the underived power-structured subject mod
 S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29, and its proposals were accepted by the author's subsequent advance. S38 then executes the queued $Poss_C^{ind}$ pass and integrates CH14. S39 tests CH17 because modal source invariance was already the next dependency in the active power bridge. New questions enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
 
 S46–S48 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S47 gives the contingency/ground junction its F2 comparison; S48 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH19; S49 tests CH19 partially through permission, policy-level covers, and the bearer-level remainder, and opens CH21 because closure depends on personal continuation. S50 tests CH21 partially: continuation is coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; its identity burden becomes CH22, which waits on the mind–body branch. The track returns to CH12, where S30–S33 already supply the F2 constitution, boundary, and power results; S51 deepens the constitution/production junction. S52 then structures C118: cumulative context control can remove diachronic and evaluative authorship while token autonomy holds, which extends the agency-preservation presumption to the diachronic level and opens CH23 for created-level curation. S53 tests CH22 partially by deriving simple persistence from the agency model. CH20 records the experiential question.
+
+S78 obeys the same priority rule. The author's new question about identity is answered by refining CH18 and CH22: a token subject begins with its actual career, while its identity facts are tenseless and its bearer remains temporally bounded or gappy. The question about nothing is promoted only because it bears directly on the active meta-modal problem: an absence, an uninstantiated profile, and numerical identity can each be accidentally reified by grammar. CH27 is thereby tested. CH28 records the change–death–evil proposal, but its recency does not displace the trunk; S78 separates structural vulnerability from token permission and leaves the latter under CH19.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -505,7 +509,7 @@ S72 divides the remaining intrinsic-mode case. $ED_{IM}^{exec}$ uses the occurre
 
 ## CH25 — Non-created concreta and universal dependence
 
-**Status:** `tested at F2 in S73 and S77; graded closure proposed`
+**Status:** `tested at F2 in S73 and S77; graded closure accepted in S78`
 
 **Scope:** creation as dependence, necessary existence *ab alio*, role-limited uniqueness, plural concrete ultimity, non-created-relational tasks, and external power blockers
 
@@ -524,7 +528,7 @@ Mere $NCC_G(L)$ is not a power defeater. Creating the same essentially uncreated
 
 S77 corrects the modal scope of that result. The one-terminal arguments directly support actual concrete dependence $ACD_G$. They conditionally exclude an essentially independent necessary concrete because necessary existence entails actuality. They do not by themselves exclude a brute contingent concrete independent of $G$ in some non-actual history. Full $UCD_G$ decomposes into modal contingent-total dependence $CTD_G$ and necessary-concrete dependence $NCD_G$; these require, respectively, a modal total-ground bridge and a dependence-status or origin-essentiality bridge. Aseity, creative capacity, actual total grounding, and omnipotence do not independently supply them.
 
-CH25 therefore has a proposed graded F2 closure: retain $ACD_G$ as the principal actual result, retain full $UCD_G$ only as the cleaner conditional modal-sovereignty completion, and preserve `NCCBlock` as the exact external power defeater. Ontology-relative maximality is unchanged. A deeper pass is needed only if stronger modal sovereignty is selected or a rival supplies a positive `NCCBlock` rather than mere coexistence.
+CH25 therefore has an accepted graded F2 closure: retain $ACD_G$ as the principal actual result, retain full $UCD_G$ only as the cleaner conditional modal-sovereignty completion, and preserve `NCCBlock` as the exact external power defeater. Ontology-relative maximality is unchanged. A deeper pass is needed only if stronger modal sovereignty is selected or a rival supplies a positive `NCCBlock` rather than mere coexistence.
 
 ## CH26 — Non-destructive self-qualification
 
@@ -541,3 +545,32 @@ Such an act would not produce $G$'s existence or essential constitution. It coul
 ACO's actual marker can be relational or an executive content-aspect, and $ASA$ does not require phenomenal token sharing. Neither supplies a positive intrinsic witness. Affective or phenomenal response is the strongest candidate family, but conscious subjecthood does not entail variable divine affect, and the mode's actional production remains open.
 
 The exact defeater is `SQBlock`: an independently possible `CNBIM`, a well-formed self-qualificatory action, and failure of divine strong capacity. Mere imaginability, passive affection, executive variation, a Cambridge property, or identity loss is insufficient. No present candidate satisfies the test. CH26 is therefore closed at F2 as a bounded negative audit, while unrestricted $OMP_Q$ remains preferred rather than demonstrated.
+
+## CH27 — Absolute nothing and creation
+
+**Status:** `tested at F2 in S78`
+
+**Scope:** quantificational absence, metaphysical nihilism, brute reality, physical vacuum, causal relata, creation *ex nihilo*, and empirical access
+
+S78 distinguishes “nothing exists,” formally $\neg\exists x\,Exists(x)$, from an alleged entity named Nothing. A causal relation needs relata, so absolute nonbeing cannot cause, supply material, or become an effect. Creation *ex nihilo* instead denies prior material while retaining $G$ as the positive source. This supports $OEC^+$ and rejects a null source; it does not establish a strong principle that every actual being must have a cause.
+
+Metaphysical nihilism is usually the modal thesis $\Diamond\neg\exists x\,Concrete(x)$; the stronger absolute thesis denies every entity. Both concern empty domains rather than belief in Nothing. The project's necessary concrete $G$ excludes both conditionally, but an opponent may dispute that commitment. Likewise, the impossibility of observing absolute nothing and the non-physicality of $G$ do not create evidential parity: non-observability supplies no equal probability or explanatory role.
+
+The strongest surviving rival is therefore an unexplained brute reality or another positive ultimate ground, not Nothing functioning as a cause. CH27 is resolved relative to the current premises; S47 remains the comparative argument for preferring an agentic ground.
+
+## CH28 — Change, vulnerability, death, and evil
+
+**Status:** `scoped in S78; held behind the ontology trunk`
+
+**Scope:** time–change relation, embodied temporal life, stable secondary causation, finite organization, privation, mortality, structural risk, and token permission
+
+The proposal contains a defensible core: the selected embodied life-profile is constitutively dynamic, and stable laws acting on finite, organized, plural agents make vulnerability to loss, conflict, and harm intelligible. This may yield a profile-relative cost of realizing temporal goods such as growth, action, learning, and intergenerational life.
+
+Four stronger inferences are not licensed:
+
+1. all time requires change as a framework-neutral theorem;
+2. every change removes a due good;
+3. all material worlds require death or evil;
+4. structural exposure justifies this token suffering, its intensity, or its distribution.
+
+The useful formal distinction is among absolute metaphysical necessity, constitutive necessity relative to a selected profile, nomological inevitability under actual laws, token inevitability, and adequate reason for divine non-prevention. S78 supports the second as a live route and leaves the last with CH19. No-change, physical singularity, perfection, and divinity are also kept separate.

@@ -6,6 +6,8 @@
 **Dependencies:** C14, C21–C30, C222–C254, C435–C456, C487–C496, C559–C572, C646–C658, CH18, CH24, CH27–CH28, S45, S71, S78
 **Target depth:** corrective F2 pass; enough positive identity content to locate the remaining primitive; creation-model reprioritization without pretending that *ex deo* is already complete
 
+> **Further author-review correction (S80):** This session correctly removes the first stage as an identity explanation but still assumes too readily that a life-set contains an earliest temporal cross-section and that origin is punctually anchored. [S80](2026-09-04-onset-without-a-first-moment.md) replaces that assumption with an onset-neutral origin structure $\Omega_x$ and holistic $CTI_G^{\Omega}$; it is canonical on individual onset.
+
 ## Result in one sentence
 
 Shoemaker does not challenge the claim that a material temporal world needs change somewhere in its history; the author's comparison with nothing favors genuine ontological continuity from $G$ and therefore promotes non-destructive *ex deo* from a modal side case to the principal creation hypothesis; and “the first stage of a career” is demoted to a temporal boundary because the identity-bearing work belongs to the origin of one unified token source and its one non-branching history, with numerical identity still an explicit irreducible remainder.

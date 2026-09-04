@@ -85,3 +85,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S77 — Graded concrete dependence and modal sovereignty](2026-09-03-graded-concrete-dependence-and-modal-sovereignty.md)
 - [S78 — Nothing, the meta-modal ground, and temporal identity](2026-09-04-nothing-modal-ground-and-temporal-identity.md)
 - [S79 — Shoemaker's scope, ex deo priority, and the origin of identity](2026-09-04-shoemaker-ex-deo-and-identity-origin-corrections.md)
+- [S80 — Individual onset without a privileged first moment](2026-09-04-onset-without-a-first-moment.md)

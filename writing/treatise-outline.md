@@ -111,12 +111,13 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The brain as central realizer rather than an automatic second subject
     - Duplication, symmetric fission, and the limits of closest-continuity accounts
     - Continuous organismic careers and constrained non-continuous life-sets
-    - $IdFact_H$, origin anchoring, essence, non-branching, and $GapAdm_K$
+    - $IdFact_H$, origin structure $\Omega_x$, essence, non-branching, and $GapAdm_K$
     - Numerical recreation versus duplicate reconstruction
     - Animalist, constitution, simple, soul, haecceitist, and pattern competitors
     - Synchronic individuation, diachronic persistence, and reidentification evidence
-    - Constitutive token individuation $CTI_G$: one unified source-bearing origin and career, with numerical identity still fundamental
-    - Temporal bearer, tenseless identity fact, and atemporal divine ground; why no eternal identity-object follows
+    - Holistic constitutive token individuation $CTI_G^{\Omega}$: one unified source-bearing career linked to a possibly extended origin structure, with numerical identity still fundamental
+    - Onset topology, formation process, boundary determinacy, and bearer kind; why no privileged first instant is assumed
+    - Temporal bearer, tenseless identity fact, and atemporal divine ground; why neither an eternal identity-object nor a sharp onset follows
     - Organismic, hylomorphic, psychological, causal, simple, haecceitist, constitution, and pattern accounts
     - Persistence through bodily change, unconscious intervals, and possible non-existence gaps
     - Duplication, fission, replacement, and numerical recreation as discriminators

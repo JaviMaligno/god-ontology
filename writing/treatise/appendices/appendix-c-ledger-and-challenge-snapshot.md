@@ -6,21 +6,21 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 668 |
-| Rejected or corrected moves (R) | 266 |
+| Working commitments (C) | 676 |
+| Rejected or corrected moves (R) | 271 |
 | Challenges (CH) | 28 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 281 |
+| accepted | 287 |
 | preferred | 248 |
-| other | 86 |
+| other | 87 |
 | provisional | 25 |
 | open | 11 |
 | merged | 9 |
 | deferred | 4 |
+| superseded | 3 |
 | rejected | 2 |
-| superseded | 2 |
 
 | Challenge status (first word) | Count |
 | --- | --- |
@@ -476,7 +476,7 @@
 | C443 | In actual humans the brain is a central realizer and controller of the one organismic subject, not automatically the identity bearer; transplantation vocabulary alone cannot settle which integrated career continues. | `preferred F2 application` |
 | C444 | Numerical identity is non-branching: in symmetric fission with no independent identity fact, the original career ends and distinct strongly continuous successors begin. | `preferred F2 fission rule` |
 | C445 | E+ permits a complete history in which one individual's life-set contains disconnected intervals without making that individual exist during the gap. | `preferred formal compatibility` |
-| C446 | $GapAdm_K$ makes the primitive cross-gap identity fact explicit and constrains it by the same origin anchor, kind essence, non-branching, and one complete grounded career. | `preferred F2 gap profile` |
+| C446 | $GapAdm_K$ makes the primitive cross-gap identity fact explicit and constrains it by the same origin structure, kind essence, non-branching, and one complete grounded career. | `preferred F2 gap profile; punctual anchor refined by C672` |
 | C447 | Divine recognition, memory, or fiat does not constitute creaturely numerical identity. | `accepted anti-circularity rule` |
 | C448 | Intermittent existence of a created embodied individual is a preferred metaphysical possibility at F2, though not demonstratively proved. | `preferred F2 possibility` |
 | C449 | Numerical recreation of $x$ and duplicate reconstruction of a matching $y\neq x$ are both admissible task types; neither outcome is forced by qualitative matching. | `preferred F2 result` |
@@ -683,7 +683,7 @@
 | C650 | The ground of $Adm_C$ is distributed: logic, identity, actual essences and powers, compossibility, and dependence explain their respective clauses locally; the distinctive new primitive is the alien-profile coherence residue, alongside already fundamental logical and identity structure. | `accepted grounding distribution` |
 | C651 | A necessary structural truth is not thereby a substance, agent, efficient cause, or concrete rival to $G$. | `accepted ultimacy constraint` |
 | C652 | A necessary non-volitional feature of $G$ might ground the complete space of coherent created forms, but this is not yet derived from $UPSS$ or $P_{OEC}$ and cannot be defined through the creative range it is meant to constrain. | `open F3 direction; accepted at that status` |
-| C653 | A created subject begins with the first stage of its actual token career; before that, only a type-level person-profile may be possible, not that individual de re. | `retained only as temporal boundary; superseded as identity explanation` |
+| C653 | A created subject begins with the first stage of its actual token career; before that, only a type-level person-profile may be possible, not that individual de re. | `superseded as both identity explanation and general onset topology` |
 | C654 | A bounded or gappy person's identity facts and complete career can be tenselessly actual without that person existing at every created time or in an atemporal mode. | `accepted eternalist distinction; insufficient alone as identity ground` |
 | C655 | Temporal embodied life of the selected kind requires change, while the framework-neutral thesis that all time requires change remains open. | `scope formulation superseded by C661–C663` |
 | C656 | Stable secondary causation, embodied finite organization, plural agency, and temporal goods make exposure to loss, conflict, and harm intelligible and may make some exposure constitutive relative to a selected world-profile. | `preferred structural-vulnerability thesis; accepted at stated level` |
@@ -694,11 +694,19 @@
 | C661 | Shoemaker's freeze construction targets local change and the claim that every non-zero temporal interval contains change; because its complete history contains transitions and changing regions, it does not counter whole-history dynamicity. | `accepted scope correction` |
 | C662 | A material temporal created order requires some change somewhere in its complete history; wholly idle metric duration is disfavored as ungrounded surplus rather than declared logically contradictory under every theory of time. | `preferred at F2` |
 | C663 | Whole-history change does not entail mortality, evil, or any token suffering; those conclusions require additional bearer-, law-, and value-relative premises. | `accepted inferential limit` |
-| C664 | “First stage of a token career” means only the earliest temporal cross-section at which the bearer exists and supplies no ground of its individuation. | `accepted correction` |
-| C665 | **Constitutive token individuation $CTI_G$:** created individuality is located in the origination of one unified source-bearing token with its own concrete origin anchor and one non-branching immanent career, while numerical identity remains fundamental. | `proposed preferred F2 identity refinement` |
-| C666 | The bearer and the realization of its unity are temporal; its complete identity fact is tenseless; its divine creative or constitutive ground is atemporal; no separately existing eternal identity-object follows. | `proposed preferred E+ clarification` |
+| C664 | “First stage of a token career” was intended only as the earliest temporal cross-section at which the bearer exists and supplies no ground of its individuation. | `accepted S79 correction; earliest-stage assumption superseded by C669–C670` |
+| C665 | **Constitutive token individuation $CTI_G$:** created individuality is located in one unified source-bearing token with a token-specific origin and one non-branching immanent career, while numerical identity remains fundamental. | `proposed F2 core; punctual formulation refined by C672` |
+| C666 | The bearer and realization pattern of its unity are temporal; its complete career and identity fact are tenseless under E+; the divine creative or constitutive ground is atemporal; no separately existing eternal identity-object follows. | `proposed preferred E+ clarification; onset topology refined by C674` |
 | C667 | An eternal divine constituent cannot by itself individuate a creature; token determination, created unity, origin, and source separation are required to preserve created otherness. | `accepted ex-deo constraint` |
 | C668 | The next $ANDC$ pass must choose or combine relational determination, intrinsic divine mode, and primitive typed constitution without collapsing to disjoint grounding or compromising $G$ and creaturely agency. | `accepted priority and fork` |
+| C669 | The ontology has not earned a privileged moment at which an individual or its identity is formed; S79 still spoke too sharply about an earliest temporal cross-section. | `accepted authorial correction` |
+| C670 | A life-set may have a minimum, an infimum that is not a member, or no lower boundary; created temporality and eternalism alone select none of these. | `accepted temporal-topology limit` |
+| C671 | Temporal topology, formation dynamics, boundary determinacy, and bearer kind are independent axes and must not be collapsed into one onset question. | `accepted analytic distinction` |
+| C672 | **Holistic constitutive token individuation $CTI_G^{\Omega}$:** replace a punctual origin anchor with a token-specific origin structure $\Omega_x$ and locate individuation in one complete unified source-bearing career while retaining fundamental numerical identity. | `proposed preferred F2 refinement` |
+| C673 | Organism onset, consciousness onset, agentive-capacity onset, and person-phase onset are different questions; no one threshold may be substituted for the others without a bridge. | `accepted scope separation` |
+| C674 | The bearer has a temporal realization pattern, its complete identity fact is tenseless, and its divine constitutive ground is atemporal; none entails a first instant or a pre-existing eternal person. | `proposed preferred E+ clarification` |
+| C675 | Fission and fusion constrain identity theories but do not by themselves determine when a human individual begins; absolute numerical identity neither branches nor merges. | `accepted stress-test limit` |
+| C676 | The human biological threshold remains open, while the immediate trunk burden is to integrate $\Omega_x$ and whole-career individuation into the finite-determination theory of principal $ANDC$. | `accepted priority integration` |
 
 ## Rejected or corrected moves
 
@@ -970,6 +978,11 @@
 | R264 | S78's linguistic analysis of Nothing captured the principal intended argument. | `rejected by author correction` |
 | R265 | Merely causal or exemplar “from God” is sufficient to honor the author's preference for *ex deo* over constitutively disjoint *ex nihilo*. | `rejected` |
 | R266 | Because $G$ is eternal and constitutes creatures, $G$ alone supplies each creature's distinct eternal identity. | `rejected` |
+| R267 | Every temporally bounded individual's life-set necessarily contains a first instant. | `rejected` |
+| R268 | The individual's identity is produced by or added at its earliest temporal stage. | `rejected` |
+| R269 | A token-specific origin must be a single punctual event or date. | `rejected` |
+| R270 | Fertilization, twinning, fusion, or first consciousness by itself settles the metaphysical onset of the human individual. | `rejected` |
+| R271 | Eternalism makes onset automatically sharp, makes formation unreal, or makes the creature exist eternally before its temporal career. | `rejected` |
 
 ## Challenges
 

@@ -1,8 +1,8 @@
 # Provenance Checklist for the Literature Pass
 
 **Prepared:** 2026-09-02 (S69 addendum).
-**Verified:** 2026-09-04 after the S79 corrective update.
-**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S79 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
+**Verified:** 2026-09-04 after the S80 corrective update.
+**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S80 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
 
 Legend: **V** verified; **Q** verified with a qualification; **C** corrected; **M** metadata verified but the stronger attribution still needs page-level support.
 
@@ -205,9 +205,19 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 
 S79's proposed $CTI_G$ account has not been assigned a standalone literature precedent in this narrow corrective pass. Its unity, origin, career, and irreducible-identity components remain to be compared systematically with origin essentialism, hylomorphism, and non-criterial identity if the account survives the $ANDC$ fork.
 
+## S80 — Onset without a privileged first moment (C669–C676)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Daniel J. Nicholson and John Dupré (eds.), *Everything Flows* (2018) | **V/Q** | The [Oxford record](https://doi.org/10.1093/oso/9780198779636.001.0001) presents the established process-ontological family in which organisms are dynamically maintained processes and biological-process boundaries can be fuzzy or indeterminate. This verifies a comparison family for extended or non-sharp onset; S80 does not adopt the book's naturalistic process metaphysics wholesale. |
+| Louis Guenin, “The Nonindividuation Argument Against Zygotic Personhood” (2006) | **V/Q** | The [Cambridge abstract](https://doi.org/10.1017/S0031819106317044) explicitly tests and rejects the inference from pre-streak twinning capacity to absence of embryonic individuality. This supports treating fission as a disputed stress test rather than an automatic onset criterion; it does not establish zygotic personhood for this project. |
+| Marc Ramsay, “Twinning and Fusion as Arguments against the Moral Standing of the Early Human Embryo” (2011) | **V/Q** | The [Cambridge abstract](https://doi.org/10.1017/S0953820811000057) argues that twinning and most fusion cases do not by themselves eliminate early embryonic individuality, while identifying tetragametic chimerism as a harder case. This supports C675's restraint; moral standing and metaphysical identity remain distinct. |
+
+The topological claim $\inf L_x\notin L_x$ as a live possibility is elementary and does not depend on this literature. The sources establish only that process boundaries and embryonic fission/fusion belong to active comparison families. They do not select sharpness, ontic vagueness, organism onset, or person onset for the project.
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S79, with seven sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S80, with eight sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
@@ -216,5 +226,6 @@ The overall classification remains “established components; project-specific s
 - S77's sourcehood, aseity, derivative-necessity, plural-terminal, and priority distinctions all have precedents; its contribution is the graded diagnostic integration and the explicit refusal to infer a modal operator from actual explanatory economy.
 - S78's anti-reification distinctions, modal primitivism, divine modal competitor, time–change debate, privation, and non-criterial identity all have precedents; its contribution is their integration with $Adm_C$, temporal token onset, and the separation of structural exposure from token permission.
 - S79 corrects Shoemaker's scope and identifies a close precedent for compatibility between classical *ex nihilo* and an emanative *ex deo*. The project's stronger $ANDC$ selection and $CTI_G$ integration remain local proposals, not source-derived conclusions.
+- S80's processual and non-sharp onset alternatives and its fission/fusion stress tests have established precedents. Its integration of an onset-neutral origin structure with eternalist whole-career constitution and principal $ANDC$ is project-specific.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

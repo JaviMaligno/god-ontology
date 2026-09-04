@@ -12,6 +12,8 @@
 
 ## Outcome
 
+> **Later authorial selection (S79):** This session's taxonomy and non-destructive filters remain in force, but its preference for actual $CCD$ is superseded. The author explicitly prefers genuine *ex deo* continuity, so $ANDC$ is now the principal actual-creation hypothesis and disjoint $OEC^+_{CCD}$ the fallback. [S79](2026-09-04-shoemaker-ex-deo-and-identity-origin-corrections.md) also adds $CTI_G$ and makes finite determination the active burden.
+
 S45 removes the numerical-identity objection but does not make every strict *ex deo* description coherent. The family divides sharply.
 
 Partition, transfer, and whole-subject transformation conflict with $UPSS$, $MCS$, or $PP_G$. A literal world-body model in which contingent creatures constitute the underived subject reverses the accepted dependence direction. An agential world-body metaphor is coherent but reduces to relational immanence and is not strict *ex deo*.

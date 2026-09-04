@@ -1,8 +1,8 @@
 # Provenance Checklist for the Literature Pass
 
 **Prepared:** 2026-09-02 (S69 addendum).
-**Verified:** 2026-09-04 after the S77 targeted update.
-**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S77 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
+**Verified:** 2026-09-04 after the S79 corrective update.
+**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S79 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
 
 Legend: **V** verified; **Q** verified with a qualification; **C** corrected; **M** metadata verified but the stronger attribution still needs page-level support.
 
@@ -191,13 +191,23 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Thomas Baldwin, “There Might Be Nothing” (1996) | **V/Q** | The [OUP DOI record](https://doi.org/10.1093/analys/56.4.231) verifies the article; subsequent literature identifies its subtraction argument with the possibility of a world without concrete objects. It supports treating metaphysical nihilism as a quantified modal thesis rather than belief in a named entity; it does not establish the stronger absence of abstracta or compatibility with necessary $G$. |
 | Brian Leftow, *God and Necessity* (2012) | **V/Q** | The [OUP monograph record and abstract](https://doi.org/10.1093/acprof:oso/9780199263356.001.0001) describe a theory that locates modal work in God and divine mental activity rather than possible worlds or independent abstracta. This verifies the competitor family; S78's diagnosis of conflict with its own anti-circular truth-tracking direction is local. |
 | Aristotle, *Physics* IV | **V** | The [primary translation](https://classics.mit.edu/Aristotle/physics.4.iv.html) treats time as the number or measure of motion/change in respect of before and after. It verifies the relationist precedent, not the framework-neutral entailment rejected in C655. |
-| Sydney Shoemaker, “Time Without Change” (1969) | **V** | The [JSTOR record](https://www.jstor.org/stable/2023892) verifies the article and the global-freeze argument for possible time without change. It supplies the canonical countermodel motivating C655's open universal. |
+| Sydney Shoemaker, “Time Without Change” (1969) | **C** | The [JSTOR record](https://www.jstor.org/stable/2023892) verifies the article and the global-freeze argument for a changeless interval. S78 overstated its scope: it is relevant to interval density, not to whether a material temporal world's complete history contains any change. S79 supplies the correction. |
 | Denis Corish, “Could Time be Change?” (2009) | **V/Q** | The [Cambridge DOI and abstract](https://doi.org/10.1017/S0031819109000199) state that Shoemaker's argument presupposes absolute time and defend a relationist alternative. The source confirms that the issue is framework-dependent; S78 chooses no final theory of time. |
 | Aquinas, *Summa Theologiae* I, q. 48 | **V/Q** | The [primary text](https://www.newadvent.org/summa/1048.htm) distinguishes privation from pure negation and relates evil to a due good absent in a subject. It supports the inherited privation family; its teleological argument from corruptibility to universal perfection is not adopted by C656–C657. |
 
+## S79 — Corrective pass on Shoemaker, *ex deo*, and identity (C659–C668)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Sydney Shoemaker, “Time Without Change” (1969) | **C** | The [article text](https://erraticwisdom.com/files/time_without_change.pdf) states its target as the claim that something must change during every interval and constructs local freezes whose cycles are then synchronized into an inferred total-freeze interval. It does not challenge whole-history dynamicity $WCh$: changes before and after the alleged total freeze, and the changing regional freeze pattern used to infer it, remain part of the complete history. S78 therefore gave the example the wrong scope; S79 corrects it. |
+| Denis Corish, “Could Time be Change?” (2009) | **V/Q** | The [Cambridge record and abstract](https://doi.org/10.1017/S0031819109000199) argue that Shoemaker assumes the effectively Newtonian absolute time at issue. This verifies that even Shoemaker's interval-level conclusion remains disputed; it is not needed for the weaker $WCh$ adopted here. |
+| Daniel Soars, “Creation in Aquinas: *ex nihilo* or *ex deo*?” (2021) | **V/Q** | The [publisher article](https://doi.org/10.1111/nbfr.12603) argues that, in Aquinas, creation *ex nihilo* can deny any source other than God while remaining compatible with an emanative *ex deo* description. This requires terminological care: the project's substantive preference is for real non-destructive constitutive continuity through $ANDC$, not merely for using the phrase *ex deo*. The article does not establish $ANDC$. |
+
+S79's proposed $CTI_G$ account has not been assigned a standalone literature precedent in this narrow corrective pass. Its unity, origin, career, and irreducible-identity components remain to be compared systematically with origin essentialism, hylomorphism, and non-criterial identity if the account survives the $ANDC$ fork.
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S78, with six sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S79, with seven sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
@@ -205,5 +215,6 @@ The overall classification remains “established components; project-specific s
 - S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
 - S77's sourcehood, aseity, derivative-necessity, plural-terminal, and priority distinctions all have precedents; its contribution is the graded diagnostic integration and the explicit refusal to infer a modal operator from actual explanatory economy.
 - S78's anti-reification distinctions, modal primitivism, divine modal competitor, time–change debate, privation, and non-criterial identity all have precedents; its contribution is their integration with $Adm_C$, temporal token onset, and the separation of structural exposure from token permission.
+- S79 corrects Shoemaker's scope and identifies a close precedent for compatibility between classical *ex nihilo* and an emanative *ex deo*. The project's stronger $ANDC$ selection and $CTI_G$ integration remain local proposals, not source-derived conclusions.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

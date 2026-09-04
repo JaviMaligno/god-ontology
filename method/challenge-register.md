@@ -72,7 +72,7 @@ S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps t
 
 S46–S48 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S47 gives the contingency/ground junction its F2 comparison; S48 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH19; S49 tests CH19 partially through permission, policy-level covers, and the bearer-level remainder, and opens CH21 because closure depends on personal continuation. S50 tests CH21 partially: continuation is coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; its identity burden becomes CH22, which waits on the mind–body branch. The track returns to CH12, where S30–S33 already supply the F2 constitution, boundary, and power results; S51 deepens the constitution/production junction. S52 then structures C118: cumulative context control can remove diachronic and evaluative authorship while token autonomy holds, which extends the agency-preservation presumption to the diachronic level and opens CH23 for created-level curation. S53 tests CH22 partially by deriving simple persistence from the agency model. CH20 records the experiential question.
 
-S78 obeys the same priority rule. The author's new question about identity is answered by refining CH18 and CH22: a token subject begins with its actual career, while its identity facts are tenseless and its bearer remains temporally bounded or gappy. The question about nothing is promoted only because it bears directly on the active meta-modal problem: an absence, an uninstantiated profile, and numerical identity can each be accidentally reified by grammar. CH27 is thereby tested. CH28 records the change–death–evil proposal, but its recency does not displace the trunk; S78 separates structural vulnerability from token permission and leaves the latter under CH19.
+S78 obeyed the same priority rule, but S79 corrects three results after author review. Earliest token existence is only a temporal boundary, so CH18 now receives the proposed $CTI_G$ individuation layer while cross-gap identity remains deeper. CH27 retains the distinction between absence and a reified Nothing, but the author's actual point promotes genuine *ex deo* continuity over disjoint production and thereby strengthens CH24's priority. CH28 now distinguishes whole-history dynamicity $WCh$, which Shoemaker does not challenge, from interval density $ICh$, which his global-freeze construction targets. Structural vulnerability remains separate from token permission.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -495,7 +495,7 @@ Tests should include: upbringing versus indoctrination; persuasion versus engine
 
 ## CH24 — Strict *ex deo* after identity
 
-**Status:** `tested at F2 in S71 and refined in S72; executive intrinsic modes covered, qualitative modes open as ontology extensions`
+**Status:** `tested at F2 in S71–S72; promoted to principal creation burden and identity-refined in S79`
 
 **Scope:** partition, transformation, world-body, divine-mode, whole-presence, grounding overlap, created otherness, and power normalization
 
@@ -503,7 +503,9 @@ S71 shows that numerical distinction alone is insufficient. A non-destructive ov
 
 Partition/transfer and whole-$G$ becoming fail that filter. Literal reverse world-body constitution conflicts with current $CT/UPSS$; an agential body reading is coherent but reduces to $RI$. Inflationary grounding overlap remains a rival semantics rather than a consequence of grounding as used in the project.
 
-The surviving witness is $ANDC$: the whole undivided and intrinsically unchanged $G$ asymmetrically constitutes a distinct dependent $x$. It is retained as a conditional F2 possibility only if constitution adds content beyond ordinary grounding. Its eligible complete root specification normalizes to $RootForm$ and is covered by $CP_G^{elig}$ because no intrinsic divine bearer is reconstituted. Actual creation remains $OEC^+_{CCD}$.
+The surviving witness is $ANDC$: the whole undivided and preserved $G$ asymmetrically constitutes a distinct dependent $x$. S79 promotes it from a conditional capacity to the principal actual-creation hypothesis because the author prefers real ontological continuity to disjoint production. It remains burdened: constitution must add content beyond ordinary grounding. Its eligible complete root specification normalizes to $RootForm$ and is covered by $CP_G^{elig}$ when no intrinsic divine bearer is reconstituted. Disjoint $OEC^+_{CCD}$ is now the fallback.
+
+S79 adds $CTI_G$ to the creature side: common eternal $G$ cannot distinguish multiple creatures, so each needs one unified token origin, organization, own source role, and non-branching career while numerical identity remains fundamental. The active fork asks whether finite determination is relational, an intrinsic divine mode, a primitive typed constitution relation, or some constrained combination.
 
 S72 divides the remaining intrinsic-mode case. $ED_{IM}^{exec}$ uses the occurrent mode of an already established power exercise; when a single complete mixed specification independently satisfies the constitutive-content and joint-compossibility tests, token unity plus $FEG_G$ and $CP_G^{elig}$ conditionally cover it. $ED_{IM}^{qual}$ adds a new intrinsic constitutive basis and remains open until that kind is independently developed. This closes the case within the current ontology without claiming that every imaginable divine self-modification is possible.
 
@@ -548,29 +550,31 @@ The exact defeater is `SQBlock`: an independently possible `CNBIM`, a well-forme
 
 ## CH27 — Absolute nothing and creation
 
-**Status:** `tested at F2 in S78`
+**Status:** `tested at F2; authorial intent and creation ranking corrected in S79`
 
 **Scope:** quantificational absence, metaphysical nihilism, brute reality, physical vacuum, causal relata, creation *ex nihilo*, and empirical access
 
-S78 distinguishes “nothing exists,” formally $\neg\exists x\,Exists(x)$, from an alleged entity named Nothing. A causal relation needs relata, so absolute nonbeing cannot cause, supply material, or become an effect. Creation *ex nihilo* instead denies prior material while retaining $G$ as the positive source. This supports $OEC^+$ and rejects a null source; it does not establish a strong principle that every actual being must have a cause.
+S78 distinguishes “nothing exists,” formally $\neg\exists x\,Exists(x)$, from an alleged entity named Nothing. A causal relation needs relata, so absolute nonbeing cannot cause, supply material, or become an effect. Creation *ex nihilo*, in its minimal classical grammar, denies prior material while retaining $G$ as the positive source. This rejects a null source; it does not establish a strong principle that every actual being must have a cause.
 
 Metaphysical nihilism is usually the modal thesis $\Diamond\neg\exists x\,Concrete(x)$; the stronger absolute thesis denies every entity. Both concern empty domains rather than belief in Nothing. The project's necessary concrete $G$ excludes both conditionally, but an opponent may dispute that commitment. Likewise, the impossibility of observing absolute nothing and the non-physicality of $G$ do not create evidential parity: non-observability supplies no equal probability or explanatory role.
 
-The strongest surviving rival is therefore an unexplained brute reality or another positive ultimate ground, not Nothing functioning as a cause. CH27 is resolved relative to the current premises; S47 remains the comparative argument for preferring an agentic ground.
+S79 records that this linguistic point was not the author's main argument. The intended comparison first prefers the positive agentic ground to absolute absence or a brute terminus, then prefers real ontological continuity from that ground to constitutively disjoint production. The strongest non-theist rival remains an unexplained brute reality or another positive ultimate ground. Within the theistic branch, $ANDC$ is now principal and $OEC^+_{CCD}$ the fallback. CH27 is resolved at the source-comparison level while CH24 carries the unfinished *ex deo* constitution burden.
 
 ## CH28 — Change, vulnerability, death, and evil
 
-**Status:** `scoped in S78; held behind the ontology trunk`
+**Status:** `scope corrected in S79; held behind the ontology trunk`
 
 **Scope:** time–change relation, embodied temporal life, stable secondary causation, finite organization, privation, mortality, structural risk, and token permission
 
-The proposal contains a defensible core: the selected embodied life-profile is constitutively dynamic, and stable laws acting on finite, organized, plural agents make vulnerability to loss, conflict, and harm intelligible. This may yield a profile-relative cost of realizing temporal goods such as growth, action, learning, and intergenerational life.
+S79 separates three theses. Local change requires change in each region; interval density requires some change in every non-zero interval; whole-history dynamicity $WCh$ requires only some change somewhere in the complete history of a material temporal order. Shoemaker's alternating and synchronized freezes deny the first and purport to deny the second, but satisfy the third. The project therefore prefers $WCh$ at F2 without claiming that every interval must contain change.
+
+The selected embodied life-profile is also constitutively dynamic, and stable laws acting on finite, organized, plural agents make vulnerability to loss, conflict, and harm intelligible. This may yield a profile-relative cost of realizing temporal goods such as growth, action, learning, and intergenerational life.
 
 Four stronger inferences are not licensed:
 
-1. all time requires change as a framework-neutral theorem;
+1. every non-zero interval requires change as a framework-neutral theorem;
 2. every change removes a due good;
 3. all material worlds require death or evil;
 4. structural exposure justifies this token suffering, its intensity, or its distribution.
 
-The useful formal distinction is among absolute metaphysical necessity, constitutive necessity relative to a selected profile, nomological inevitability under actual laws, token inevitability, and adequate reason for divine non-prevention. S78 supports the second as a live route and leaves the last with CH19. No-change, physical singularity, perfection, and divinity are also kept separate.
+The useful formal distinction is among whole-history and interval claims, absolute metaphysical necessity, constitutive necessity relative to a selected profile, nomological inevitability under actual laws, token inevitability, and adequate reason for divine non-prevention. S79 supports $WCh$ and S78's profile-relative vulnerability route, while leaving the last question with CH19. No-change, physical singularity, perfection, and divinity remain separate.

@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 658 |
-| Rejected or corrected moves (R) | 261 |
+| Working commitments (C) | 668 |
+| Rejected or corrected moves (R) | 266 |
 | Challenges (CH) | 28 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 265 |
-| preferred | 251 |
-| other | 89 |
+| accepted | 281 |
+| preferred | 248 |
+| other | 86 |
 | provisional | 25 |
 | open | 11 |
 | merged | 9 |
@@ -119,7 +119,7 @@
 | C86 | $G$ has no fundamental spatial extension or external spatial container in any order: $ASP_G$. | `preferred` |
 | C87 | Divine non-spatiality and physical immateriality do not entail full divine simplicity or absence of all metaphysical structure. | `accepted` |
 | C88 | Physical immateriality owes a positive account of how a non-material $G$ grounds or produces material substances; grounding must not merely rename this transition. | `accepted` |
-| C89 | Material-continuity alternatives remain live but are currently disfavored. | `preferred` |
+| C89 | Material-continuity alternatives remain live but are currently disfavored. | `historical broad-family ranking; superseded in part by C660` |
 | C90 | Ontological presence to $x$ combines immediate grounding reach, complete epistemic access, and direct causal availability: $Present_O(G,x)$. | `accepted` |
 | C91 | $G$ is ontologically omnipresent throughout the actual created order: $OP_A(G)$. | `preferred` |
 | C92 | The domain of actual omnipresence includes every actual entity, event, relation, and spatial region admitted by the ontology, without reifying absences as objects. | `accepted` |
@@ -129,10 +129,10 @@
 | C96 | Capacity to create, reason to create, and goodness of creation are distinct questions. | `accepted` |
 | C97 | Any creative reasons attributed to $G$ must remain compatible with contingent agentic settling. | `accepted` |
 | C98 | Material transformation and originative existential causation are distinct production types. | `accepted` |
-| C99 | $G$ produces the created ontological basis $\mathcal C_0$ through $OEC^+$ specified by $S$, without transforming a prior material patient. | `preferred at F2` |
+| C99 | $G$ produces the created ontological basis $\mathcal C_0$ through $OEC^+$ specified by $S$, without transforming a prior material patient. | `developed F2 production model; actual ranking superseded by C660` |
 | C100 | A divine creative act can sufficiently cause its selected effect without being sufficiently caused or necessitated by its antecedent conditions and reasons. | `accepted` |
 | C101 | Merely giving $G$ and creation numerically distinct matter of the same type does not explain material production. | `preferred` |
-| C102 | Creation from divine substance is a coherent but currently disfavored alternative. | `open` |
+| C102 | Creation from divine substance is a coherent but currently disfavored alternative. | `historical broad-family ranking; refined by C660` |
 | C103 | Material transformation requires a material patient ($PMC_T$), but the universal claim that every concrete caused existence requires a material cause ($PMC_U$) is not adopted. | `accepted split; PMC_U unestablished/disfavored` |
 | C104 | Creative explanation is layered across the choice to create, the kind of architecture created, and the exact specification of $S$. | `accepted` |
 | C105 | The preferred organizing reasons for creation are actual finite otherness and finite analogues of conscious sourcehood. | `preferred` |
@@ -261,13 +261,13 @@
 | C228 | No bare substrate numerically distinct from $G$ is posited behind the divine powers. | `preferred` |
 | C229 | Causal adequacy for a material effect does not by itself require the cause to contain or transfer a material token or instantiate the effect's material type. | `preferred constraint` |
 | C230 | $G$ possesses a specific originative existential power $P_{OEC}$ whose exercise can terminate in a new bearer of powers rather than a modification of an existing patient. | `preferred explicit posit` |
-| C231 | The preferred full $OEC^+$ model has $UPSS(G)$ contingently exercise $P_{OEC}$ under specification $S$ to produce a numerically distinct and constitutively disjoint $\mathcal C_0$ that intrinsically instantiates the material profile. | `preferred at F2` |
+| C231 | The fully specified disjoint $OEC^+$ model has $UPSS(G)$ contingently exercise $P_{OEC}$ under specification $S$ to produce a numerically distinct and constitutively disjoint $\mathcal C_0$ that intrinsically instantiates the material profile. | `complete F2 fallback after C660` |
 | C232 | The explanation of material origin presently terminates in a fundamental power and its exercise rather than an intraworld material mechanism. | `accepted stopping point at F2` |
 | C233 | A formally consistent representation of $OEC^+$ is not a proof that originative existential causation is metaphysically possible. | `accepted epistemic limit` |
 | C234 | $PMC_T$ is accepted: every material transformation requires a material patient or input that is transformed. | `accepted` |
 | C235 | $PMC_U$—every concrete caused existence requires a material cause—is unestablished and currently disfavored, but remains a live defeater. | `disfavored; no evidential route identified` (S51) |
 | C236 | “Nothing comes from nothing,” read as denying uncaused origination, is compatible with $OEC^+$ and does not entail $PMC_U$. | `accepted clarification` |
-| C237 | Strict *ex deo* requires numerically divine reality to constitute, persist in, or become the effect; causal, virtual, exemplar, or participatory derivation alone is insufficient. | `live but disfavored` |
+| C237 | Strict *ex deo* requires numerically divine reality to constitute, persist in, or become the effect; causal, virtual, exemplar, or participatory derivation alone is insufficient. | `accepted definition; family ranking refined by C660` |
 | C238 | Co-fundamental matter is a coherent fallback but changes the ultimate basis from $G$ to $\langle G,M_0\rangle$. | `rejected relative to current architecture` |
 | C239 | The F2 blocker analysis for qualified omnipotence must use $UPSS$ and $P_{OEC}$. | `completed priority` |
 | C240 | “External to creation” must distinguish spatial externality, physical-category independence, constitutive transcendence, and relational remoteness. | `accepted distinction` |
@@ -278,7 +278,7 @@
 | C245 | *Ex deo* is divided into causal source $ED_C$, virtual or exemplar source $ED_V$, participatory derivation $ED_P$, and strict constitutive source $ED_S$. | `accepted taxonomy` |
 | C246 | $OEC^+$ entails causal and virtual “from $G$” relations and is compatible with participatory derivation without entailing strict *ex deo*. | `accepted` |
 | C247 | Strict *ex deo* $ED_S$ begins only when a numerically divine reality constitutes, persists in, or becomes created reality. | `accepted terminology` |
-| C248 | Creator–creation constitutive disjointness $CCD(G,\mathcal C_0)$ is an explicit preferred condition of the full $OEC^+$ model. | `preferred refinement` |
+| C248 | Creator–creation constitutive disjointness $CCD(G,\mathcal C_0)$ is an explicit condition of the fully specified disjoint $OEC^+$ model. | `accepted fallback refinement; no longer principal after C660` |
 | C249 | $MCS(G)$ does not by itself exclude every strict *ex deo* model. | `accepted scope constraint` |
 | C250 | Strict *ex deo* does not automatically satisfy $PMC_U$. | `accepted constraint` |
 | C251 | Partition, contingent divine mode, world-as-divine-body, and whole-presence constitution are distinct strict-*ex-deo* variants. | `historical taxonomy; refined by C559–C571` |
@@ -298,7 +298,7 @@
 | C265 | A concrete $L$ independent of $G$ that blocks an eligible divine task would defeat unrestricted $OMP_Q$ or sole divine ultimity. | `refined as NCCBlock by C587–C600 and graded by S77` |
 | C266 | Creating an exact divine duplicate is incoherent when exactness includes both created dependence and underived ultimate-ground status. | `preferred resolution of strict CH01` |
 | C267 | Creation of a dependent qualitative or derivative near-copy of $G$ remains open. | `open` |
-| C268 | Actual $CCD(G,\mathcal C_0)$ does not establish that every possible divine creative act must be constitutively disjoint. | `accepted modal distinction` |
+| C268 | Even if $CCD(G,\mathcal C_0)$ obtained actually, it would not establish that every possible divine creative act must be constitutively disjoint. | `accepted modal distinction; antecedent no longer principal` |
 | C269 | If a non-destructive strict-*ex-deo* manifestation is coherent with the independent divine essence, qualified power places it within $G$'s capacity; self-annihilating variants are incoherent. | `refined in S71–S72` |
 | C270 | The interpersonal-knowledge gap in ACO required testing after the qualified-power branch. | `completed priority` |
 | C271 | S32's distinction between $OMP_C$ and $OMP_Q$ is accepted, and finding a non-circular universal-range bridge is an explicit research task. | `accepted author direction` |
@@ -401,7 +401,7 @@
 | C368 | Patient-independence and one actual $OEC^+$ manifestation do not deductively establish creative range over independently different specifications. | `accepted scope result` |
 | C369 | A complete created specification $S$ in the creative-plenitude argument describes a root created basis $RCB(C,S)$: a complete generative basis with no existentially prior created producer. | `preferred clarification` |
 | C370 | Under $CMU_G$, well-founded existential dependence, and modal uniqueness of the underived concrete ground, $G$ directly originates every possible root created basis. | `preferred F2 direct-root lemma` |
-| C371 | Direct root origin by $G$ is realized agentically through $AOR$: a contingent, specification-bearing exercise of essential $P_{OEC}$ selected by $G$. | `preferred integration` |
+| C371 | Direct root origin by $G$ is realized agentically through $AOR$: a contingent, specification-bearing exercise of essential $P_{OEC}$ selected by $G$. | `preferred integration across the live creation models` |
 | C372 | Essence-compatible created eligibility is $Elig_C^G(S):=Adm_C(S)\land CompleteRootSpec(S)\land RoleComp(S,E_G^{ind})\land Task_G(Create(S))$. | `preferred F2 refinement` |
 | C373 | For complete root specifications, constitutive admissibility licenses a possible root instantiation rather than merely an abstract description. | `preferred clarification of B1` |
 | C374 | The modal witness for each eligible root satisfies agent-relative accessibility because it preserves the same necessary $G$, its independent essence and essential $P_{OEC}$, and contains $G$'s own selected $OEC^+$ exercise. | `preferred F2 resolution of B4 for root creation` |
@@ -520,13 +520,13 @@
 | C487 | Materiality is an instantiated profile: $Mat(x)\leftrightarrow Instantiates(x,\Pi_{phys})$, where $\Pi_{phys}$ is fixed by $S_{phys}$; matter is not a transferable stuff handed from cause to effect. | `preferred` |
 | C488 | Conservation laws are consequences of $S_{phys}$ and govern $H(S)$-internal processes; they do not constrain the origination $I_0$ of the order that entails them. | `accepted level distinction` |
 | C489 | $PMC_U$'s evidential base is $S$-internal transformation; the level distinction removes that support, leaving only an a priori route that the method treats as a comparative cost rather than a premise. | `accepted assessment` |
-| C490 | Sole ultimity, the contingency of the material order, the necessitation lemma, and physical immateriality entail that the origination of matter has a non-material ground; with $CCD$ this entails $\neg PMC_U$, and without $CCD$ the same follows unless $G$ is material. | `preferred derivation` |
+| C490 | Sole ultimity, the contingency of the material order, the necessitation lemma, and physical immateriality entail that the origination of matter has a non-material ground; with $CCD$ this entails $\neg PMC_U$, and without $CCD$ the same follows unless $G$ is material. | `accepted conditional derivation; model ranking superseded by C660` |
 | C491 | Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter. | `accepted dilemma` |
 | C492 | Integrated divine powers are aspects: essential, incapable of existing without $G$, not grounding $G$'s identity, and individuated by manifestation-type. Aspects are not ingredients, so $MCS(G)$ is preserved. | `preferred` |
 | C493 | Subject-level and aspect-level causal descriptions of a divine exercise are not rival causes. | `accepted` |
 | C494 | A non-destructive strict *ex deo* manifestation is coherent with $UPSS$, $CT$, and $ASP_G$ only under a non-inheritance principle $NI$ on which a mode or constituent may instantiate $\Pi_{phys}$ while its subject does not; $NI$ is unmotivated within the project. | `conditional result` |
 | C495 | Created subjects are $Substance_T$ whose material profile is instantiated by their realization base; re-realization would be re-instantiation of $\Pi_{phys}$ by the same identity unit. | `accepted scope` |
-| C496 | Under the weak explanatory preference, $OEC^+$ with $CCD$ leaves fewer and less fundamental unexplained residues than co-fundamental matter or non-destructive strict *ex deo*. | `preferred comparison` |
+| C496 | Under S51's weak explanatory weighting, $OEC^+$ with $CCD$ left fewer unexplained residues than co-fundamental matter or the then-underspecified non-destructive strict-*ex-deo* family. | `historical comparison superseded by C660` |
 | C497 | Token autonomy at every moment is compatible with a curator policy under which every originable sequence of choices yields a profile in a target set; such funnelling removes diachronic authorship. | `accepted` |
 | C498 | Cumulative a-rational influence that installs an agent's evaluative standards removes evaluative authorship while leaving token autonomy intact. | `accepted` |
 | C499 | Rational influence supplies reasons, information, opportunities, or recognition the agent evaluates; a-rational influence shapes the evaluative apparatus without passing through evaluation. Only the latter, cumulatively, threatens evaluative authorship. | `accepted distinction` |
@@ -598,11 +598,11 @@
 | C565 | $ANDC$ counts as strict *ex deo* only if constitution has consequences beyond ordinary causal grounding and existential production. | `accepted constitutive-content test` |
 | C566 | Sharing $G$ under $ANDC$ neither identifies created bearers with one another nor identifies their powers and acts with divine powers and acts. | `preferred F2 source-separation rule` |
 | C567 | Non-material $ANDC$ does not establish $PMC_U$ or supply a material cause of the created order. | `accepted limitation` |
-| C568 | The preferred actual creation remains constitutively disjoint $OEC^+_{CCD}$ even if $ANDC$ is an eligible divine capacity. | `preferred actual/capacity distinction` |
+| C568 | S71 preferred actual constitutively disjoint $OEC^+_{CCD}$ while treating $ANDC$ as eligible capacity. | `historical preference superseded by C660` |
 | C569 | An eligible $ANDC$ creation whose divine-side result is only relational normalizes to $RootForm$ rather than requiring an intrinsic self-reconstitution power. | `preferred S71 application of S45 identity` |
 | C570 | $CP_G^{elig}$ covers every independently admissible $ANDC$ root specification satisfying $Elig_{ANDC}^G$. | `preferred at F2 conditional on prior bridges` |
 | C571 | A genuinely intrinsic contingent divine mode that constitutes creation was not covered by $CP_G^{elig}$ alone and passed to the self-executive or self-modificatory range audit. | `historical residual refined through C615` |
-| C572 | S71 establishes neither actual panentheism, actual strict *ex deo*, world embodiment, nor incarnation. | `accepted scope limit` |
+| C572 | S71 by itself established neither actual panentheism, actual strict *ex deo*, world embodiment, nor incarnation. | `historical scope limit; actual-model selection superseded by C660` |
 | C573 | Self-executive action is defined on the action side through $G$'s direct executive sourcehood, with no distinct bearer or causal patient required for its executive result and with $PP_G$ preserved. | `proposed preferred refinement` |
 | C574 | The established divine executive grammar $\mathcal K_G^{est}$ contains cognitive-attentional, rational-volitional, communicative-address, originative-existential, and interventive manifestation kinds. | `proposed preferred F2 taxonomy` |
 | C575 | $SEForm_G(a)=\langle G,k,q,\epsilon,\rho,\pi\rangle$ normalizes self-executive descriptions by source, established manifestation kind, content, exercise/refraining polarity, pure/mixed role, and preservation/compossibility profile. | `proposed preferred F2 normal form` |
@@ -676,19 +676,29 @@
 | C643 | Ontology-relative $OMP_Q^{\mathcal O_*}$, actual existential sovereignty, and divine-ground uniqueness survive the S77 correction; exclusion of every possible non-created relatum and unrestricted cross-ontology $OMP_Q$ remain conditional on full $UCD_G$ or a separate non-created-relatum range bridge. | `accepted downstream constraint` |
 | C644 | CH25 is complete enough at F2 once actual dependence, essentially independent necessary rivals, brute contingent modal rivals, and the missing modal bridge are separated. | `accepted bounded closure of the S77 audit` |
 | C645 | S77's graded dependence result is retained: actual $ACD_G$ is principal, while full $UCD_G$ remains a cleaner conditional completion with exact downstream limits. | `accepted by default at stated levels` |
-| C646 | Absolute nothingness is absence expressed quantificationally; an empty-world thesis, a physical vacuum, an unexplained brute reality, and an entity named Nothing are different claims. | `proposed accepted distinction` |
-| C647 | Creation *ex nihilo* denies prior material input and assigns positive sourcehood to $G$; absolute nonbeing is neither a material nor a cause. | `proposed accepted ex-nihilo clarification` |
-| C648 | The empirical non-observability of absolute nothing and of non-physical $G$ does not give them evidential parity. | `proposed accepted epistemic constraint` |
-| C649 | **Bounded constitutive primitivism $BCP$:** profiles are representational nominalizations; $Adm_C$ states objective necessary constitutive facts; the coherence of a wholly alien uninstantiated profile is presently irreducible without being a concrete possible being. | `proposed preferred F2+ meta-modal stopping point` |
-| C650 | The ground of $Adm_C$ is distributed: logic, identity, actual essences and powers, compossibility, and dependence explain their respective clauses locally; the distinctive new primitive is the alien-profile coherence residue, alongside already fundamental logical and identity structure. | `proposed accepted grounding distribution` |
-| C651 | A necessary structural truth is not thereby a substance, agent, efficient cause, or concrete rival to $G$. | `proposed accepted ultimacy constraint` |
-| C652 | A necessary non-volitional feature of $G$ might ground the complete space of coherent created forms, but this is not yet derived from $UPSS$ or $P_{OEC}$ and cannot be defined through the creative range it is meant to constrain. | `proposed open F3 direction` |
-| C653 | A created subject begins with the first stage of its actual token career; before that, only a type-level person-profile may be possible, not that individual de re. | `proposed accepted identity clarification; exact boundary open` |
-| C654 | A bounded or gappy person's identity facts and complete career can be tenselessly actual without that person existing at every created time or in an atemporal mode. | `proposed accepted eternalist clarification` |
-| C655 | Temporal embodied life of the selected kind requires change, while the framework-neutral thesis that all time requires change remains open. | `proposed accepted scope distinction` |
-| C656 | Stable secondary causation, embodied finite organization, plural agency, and temporal goods make exposure to loss, conflict, and harm intelligible and may make some exposure constitutive relative to a selected world-profile. | `proposed preferred structural-vulnerability thesis` |
-| C657 | Structural exposure neither entails death or evil in every material world nor justifies any particular suffering; profile-relative cost, nomological inevitability, token inevitability, and token permission remain distinct. | `proposed accepted P-gap constraint` |
-| C658 | The meta-modal ground is complete enough at F2+ under $BCP$; stronger divine-essential grounding is selective F3, and structural vulnerability remains banked unless it becomes load-bearing for the P-gap. | `proposed bounded closure and priority` |
+| C646 | Absolute nothingness is absence expressed quantificationally; an empty-world thesis, a physical vacuum, an unexplained brute reality, and an entity named Nothing are different claims. | `accepted distinction; intent corrected in S79` |
+| C647 | Creation *ex nihilo* denies prior material input and assigns positive sourcehood to $G$; absolute nonbeing is neither a material nor a cause. | `accepted semantic clarification; model preference reversed in S79` |
+| C648 | The empirical non-observability of absolute nothing and of non-physical $G$ does not give them evidential parity. | `accepted epistemic constraint` |
+| C649 | **Bounded constitutive primitivism $BCP$:** profiles are representational nominalizations; $Adm_C$ states objective necessary constitutive facts; the coherence of a wholly alien uninstantiated profile is presently irreducible without being a concrete possible being. | `preferred F2+ meta-modal stopping point; accepted` |
+| C650 | The ground of $Adm_C$ is distributed: logic, identity, actual essences and powers, compossibility, and dependence explain their respective clauses locally; the distinctive new primitive is the alien-profile coherence residue, alongside already fundamental logical and identity structure. | `accepted grounding distribution` |
+| C651 | A necessary structural truth is not thereby a substance, agent, efficient cause, or concrete rival to $G$. | `accepted ultimacy constraint` |
+| C652 | A necessary non-volitional feature of $G$ might ground the complete space of coherent created forms, but this is not yet derived from $UPSS$ or $P_{OEC}$ and cannot be defined through the creative range it is meant to constrain. | `open F3 direction; accepted at that status` |
+| C653 | A created subject begins with the first stage of its actual token career; before that, only a type-level person-profile may be possible, not that individual de re. | `retained only as temporal boundary; superseded as identity explanation` |
+| C654 | A bounded or gappy person's identity facts and complete career can be tenselessly actual without that person existing at every created time or in an atemporal mode. | `accepted eternalist distinction; insufficient alone as identity ground` |
+| C655 | Temporal embodied life of the selected kind requires change, while the framework-neutral thesis that all time requires change remains open. | `scope formulation superseded by C661–C663` |
+| C656 | Stable secondary causation, embodied finite organization, plural agency, and temporal goods make exposure to loss, conflict, and harm intelligible and may make some exposure constitutive relative to a selected world-profile. | `preferred structural-vulnerability thesis; accepted at stated level` |
+| C657 | Structural exposure neither entails death or evil in every material world nor justifies any particular suffering; profile-relative cost, nomological inevitability, token inevitability, and token permission remain distinct. | `accepted P-gap constraint` |
+| C658 | The meta-modal ground is complete enough at F2+ under $BCP$; stronger divine-essential grounding is selective F3, and structural vulnerability remains banked unless it becomes load-bearing for the P-gap. | `accepted bounded closure; next priority strengthened in S79` |
+| C659 | The author's comparison with nothing was primarily a comparative case for theism and for ontological continuity *ex deo*, not an argument that atheism reifies an entity named Nothing. | `accepted authorial correction` |
+| C660 | Non-destructive strict *ex deo* through $ANDC$ is the principal working hypothesis for actual creation; constitutively disjoint $OEC^+_{CCD}$ is now the live fallback. | `preferred principal creation hypothesis; active burden` |
+| C661 | Shoemaker's freeze construction targets local change and the claim that every non-zero temporal interval contains change; because its complete history contains transitions and changing regions, it does not counter whole-history dynamicity. | `accepted scope correction` |
+| C662 | A material temporal created order requires some change somewhere in its complete history; wholly idle metric duration is disfavored as ungrounded surplus rather than declared logically contradictory under every theory of time. | `preferred at F2` |
+| C663 | Whole-history change does not entail mortality, evil, or any token suffering; those conclusions require additional bearer-, law-, and value-relative premises. | `accepted inferential limit` |
+| C664 | “First stage of a token career” means only the earliest temporal cross-section at which the bearer exists and supplies no ground of its individuation. | `accepted correction` |
+| C665 | **Constitutive token individuation $CTI_G$:** created individuality is located in the origination of one unified source-bearing token with its own concrete origin anchor and one non-branching immanent career, while numerical identity remains fundamental. | `proposed preferred F2 identity refinement` |
+| C666 | The bearer and the realization of its unity are temporal; its complete identity fact is tenseless; its divine creative or constitutive ground is atemporal; no separately existing eternal identity-object follows. | `proposed preferred E+ clarification` |
+| C667 | An eternal divine constituent cannot by itself individuate a creature; token determination, created unity, origin, and source separation are required to preserve created otherness. | `accepted ex-deo constraint` |
+| C668 | The next $ANDC$ pass must choose or combine relational determination, intrinsic divine mode, and primitive typed constitution without collapsing to disjoint grounding or compromising $G$ and creaturely agency. | `accepted priority and fork` |
 
 ## Rejected or corrected moves
 
@@ -756,7 +766,7 @@
 | R60 | Broad originative and intervening powers deductively establish universal created-order range. | `rejected` |
 | R61 | Any incapacity may be inserted into the divine essence and thereby removed from the omnipotence test. | `rejected` |
 | R62 | Every necessary truth or abstract structure is a rival external power limiting $G$. | `rejected` |
-| R63 | Actual creator–creation disjointness proves that $G$ cannot possess a coherent strict-*ex-deo* capacity. | `rejected` |
+| R63 | Actual creator–creation disjointness, if selected, would prove that $G$ cannot possess a coherent strict-*ex-deo* capacity. | `rejected` |
 | R64 | Omnipotence requires actual exercise of every coherent power, including strict *ex deo*. | `rejected` |
 | R65 | A created exact copy can be both dependent on $G$ and underived in the same respect. | `rejected` |
 | R66 | Any metaphysically possible world in which an outcome occurs automatically witnesses an agent's present ability to produce it. | `rejected` |
@@ -916,7 +926,7 @@
 | R220 | Atemporal divine action must be necessary because $G$ has no temporal transition from undecided to decided. | `rejected` |
 | R221 | Every contingent intrinsic property or relation of $G$ is an action token. | `rejected` |
 | R222 | Any intrinsic divine mode is automatically a non-destructive manifestation of an established power. | `rejected` |
-| R223 | Conditional capacity for $ED_{IM}^{exec}$ makes actual creation strict *ex deo*. | `rejected` |
+| R223 | Conditional capacity for $ED_{IM}^{exec}$ by itself makes actual creation strict *ex deo*. | `rejected` |
 | R224 | Ontology-relative qualified omnipotence establishes unrestricted qualified omnipotence across every rival ontology. | `rejected` |
 | R225 | A being is created only if it begins to exist at a time or is the immediate terminus of the actual contingent $OEC^+$ act. | `rejected` |
 | R226 | Every necessary concrete distinct from $G$ is non-created. | `rejected` |
@@ -955,6 +965,11 @@
 | R259 | Structural vulnerability or profile-relative cost justifies every actual token suffering. | `rejected` |
 | R260 | Atemporal truth about a whole personal career makes its bearer atemporal or everlasting. | `rejected` |
 | R261 | No change, physical singularity, perfection, and $G$ name one metaphysical condition. | `rejected` |
+| R262 | Shoemaker's global-freeze construction refutes the claim that a material temporal world requires change somewhere in its complete history. | `rejected` |
+| R263 | Naming a bearer's earliest temporal stage explains what individuates it or grounds its identity through time. | `rejected as a non-answer` |
+| R264 | S78's linguistic analysis of Nothing captured the principal intended argument. | `rejected by author correction` |
+| R265 | Merely causal or exemplar “from God” is sufficient to honor the author's preference for *ex deo* over constitutively disjoint *ex nihilo*. | `rejected` |
+| R266 | Because $G$ is eternal and constitutes creatures, $G$ alone supplies each creature's distinct eternal identity. | `rejected` |
 
 ## Challenges
 

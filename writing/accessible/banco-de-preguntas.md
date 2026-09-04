@@ -26,7 +26,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
 | P42 | ¿Existen otros universos? | `respondida` | C535–C540; S58 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
 | P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida con fundamento último limitado` | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 (posible no es imaginable ni «lo que Dios puede»; los perfiles no son cosas; el residuo de tipos nunca instanciados queda como estructura necesaria primitiva; un fundamento en la esencia divina sigue abierto) | CH14 |
-| P48 | ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada? | `respondida` | C457–C461, C646–C648; S47, S78 (la nada absoluta no es una entidad ni una causa; *ex nihilo* significa sin materia previa y con Dios como fuente; el rival serio es una realidad bruta u otro fundamento) | CH27 |
+| P48 | ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada? | `respondida; intención corregida` | C457–C461, C646–C648, C659–C660; S47, S78–S79 (la nada absoluta no es fuente; el argumento principal prefiere un fundamento agente y, dentro del teísmo, continuidad ontológica *ex deo* frente a producción disjunta) | CH24, CH27 |
 
 ## B. Qué Dios
 
@@ -57,7 +57,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C466–C470; S20, S46 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
 | P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C501–C503; S52 (providencia como tablero preparado, no guion ni embudo) | — |
 | P40 | ¿Qué me hace ser yo? | `respondida` | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 (identidad numérica primitiva; un solo ser vivo en esta vida; la fuente como refinamiento) | CH22 |
-| P49 | ¿Cuándo empiezo a ser yo? ¿Mi identidad existe eternamente? | `parcial a F2` | C435–C456, C506–C519, C653–C654; S45, S53, S55, S78 (el individuo comienza con su primera etapa actual; antes hay como mucho un tipo posible; toda su carrera es verdad sin tiempo, pero él no existe en todos los tiempos; el umbral biológico exacto sigue abierto) | CH18, CH22 |
+| P49 | ¿Cuándo empiezo a ser yo? ¿De dónde sale mi identidad? ¿Existe eternamente? | `parcial a F2; respuesta rehecha` | C435–C456, C506–C519, C653–C654, C664–C667; S45, S53, S55, S78–S79 (el primer momento solo marca cuándo; $CTI_G$ sitúa la individuación en un único portador-fuente organizado, con origen propio y una historia no ramificada; el portador es temporal, el hecho completo es atemporal y no hay una identidad-objeto eterna) | CH18, CH22, CH24 |
 | P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C497–C500, C505; S52 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH23 |
 
 ## D. El bien y el mal
@@ -74,7 +74,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P30 | ¿Existe el infierno? | `parcial` | C208–C209, C486 (privación de comunión como caso negativo de la continuación; no impuesta) | CH21 |
 | P31 | ¿Hay vida después de la muerte? ¿Y sería yo? | `parcial` | C480–C486, C506–C512; S50, S53 (coherente, al alcance de Dios, no decidida por la ciencia, condicional a la bondad hacia lo que sentimos; lo que me hace ser yo no son ni las células ni los recuerdos, sino ser la misma fuente de mis actos) | CH21, CH22 |
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
-| P50 | ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal? | `parcial` | C189–C209, C472–C479, C655–C657; S28, S49, S78 (la vida corporal exige cambio y su estructura trae vulnerabilidad; no se sigue que todo tiempo exija cambio, que todo cambio sea mal ni que cada sufrimiento esté justificado) | CH19, CH28 |
+| P50 | ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal? | `parcial; alcance temporal corregido` | C189–C209, C472–C479, C655–C657, C661–C663; S28, S49, S78–S79 (un mundo material temporal requiere cambio en algún punto de su historia; Shoemaker solo discute si cada intervalo lo requiere; no se siguen mortalidad, mal ni justificación de cada sufrimiento) | CH19, CH28 |
 
 ## E. Experiencia
 
@@ -103,6 +103,6 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P33–P36 | La ontología no decía nada sobre la experiencia de Dios | S46: acceso experiencial, tres casos de veracidad, estatuto epistémico |
 | P14 | Constitución divina | S30–S31 (autor): sujeto con poderes integrados, sin ingredientes previos; S51: la materia como perfil instanciado, el argumento de niveles contra la causalidad material universal, la derivación de la creación sin materia previa |
 | P31 | Supervivencia personal | S50: coherente bajo todos los modelos abiertos del sujeto, dentro del poder de Dios como acto adicional, no decidida por la evidencia, condicional a la bondad hacia lo que sentimos. S53: la identidad no consiste en la continuidad del cuerpo ni de la memoria, sino en ser la misma fuente; un hueco temporal no es fatal desde la perspectiva de la historia completa; una copia no sería yo |
-| P48 | La broma reificaba «la nada» y podía confundir creación sin materia con causación por no-ser | S78/CH27: separación entre ausencia cuantificada, vacío físico, mundo vacío posible, realidad bruta y fuente positiva; *ex nihilo* no da ningún papel causal a la nada |
-| P49 | Faltaba decir expresamente cuándo comienza el individuo bajo eternalismo | S78: inicio con la primera etapa de la carrera actual; verdad atemporal de la identidad sin preexistencia ni existencia en todo tiempo |
-| P50 | El vínculo sugerido entre cambio, mortalidad y mal mezclaba cinco grados de necesidad | S78/CH28: vida temporal dinámica y vulnerabilidad estructural como núcleo; necesidad universal y permiso de cada sufrimiento siguen abiertos |
+| P48 | S78 redujo la intención a una corrección lingüística y dejó intacta la preferencia por producción disjunta | S79/CH24/CH27: se conserva la distinción sobre la nada, pero se restaura el argumento comparativo y $ANDC$ pasa a ser la hipótesis principal frente a $OEC^+_{CCD}$ |
+| P49 | “Primera etapa de la carrera” solo daba una fecha y no respondía de dónde sale la identidad | S79: traducción del término, $CTI_G$ como origen de un portador único con ancla concreta y carrera no ramificada, y separación entre portador temporal, hecho atemporal y fundamento divino atemporal |
+| P50 | Shoemaker fue usado contra la tesis global equivocada | S79/CH28: su mundo conserva cambio en la historia y solo pone en cuestión el cambio en todo intervalo; $WCh$ se prefiere y no se deriva de él muerte, mal ni permiso del sufrimiento |

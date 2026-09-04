@@ -25,7 +25,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
 3. **The Question Beyond the Model**
    - Why fundamental structure invites interpretation
    - Brute facts as a live stopping point
-   - Absolute nothing as quantificational absence, not a causal rival; why *ex nihilo* denies material input
+   - Absolute nothing as quantificational absence, not a causal rival; the author's positive-source and *ex deo* continuity comparison
 
 ## Part II — Method: Constructing rather than importing an ontology
 
@@ -115,6 +115,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Numerical recreation versus duplicate reconstruction
     - Animalist, constitution, simple, soul, haecceitist, and pattern competitors
     - Synchronic individuation, diachronic persistence, and reidentification evidence
+    - Constitutive token individuation $CTI_G$: one unified source-bearing origin and career, with numerical identity still fundamental
+    - Temporal bearer, tenseless identity fact, and atemporal divine ground; why no eternal identity-object follows
     - Organismic, hylomorphic, psychological, causal, simple, haecceitist, constitution, and pattern accounts
     - Persistence through bodily change, unconscious intervals, and possible non-existence gaps
     - Duplication, fission, replacement, and numerical recreation as discriminators
@@ -300,7 +302,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The non-destructive filter: $PP_G$, created otherness, dependence direction, and source separation
     - Asymmetric non-depleting constitution $ANDC$
     - The constitutive-content test: real overlap or inflated grounding vocabulary?
-    - Actual $CCD$ versus unexercised overlap capacity
+    - Principal actual $ANDC$ versus the constitutively disjoint $OEC^+_{CCD}$ fallback
+    - The finite-determination fork: relational result, intrinsic divine mode, or primitive typed constitution
     - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives
@@ -342,6 +345,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The remaining normative burden in what is due to a bearer, capacity, or relation
     - Due-good privation and positive experiential or causal vehicles of evil
     - Broad and grave evil; moral and non-agentic causal origins
+    - Whole-history dynamicity versus change in every interval; the exact limited scope of Shoemaker's freeze construction
     - Temporal embodied change, structural vulnerability, and why profile-relative exposure does not justify token suffering
     - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
     - Sacrifice: cost, belief, trust, hope or faith, agentic excellence, objective fit, causal success, and value for contemporary or future others

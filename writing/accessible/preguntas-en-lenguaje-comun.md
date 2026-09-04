@@ -28,7 +28,9 @@ Bastar, basta: no es una postura absurda. Lo que pasa es que es la postura que m
 
 La broma tiene una intuición buena, aunque tomada literalmente hace trampas. «Nada» no es el nombre de una cosa extraña en la que crea el ateo. Decir que no hay nada significa que no existe ninguna cosa; por eso la nada absoluta no puede causar, convertirse en materia ni hacer nada. Un ateo puede pensar que el universo existe sin explicación, que hay una estructura impersonal necesaria, o simplemente que no sabe cuál es la explicación. Esas son alternativas reales; no quedan refutadas diciendo que la nada no existe.
 
-La intuición aprovechable es esta: la ausencia de una causa no puede funcionar ella misma como causa. Cuando digo que Dios crea de la nada quiero decir que crea sin usar una materia anterior. Hay una fuente positiva —Dios— y no hay un material previo; no quiero decir que una cosa llamada Nada se transforme en universo. Eso hace que creer en Dios me parezca explicativamente más fértil que detenerme en una realidad bruta, pero la preferencia se apoya en el argumento completo, no en el juego de palabras.
+Pero mi argumento principal no era esa corrección de palabras. Era una comparación. Primero, me parece más sensato poner en el fondo una realidad positiva capaz de explicar y elegir que detenerme en una ausencia o en un «simplemente existe». Segundo, una vez aceptado Dios, me resulta más inteligible que el mundo proceda realmente de él que imaginar la aparición de una sustancia totalmente disjunta sin ninguna continuidad ontológica. Por eso mi hipótesis principal es ahora una creación *ex deo*: Dios no se divide, no se agota ni se convierte entero en el mundo, pero su realidad entra de verdad en la constitución de criaturas distintas de él. La creación disjunta sin materia previa queda como alternativa si no conseguimos hacer coherente esa relación.
+
+Algunos autores llaman *ex nihilo* incluso a una creación que procede de Dios, porque solo quieren negar una materia independiente anterior. No voy a discutir por la etiqueta. Aquí uso *ex deo* en el sentido fuerte que importa para mi preferencia: hay continuidad constitutiva real, no solo que Dios sea una causa externa. Esto todavía tiene una deuda seria: explicar cómo una misma realidad divina puede constituir seres distintos sin que sus propiedades y decisiones pasen a ser propiedades y decisiones de Dios.
 
 Tampoco pone a Dios y a la nada en empate el hecho de que ninguno sea un objeto visible. Observar la nada absoluta sería imposible porque observar ya requiere que existan un observador y una experiencia. Que algo no se pueda observar físicamente solo fija el límite de ese método; no dice por sí solo qué explicación es mejor.
 
@@ -202,9 +204,13 @@ Hay una diferencia importante entre el mal que alguien hace y el que simplemente
 
 ### ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal?
 
-Hay una parte fuerte de esa idea que sí me sirve. La vida corporal que conocemos necesita cambio: metabolizar, crecer, percibir, aprender, actuar y tener una historia son procesos. Además, un mundo compartido con leyes estables, cuerpos finitos y varios agentes hace que exista vulnerabilidad real. Lo que permite que mis actos tengan consecuencias permite también que dañen; lo que mantiene un organismo puede fallar; los proyectos de sujetos distintos pueden entrar en conflicto. Un mundo así no puede garantizar desde dentro que nada valioso esté nunca expuesto.
+Hay una parte fuerte de esa idea que sí me sirve. Creo que un mundo material y temporal necesita que algo cambie en algún lugar de su historia. Si no cambia absolutamente nada —ni cualidades, ni relaciones, ni causas, ni organización—, añadir una serie de fechas vacías no parece describir nada nuevo que ocurra en el mundo. La vida corporal lo muestra de manera más concreta: metabolizar, crecer, percibir, aprender, actuar y tener una historia son procesos.
 
-Eso todavía no demuestra que todo tiempo imaginable necesite cambio, ni que todo cambio sea una pérdida. Crecer, descubrir o actuar también son cambios. Tampoco demuestra que cualquier mundo material tenga que contener exactamente nuestra mortalidad, nuestras enfermedades o esta cantidad de dolor. Como mucho, ofrece una explicación estructural de por qué ciertos bienes temporales vienen con riesgo y vulnerabilidad.
+El ejemplo famoso de las regiones que se congelan no contradice eso. Necesita regiones que siguen cambiando para detectar las congelaciones locales y una historia en la que unas se congelan y se reanudan. Su pregunta real es más estrecha: si dentro de una historia cambiante puede haber un intervalo durante el que no cambie nada en ninguna parte. Puede discutirse, pero no afecta a que la historia completa necesite cambio.
+
+Además, un mundo compartido con leyes estables, cuerpos finitos y varios agentes hace que exista vulnerabilidad real. Lo que permite que mis actos tengan consecuencias permite también que dañen; lo que mantiene un organismo puede fallar; los proyectos de sujetos distintos pueden entrar en conflicto. Un mundo así no puede garantizar desde dentro que nada valioso esté nunca expuesto.
+
+Nada de eso hace que todo cambio sea una pérdida. Crecer, descubrir o actuar también son cambios. Tampoco demuestra que cualquier mundo material tenga que contener exactamente nuestra mortalidad, nuestras enfermedades o esta cantidad de dolor. Como mucho, ofrece una explicación estructural de por qué ciertos bienes temporales vienen con riesgo y vulnerabilidad.
 
 Y queda intacta la pregunta más difícil: aunque alguna exposición al daño fuera inevitable para este tipo de mundo, ¿por qué ocurrió este sufrimiento, con esta intensidad, y por qué Dios no evitó este caso? Pasar de «el sistema necesita que algo pueda salir mal» a «este daño estaba justificado» sería un salto. La idea mejora la explicación general del mundo; no liquida el problema del mal ni sustituye la respuesta que todavía falta para cada persona.
 
@@ -264,13 +270,19 @@ A la cuarta: los demás me reconocen por la continuidad, y pueden equivocarse. D
 
 Una consecuencia que me parece importante: cuando a alguien lo manipulan o lo encauzan, no lo convierten en otra persona. Es la misma persona a la que le han quitado la autoría de su vida. Por eso se le puede devolver.
 
-### ¿Cuándo empiezo a ser yo? ¿Mi identidad existe eternamente?
+### ¿Cuándo empiezo a ser yo? ¿De dónde sale mi identidad? ¿Existe eternamente?
 
-Empiezo a existir con la primera parte real de mi vida. Antes puede estar descrito el tipo de ser que podría llegar a existir, igual que puede estar descrita una clase de mundo posible, pero no hay una persona concreta esperando en algún almacén de posibilidades. Al crearme aparecen este individuo y esta vida; Dios no elige entre copias mías ya existentes. No tengo todavía una fecha biológica exacta: depende de cuándo existe por primera vez un solo organismo con la unidad que puede sostener esa vida, y ese umbral necesita más trabajo.
+Decir «empiezo en la primera parte de mi vida» solo repite la pregunta con otras palabras. Lo único que aclara es qué significa *empezar*: el primer momento en que existe este ser. No explica por qué hay uno, por qué es este ni por qué el adulto es el mismo que el niño.
 
-La historia completa cambia la manera de decirlo, pero no el momento en que existo. Mi vida entera —pasado, presente y futuro— forma parte de la historia actual y Dios la conoce junta. Eso hace que sea verdad sin esperar al futuro que el niño, el adulto y el anciano son el mismo. No hace que yo exista antes de comenzar, después de terminar o fuera del tiempo. La identidad tampoco es una pieza que exista eternamente por separado: es el hecho de que todas esas etapas son de este mismo individuo.
+Mi respuesta actual empieza por la unidad. Aparece un individuo cuando aparece un solo ser organizado que sostiene conjuntamente sus capacidades y puede ser fuente de lo que hace. Su origen no es una fecha desnuda ni una lista de rasgos: es el acontecimiento concreto e irrepetible en el que comienza ese portador, con esta procedencia y esta organización. Otro ser exactamente igual tendría otro origen y sería otro. A lo largo de la vida, la misma unidad se propaga por una historia causal y orgánica continua que no se bifurca en dos individuos. Eso explica mucho más que decir «soy yo porque soy yo»: explica qué hace que haya un portador y cómo continúa normalmente.
 
-Si hubiera un tramo posterior a la muerte, podría ser de la misma persona aunque no existiera nada de ella durante el intervalo. Harían falta una sola historia, el mismo origen, ninguna bifurcación en dos copias y el hecho real de que el tramo posterior es de ese individuo. La semejanza, los recuerdos reconstruidos y que Dios lo llame por el mismo nombre no bastarían por sí solos.
+Queda un resto que no sé reducir, y prefiero decirlo. Ninguna descripción de la organización o del origen puede convertir la semejanza en identidad, porque una descripción se puede repetir y un individuo no. El hecho último de que el niño y el adulto sean literalmente uno sigue siendo básico. La organización, el origen y la historia lo sujetan y lo distinguen de una copia; no lo convierten en una receta reproducible.
+
+Sobre el tiempo hay tres niveles. Yo, el portador, soy temporal: existo solo durante los momentos de mi vida, y todavía no sé fijar exactamente su primer umbral biológico. El hecho completo de que el niño, el adulto y el anciano sean uno está en la historia entera y es verdadero sin esperar a que llegue cada momento. Y Dios fundamenta esa historia mediante una relación que no tiene que ir ocurriendo paso a paso. De ahí no sale una identidad eterna flotando antes de mí: antes puede haber una posibilidad o un tipo de ser, pero no una copia mía esperando en un almacén.
+
+La hipótesis *ex deo* añade una precisión. Dios puede ser el fondo eterno que me constituye, pero ese fondo común no basta para distinguirme, porque también puede constituir a otros. Mi identidad creada necesita además mi unidad concreta, mi origen y mi capacidad propia de actuar. Si me identificáramos sin más con la parte divina eterna, dejaría de ser una criatura distinta.
+
+Si hubiera un tramo posterior a la muerte, podría pertenecer a la misma persona, pero aquí queda el hueco más duro. Sin continuidad viva entre ambos tramos, una sola historia, el mismo origen y la ausencia de bifurcación restringen la respuesta; todavía no explican por completo qué hace que el tramo posterior sea mío. La identidad a través de una desaparición total sigue siendo una posibilidad coherente con un hecho numérico básico, no una consecuencia ya explicada por una cadena ni por el mero reconocimiento de Dios.
 
 ### ¿Por qué merece la pena sacrificarse?
 
@@ -333,7 +345,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | --- | --- | --- |
 | Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C457–C460; S09, S47 |
 | No basta con que exista | preferido | C457, C459; S47 |
-| Dios y «la nada» | preferido con distinción aceptada propuesta: la nada absoluta no es fuente; *ex nihilo* niega materia previa; el rival serio es la realidad bruta u otro fundamento | C646–C648; S78, CH27 |
+| Dios y «la nada» | preferido con intención corregida: la nada absoluta no es fuente; el argumento principal prefiere el agente y después la continuidad constitutiva *ex deo* frente a producción disjunta; el rival no teísta serio es la realidad bruta u otro fundamento | C646–C648, C659–C660; S78–S79, CH24, CH27 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C458–C461, C513; S09, S47, S62 |
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
@@ -354,11 +366,11 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
-| Cambio, muerte y mal | parcial: cambio requerido por la vida corporal seleccionada y vulnerabilidad estructural preferida; necesidad universal y permiso de cada caso abiertos | C655–C657; S78, CH19, CH28 |
+| Cambio, muerte y mal | parcial: un orden material temporal requiere algún cambio en su historia; Shoemaker solo desafía que todo intervalo lo contenga; la vida corporal es dinámica y vulnerable, pero mortalidad, mal y permiso de cada caso no se siguen de ahí | C655–C657, C661–C663; S78–S79, CH19, CH28 |
 | Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C472–C479, C300, C505; S49, S52; CH19, CH21 |
 | Qué me hace ser yo | aceptado/preferido: identidad numérica primitiva; en esta vida, un solo ser vivo con una historia organizada; persistencia simple como refinamiento desde la agencia; identificación nunca constitutiva | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 |
-| Cuándo empiezo y si mi identidad es eterna | parcial a F2: el sujeto comienza con su primera etapa actual; el umbral biológico exacto sigue abierto; la carrera completa y su identidad son verdades sin tiempo, pero el sujeto no existe en todo tiempo | C653–C654; S78 |
+| Cuándo empiezo, de dónde sale mi identidad y si es eterna | parcial a F2: el primer momento solo marca el límite; $CTI_G$ explica unidad, origen y continuidad ordinaria sin reducir la identidad numérica; el portador es temporal, el hecho completo es atemporal y no hay una identidad-objeto eterna | C653–C654, C664–C667; S78–S79 |
 | Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la recreación numérica es posibilidad preferida sin nada que persista entre medias | C447–C453, C458–C464, C506–C510, C556; S45, S49, S53, S68; CH21, CH22 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C466–C470; S20, S46 |

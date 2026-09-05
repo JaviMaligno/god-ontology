@@ -1075,7 +1075,7 @@
 | R290 | Selection for fitness entails reliability about truth in every domain. | `rejected` |
 | R291 | Biological functional information is semantic content borne for a reader, so that a proximate mind is its best explanation. | `not adopted; unearned premise` |
 | R292 | Arbitrariness of a mapping relative to chemistry makes it a norm relative to a reader. | `rejected` |
-| R293 | The contingency of an outcome, as one form among many possible, is a mark of agency within the created order. | `rejected` |
+| R293 | The contingency of an outcome, as one form among many possible, is a usable mark of agency within the created order. | `rejected as a practical criterion or physical argument` |
 
 ## Challenges
 

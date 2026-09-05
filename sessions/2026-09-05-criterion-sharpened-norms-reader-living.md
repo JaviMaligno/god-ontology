@@ -52,7 +52,7 @@ P67 revised: the first three paragraphs replaced; shown to the author in the rep
 | C744 | — | `accepted criterion` | Within the order, a norm relative to a reader (right or wrong relative to a practice of subjects) entails derived content and a mind upstream; a norm relative to living (right or wrong relative to a system's self-maintenance) is what the generative structure yields, so a mind is not required and not excluded; a response to a reason requires an agent; otherwise the structure explains. For the order as a whole the comparison is between stopping points (C458–C460), not an improbability estimate | this session; C63, C107, C380, C458–C460, C626–C631 |
 | C745 | — | `accepted test results` | The criterion sorts the genetic code's arbitrariness, animal signals, artifacts, the origin of life, and fine-tuning as recorded; the origin of life is an open empirical item posed as “does the structure suffice?” under $GSDA$ | this session; C321, C380 |
 | R292 | — | `rejected` | Arbitrariness of a mapping relative to chemistry makes it a norm relative to a reader | this session; C744 |
-| R293 | — | `rejected` | Contingency of an outcome, as one among many possible, is a mark of agency within the order | this session; the author's objection |
+| R293 | — | `rejected as a practical criterion or physical argument` | Contingency of an outcome, as one among many possible, is a usable mark of agency within the order; metaphysically true of every contingent outcome, hence useless for sorting, and beyond knowledge to count | this session; the author's objection and clarification |
 
 ## Next question
 

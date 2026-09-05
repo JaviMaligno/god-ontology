@@ -1076,7 +1076,7 @@ This is the normative center of the repository. It records what the project curr
 | R290 | Selection for fitness entails reliability about truth in every domain. | `rejected` | C731; where a false belief is cheap, selection is silent about truth. |
 | R291 | Biological functional information is semantic content borne for a reader, so that a proximate mind is its best explanation. | `not adopted; unearned premise` | C743, C380; without the premise the inference within the order fails, and with it sparse direct action would be abandoned. |
 | R292 | Arbitrariness of a mapping relative to chemistry makes it a norm relative to a reader. | `rejected` | C744–C745; contingent history fixed by chemistry and selection is not agreement among subjects. |
-| R293 | The contingency of an outcome, as one form among many possible, is a mark of agency within the created order. | `rejected` | The author's objection in S97; erosion also yields one form among many, and the mark counted possibilities that are beyond knowledge. |
+| R293 | The contingency of an outcome, as one form among many possible, is a usable mark of agency within the created order. | `rejected as a practical criterion or physical argument` | The author's clarification in S97: metaphysically every contingent outcome is one among many, erosion's included, so the mark is true of everything and decides nothing; the possibilities it would count are beyond knowledge. It survives only where the project uses contingency itself, at the stopping-point comparison for the order as a whole (C458–C460). |
 
 ## Highest-priority open questions
 

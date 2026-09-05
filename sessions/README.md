@@ -102,3 +102,4 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S94 — Cognitive trust, adaptive versus epistemic reliability, and machine thought](2026-09-05-cognitive-trust-and-machine-thought.md)
 - [S95 — The brain as machinery, the ink analogy, the asymmetry about machines, and the book metaphor](2026-09-05-machinery-ink-and-the-book.md)
 - [S96 — When a mind is the better explanation: Meyer's criterion, the Rosetta Stone, and where the design inference lands](2026-09-05-when-a-mind-explains-better.md)
+- [S97 — The criterion sharpened: norms relative to a reader and to living, and five tests](2026-09-05-criterion-sharpened-norms-reader-living.md)

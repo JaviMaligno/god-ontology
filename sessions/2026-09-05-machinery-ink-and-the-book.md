@@ -35,6 +35,10 @@ Three exact deltas, shown to the author in the reply of this session: P65 (the i
 | C738 | — | `accepted asymmetry` | That a system speaks like a person does not imply that it thinks like one, with certainty, since thinking is a property of the source (C734) and no output entails a source; that it does not think remains undecided (C321) | the author's correction; R288–R289 |
 | C739 | — | `accepted author metaphor` | The book metaphor is the accessible form of C01 and R02: laws are regularities within the created order and cannot explain the order's origin, as the grammar and style of a book do not explain the book | the author; C01–C03, C490, R02 |
 
+## The author's position on machines (added the same day)
+
+The author leans to the view that no existing machine thinks, while not knowing where the threshold lies at which one could say that a machine does. The ledger records the leaning as a preference (C740) and says where the threshold is, not what it is: not in output, but in whether an organization is a unified bearer with the powers of C61 whose consciousness participates in its acts (C138). For a machine this is the same onset question the project faces for organisms, which needs an empirically constrained eligibility profile and a psychophysical power principle (C333) that the project does not have; phenomenal and intentional powers are fundamental powers of certain organized subjects at F2 (C337), and which organizations bear them is the F3 gap (C717). P66 carries the leaning as the author's, shown in the reply.
+
 ## Next question
 
 None promoted.

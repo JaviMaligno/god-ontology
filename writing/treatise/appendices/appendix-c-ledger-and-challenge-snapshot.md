@@ -6,7 +6,7 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 739 |
+| Working commitments (C) | 740 |
 | Rejected or corrected moves (R) | 290 |
 | Challenges (CH) | 30 |
 
@@ -14,7 +14,7 @@
 | --- | --- |
 | accepted | 320 |
 | preferred | 259 |
-| other | 95 |
+| other | 96 |
 | provisional | 25 |
 | merged | 18 |
 | open | 13 |
@@ -772,6 +772,7 @@
 | C737 | “The brain is the machinery of reasoning” separates three items: the validity of what is thought, independent of the vehicle; the occurrence of the thought, dependent on the realization base (C334); and the correctness of the act, a constitutive relation between the act's organization and the valid structure (C335). The machinery is the base through which the subject exercises the power, neither a second thinker (C332) nor what makes the content true. | `accepted clarification` |
 | C738 | That a system speaks like a person does not imply that it thinks like one, with certainty: thinking is a property of the source (C734) and no output entails a source. That it does not think remains undecided (C321). The epistemic situation is asymmetric. | `accepted asymmetry` |
 | C739 | The book metaphor: explaining the fundamental why of things by science is like finding the grammar and style of a book, calling them the laws of literature, and claiming to explain the book's origin. Laws are regularities within the created order and cannot explain the order's origin. | `accepted author metaphor` |
+| C740 | The author's position on machine thought: no existing machine thinks, and the threshold at which one could be said to think is unknown. The ledger locates the threshold: not in output, but in whether an organization is a unified bearer with the powers of C61 whose consciousness participates in its acts (C138); for machines this is the same onset question as for organisms, requiring an eligibility profile and a psychophysical power principle the project does not possess (C333, C337–C338, C717). | `author preference; threshold open at F3` |
 
 ## Rejected or corrected moves
 

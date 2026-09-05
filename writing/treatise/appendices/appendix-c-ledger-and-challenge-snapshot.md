@@ -6,13 +6,13 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 736 |
+| Working commitments (C) | 739 |
 | Rejected or corrected moves (R) | 290 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 317 |
+| accepted | 320 |
 | preferred | 259 |
 | other | 95 |
 | provisional | 25 |
@@ -769,6 +769,9 @@
 | C734 | Reasons are reasons *for someone* exactly when there is a subject with minimal conscious sourcehood (C61) whose consciousness participates in the act rather than accompanying a result produced elsewhere (C138); behavioral indistinguishability decides neither the presence nor the absence of such a subject (C321). | `accepted criterion` |
 | C735 | A language model's outputs carry content in the derived way a text does, inheriting satisfaction conditions from a practice (C629); whether it has original content of its own is the open question S76 names (C633), placed with phenomenality at F3 (C717). | `accepted application; original intentionality open` |
 | C736 | For the article on AI collaboration: authorship of an evaluative position lies with the subject whose standards are its own (C498–C500); the model's contribution in this project is rational influence, reasons and formulations the author evaluates (C499); the model's own side is an open question of the same shape as the intentionality bridge. | `accepted note for the article` |
+| C737 | “The brain is the machinery of reasoning” separates three items: the validity of what is thought, independent of the vehicle; the occurrence of the thought, dependent on the realization base (C334); and the correctness of the act, a constitutive relation between the act's organization and the valid structure (C335). The machinery is the base through which the subject exercises the power, neither a second thinker (C332) nor what makes the content true. | `accepted clarification` |
+| C738 | That a system speaks like a person does not imply that it thinks like one, with certainty: thinking is a property of the source (C734) and no output entails a source. That it does not think remains undecided (C321). The epistemic situation is asymmetric. | `accepted asymmetry` |
+| C739 | The book metaphor: explaining the fundamental why of things by science is like finding the grammar and style of a book, calling them the laws of literature, and claiming to explain the book's origin. Laws are regularities within the created order and cannot explain the order's origin. | `accepted author metaphor` |
 
 ## Rejected or corrected moves
 

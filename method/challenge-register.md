@@ -59,6 +59,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | divine action, identity, constitution, timelessness, consciousness, qualified omnipotence | `tested F2; no positive SQBlock witness` |
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | contingency, explanatory stopping points, creation, material production, scientific access | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | time, materiality, secondary causation, privation, P-gap, divine permission | `scoped in S78; ontology branch before ethics` |
+| CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | identity, consciousness, embodiment, mind–body realization, $ANDC$, creaturely sourcehood | `integrated into S82; partial F2 answer` |
 
 ## Priority gate after S26
 
@@ -73,6 +74,8 @@ S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps t
 S46–S48 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S47 gives the contingency/ground junction its F2 comparison; S48 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH19; S49 tests CH19 partially through permission, policy-level covers, and the bearer-level remainder, and opens CH21 because closure depends on personal continuation. S50 tests CH21 partially: continuation is coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; its identity burden becomes CH22, which waits on the mind–body branch. The track returns to CH12, where S30–S33 already supply the F2 constitution, boundary, and power results; S51 deepens the constitution/production junction. S52 then structures C118: cumulative context control can remove diachronic and evaluative authorship while token autonomy holds, which extends the agency-preservation presumption to the diachronic level and opens CH23 for created-level curation. S53 tests CH22 partially by deriving simple persistence from the agency model. CH20 records the experiential question.
 
 S78 obeyed the same priority rule, but S79 corrects three results after author review. S80 then corrects S79's residual punctual assumption: a life-set need not contain a first instant, and origin is represented by a possibly extended structure $\Omega_x$ rather than one point event. CH18 now receives onset-neutral $CTI_G^{\Omega}$ while cross-gap identity remains deeper. CH27 retains the distinction between absence and a reified Nothing, but the author's actual point promotes genuine *ex deo* continuity over disjoint production and thereby strengthens CH24's priority. CH28 distinguishes whole-history dynamicity $WCh$, which Shoemaker does not challenge, from interval density $ICh$, which his global-freeze construction targets. Structural vulnerability remains separate from token permission.
+
+S82 integrates CH29 into that prior CH24 burden rather than promoting it by recency. The locus decomposition clarifies the embodied subject model, while $ANDC^{\Phi}$ uses it to divide finite determination among a relation on $G$'s side, creature-intrinsic instantiated predicates, and a primitive typed constitution bridge. The active test remains whether whole constitution adds content beyond existential grounding.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -580,3 +583,23 @@ Four stronger inferences are not licensed:
 4. structural exposure justifies this token suffering, its intensity, or its distribution.
 
 The useful formal distinction is among whole-history and interval claims, absolute metaphysical necessity, constitutive necessity relative to a selected profile, nomological inevitability under actual laws, token inevitability, and adequate reason for divine non-prevention. S79 supports $WCh$ and S78's profile-relative vulnerability route, while leaving the last question with CH19. No-change, physical singularity, perfection, and divinity remain separate.
+
+## CH29 — The locus of identity and consciousness
+
+**Status:** `integrated into the active ANDC fork in S82; partial F2 answer, deeper realization open`
+
+**Scope:** numerical identity, embodied bearer, spatial realization, phenomenal ground, materialism, substance dualism, non-spatial causation, and finite *ex deo* determination
+
+**Q0 — ordinary questions:** Where do identity and consciousness “live”? Are they material or immaterial? If something is immaterial, how can it belong to a person and act in a material world?
+
+**Q1 — definition:** Does “where” ask for a spatial location, a bearer, a realization base, or an ontological ground? Is identity being treated as a fact about one bearer or reified as another item?
+
+**Q2 — local coherence:** Can one embodied subject possess a fundamental or dual-aspect phenomenal power without introducing a second agent? Conversely, can a reductive base secure phenomenal subjectivity, simple persistence, and libertarian sourcehood?
+
+**Q3 — rival pressure:** Substance dualism may ease one route to survival but owes individuation, embodiment, causal interaction, and non-duplication. Reductive physicalism gains economy but owes the phenomenal and sourcehood bridges. Neither is dismissed by label.
+
+**Q4 — architecture integration:** Can $ANDC^{\Phi}$ make $G$ constitutively non-replaceable while finite identity-bearing organization and conscious powers belong intrinsically to the created bearer, without making that bearer a divine mode or making its acts divine acts?
+
+**Q5 — exact test:** Supply semantics or a model in which `ConstitutivelyEssentialTo(G,x)` differs from mere `Depends(x,G)`, preserves $PP_G$, $CreatedOther$, $SourceSep$, and $CTI_G^{\Omega}$, and leaves more than one contrastively different $H$ admissible under the same $\Phi_x^C$.
+
+S82 answers Q0 at a partial level and proposes a combined route for Q4. Q5 is now the active test of C686. No new literature is used to establish that proposal.

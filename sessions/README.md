@@ -86,3 +86,5 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S78 — Nothing, the meta-modal ground, and temporal identity](2026-09-04-nothing-modal-ground-and-temporal-identity.md)
 - [S79 — Shoemaker's scope, ex deo priority, and the origin of identity](2026-09-04-shoemaker-ex-deo-and-identity-origin-corrections.md)
 - [S80 — Individual onset without a privileged first moment](2026-09-04-onset-without-a-first-moment.md)
+- [S81 — Source arguments and accessible-answer reporting](2026-09-05-source-argument-and-answer-reporting.md)
+- [S82 — The locus of identity and consciousness inside principal ANDC](2026-09-05-identity-consciousness-locus-and-andc.md)

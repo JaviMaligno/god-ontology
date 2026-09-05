@@ -1,7 +1,7 @@
 # Provenance Checklist for the Literature Pass
 
 **Prepared:** 2026-09-02 (S69 addendum).
-**Verified:** 2026-09-04 after the S80 corrective update.
+**Verified:** 2026-09-05 after the S82 update.
 **Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S80 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
 
 Legend: **V** verified; **Q** verified with a qualification; **C** corrected; **M** metadata verified but the stronger attribution still needs page-level support.
@@ -229,3 +229,7 @@ The overall classification remains “established components; project-specific s
 - S80's processual and non-sharp onset alternatives and its fission/fusion stress tests have established precedents. Its integration of an onset-neutral origin structure with eternalist whole-career constitution and principal $ANDC$ is project-specific.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.
+
+## S81–S82 — Source-use controls and the locus of identity/consciousness
+
+No new source does inferential work in S81 or S82. S81 is a direct authorial method rule. S82 uses “hylomorphic,” “dual-aspect,” “reductive physical,” and “substance dualist” only as non-inferential taxonomic labels for alternatives already mapped and sourced in S37. Its locus decomposition and $ANDC^{\Phi}$ proposal are internal project inferences and remain unassessed for standalone novelty pending a later targeted literature pass.

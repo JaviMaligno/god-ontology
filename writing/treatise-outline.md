@@ -101,6 +101,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Weak and strong emergence, causal efficacy, and cross-level non-competition
     - Proposed F2 model: one embodied power-bearing subject under a thin hylomorphic interpretation
     - Fundamental phenomenal power and the open subject-level dual-aspect bridge
+    - Where identity and consciousness “live”: spatial location, bearer, realization base, and ontological ground
+    - Embodied realization without reductive entailment; why non-spatiality does not by itself imply a second substance
     - Created atemporal consciousness as a modal edge case rather than the actual human model
     - Numerical identity versus exact qualitative similarity
     - Why absolute fundamental identity does not eliminate kind-sensitive persistence explanations
@@ -304,7 +306,9 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Asymmetric non-depleting constitution $ANDC$
     - The constitutive-content test: real overlap or inflated grounding vocabulary?
     - Principal actual $ANDC$ versus the constitutively disjoint $OEC^+_{CCD}$ fallback
-    - The finite-determination fork: relational result, intrinsic divine mode, or primitive typed constitution
+    - $ANDC^{\Phi}$ as the proposed finite-determination combination: relational on $G$'s side, creature-intrinsic finite form, and a primitive typed bridge
+    - $\Phi_x^C$ as kind, unity, form, power, origin, and admissible-career profile without divine scripting of exact settlements
+    - Non-replaceable whole constitution as the active test of content beyond ordinary grounding
     - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives

@@ -1,6 +1,6 @@
 # Appendix F — Source and Provenance Concordance
 
-*Generated 2026-09-04 by `scripts/build-appendices.mjs` from the bracketed identifiers in the treatise drafts. Each identifier is resolved against the commitment ledger, the challenge register, and the session index. The bracketed identifiers are a drafting device; this concordance is what will replace them when the prose is finalized.*
+*Generated 2026-09-05 by `scripts/build-appendices.mjs` from the bracketed identifiers in the treatise drafts. Each identifier is resolved against the commitment ledger, the challenge register, and the session index. The bracketed identifiers are a drafting device; this concordance is what will replace them when the prose is finalized.*
 
 Identifiers referenced: 546. Unresolved: 0.
 

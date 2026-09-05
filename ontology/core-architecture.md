@@ -505,6 +505,8 @@ The first relation concerns implementation or constitution; the second concerns 
 
 The current phenomenal stopping point is a qualified primitive: certain organized subjects possess fundamental phenomenal powers. This says more than unexplained “emergence” by identifying bearer, organization, capacity, manifestation, and causal roles, but it does not derive phenomenality from nonphenomenal structure. A subject-level dual-aspect account remains the strongest deeper candidate for the intrinsic nature of those powers. Reductive identity remains live but non-preferred; substance dualism and panpsychist models remain coherent but disfavored.
 
+S82 clarifies the often misleading question of where identity or consciousness “lives.” Four relations must be typed separately: spatial location, bearer, realization base, and ontological ground. A token conscious episode is temporally and bodily realized through the one embodied subject, but this does not entail that phenomenality reduces to a physical description. Numerical identity is a fundamental fact or relation true of that bearer, not another material component or a separable immaterial occupant. A non-spatial power, aspect, or ground need not be spatially contained; a distinct immaterial substance would nevertheless owe an interaction and individuation account. The current one-bearer powers model therefore remains preferred without pretending to have derived phenomenality.
+
 The preferred created sequence is:
 
 \[
@@ -2277,6 +2279,34 @@ ANDC(G,x):={}&ConstitutesWhole(G,x)\land G\neq x\land Depends(x,G)\\
 \]
 
 The one non-spatial $G$ is not divided among constituted relata. Their distinct origin structures, organizations, power profiles, and careers preserve their numerical difference without requiring a punctual first stage. S79 makes $ANDC$ the principal actual-creation hypothesis, still conditional on `ConstitutesWhole` having substantive consequences beyond causal grounding and existential production. Otherwise it collapses into $ED_C$, $ED_V$, or $ED_P$ and the architecture returns to the disjoint $OEC^+_{CCD}$ fallback.
+
+S82 proposes that the three finite-determination routes name different jobs rather than exclusive alternatives. Let:
+
+\[
+\Phi_x^C=\langle K_x,U_x,F_x,Cap_x,\Omega_x,AdmCareer_x\rangle.
+\]
+
+This profile is representational rather than a further entity. Its predicates are instantiated intrinsically by the creature, not by $G$, and specify its kind, unity, finite form, powers, origin structure, and admissible-career constraints. It does not specify which autonomous options the creature settles:
+
+\[
+\Phi_x^C\rightarrow AdmCareer_x(H),
+\qquad
+\Phi_x^C\not\rightarrow H=H_x^*.
+\]
+
+The finite-form candidate is:
+
+\[
+\begin{aligned}
+ANDC^{\Phi}(G,x):={}&ANDC(G,x)\land FiniteFormOf(\Phi_x^C,x)\\
+&\land InstantiatesProfile(x,\Phi_x^C)\land\neg InstantiatesProfile(G,\Phi_x^C)\\
+&\land ConstitutivelyEssentialTo(G,x).
+\end{aligned}
+\]
+
+The relation is extrinsic or relational on $G$'s side, preserving $PP_G$; finite organization and powers belong intrinsically to $x$; and the typed constitution bridge remains primitive at this depth. `ConstitutivelyEssentialTo` is meant to supply strict *ex deo* content: $G$ is a non-replaceable whole constituent of $x$ without part transfer, reverse constitution, or act-source collapse. Neither undifferentiated $G$ nor the repeatable profile alone individuates the bearer. The exact $H_x^*$ is jointly actualized through root creation, secondary causes, circumstances, and creaturely settlements, so whole-career $CTI_G^{\Omega}$ does not become divine scripting.
+
+This is a proposed refinement, not closure. If whole constitution has no counterfactual or explanatory consequence beyond existential grounding, `ConstitutivelyEssentialTo` is only a label; $ANDC^{\Phi}$ then fails the constitutive-content test and $OEC^+_{CCD}$ regains comparative force.
 
 Inflationary building-grounding, $ED_O$, remains a coherent rival semantics under which grounded reality overlaps with its ground by sharing being. The preferred architecture does not build this into grounding because doing so would make $CCD$ conflict by definition with every divine grounding relation. A rival must specify whether the shared item is an existence fact, act of being, constituent, or dependence relation.
 

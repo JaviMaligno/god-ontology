@@ -1,22 +1,22 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-04 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-05 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 676 |
-| Rejected or corrected moves (R) | 271 |
-| Challenges (CH) | 28 |
+| Working commitments (C) | 686 |
+| Rejected or corrected moves (R) | 274 |
+| Challenges (CH) | 29 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 287 |
+| accepted | 293 |
 | preferred | 248 |
-| other | 87 |
+| other | 90 |
 | provisional | 25 |
-| open | 11 |
+| open | 12 |
 | merged | 9 |
 | deferred | 4 |
 | superseded | 3 |
@@ -26,6 +26,7 @@
 | --- | --- |
 | tested | 19 |
 | scoped | 9 |
+| integrated | 1 |
 
 ## Working commitments
 
@@ -707,6 +708,16 @@
 | C674 | The bearer has a temporal realization pattern, its complete identity fact is tenseless, and its divine constitutive ground is atemporal; none entails a first instant or a pre-existing eternal person. | `proposed preferred E+ clarification` |
 | C675 | Fission and fusion constrain identity theories but do not by themselves determine when a human individual begins; absolute numerical identity neither branches nor merges. | `accepted stress-test limit` |
 | C676 | The human biological threshold remains open, while the immediate trunk burden is to integrate $\Omega_x$ and whole-career individuation into the finite-determination theory of principal $ANDC$. | `accepted priority integration` |
+| C677 | Every inferentially active source must be disclosed to the author in the same reply through its exact source, reconstructed argument, project use, imported assumptions, scope limits, and assessment. | `accepted authorial method rule` |
+| C678 | A source not inspected closely enough for the argument attributed to it may not alter commitment status or priority; metadata, abstracts, and examples support only the content they explicitly establish. | `accepted evidential control` |
+| C679 | Every accessible answer added or changed must be shown to the author in the same reply as the exact question and full new answer or an unambiguous exact delta, with status; question-banking without an answer must also be reported. | `accepted conversational reporting rule` |
+| C680 | Spatial location, bearer, realization base, and ontological ground are four different senses of where a feature “lives”; no answer to one settles the rest. | `accepted analytic distinction` |
+| C681 | Numerical identity is not an additional material component or separable immaterial substance; it is a fundamental fact or relation true of a bearer, whose actual human realization is embodied. | `proposed preferred clarification` |
+| C682 | Human consciousness is temporally and bodily realized by one embodied subject, while reductive physical identity and a second immaterial-substance bearer remain unearned; the ultimate phenomenal ground stays open. | `proposed preferred F2 restatement` |
+| C683 | Reductive materialism owes phenomenality, source unity, and simple persistence; substance dualism owes individuation, embodiment, causal interaction, and non-duplication; non-spatiality alone solves none of these. | `accepted conditional burden map` |
+| C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed principal ANDC refinement` |
+| C685 | $\Phi_x^C$ constrains the kind, unity, form, powers, origin structure, and admissible bearer-careers of $x$ but does not settle its exact actual career; autonomous settlements remain creaturely contributions to $H_x^*$. | `accepted agency constraint on C684` |
+| C686 | $ANDC^{\Phi}$ must make whole constitution non-replaceable and explanatorily distinct from ordinary existential grounding; otherwise it collapses into verbal overlap and $OEC^+_{CCD}$ regains comparative force. | `open load-bearing test` |
 
 ## Rejected or corrected moves
 
@@ -983,6 +994,9 @@
 | R269 | A token-specific origin must be a single punctual event or date. | `rejected` |
 | R270 | Fertilization, twinning, fusion, or first consciousness by itself settles the metaphysical onset of the human individual. | `rejected` |
 | R271 | Eternalism makes onset automatically sharp, makes formation unreal, or makes the creature exist eternally before its temporal career. | `rejected` |
+| R272 | Identity must itself be either a material object or an immaterial substance. | `rejected category collapse` |
+| R273 | Bodily realization of human consciousness by itself entails reductive physicalism. | `rejected entailment` |
+| R274 | An immaterial or non-spatial feature must be a separately located substance acting alongside the body. | `rejected entailment` |
 
 ## Challenges
 
@@ -1016,3 +1030,4 @@
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | `tested F2; no positive SQBlock witness` |
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | `scoped in S78; ontology branch before ethics` |
+| CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | `integrated into S82; partial F2 answer` |

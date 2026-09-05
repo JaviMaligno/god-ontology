@@ -29,6 +29,20 @@ From [U18](../corpus/transcript.md#user--u18) onward, the author comments select
 
 The conversation between author and assistant is the primary deliberative instrument of the project. Proposals, objections, revisions, and reasons must be made visible in the conversation so the author can shape them. Repository documents preserve memory, decisions, provenance, and continuity across sessions or context compaction; they do not replace the discussion or function as a hidden venue in which the ontology advances without the author.
 
+### Argumentative source disclosure
+
+A source is **inferentially active** whenever it is used to support, reject, limit, extend, or help derive a project claim. In that case, the assistant must disclose the following in the same conversational reply in which the source does that work:
+
+1. the exact source and the portion actually inspected;
+2. the reconstructed argument: premises, inferential step, and conclusion;
+3. the exact project claim on which it bears and whether its role is support, objection, limit, extension, or derivational input;
+4. assumptions imported by the argument and assumptions the project declines to import;
+5. scope limits, live replies, and the project's resulting assessment.
+
+The reconstruction must be detailed enough for the author to judge the reasoning without trusting the author's name or the assistant's verdict. A citation, a named example, publisher metadata, or an abstract may establish only what it actually contains. If the relevant argument has not been inspected closely enough to reconstruct it, the source may not alter commitment status or priority.
+
+This rule is symmetric: positive authorities and objections receive the same treatment. It also separates three voices that must never be blurred: **what the source argues**, **what the project infers from it**, and **what the author chooses**. A source mentioned only for vocabulary, historical precedent, discovery, or broad contrast is labeled **non-inferential background** and needs no full reconstruction. Session records preserve the disclosure, but writing it to the repository does not replace telling the author.
+
 ## Two registers and the accessible track
 
 The project maintains two registers of exposition over one set of commitments. The argumentative register builds, tests, and records the ontology. The accessible register, governed by [accessible-track.md](accessible-track.md), expresses the same commitments in ordinary first-person language, states their status in plain words, and connects them with the experiential layer described below. The accessible register is downstream and may not claim more than the ledger supports. It is not passive: a plain question the ledger cannot answer faithfully becomes a research item under the priority discipline, filled in the argumentative register under the author's criteria and then translated. The popular image of an analytic left hemisphere and an experiential right one is used only as a metaphor for the two registers.
@@ -136,6 +150,8 @@ Likewise, compare the project with a named position once per substantive issue o
 
 A named author supplied as an example is a research pointer, not an instruction to inherit that author's derivation. Reconstruct the argument from the project's own accepted or preferred premises first. Historical premises may be borrowed only when independently supported here and when they do not make the attribute order circular.
 
+No named example or literature reference may raise, lower, or constrain a claim unless it passes the argumentative source-disclosure protocol above. When a source merely identifies an established comparison family, say so and do not present the family as evidence for the selected conclusion.
+
 Do not manufacture symmetry. A well-supported working choice need not be suspended merely because an imaginable alternative exists. Record why it is preferred and what evidence could overturn it.
 
 Maintain the [challenge register](challenge-register.md) at several attack depths. Q0 preserves ordinary questions the final account must answer intelligibly; Q1–Q3 test definition, coherence, and rival explanations; Q4 tests whole-architecture integration; Q5 tests exact formal consistency and countermodels. Depth measures the type of attack, not its importance or current status. Link deeper variants back to the ordinary question rather than allowing technical refinement to make the motivating problem disappear.
@@ -160,9 +176,11 @@ Compare formulations at the level of commitments and formal consequences, not me
 4. State the current preferred answer before expanding alternatives.
 5. Define ambiguous terms and identify the inference type.
 6. Develop the strongest live alternatives and objections in proportion to the target depth.
-7. Apply explicit corrections, then the U18 default-acceptance rule; decide what is promoted, retained at its proposed level, demoted, rejected, or left open. Proactively reopen an accepted point when a materially better rival appears, but present the comparison and downstream cost for authorial evaluation before replacing it.
-8. Update the ledger, development map, glossary, architecture, novelty map, and treatise outline only where the session changes them.
-9. End with the next conceptual, formal, or research task; do not restate the whole ontology.
+7. For every inferentially active source, give the author the required source-and-argument disclosure before allowing it to affect the result; label merely taxonomic or historical mentions as non-inferential.
+8. Apply explicit corrections, then the U18 default-acceptance rule; decide what is promoted, retained at its proposed level, demoted, rejected, or left open. Proactively reopen an accepted point when a materially better rival appears, but present the comparison and downstream cost for authorial evaluation before replacing it.
+9. Update the ledger, development map, glossary, architecture, novelty map, and treatise outline only where the session changes them.
+10. If an accessible answer was added or revised, reproduce the exact question and full new answer in the reply; for a revision, the exact changed passage suffices when its location and replacement are unambiguous. State its status. If only a question was banked, say that no answer was written.
+11. End with the next conceptual, formal, or research task; do not restate the whole ontology.
 
 Use [the session template](../sessions/TEMPLATE.md) so future conversations can span many sessions without becoming another monolithic dump.
 
@@ -262,3 +280,5 @@ These modules remain conditional on the upstream case for a necessary agent. The
 77. Address the meta-modal ground of uninstantiated profiles while banking the author's new questions on nothing, time, evil, and identity under the priority rule. Proposed in S78: bounded constitutive primitivism adds alien-profile coherence as the distinctive irreducible residue alongside prior logical and identity structure, treats no profile as a concrete possible being, keeps non-volitional divine-essential grounding as selective F3, distinguishes *ex nihilo* from causation by nothing, makes token onset temporal under E+, and separates structural vulnerability from token permission. If retained, the trunk moves to deeper constitutive content for $ANDC$.
 78. Correct S78 after direct author review. Completed in S79: bounded constitutive primitivism is retained; Shoemaker is restricted to the local/interval thesis and no longer used against whole-history dynamicity; the nothing prompt is restored as a comparative preference for theism and genuine *ex deo* continuity; $ANDC$ replaces disjoint $OEC^+_{CCD}$ as the principal creation hypothesis; and “first stage” is demoted to a temporal boundary while $CTI_G$ supplies a positive but non-reductive individuation proposal. The active trunk is the relational/intrinsic/primitive finite-determination fork inside $ANDC$.
 79. Remove the residual punctual-onset assumption after author review. Completed in S80: a life-set need not contain its lower boundary; temporal topology, formation dynamics, boundary determinacy, and bearer kind are separated; $\Omega_x$ replaces a punctual origin anchor; and $CTI_G^{\Omega}$ locates created individuation holistically in one complete source-bearing career without reducing numerical identity. Human biological onset remains open, while integration with $ANDC$ stays the trunk priority.
+80. Make source use and accessible-answer revision conversationally auditable. Completed as a standing method rule in S81: every inferentially active source now requires exact argument disclosure, and every accessible answer change requires an exact same-reply question-and-answer or delta report.
+81. Integrate the author's identity/consciousness locus questions into the active $ANDC$ priority. Proposed in S82: location, bearer, realization, and ground are separated; identity is not another material or immaterial component; consciousness remains embodied without reductive entailment; and $ANDC^{\Phi}$ combines relational divine constitution, creature-intrinsic finite form, and a primitive typed bridge. The next burden is to distinguish non-replaceable whole constitution from ordinary grounding.

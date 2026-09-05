@@ -49,7 +49,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | individuation, persistence, consciousness, recreation, divine tasks, self-copy, *ex deo* | `tested F2` |
-| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (partial) |
+| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | divine goodness, providence, intervention, agency ecology, privation, creation reasons | `tested` (narrowed to $G_3$ in S90) |
 | CH20 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | personal availability, experiential access, epistemology of the fourth layer, intervention typing | `scoped` |
 | CH21 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | P-gap closure, personal identity, E+, ACO, embodied agency, hell as privation, divine goodness | `tested` (partial) |
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | personal continuation, mind–body realization, individuation, divine re-realization, P-gap closure | `tested` (partial) |
@@ -60,6 +60,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | contingency, explanatory stopping points, creation, material production, scientific access | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | time, materiality, secondary causation, privation, P-gap, divine permission | `scoped in S78; ontology branch before ethics` |
 | CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | identity, consciousness, embodiment, mind–body realization, $ANDC$, creaturely sourcehood | `integrated into S82; partial F2 answer` |
+| CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 
 ## Priority gate after S26
 
@@ -210,6 +211,8 @@ S45 and S71 then remove two mixed-action ambiguities. $PP_G$ excludes identity-b
 
 The cumulative result is $OMP_Q^{\mathcal O_*}$ at F2: every task kind licensed by the preferred ontology has a conditional range assignment. S73 addresses the first cross-ontology branch, and S77 corrects its modal scope. Creation is existential dependence; under C04 any actual $NCC_G(L)$ would have to be non-contingent, but excluding a non-actual brute contingent independent concrete requires the separate $CTD_G$ bridge. Role-based uniqueness does not alone exclude an idle necessary independent concrete, while proposed $ACD_G$ abductively excludes it from actual reality. Full $UCD_G$ remains the conditional all-history closure. Without that closure or another range bridge, only a fully specified `NCCBlock`—an eligible task, an underived $L$-boundary, and failure of strong divine capacity—defeats cross-ontology $OMP_Q$; mere coexistence does not. S74 then closes the novel-kind audit by immediate-patient topology and isolates `SQBlock` without finding a positive witness. CH05 is tested at F2; unrestricted range remains preferred rather than demonstrated and reopens only through those exact forms or an in-model failure.
 
+S84, on the question-driven branch, reached the same conditional closure in parallel by a weaker-premise route: a fact-level limiter condition ($Limiter_G$, C690) that every $NCCBlock$ must meet, and the no-limiter lemma from $MGC^+\land MUU$ (C691–C692). S85 reconciles the two: S73's $UCD_G$ and $NCCBlock$ are canonical; the branch's bridge and lemma are retained as refinements with their condition on $MUU$ recorded (C696).
+
 S31 adds a boundary test. Constitutive transcendence and relational immanence show that direct action does not require spatial entry or substantial overlap. The F2 analysis must therefore keep apart: power to act on any created relatum, power to originate a disjoint created substance, and any possible power to produce a constitutively overlapping manifestation. It must ask whether the last description is coherent with $UPSS$ and $CCD$, whether it is merely optional, and whether inability to destroy an essential divine identity is an incoherent task rather than a power defect.
 
 ## CH06 — Designed welfare reversal
@@ -320,6 +323,8 @@ PurportsRef(i,\rho)\not\Rightarrow\exists x\,Ref(i,x).
 \]
 
 Actual reference requires an actual relatum, a successful demonstrative, causal, acquaintance, memory, linguistic-historical, or descriptive route, and role-fit. Merely possible satisfaction is assessed independently by `Adm_C`, which adds no possible individual. Public fiction minimally adds actual artifacts, practices, and stabilized dossier-roles evaluated under $In_F$; dependent abstract characters remain an optional stronger theory. Content is causally relevant through the actual contentful episode and the integrated subject, not through a non-existent target or an abstract type acting as a second cause. ACO/$ASA$ know the actual episode, while MKO tracks its modal satisfaction. Original intentionality, the general ontology of abstract types and cultural artifacts, and empty-name semantics remain selective deeper questions. The author's advance to S77 accepts C624–C633 at their stated levels and closes CH14 at the current F2 target without claiming a reduction of intentionality.
+
+The question-driven branch reached a matching account in parallel (S89, C712–C717); S92 reconciles it as merged into C624–C633.
 
 ## CH15 — Cumulative control and diachronic authorship
 
@@ -469,6 +474,10 @@ S49 supplies that partial result. Cases 1 and 3 receive the policy-level source 
 
 S75 tests C526's prior question whether any P-directed reason belongs to the profile. It adds reason-ground to the C521 form, separates applicability, uptake, exercise, and orientation, and derives pro tanto P-reason applicability to $G$ conditionally on $Fit_*$. The cumulative otherness, sourcehood, $ASA$, and relation profile abductively favors uptake through a participant rather than a merely instrumental reading. A thin favoring $r_P$ is therefore preferred at F2: structure-indexed in creative deliberation and de re bearer-indexed only after actuality. This does not close CH19: $GoodOrient_P(G)$ still requires every relevant P-response to be undefeated, hence no gratuitous suffering and adequate bearer horizons. The live challenge is now the move from thin uptake to exhaustive orientation, not the bare existence of any P-reason.
 
+S87 decomposes $GoodOrient_P$ into non-gratuitousness ($G_1$), non-instrumentalization ($G_2$), and bearer-level closure ($G_3$), and shows that $G_2$ is already earned from the truthful-relation anchor (C699), that every permission has a reason though not necessarily a cover (C700), and that of C526's routes only the first, in requiring mode, closes $G_3$, at the cost of continuation for every uncovered bearer as an admissibility condition (C702). A third route, divine affective regard, is recorded and not adopted (C703). The challenge stays `tested`; what remains is $G_1$ and $G_3$, and the choice among routes is the author's (C704).
+
+S90 records the author's choice: Route 2′ and Route 1 in favoring mode are adopted (C718–C719). $G_1$ is thereby earned and $G_3$ becomes a defeasible presumption; the P-gap narrows to the guarantee of $G_3$ (C720), and the register's belief is the completion of that presumption (C721). Route 3 is opened as CH30 (C722).
+
 ## CH20 — Veridicality of experiential access
 
 S46 distinguishes experience veridical of standing presence, veridical of exercised regard, and non-veridical. The challenge is to specify, beyond that partition, which features of an experience or of the subject's practice bear on veridicality and which defeat it, without making the experiential register either self-authenticating or empty.
@@ -603,3 +612,14 @@ The useful formal distinction is among whole-history and interval claims, absolu
 **Q5 — exact test:** Supply semantics or a model in which `ConstitutivelyEssentialTo(G,x)` differs from mere `Depends(x,G)`, preserves $PP_G$, $CreatedOther$, $SourceSep$, and $CTI_G^{\Omega}$, and leaves more than one contrastively different $H$ admissible under the same $\Phi_x^C$.
 
 S82 answers Q0 at a partial level and proposes a combined route for Q4. Q5 is now the active test of C686. No new literature is used to establish that proposal.
+
+## CH30 — Love, divine affect, and the affective route to the P-gap
+
+**Status:** `opened in S90 by the author's questions; typed in S91 (C723–C728); Route 3 developed, not adopted`
+
+**Scope:** love typed under the anchors; the biological origin of the capacity versus the objectivity of its fit; interpersonal love and love of $G$ under asymmetric communication; $G$'s love for each subject (volitional, from C718–C719 with $ASA$ and $UPA$) and what affective regard (Route 3, C703) would add; $G$'s self-love under $MCS$ and the absence of divine misfit; the cost of passibility.
+
+The challenge is the ontological core of the author's questions after S87. Its power-side consequence is Route 3: if $G$ has affective regard toward creatures, $P$-orientation follows by the mechanism of C462, and $G_3$ would be earned rather than believed. Its cost is passibility, an account of divine valence (C465), and the stronger acquaintance model (C288). The line is developed, not adopted.
+
+S91 types love as a standing, particular, three-anchor fit with volitional, recognitional, and affective components (C723). Love exceeds biology by its objective fit (C724); love of $G$ is the same genus under the asymmetry of C295–C296 (C725); $G$'s volitional-recognitional love of each subject is earned, the affective component and exercised communion are not (C726); $G$'s self-love is C462's fit plus true self-knowledge (C727). Route 3 is modeled as an executive intrinsic mode under C288's stronger acquaintance model, with its cost reduced to that one model choice and its gain the guarantee of $G_3$ (C728). The residual is C288 and the Trinitarian question.
+

@@ -6,18 +6,18 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 686 |
-| Rejected or corrected moves (R) | 274 |
-| Challenges (CH) | 29 |
+| Working commitments (C) | 730 |
+| Rejected or corrected moves (R) | 287 |
+| Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 293 |
-| preferred | 248 |
-| other | 90 |
+| accepted | 312 |
+| preferred | 258 |
+| other | 95 |
 | provisional | 25 |
-| open | 12 |
-| merged | 9 |
+| merged | 18 |
+| open | 13 |
 | deferred | 4 |
 | superseded | 3 |
 | rejected | 2 |
@@ -27,6 +27,7 @@
 | tested | 19 |
 | scoped | 9 |
 | integrated | 1 |
+| opened | 1 |
 
 ## Working commitments
 
@@ -495,7 +496,7 @@
 | C461 | Necessitarianism is excluded as a working option. | `accepted exclusion` |
 | C462 | $Fit_*$ can be grounded in $G$ non-circularly: $G$ necessarily instantiates the kinds from which the sourcehood and truthful-relation anchors take their fit conditions, and existentially and modally grounds the kind fixing the valence anchor, all established without evaluative premises. | `provisional` |
 | C463 | $G$'s established profile is good-oriented toward sourcehood and truthful relation: $GoodOrient_S(G)\land GoodOrient_R(G)$. | `preferred`, earned in the architecture |
-| C464 | $GoodOrient_P(G)$ — divine orientation toward the valence of created subjects — is not earned; this P-gap is where the problem of evil enters the architecture. | `accepted`, structured |
+| C464 | $GoodOrient_P(G)$ — divine orientation toward the valence of created subjects — is not earned; this P-gap is where the problem of evil enters the architecture. | `accepted; narrowed to $G_3$ by C718–C720 (S90): $G_1$ and $G_2$ earned, $G_3$ a presumption`, structured |
 | C465 | Good-orientation is not omnibenevolence; the latter requires universality over anchors, bearers, contexts, and acts, a no-misfit guarantee, and an account of divine valence. | `accepted` |
 | C466 | Divine direct address is an exercise of personal availability typed as a circumstantial or informational contribution or as bare regard; it is never a source override. | `preferred` |
 | C467 | An experience presenting $G$ as present, addressing, or responding can be veridical of standing ontological presence, veridical of exercised regard, or non-veridical; the three cases have different truthmakers. | `accepted distinction` |
@@ -510,7 +511,7 @@
 | C476 | The thesis that robust agency requires difficulty remains an optional theological layer and is not used in the derivation of covers. | `accepted status` |
 | C477 | Policy-level covers do not close bearer-level misfit; the $R$ anchor forbids treating a bearer's suffering as a mere vehicle for others' goods; bearer-level closure requires undefeated fit within the bearer's own horizon. | `accepted` |
 | C478 | For bearers whose lives end in uncovered suffering, full closure of the P-gap requires an extended bearer horizon; personal continuation is thereby a load-bearing open question. | `accepted dependency` |
-| C479 | The belief that $G$'s goodness extends to conscious valence has the content that no actual suffering is gratuitous and that bearer horizons suffice; it is held as faith in the C200–C202 sense, with apparently gratuitous cases as non-culpably attended counterevidence. | `accepted specification` |
+| C479 | The belief that $G$'s goodness extends to conscious valence has the content that no actual suffering is gratuitous and that bearer horizons suffice; it is held as faith in the C200–C202 sense, with apparently gratuitous cases as non-culpably attended counterevidence. | `accepted specification; related to the profile by C721 (S90)` |
 | C480 | Personal continuation is the numerically same conscious bearer existing after the cessation of its embodied realization base, with an undefeated $P$-fit horizon; it may be located in any domain within complete actual reality $\mathfrak R^*$, not only in created spacetime. | `accepted definition` |
 | C481 | Transpersonal continuity, memory in others, descendants, replicas, or qualitatively identical successors do not satisfy the bearer-level requirement. | `accepted` |
 | C482 | Continuation is coherent under every live realization model of the unified subject, by persistence of a subject-level bearer or by re-realization of the same individual; the identity burden is discharged by simple persistence rather than by a criterion (S53). | `preferred` |
@@ -525,7 +526,7 @@
 | C491 | Matter is either contingent, yielding $OEC^+$, or necessary, yielding co-fundamental matter. | `accepted dilemma` |
 | C492 | Integrated divine powers are aspects: essential, incapable of existing without $G$, not grounding $G$'s identity, and individuated by manifestation-type. Aspects are not ingredients, so $MCS(G)$ is preserved. | `preferred` |
 | C493 | Subject-level and aspect-level causal descriptions of a divine exercise are not rival causes. | `accepted` |
-| C494 | A non-destructive strict *ex deo* manifestation is coherent with $UPSS$, $CT$, and $ASP_G$ only under a non-inheritance principle $NI$ on which a mode or constituent may instantiate $\Pi_{phys}$ while its subject does not; $NI$ is unmotivated within the project. | `conditional result` |
+| C494 | A non-destructive strict *ex deo* manifestation is coherent with $UPSS$, $CT$, and $ASP_G$ only under a non-inheritance principle $NI$ on which a mode or constituent may instantiate $\Pi_{phys}$ while its subject does not; $NI$ is unmotivated within the project. | `conditional result; superseded by S71` |
 | C495 | Created subjects are $Substance_T$ whose material profile is instantiated by their realization base; re-realization would be re-instantiation of $\Pi_{phys}$ by the same identity unit. | `accepted scope` |
 | C496 | Under S51's weak explanatory weighting, $OEC^+$ with $CCD$ left fewer unexplained residues than co-fundamental matter or the then-underspecified non-destructive strict-*ex-deo* family. | `historical comparison superseded by C660` |
 | C497 | Token autonomy at every moment is compatible with a curator policy under which every originable sequence of choices yields a profile in a target set; such funnelling removes diachronic authorship. | `accepted` |
@@ -718,6 +719,50 @@
 | C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed principal ANDC refinement` |
 | C685 | $\Phi_x^C$ constrains the kind, unity, form, powers, origin structure, and admissible bearer-careers of $x$ but does not settle its exact actual career; autonomous settlements remain creaturely contributions to $H_x^*$. | `accepted agency constraint on C684` |
 | C686 | $ANDC^{\Phi}$ must make whole constitution non-replaceable and explanatorily distinct from ordinary existential grounding; otherwise it collapses into verbal overlap and $OEC^+_{CCD}$ regains comparative force. | `open load-bearing test` |
+| C687 | Reconciliation after the trunk's S71–S72 and the citation pass: C494's $NI$ condition is superseded by S71; WFR (C550) rests on the project's own well-foundedness of the grounding order (C29–C30, S39) and is recorded as a project commitment, not as a theorem of the grounding literature; S48 and S53 are project-specific derivations with direct precedents (Murphy, Merricks); no other branch row changes status. | `accepted reconciliation` |
+| C688 | The question bank is open to questions the branch proposes on its own, provided they are genuine, colloquial, relevant to the ontology, and useful for the author's understanding and self-recognition; they enter as `abierta` or `parcial` unless a session already answers them. | `accepted author direction` |
+| C689 | A distinct non-created concrete relatum $NCC(L):=Concrete(L)\land\neg Created(L)\land L\neq G$ falls into one of three cells by modal status and dependence: underived necessary, derived necessary (emanation), or underived contingent (brute); derived contingent concreta are created. Necessary abstracta and plural persons of one being do not satisfy $NCC$. | `merged into C587 and C590 (S85)` |
+| C690 | A non-created concrete limits $G$ only if some contingent fact concerning it has no ultimate existential or originative ground in $G$: $Limiter_G(L):=NCC(L)\land\exists p[Concerns(p,L)\land Contingent(p)\land\neg UltGround(G,p)]$. Its necessary features are constraints, its $G$-grounded contingent features are dependent conditions, and its own settlings as a dependent agent are role mismatches. | `accepted diagnostic definition; retained refinement of C599 (S85): $NCCBlock_G(L,a)\rightarrow Limiter_G(L)$` |
+| C691 | **Extended modal grounding coverage $MGC^+$:** necessarily, every contingent fact concerning a concrete has an underived concrete ultimate existential ground. | `preferred, not demonstrated; intermediate between $CMU_G$ and canonical $UCD_G$ (C591; S85); the modal total-grounding bridge C640 names for $CTD_G$ (S93)` |
+| C692 | **No-limiter lemma $NLL$:** $MGC^+\land MUU\rightarrow\neg\Diamond\exists L\,Limiter_G(L)$. | `preferred F2 conditional consequence; retained refinement of C600 (S85), conditional on reading $MUU$ over the grounds of contingent facts` |
+| C693 | Under $MGC^+\land MUU$ the only possible non-created concreta are emanations (necessary and grounded in $G$) and inert necessary concreta; neither is a limiter, and neither belongs to $\mathcal O_*$: emanation requires a necessary divine exercise, contrary to the contingency of every $OEC^+$ exercise, and an inert necessary concretum either fails a causal criterion of concreteness or, if it grounds its own contingent states, falls under $MUU$. | `partially superseded by C586 and C593 (S85): emanations are creatures *ab alio*; the inert independent concrete is what $UCD_G$ excludes` |
+| C694 | The only tasks concerning a surviving non-created relatum that pass $Task_G$ are contingent, essence-compatible state changes; creating or annihilating a necessary relatum is not an eligible task, and its own settlings as a dependent agent are not divine tasks. Their range would extend $CC_G^{elig}$ and $HI_G^{elig}$ to dependent non-created bearers, a burden of any ontology that adopts such relata. | `merged into C595–C598 (S85)` |
+| C695 | The non-created-relatum condition on unrestricted $OMP_Q$ reduces to $MGC^+\land MUU$: a limiting non-created concretum is possible exactly when one of them fails, so unrestricted $OMP_Q$ over concreta is as strong as conditional modal ultimity and no stronger. The remaining cross-ontology test is an independently motivated novel action kind. | `refined by C600 (S85): the existence question closes under $UCD_G$, the blocker question already under $MGC^+\land MUU$` |
+| C696 | Reconciliation of S84 with the author's S73: creation as existential dependence (C586), $UCD_G$ (C591), and $NCCBlock$ (C599) are canonical; the branch retains the bridge $NCCBlock_G(L,a)\rightarrow Limiter_G(L)$ and the no-limiter lemma as a weaker-premise route to the power conclusion, with its condition on $MUU$ recorded; the branch's taxonomy, emanation cell, and task list are merged or superseded. | `accepted reconciliation` |
+| C697 | The accessible register may not assert a settled ground for necessary truths, numbers, or ideas: they are neither made as the world is made nor human inventions, though our symbols and concepts are ours; they are not things apart from $G$ that compete with him; their ultimate ground is open between the structure of $G$'s own nature and authorless necessary truth (C350–C351). | `accepted author correction; decided in S88 (C706, C711)` |
+| C698 | $GoodOrient_P(G)$ decomposes into $G_1$ (no permitted suffering is gratuitous), $G_2$ (no bearer's suffering is a mere means to others' goods), and $G_3$ (every bearer's suffering is covered within the bearer's own horizon); $G_3$ entails $G_1$ and $G_2$. | `accepted analysis; refinement of C622 (S92)` |
+| C699 | $G_2$ follows from the earned orientation toward truthful relation: permitting a bearer's suffering for others' goods with nothing for the bearer is the vehicle treatment $R$ forbids (C477). The first $P$-relevant disposition is earned, from $R$ and not from valence. | `preferred derivation; retained beside S75, which does not derive $G_2$ (S92)` |
+| C700 | Every divine permission is a reason-guided settlement, since non-prevention by an aware and able $G$ is intentional refraining (C577) and divine settling is for reasons (C109, C460); but a reason is a cover only if it targets an anchor and defeats the misfit (C473), so $G_1$ is not earned. | `accepted scope result; consistent with C617 (S92)` |
+| C701 | C526's second route yields cognitive regard only ($ASA$; C96). Its conative variant, Route 2′, with the explicit premise that adequate recognition of a subject counts the subject's anchors among defeating considerations, yields $G_1$ but not $G_3$. | `preferred analysis; Route 2 as S75 also finds (C619); Route 2′ retained (S92)` |
+| C702 | C526's first route (otherness as for-the-sake-of) closes $G_3$ only in requiring mode, and then entails, as an admissibility condition on every eligible history, the continuation of every bearer whose embodied life ends in uncovered suffering (C478, C485); in favoring mode it yields a defeasible presumption and closes nothing. | `accepted result; the mode analysis of $r_P^{thin}$ (C621) (S92)` |
+| C703 | A third route, divine affective regard toward creatures, would ground $P$-orientation by the mechanism of C462, since $G$'s profile is fit toward the anchors $G$ instantiates and $G$ is attributed no valence; its costs are passibility, an account of divine valence (C465), and the stronger acquaintance model of C288. | `open route; not adopted; placement refined by S74 (C604–C612): affect as executive mode or as $CNBIM$ (S92)` |
+| C704 | The accessible register's belief that $G$ is good in what we feel is Route 1 in requiring mode: its content is $G_3$ and its consequence is continuation, as C479 states; Route 2′ alone would earn $G_1$ and leave the belief at $G_3$. | `accepted specification` |
+| C705 | Necessary structure is grounded neither in $G$'s will, since a willed necessity would have alternatives and be contingent, nor in $G$'s knowledge, since MKO tracks admissibility (C355), nor in $G$'s power (C274, C529), nor in a rival concrete ground (C264, C351). | `accepted exclusions; within the F3 direction of C652 (S93)` |
+| C706 | **Essential-structure grounding $ESG$:** logical and identity truths hold in virtue of $G$'s nature and of every dependent by its dependence ($ESG_1$); a type-level constitutive profile is admissible iff it is a way $G$'s being can be participated by a dependent, $\Box\forall\pi[Adm_C(\pi)\leftrightarrow Participable(\pi,Nat(G))]$ ($ESG_2$); mathematical structure is the structure of possible plurality so grounded. | `proposed F3 direction (C652); the trunk stops at $BCP$ (C649) at F2+ (S93)` |
+| C707 | $ESG$ changes no clause of $Adm_C$ and preserves criterion independence (C343, C529, C542); it supplies the ontological dependence C343 left open and sits upstream of $CP_G^{elig}$, adding no premise to it. | `accepted clarification; within the F3 direction of C652 (S93)` |
+| C708 | Primitive necessity is the coherent fallback to $ESG$, disfavored by WEP as a second unexplained fundamental; an independent abstract realm is rejected as a stopping point by the grounds that support $UCD_G$, with the brute concordance between what the realm permits and what $G$'s nature admits as the decisive cost. | `preferred comparison; within the F3 direction of C652 (S93)` |
+| C709 | The bootstrapping objection reads grounding as production; “true in virtue of a nature” is neither causal nor prior to the nature, so logical truths and truths about $G$ are grounded in $Nat(G)$ without regress or circle. | `accepted reply; within the F3 direction of C652 (S93)` |
+| C710 | $ESG$ preserves $MCS$ (participable ways are not constituents), the contingency of creation (C111, C363), and the order of the argument to $G$: the argument uses logic as a tool and $ESG$ explains the tool downstream. | `accepted compatibility; within the F3 direction of C652 (S93)` |
+| C711 | The accessible register's decided answer on numbers, ideas, and necessary truths: not made, since no exercise produced them; not apart from $G$, since they are $G$'s way of being as shareable; not ours, since we abstract them from a created order made according to them. | `accepted specification; within the F3 direction of C652 (S93)` |
+| C712 | An act of imagining or thinking has an actual act, an actual vehicle (the representational organization realized by the act), an objective satisfaction condition (a specification, complete or partial, grounded as in C706), and an actual referent if any; content is vehicle plus satisfaction condition, with no further abstract entity. | `merged into C624–C633 (S92); was: preferred F2 partition` |
+| C713 | Reference is a relation to actual items under an anchoring relation (causal-historical, descriptive, or $ASA$ for $G$); when nothing actual meets the condition the act is about a specification; a merely possible individual is a profile plus an assigned label, and no possibile is a relatum. | `merged into C624–C633 (S92); was: preferred F2` |
+| C714 | An impossible content is a satisfaction condition with no admissible completion whose parts are separately satisfiable; it is representable without a satisfier, entertainable because of its parts, and unfulfillable because of their conjunction, for which there is no participable profile. | `merged into C624–C633 (S92); kept as note was: accepted application` |
+| C715 | A fiction is a specification under stipulation with an actual authorial provenance; fictional characters are individuated by provenance, not by a possibile; truths in fiction are actual truths about the stipulated specification and the practice's import rules; no fictional or non-existent objects are posited. | `merged into C624–C633 (S92); was: preferred F2` |
+| C716 | Divine knowledge of thought is ACO of the act, its vehicle, and the fact that it has its content; MKO of the condition's admissibility; and $ASA$ of what the act is like for the subject; there is no possibile to know. | `merged into C624–C633 (S92); was: accepted integration` |
+| C717 | Thought is causally efficacious through its vehicle; content-involving explanation is constitutive explanation of the act's organization, non-competing with causal explanation (C335), so there is neither epiphenomenalism nor overdetermination; how an embodied organization bears a satisfaction condition at all is the intentionality bridge, the same F3 burden as phenomenality. | `merged into C624–C633 (S92); kept as note was: accepted at F2; bridge at F3` |
+| C718 | Route 2′ is adopted as part of the content of $R$: adequate recognition of a subject counts the subject's anchors among the considerations that can defeat and be defeated. With $GoodOrient_R$ (C463), every reason for which $G$ permits a suffering is a cover: $G_1$ is earned. | `accepted author adoption; preferred F2` |
+| C719 | Route 1 is adopted in favoring mode: $\langle P,\text{favoring},\text{creation}\rangle$ and $\langle P,\text{favoring},\text{specification}\rangle$ belong to $\mathcal R_G$: subjects are made actual for their own sake, and structures and interventions that realize bearers' own horizons more fully are more attractive. This yields a defeasible presumption toward bearer-level closure, not $G_3$. | `merged into C621 (S92): $r_P^{thin}$ is the canonical favoring P-reason` |
+| C720 | $GoodOrient_P(G)$ is partial in a precise sense: the profile contains a $P$-reason and satisfies $G_1$ and $G_2$, while $G_3$ is a presumption. The P-gap narrows to the guarantee of $G_3$; the problem of evil enters at $G_3$ only; the threshold residue becomes the question whether the diachronic source cover (C504) defeats the misfit in the gravest cases. | `accepted result; refined by C622 (S92)` |
+| C721 | The register's belief that $G$ is good in what we feel (C479, C704) is now the completion of a presumption the profile contains: that the presumption toward closure is never defeated, that is, that $G_3$ holds, with continuation for the uncovered as its consequence. Continuation remains faith content, not an admissibility condition. | `accepted specification` |
+| C722 | Divine affective regard (Route 3, C703) and love are opened as a research line, CH30: love beyond biology, interpersonal love and love of $G$, $G$'s love for each subject, $G$'s self-love. Volitional love, willing the good of the other, is what C718–C719 earn; affective love is what Route 3 would add. | `research line opened; first typing in S91 (C723–C728)` |
+| C723 | Love is a standing disposition of a whole agent toward a particular subject that is fit toward all three of that subject's anchors ($P$, $S$, $R$), with volitional (willing and serving the good), recognitional (true regard), and affective (felt regard keyed to the beloved's state) components. | `preferred F1–F2 typing` |
+| C724 | Biology explains the origin and realization of the capacity to love through a bridge premise; what makes a loving response fitting is objective fit, so love's significance beyond biology is that fit, and its objects include the dead, the distant future, and $G$. | `preferred` |
+| C725 | Love of persons and love of $G$ are one genus with an asymmetric species: toward $G$ the serving and protecting parts have no work, and what remains is truthful recognition, uptake of and consent to the relation, willing what $G$ wills (including the good of creatures, C719), and delight, which belongs to the experiential register (C471). | `preferred` |
+| C726 | $G$'s volitional-recognitional love of each subject in particular is earned: subject-indexed acquaintance (C284), personal availability (C122), agency preservation at both levels (C115, C501), and, after S90, otherness for its own sake with favored closure of each horizon (C718–C719), with bearer-indexed fit. Exercised communion (co-produced, C124) and the affective component are not earned. | `preferred; affective component open` |
+| C727 | $G$'s self-love is the fit of $G$'s dispositions toward what $G$ is (C462's mechanism) together with $G$'s true self-knowledge (C47); it has no serving component, since there is no divine misfit; the affective component is not attributed; the Trinitarian requirement of another within $G$ is set aside with CH01's fourth variant. | `preferred; affective component not attributed` |
+| C728 | Route 3 developed: divine affective regard modeled as an executive intrinsic mode (C581) of the joint exercise of $ASA$ and volitional love, under C288's stronger acquaintance model; no new power kind, $PP_G$ and $MCS$ preserved, impassibility given up only in the weak sense S72 admits (contingent occurrent aspects); if adopted, the $P$-disposition becomes bearer-indexed and standing and C462's mechanism yields $GoodOrient_P$ and $G_3$. | `developed, not adopted; refined by C604–C612 (S92): if affect is a $CNBIM$ rather than an executive mode, Route 3 also needs the self-affective bridge S74 declines` |
+| C729 | Reconciliation of the branch's S83–S91 with the author's S74–S76: the thin P-reason (C621), the corrected orientation condition (C622), and the token-real target-role account of thought (C624–C633) are canonical; the branch retains the $G_1$–$G_3$ decomposition, the derivation of $G_2$ from $R$, Route 2′, the love typing (CH30), and $ESG$ as a proposal for the meta-modal gap; its CH14 account is merged and its Route 3 placement is refined by $CNBIM$. | `accepted reconciliation` |
+| C730 | Reconciliation of the branch with the author's S77–S82: $ACD_G$ and the graded $UCD_G$ (C634–C644), bounded constitutive primitivism (C649–C652), the onset and correction sessions, and the reporting rules (C677–C679) are canonical; the branch's $MGC^+$ is the $CTD_G$ bridge of C640, its $ESG$ is retained as the F3 direction C652 names, and its sessions follow C677–C679 from S93 on. | `accepted reconciliation` |
 
 ## Rejected or corrected moves
 
@@ -997,6 +1042,19 @@
 | R272 | Identity must itself be either a material object or an immaterial substance. | `rejected category collapse` |
 | R273 | Bodily realization of human consciousness by itself entails reductive physicalism. | `rejected entailment` |
 | R274 | An immaterial or non-spatial feature must be a separately located substance acting alongside the body. | `rejected entailment` |
+| R275 | $MUU$ entails that no necessary concrete other than $G$ is possible. | `rejected overreach` |
+| R276 | $MGC^+$ is demonstrated because $U_G$ holds actually. | `rejected` |
+| R277 | The necessary existence of an emanated or inert concretum, which $G$ cannot annihilate or refrain from grounding, is a divine incapacity. | `rejected` |
+| R278 | $GoodOrient_R(G)$ entails $GoodOrient_P(G)$. | `rejected` |
+| R279 | Because every divine permission is reason-guided, every permitted suffering is covered. | `rejected` |
+| R280 | $ASA$'s acquaintance with a subject's suffering entails conative orientation toward that subject's valence. | `rejected` |
+| R281 | $G$ wills the necessary truths, which could therefore have been otherwise. | `rejected` |
+| R282 | Grounding necessary structure in $G$'s nature defines possibility through divine power. | `rejected` |
+| R283 | $ESG$ is demonstrated rather than abductively preferred. | `rejected overreach` |
+| R284 | Imagining a merely possible individual is a relation to a possibile. | `rejected` |
+| R285 | Intentional content must be an abstract proposition in a realm distinct from specifications. | `rejected` |
+| R286 | Love is nothing but its biological realization. | `rejected` |
+| R287 | $G$'s love for a creature requires that $G$ be benefited or completed by the creature. | `rejected` |
 
 ## Challenges
 
@@ -1020,7 +1078,7 @@
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | `tested F2` |
 | CH18 | What grounds numerical identity through change, and can the same bearer exist again after a genuine interval of non-existence? | `tested F2` |
-| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | `tested` (partial) |
+| CH19 | Can a $G$ whose established profile is good-oriented toward sourcehood and relation permit created suffering without misfit toward conscious valence; what would close the P-gap? | `tested` (narrowed to $G_3$ in S90) |
 | CH20 | Under what conditions is an experience of $G$ veridical of standing presence or of exercised regard rather than non-veridical, and what defeats it? | `scoped` |
 | CH21 | Does the ontology support an extended bearer horizon — personal continuation — sufficient to cover bearer-level suffering, and what would it require of E+, ACO, the embodied subject, and the privative model? | `tested` (partial) |
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | `tested` (partial) |
@@ -1031,3 +1089,4 @@
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | `scoped in S78; ontology branch before ethics` |
 | CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | `integrated into S82; partial F2 answer` |
+| CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S90; typed in S91; Route 3 developed, not adopted` |

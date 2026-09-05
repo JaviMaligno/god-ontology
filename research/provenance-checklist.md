@@ -1,8 +1,8 @@
 # Provenance Checklist for the Literature Pass
 
 **Prepared:** 2026-09-02 (S69 addendum).
-**Verified:** 2026-09-02 in a networked local pass.
-**Scope:** the two opening John C. Lennox attributions and all sources that S46-S58 and S64 had cited from memory. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book.
+**Verified:** 2026-09-05 after the S82 update.
+**Scope:** the two opening John C. Lennox attributions; all sources that S46-S58 and S64 had cited from memory; and the later targeted S76–S80 source sets. The pass checked bibliographic identity, the fit between source and attached claim, and any effect on the precedent classification. Where only publisher metadata, an abstract, or a reliable reference entry was accessible, the result is not presented as a page-level verification of the whole book or article.
 
 Legend: **V** verified; **Q** verified with a qualification; **C** corrected; **M** metadata verified but the stronger attribution still needs page-level support.
 
@@ -173,13 +173,63 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Amie L. Thomasson, “Fiction, Modality and Dependent Abstracta” (1996) | **V** | The [author-hosted article](https://www.amiethomasson.org/_files/ugd/63fc8a_b7987a44d0ab4ad188da8ae99f2257b4.pdf), *Philosophical Studies* 84:295–320, presents fictional characters as created, multiply dependent abstract artifacts. It is a stronger live alternative to S76's minimum dossier-role account. |
 | William Jaworski, “Hylomorphism, Explanatory Practice, and the Problem of Mental Causation” (2020) | **V/Q** | [DOI:10.2307/48570647](https://doi.org/10.2307/48570647), *American Philosophical Quarterly* 57(1):79–100, argues that hylomorphic structure permits mental and physical causation to be different and non-competing. This supports C631 conditionally on S37; it does not independently prove the project's hylomorphic subject model. |
 
+## S77 — Graded concrete dependence and modal sovereignty (C634-C644)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Aquinas, *Summa Theologiae* I, q. 44, aa. 1–2 | **V/Q** | The [primary text](https://www.newadvent.org/summa/1044.htm) argues that every being apart from God is caused by the first being, including necessary beings and prime matter. It verifies the universal-sourcehood precedent; the derivation depends on participation, uniquely subsistent being, and the wider simplicity framework not accepted here. |
+| William E. Mann, “Divine Sovereignty and Aseity” (2015) | **V/Q** | The [OUP chapter record and abstract](https://doi.org/10.1093/acprof:oso/9780199370764.003.0007) distinguish divine aseity from progressively stronger sovereignty theses. This supports S77's quantifier-direction warning, but the abstract alone does not verify every intermediate level in the chapter. |
+| Gregory J. Robson, “Reconsidering the Necessary Beings of Aquinas’s Third Way” (2012) | **V/Q** | The [journal DOI and abstract](https://doi.org/10.24204/ejpr.v4i1.315) verify the focus on derivative necessary beings in the Third Way. This supports separating necessity from underivedness; it does not establish $NCD_G$ or an origin-essentiality bridge. |
+| Eric Steinhart, “On the Plurality of Gods” (2013) | **V** | The [Cambridge abstract](https://www.cambridge.org/core/journals/religious-studies/article/abs/on-the-plurality-of-gods/B8DA7B15FE34870DF983765B24019B31) explicitly presents ordinal polytheism: necessary concrete gods, each grounding a universe, ordered without a maximally perfect god. It verifies that plural terminal models can be systematic, not that they are compatible with this project's $CMU_G$. |
+| Jonathan Schaffer, “Monism: The Priority of the Whole” (2010) | **V/Q** | The [journal DOI](https://doi.org/10.1215/00318108-2009-025) verifies the priority-monist distinction between how many concrete objects exist and how many are fundamental. The paper concerns the cosmos rather than divine dependence; S77 uses it only as a taxonomy of existence versus fundamentality. |
+
+## S78 — Nothing, bounded modal structure, and temporal identity (C645-C658)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Aquinas, *Summa Theologiae* I, q. 45 | **V** | The [primary text](https://www.newadvent.org/summa/1045.htm) explicitly analyzes “from nothing” as absence of presupposed matter and denies that nothing is a material or causal principle. This directly supports C647; S78 does not import Aquinas's act/potency analysis of creation. |
+| Thomas Baldwin, “There Might Be Nothing” (1996) | **V/Q** | The [OUP DOI record](https://doi.org/10.1093/analys/56.4.231) verifies the article; subsequent literature identifies its subtraction argument with the possibility of a world without concrete objects. It supports treating metaphysical nihilism as a quantified modal thesis rather than belief in a named entity; it does not establish the stronger absence of abstracta or compatibility with necessary $G$. |
+| Brian Leftow, *God and Necessity* (2012) | **V/Q** | The [OUP monograph record and abstract](https://doi.org/10.1093/acprof:oso/9780199263356.001.0001) describe a theory that locates modal work in God and divine mental activity rather than possible worlds or independent abstracta. This verifies the competitor family; S78's diagnosis of conflict with its own anti-circular truth-tracking direction is local. |
+| Aristotle, *Physics* IV | **V** | The [primary translation](https://classics.mit.edu/Aristotle/physics.4.iv.html) treats time as the number or measure of motion/change in respect of before and after. It verifies the relationist precedent, not the framework-neutral entailment rejected in C655. |
+| Sydney Shoemaker, “Time Without Change” (1969) | **C** | The [JSTOR record](https://www.jstor.org/stable/2023892) verifies the article and the global-freeze argument for a changeless interval. S78 overstated its scope: it is relevant to interval density, not to whether a material temporal world's complete history contains any change. S79 supplies the correction. |
+| Denis Corish, “Could Time be Change?” (2009) | **V/Q** | The [Cambridge DOI and abstract](https://doi.org/10.1017/S0031819109000199) state that Shoemaker's argument presupposes absolute time and defend a relationist alternative. The source confirms that the issue is framework-dependent; S78 chooses no final theory of time. |
+| Aquinas, *Summa Theologiae* I, q. 48 | **V/Q** | The [primary text](https://www.newadvent.org/summa/1048.htm) distinguishes privation from pure negation and relates evil to a due good absent in a subject. It supports the inherited privation family; its teleological argument from corruptibility to universal perfection is not adopted by C656–C657. |
+
+## S79 — Corrective pass on Shoemaker, *ex deo*, and identity (C659–C668)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Sydney Shoemaker, “Time Without Change” (1969) | **C** | The [article text](https://erraticwisdom.com/files/time_without_change.pdf) states its target as the claim that something must change during every interval and constructs local freezes whose cycles are then synchronized into an inferred total-freeze interval. It does not challenge whole-history dynamicity $WCh$: changes before and after the alleged total freeze, and the changing regional freeze pattern used to infer it, remain part of the complete history. S78 therefore gave the example the wrong scope; S79 corrects it. |
+| Denis Corish, “Could Time be Change?” (2009) | **V/Q** | The [Cambridge record and abstract](https://doi.org/10.1017/S0031819109000199) argue that Shoemaker assumes the effectively Newtonian absolute time at issue. This verifies that even Shoemaker's interval-level conclusion remains disputed; it is not needed for the weaker $WCh$ adopted here. |
+| Daniel Soars, “Creation in Aquinas: *ex nihilo* or *ex deo*?” (2021) | **V/Q** | The [publisher article](https://doi.org/10.1111/nbfr.12603) argues that, in Aquinas, creation *ex nihilo* can deny any source other than God while remaining compatible with an emanative *ex deo* description. This requires terminological care: the project's substantive preference is for real non-destructive constitutive continuity through $ANDC$, not merely for using the phrase *ex deo*. The article does not establish $ANDC$. |
+
+S79's proposed $CTI_G$ account has not been assigned a standalone literature precedent in this narrow corrective pass. Its unity, origin, career, and irreducible-identity components remain to be compared systematically with origin essentialism, hylomorphism, and non-criterial identity if the account survives the $ANDC$ fork.
+
+## S80 — Onset without a privileged first moment (C669–C676)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Daniel J. Nicholson and John Dupré (eds.), *Everything Flows* (2018) | **V/Q** | The [Oxford record](https://doi.org/10.1093/oso/9780198779636.001.0001) presents the established process-ontological family in which organisms are dynamically maintained processes and biological-process boundaries can be fuzzy or indeterminate. This verifies a comparison family for extended or non-sharp onset; S80 does not adopt the book's naturalistic process metaphysics wholesale. |
+| Louis Guenin, “The Nonindividuation Argument Against Zygotic Personhood” (2006) | **V/Q** | The [Cambridge abstract](https://doi.org/10.1017/S0031819106317044) explicitly tests and rejects the inference from pre-streak twinning capacity to absence of embryonic individuality. This supports treating fission as a disputed stress test rather than an automatic onset criterion; it does not establish zygotic personhood for this project. |
+| Marc Ramsay, “Twinning and Fusion as Arguments against the Moral Standing of the Early Human Embryo” (2011) | **V/Q** | The [Cambridge abstract](https://doi.org/10.1017/S0953820811000057) argues that twinning and most fusion cases do not by themselves eliminate early embryonic individuality, while identifying tetragametic chimerism as a harder case. This supports C675's restraint; moral standing and metaphysical identity remain distinct. |
+
+The topological claim $\inf L_x\notin L_x$ as a live possibility is elementary and does not depend on this literature. The sources establish only that process boundaries and embryonic fission/fusion belong to active comparison families. They do not select sharpness, ontic vagueness, organism onset, or person onset for the project.
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76, with four sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76-S80, with eight sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
 - S53's non-criterial and intermittent persistence has a direct close precedent in Merricks; the project's distinctiveness lies in deriving and integrating it with sourcehood, eternalism, and re-realization.
 - S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
+- S77's sourcehood, aseity, derivative-necessity, plural-terminal, and priority distinctions all have precedents; its contribution is the graded diagnostic integration and the explicit refusal to infer a modal operator from actual explanatory economy.
+- S78's anti-reification distinctions, modal primitivism, divine modal competitor, time–change debate, privation, and non-criterial identity all have precedents; its contribution is their integration with $Adm_C$, temporal token onset, and the separation of structural exposure from token permission.
+- S79 corrects Shoemaker's scope and identifies a close precedent for compatibility between classical *ex nihilo* and an emanative *ex deo*. The project's stronger $ANDC$ selection and $CTI_G$ integration remain local proposals, not source-derived conclusions.
+- S80's processual and non-sharp onset alternatives and its fission/fusion stress tests have established precedents. Its integration of an onset-neutral origin structure with eternalist whole-career constitution and principal $ANDC$ is project-specific.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.
+
+## S81–S82 — Source-use controls and the locus of identity/consciousness
+
+No new source does inferential work in S81 or S82. S81 is a direct authorial method rule. S82 uses “hylomorphic,” “dual-aspect,” “reductive physical,” and “substance dualist” only as non-inferential taxonomic labels for alternatives already mapped and sourced in S37. Its locus decomposition and $ANDC^{\Phi}$ proposal are internal project inferences and remain unassessed for standalone novelty pending a later targeted literature pass.

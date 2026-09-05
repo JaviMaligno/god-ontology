@@ -44,7 +44,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH11 | How can present sacrifice be justified for posthumous projects or future subjects without identity problems, uncertainty, or aggregation making future value either empty or overwhelming? | sacrifice, intergenerational value, E+, ACO, welfare | `tested` |
 | CH12 | What is $G$ made of, if anything, and how can material substance arise from a non-material or differently constituted source? | divine constitution, substance, unity, non-spatiality, ultimity, OEC/PMC, creation | `tested` |
 | CH13 | If bodily or neural processes begin before conscious awareness, has the action already been decided; what entity is the deciding subject? | consciousness, sourcehood, mind–body realization, empirical bridges, divine–creature analogy | `tested` |
-| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `tested F2; bounded closure proposed in S76` |
+| CH14 | What kind of reality belongs to imagination and thought: the actual mental act, its intentional content, and any merely represented or possible object? | consciousness, intentionality, modality, actual/non-actual distinction, causal efficacy | `tested F2; bounded closure accepted after S76` |
 | CH15 | Can cumulative control of an agent's developmental context undermine diachronic authorship while every token choice retains alternatives and sourcehood? | intervention, agency ecology, manipulation, providence, self-formation | `tested` |
 | CH16 | When and how is consciousness produced, is it temporal or atemporal, and what connects it to the person whose consciousness it is? | consciousness, personhood, time, embodiment, emergence, creation, ASA | `tested F2` |
 | CH17 | Could a possible created order be brute or ultimately originate in a source other than the actual necessary $G$? | modal ultimity, uniqueness, creation, qualified omnipotence, PSR | `tested F2` |
@@ -55,8 +55,11 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH22 | What criterion secures the identity of a post-mortem subject with its embodied predecessor under each open realization model, and can gappy existence of one individual be coherent? | personal continuation, mind–body realization, individuation, divine re-realization, P-gap closure | `tested` (partial) |
 | CH23 | How do reductions of diachronic or evaluative authorship by created curators — propaganda, engineered addiction, algorithmic environments, coercive institutions — bear on responsibility by degree, and where is the line between formation and manipulation? | agency ecology, manipulation, responsibility, finite norm construction, moral status | `scoped` |
 | CH24 | Can the same undivided $G$ constitute a numerically distinct creature without depletion, reverse dependence, or collapse of creaturely sourcehood, and which power covers that task? | strict *ex deo*, identity, constitution, creation, omnipotence, agency | `tested F2` |
-| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; conditionally closed under proposed UCD_G` |
+| CH25 | Can a concrete distinct from $G$ be genuinely non-created under the strongest justified uniqueness thesis, and when would it block divine power? | creation as dependence, concrete ultimity, necessary beings, qualified omnipotence | `tested F2; graded closure accepted in S78` |
 | CH26 | Can $G$ non-destructively produce a contingent intrinsic qualification in itself that is neither an executive mode nor a new essential basis, and would inability to do so limit omnipotence? | divine action, identity, constitution, timelessness, consciousness, qualified omnipotence | `tested F2; no positive SQBlock witness` |
+| CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | contingency, explanatory stopping points, creation, material production, scientific access | `tested F2 in S78` |
+| CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | time, materiality, secondary causation, privation, P-gap, divine permission | `scoped in S78; ontology branch before ethics` |
+| CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | identity, consciousness, embodiment, mind–body realization, $ANDC$, creaturely sourcehood | `integrated into S82; partial F2 answer` |
 | CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 
 ## Priority gate after S26
@@ -70,6 +73,10 @@ S30 gives CH12 an F2 response through the underived power-structured subject mod
 S31 refines the creator boundary, S32 completes the CH05 F2 pass, and S33 maps the remaining universal-range bridge. S34 then gives CH03 a local F2 answer by adding actuality-indexed subject acquaintance without making reciprocal second-personal presence automatic. S35 gives CH15 a preferred local F2 capacity/achievement resolution under the default-acceptance rule; practical accessibility remains a selective precision burden. S36 opened CH16, but the author correctly rejected the inference from newest question to next priority. S37 independently justified and completed the CH16 F2 pass because realization was already a load-bearing gap in S22/S29, and its proposals were accepted by the author's subsequent advance. S38 then executes the queued $Poss_C^{ind}$ pass and integrates CH14. S39 tests CH17 because modal source invariance was already the next dependency in the active power bridge. New questions enter the bank without changing the queue unless a dependency audit or explicit authorial order promotes them.
 
 S46–S48 open a question-driven route into the register: plain questions from the accessible track that the ledger cannot answer are recorded as challenges. S47 gives the contingency/ground junction its F2 comparison; S48 earns a good-oriented divine profile toward sourcehood and relation and isolates the P-gap as CH19; S49 tests CH19 partially through permission, policy-level covers, and the bearer-level remainder, and opens CH21 because closure depends on personal continuation. S50 tests CH21 partially: continuation is coherent under every open realization model, within divine power as a further act, empirically undefeated and unsupported, and conditional on $GoodOrient_P(G)$; its identity burden becomes CH22, which waits on the mind–body branch. The track returns to CH12, where S30–S33 already supply the F2 constitution, boundary, and power results; S51 deepens the constitution/production junction. S52 then structures C118: cumulative context control can remove diachronic and evaluative authorship while token autonomy holds, which extends the agency-preservation presumption to the diachronic level and opens CH23 for created-level curation. S53 tests CH22 partially by deriving simple persistence from the agency model. CH20 records the experiential question.
+
+S78 obeyed the same priority rule, but S79 corrects three results after author review. S80 then corrects S79's residual punctual assumption: a life-set need not contain a first instant, and origin is represented by a possibly extended structure $\Omega_x$ rather than one point event. CH18 now receives onset-neutral $CTI_G^{\Omega}$ while cross-gap identity remains deeper. CH27 retains the distinction between absence and a reified Nothing, but the author's actual point promotes genuine *ex deo* continuity over disjoint production and thereby strengthens CH24's priority. CH28 distinguishes whole-history dynamicity $WCh$, which Shoemaker does not challenge, from interval density $ICh$, which his global-freeze construction targets. Structural vulnerability remains separate from token permission.
+
+S82 integrates CH29 into that prior CH24 burden rather than promoting it by recency. The locus decomposition clarifies the embodied subject model, while $ANDC^{\Phi}$ uses it to divide finite determination among a relation on $G$'s side, creature-intrinsic instantiated predicates, and a primitive typed constitution bridge. The active test remains whether whole constitution adds content beyond existential grounding.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -202,7 +209,7 @@ S44 supplies the resulting classification. $CAN_G$ normalizes every pure created
 
 S45 and S71 then remove two mixed-action ambiguities. $PP_G$ excludes identity-breaking pseudo-tasks, and relational $ANDC$ normalizes to root creation while intrinsic modes remain. S72 closes the latter residue within the preferred ontology. Self-executive actions receive a capacity-free definition, an independently established five-kind grammar, the normal form $SEForm_G$, and the prior filter $SEAdm_G$. Formal executive generality $FEG_G$ covers every independently admissible token generated by that grammar but explicitly excludes arbitrary new power kinds. Executive intrinsic modes are established-power exercise tokens and can enter a jointly admissible $ED_{IM}^{exec}$ act; qualitative intrinsic modes are ontology extensions, not hidden counterexamples inside the present model.
 
-The cumulative result is $OMP_Q^{\mathcal O_*}$ at F2: every task kind licensed by the preferred ontology has a conditional range assignment. S73 addresses the first cross-ontology branch. Creation is existential dependence; under C04 any genuine $NCC_G(L)$ must be necessary; role-based uniqueness does not alone exclude an idle necessary independent concrete. Universal concrete dependence $UCD_G$ is therefore proposed at F2 from one-terminal-ground considerations independent of omnipotence. Under it, no such $L$ is possible. Without it, only a fully specified `NCCBlock`—an eligible task, an underived $L$-boundary, and failure of strong divine capacity—defeats $OMP_Q$; mere coexistence does not. S74 then closes the novel-kind audit by immediate-patient topology and isolates `SQBlock` without finding a positive witness. CH05 is tested at F2; unrestricted range remains preferred rather than demonstrated and reopens only through those exact forms or an in-model failure.
+The cumulative result is $OMP_Q^{\mathcal O_*}$ at F2: every task kind licensed by the preferred ontology has a conditional range assignment. S73 addresses the first cross-ontology branch, and S77 corrects its modal scope. Creation is existential dependence; under C04 any actual $NCC_G(L)$ would have to be non-contingent, but excluding a non-actual brute contingent independent concrete requires the separate $CTD_G$ bridge. Role-based uniqueness does not alone exclude an idle necessary independent concrete, while proposed $ACD_G$ abductively excludes it from actual reality. Full $UCD_G$ remains the conditional all-history closure. Without that closure or another range bridge, only a fully specified `NCCBlock`—an eligible task, an underived $L$-boundary, and failure of strong divine capacity—defeats cross-ontology $OMP_Q$; mere coexistence does not. S74 then closes the novel-kind audit by immediate-patient topology and isolates `SQBlock` without finding a positive witness. CH05 is tested at F2; unrestricted range remains preferred rather than demonstrated and reopens only through those exact forms or an in-model failure.
 
 S84, on the question-driven branch, reached the same conditional closure in parallel by a weaker-premise route: a fact-level limiter condition ($Limiter_G$, C690) that every $NCCBlock$ must meet, and the no-limiter lemma from $MGC^+\land MUU$ (C691–C692). S85 reconciles the two: S73's $UCD_G$ and $NCCBlock$ are canonical; the branch's bridge and lemma are retained as refinements with their condition on $MUU$ recorded (C696).
 
@@ -309,13 +316,13 @@ Detailed imagination may provide defeasible evidence when it is stable under scr
 
 S57 supplies the modal-status component: the possibility of imagined content is fixed by $Poss_C^{ind}$ (C528), imaginability is defeasible finite evidence of possibility rather than its constitution (C530), and the act's actuality never confers possibility on its content (C534).
 
-S76 proposes the residual F2 completion. A finite cognitive episode is an actual temporal manifestation of the embodied subject, and its content-profile is an actually instantiated aspect of that token rather than another substance. Its target-role is a position within the content, not an entity:
+S76 supplies the accepted residual F2 completion. A finite cognitive episode is an actual temporal manifestation of the embodied subject, and its content-profile is an actually instantiated aspect of that token rather than another substance. Its target-role is a position within the content, not an entity:
 
 \[
 PurportsRef(i,\rho)\not\Rightarrow\exists x\,Ref(i,x).
 \]
 
-Actual reference requires an actual relatum, a successful demonstrative, causal, acquaintance, memory, linguistic-historical, or descriptive route, and role-fit. Merely possible satisfaction is assessed independently by `Adm_C`, which adds no possible individual. Public fiction minimally adds actual artifacts, practices, and stabilized dossier-roles evaluated under $In_F$; dependent abstract characters remain an optional stronger theory. Content is causally relevant through the actual contentful episode and the integrated subject, not through a non-existent target or an abstract type acting as a second cause. ACO/$ASA$ know the actual episode, while MKO tracks its modal satisfaction. Original intentionality, the general ontology of abstract types and cultural artifacts, and empty-name semantics remain selective deeper questions. Subject to author review, C624–C633 close CH14 at the current F2 target without claiming a reduction of intentionality.
+Actual reference requires an actual relatum, a successful demonstrative, causal, acquaintance, memory, linguistic-historical, or descriptive route, and role-fit. Merely possible satisfaction is assessed independently by `Adm_C`, which adds no possible individual. Public fiction minimally adds actual artifacts, practices, and stabilized dossier-roles evaluated under $In_F$; dependent abstract characters remain an optional stronger theory. Content is causally relevant through the actual contentful episode and the integrated subject, not through a non-existent target or an abstract type acting as a second cause. ACO/$ASA$ know the actual episode, while MKO tracks its modal satisfaction. Original intentionality, the general ontology of abstract types and cultural artifacts, and empty-name semantics remain selective deeper questions. The author's advance to S77 accepts C624–C633 at their stated levels and closes CH14 at the current F2 target without claiming a reduction of intentionality.
 
 The question-driven branch reached a matching account in parallel (S89, C712–C717); S92 reconciles it as merged into C624–C633.
 
@@ -427,7 +434,7 @@ S44 later shows that $CP_G^{elig}$, $CC_G^{elig}$, and $HI_G^{elig}$ exhaust pur
 
 **Scope:** embodied agents, conscious bearers, divine task identity, modification/replacement, recreation, duplication, fission, self-copy, and strict *ex deo*
 
-**Status:** `tested at F2 in S45; deeper ground optional unless load-bearing`
+**Status:** `tested at F2 in S45; onset assumption corrected and whole-career account proposed in S80`
 
 The existing architecture uses numerical identity in several bridges without yet supplying a general theory. S43 introduced $GapIdentity_C$ only as a placeholder. S44 shows that the omission now affects the boundary of $Task_G$ itself: whether an act preserves, replaces, reconstitutes, duplicates, or destroys its subject depends on independently grounded identity conditions.
 
@@ -444,9 +451,11 @@ Candidate families include organismic or animalist continuity, thin hylomorphic 
 
 S45 completes the requested F2 pass. Numerical identity is treated as absolute and fundamental, while kind-sensitive persistence profiles explain and constrain ordinary careers. Actual human subjects receive an anchored hylomorphic-organismic profile: one integrated living power-bearer persists through matter turnover and non-conscious intervals; psychology and information remain important but cannot constitute identity because they branch.
 
-The pre-conscious organism and later conscious agent are one numerical subject, with personhood provisionally treated as a phase or capacity predicate. E+ permits a disconnected $Life_H(x)$, and $GapAdm_K$ constrains primitive cross-gap identity through one origin anchor, essence compatibility, non-branching, and one grounded career. This makes intermittent existence a preferred F2 possibility without using reassembly, copied memory, divine recognition, or a persisting hidden carrier as the identity-maker.
+The pre-conscious organism and later conscious agent are one numerical subject, with personhood provisionally treated as a phase or capacity predicate. E+ permits a disconnected $Life_H(x)$, and $GapAdm_K$ constrains primitive cross-gap identity through one origin structure, essence compatibility, non-branching, and one grounded career. This makes intermittent existence a preferred F2 possibility without using reassembly, copied memory, divine recognition, or a persisting hidden carrier as the identity-maker.
 
-CH18 is therefore tested at F2. The deeper choice between constrained non-criterial identity, origin essentialism, and haecceitism remains optional unless another module requires it. The immediate application is strict *ex deo*, where $PP_G$ narrows self-destruction cases but does not itself resolve constitution or overlap.
+S80 removes a remaining overstatement. A temporally bounded life-set may have a first member or only an infimum, and bearer integration may be punctual, extended, sharp, or vague. $CTI_G^{\Omega}$ therefore treats the complete unified source-bearing career as the individuation unit and $\Omega_x$ as its possibly extended token origin structure. It still leaves numerical identity primitive and distinguishes organism, consciousness, agency, and person-phase onset. Fission and fusion constrain the account but do not mechanically choose a human beginning.
+
+CH18 is therefore tested at F2 with an active integration burden. The deeper choice between constrained non-criterial identity, origin essentialism, and haecceitism remains optional unless $ANDC$ or recreation requires it. The immediate application is strict *ex deo*, where $PP_G$ narrows self-destruction cases but does not itself resolve constitution, overlap, or finite determination.
 
 ## CH19 — The P-gap and permitted suffering
 
@@ -500,7 +509,7 @@ Tests should include: upbringing versus indoctrination; persuasion versus engine
 
 ## CH24 — Strict *ex deo* after identity
 
-**Status:** `tested at F2 in S71 and refined in S72; executive intrinsic modes covered, qualitative modes open as ontology extensions`
+**Status:** `tested at F2 in S71–S72; promoted to principal creation burden and identity-refined in S79`
 
 **Scope:** partition, transformation, world-body, divine-mode, whole-presence, grounding overlap, created otherness, and power normalization
 
@@ -508,17 +517,19 @@ S71 shows that numerical distinction alone is insufficient. A non-destructive ov
 
 Partition/transfer and whole-$G$ becoming fail that filter. Literal reverse world-body constitution conflicts with current $CT/UPSS$; an agential body reading is coherent but reduces to $RI$. Inflationary grounding overlap remains a rival semantics rather than a consequence of grounding as used in the project.
 
-The surviving witness is $ANDC$: the whole undivided and intrinsically unchanged $G$ asymmetrically constitutes a distinct dependent $x$. It is retained as a conditional F2 possibility only if constitution adds content beyond ordinary grounding. Its eligible complete root specification normalizes to $RootForm$ and is covered by $CP_G^{elig}$ because no intrinsic divine bearer is reconstituted. Actual creation remains $OEC^+_{CCD}$.
+The surviving witness is $ANDC$: the whole undivided and preserved $G$ asymmetrically constitutes a distinct dependent $x$. S79 promotes it from a conditional capacity to the principal actual-creation hypothesis because the author prefers real ontological continuity to disjoint production. It remains burdened: constitution must add content beyond ordinary grounding. Its eligible complete root specification normalizes to $RootForm$ and is covered by $CP_G^{elig}$ when no intrinsic divine bearer is reconstituted. Disjoint $OEC^+_{CCD}$ is now the fallback.
+
+S79 adds a token-individuation constraint to the creature side: common eternal $G$ cannot distinguish multiple creatures. S80 makes that constraint onset-neutral through $CTI_G^{\Omega}$: each creature needs one unified bearer-career, its own possibly extended origin structure, organization, source role, and non-branching identity while numerical identity remains fundamental. The active fork asks whether finite determination is relational, an intrinsic divine mode, a primitive typed constitution relation, or some constrained combination.
 
 S72 divides the remaining intrinsic-mode case. $ED_{IM}^{exec}$ uses the occurrent mode of an already established power exercise; when a single complete mixed specification independently satisfies the constitutive-content and joint-compossibility tests, token unity plus $FEG_G$ and $CP_G^{elig}$ conditionally cover it. $ED_{IM}^{qual}$ adds a new intrinsic constitutive basis and remains open until that kind is independently developed. This closes the case within the current ontology without claiming that every imaginable divine self-modification is possible.
 
 ## CH25 — Non-created concreta and universal dependence
 
-**Status:** `tested at F2 in S73; conditionally closed under proposed UCD_G`
+**Status:** `tested at F2 in S73 and S77; graded closure accepted in S78`
 
 **Scope:** creation as dependence, necessary existence *ab alio*, role-limited uniqueness, plural concrete ultimity, non-created-relational tasks, and external power blockers
 
-S73 first fixes `Created_G` as existential dependence on $G$, direct or through a well-founded chain. It does not require temporal beginning or immediate production by the actual contingent $OEC^+$ act. Consequently, a necessary dependent concrete is created, while any genuine $NCC_G(L)$ must be necessary under C04's grounding of total contingent reality.
+S73 first fixes `Created_G` as existential dependence on $G$, direct or through a well-founded chain. It does not require temporal beginning or immediate production by the actual contingent $OEC^+$ act. Consequently, a necessary dependent concrete is created. S77 corrects the second inference: under C04's actual grounding scope, any **actual** $NCC_G(L)$ would have to be non-contingent; classifying a non-actual possible $NCC_G(L)$ requires the additional modal total-ground bridge.
 
 $U_G$, $U_D$, and $CMU_G$ exclude a second concrete when it occupies an actual contingent-grounding or possible created-origin role. They do not alone exclude a necessary independent concrete that grounds no created order. S73 therefore proposes the stronger thesis:
 
@@ -531,7 +542,9 @@ The support is abductive and independent of omnipotence: one terminal concrete e
 
 Mere $NCC_G(L)$ is not a power defeater. Creating the same essentially uncreated $L$, annihilating the same necessary $L$, and producing another agent's autonomous contrastive settlement fail `Task_G`. Knowledge belongs to ACO; address, attention, cooperation, and response preserve source roles. A genuine defeater is `NCCBlock`: $L$ must enter an independently eligible action, supply an underived final boundary, and make $StrongCan(G,a)$ false. Causal isolation or coexistence alone is insufficient.
 
-CH25 is therefore conditionally closed at F2 under proposed $UCD_G$. If that thesis is rejected, the challenge reopens only upon presentation of a positively motivated necessary independent concrete with a fully specified `NCCBlock`, not merely a grammatically possible second entity. The next power challenge is whether a genuinely new divine action kind extends the established executive grammar.
+S77 corrects the modal scope of that result. The one-terminal arguments directly support actual concrete dependence $ACD_G$. They conditionally exclude an essentially independent necessary concrete because necessary existence entails actuality. They do not by themselves exclude a brute contingent concrete independent of $G$ in some non-actual history. Full $UCD_G$ decomposes into modal contingent-total dependence $CTD_G$ and necessary-concrete dependence $NCD_G$; these require, respectively, a modal total-ground bridge and a dependence-status or origin-essentiality bridge. Aseity, creative capacity, actual total grounding, and omnipotence do not independently supply them.
+
+CH25 therefore has an accepted graded F2 closure: retain $ACD_G$ as the principal actual result, retain full $UCD_G$ only as the cleaner conditional modal-sovereignty completion, and preserve `NCCBlock` as the exact external power defeater. Ontology-relative maximality is unchanged. A deeper pass is needed only if stronger modal sovereignty is selected or a rival supplies a positive `NCCBlock` rather than mere coexistence.
 
 ## CH26 — Non-destructive self-qualification
 
@@ -548,6 +561,57 @@ Such an act would not produce $G$'s existence or essential constitution. It coul
 ACO's actual marker can be relational or an executive content-aspect, and $ASA$ does not require phenomenal token sharing. Neither supplies a positive intrinsic witness. Affective or phenomenal response is the strongest candidate family, but conscious subjecthood does not entail variable divine affect, and the mode's actional production remains open.
 
 The exact defeater is `SQBlock`: an independently possible `CNBIM`, a well-formed self-qualificatory action, and failure of divine strong capacity. Mere imaginability, passive affection, executive variation, a Cambridge property, or identity loss is insufficient. No present candidate satisfies the test. CH26 is therefore closed at F2 as a bounded negative audit, while unrestricted $OMP_Q$ remains preferred rather than demonstrated.
+
+## CH27 — Absolute nothing and creation
+
+**Status:** `tested at F2; authorial intent and creation ranking corrected in S79`
+
+**Scope:** quantificational absence, metaphysical nihilism, brute reality, physical vacuum, causal relata, creation *ex nihilo*, and empirical access
+
+S78 distinguishes “nothing exists,” formally $\neg\exists x\,Exists(x)$, from an alleged entity named Nothing. A causal relation needs relata, so absolute nonbeing cannot cause, supply material, or become an effect. Creation *ex nihilo*, in its minimal classical grammar, denies prior material while retaining $G$ as the positive source. This rejects a null source; it does not establish a strong principle that every actual being must have a cause.
+
+Metaphysical nihilism is usually the modal thesis $\Diamond\neg\exists x\,Concrete(x)$; the stronger absolute thesis denies every entity. Both concern empty domains rather than belief in Nothing. The project's necessary concrete $G$ excludes both conditionally, but an opponent may dispute that commitment. Likewise, the impossibility of observing absolute nothing and the non-physicality of $G$ do not create evidential parity: non-observability supplies no equal probability or explanatory role.
+
+S79 records that this linguistic point was not the author's main argument. The intended comparison first prefers the positive agentic ground to absolute absence or a brute terminus, then prefers real ontological continuity from that ground to constitutively disjoint production. The strongest non-theist rival remains an unexplained brute reality or another positive ultimate ground. Within the theistic branch, $ANDC$ is now principal and $OEC^+_{CCD}$ the fallback. CH27 is resolved at the source-comparison level while CH24 carries the unfinished *ex deo* constitution burden.
+
+## CH28 — Change, vulnerability, death, and evil
+
+**Status:** `scope corrected in S79; held behind the ontology trunk`
+
+**Scope:** time–change relation, embodied temporal life, stable secondary causation, finite organization, privation, mortality, structural risk, and token permission
+
+S79 separates three theses. Local change requires change in each region; interval density requires some change in every non-zero interval; whole-history dynamicity $WCh$ requires only some change somewhere in the complete history of a material temporal order. Shoemaker's alternating and synchronized freezes deny the first and purport to deny the second, but satisfy the third. The project therefore prefers $WCh$ at F2 without claiming that every interval must contain change.
+
+The selected embodied life-profile is also constitutively dynamic, and stable laws acting on finite, organized, plural agents make vulnerability to loss, conflict, and harm intelligible. This may yield a profile-relative cost of realizing temporal goods such as growth, action, learning, and intergenerational life.
+
+Four stronger inferences are not licensed:
+
+1. every non-zero interval requires change as a framework-neutral theorem;
+2. every change removes a due good;
+3. all material worlds require death or evil;
+4. structural exposure justifies this token suffering, its intensity, or its distribution.
+
+The useful formal distinction is among whole-history and interval claims, absolute metaphysical necessity, constitutive necessity relative to a selected profile, nomological inevitability under actual laws, token inevitability, and adequate reason for divine non-prevention. S79 supports $WCh$ and S78's profile-relative vulnerability route, while leaving the last question with CH19. No-change, physical singularity, perfection, and divinity remain separate.
+
+## CH29 — The locus of identity and consciousness
+
+**Status:** `integrated into the active ANDC fork in S82; partial F2 answer, deeper realization open`
+
+**Scope:** numerical identity, embodied bearer, spatial realization, phenomenal ground, materialism, substance dualism, non-spatial causation, and finite *ex deo* determination
+
+**Q0 — ordinary questions:** Where do identity and consciousness “live”? Are they material or immaterial? If something is immaterial, how can it belong to a person and act in a material world?
+
+**Q1 — definition:** Does “where” ask for a spatial location, a bearer, a realization base, or an ontological ground? Is identity being treated as a fact about one bearer or reified as another item?
+
+**Q2 — local coherence:** Can one embodied subject possess a fundamental or dual-aspect phenomenal power without introducing a second agent? Conversely, can a reductive base secure phenomenal subjectivity, simple persistence, and libertarian sourcehood?
+
+**Q3 — rival pressure:** Substance dualism may ease one route to survival but owes individuation, embodiment, causal interaction, and non-duplication. Reductive physicalism gains economy but owes the phenomenal and sourcehood bridges. Neither is dismissed by label.
+
+**Q4 — architecture integration:** Can $ANDC^{\Phi}$ make $G$ constitutively non-replaceable while finite identity-bearing organization and conscious powers belong intrinsically to the created bearer, without making that bearer a divine mode or making its acts divine acts?
+
+**Q5 — exact test:** Supply semantics or a model in which `ConstitutivelyEssentialTo(G,x)` differs from mere `Depends(x,G)`, preserves $PP_G$, $CreatedOther$, $SourceSep$, and $CTI_G^{\Omega}$, and leaves more than one contrastively different $H$ admissible under the same $\Phi_x^C$.
+
+S82 answers Q0 at a partial level and proposes a combined route for Q4. Q5 is now the active test of C686. No new literature is used to establish that proposal.
 
 ## CH30 — Love, divine affect, and the affective route to the P-gap
 

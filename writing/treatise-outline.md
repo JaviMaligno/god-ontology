@@ -25,6 +25,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
 3. **The Question Beyond the Model**
    - Why fundamental structure invites interpretation
    - Brute facts as a live stopping point
+   - Absolute nothing as quantificational absence, not a causal rival; the author's positive-source and *ex deo* continuity comparison
 
 ## Part II — Method: Constructing rather than importing an ontology
 
@@ -39,7 +40,7 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
    - Logic, identity, essence, power profiles, dependence, and compossibility
    - Partial specifications and complete admissible extensions
    - Why possible-world semantics does not require concrete possible universes
-   - The open meta-modal ground of uninstantiated constitutive profiles
+   - Bounded constitutive primitivism for uninstantiated profiles; stronger divine-essential grounding as an open F3 route
    - Independent possibility of a created specification: consistency, admitted histories, compossible powers, createdness, essence-compatibility
    - Why possibility must not be defined by divine capacity; imaginability as evidence, never constitution
 6. **The Adversarial and Provenance Method**
@@ -100,6 +101,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Weak and strong emergence, causal efficacy, and cross-level non-competition
     - Proposed F2 model: one embodied power-bearing subject under a thin hylomorphic interpretation
     - Fundamental phenomenal power and the open subject-level dual-aspect bridge
+    - Where identity and consciousness “live”: spatial location, bearer, realization base, and ontological ground
+    - Embodied realization without reductive entailment; why non-spatiality does not by itself imply a second substance
     - Created atemporal consciousness as a modal edge case rather than the actual human model
     - Numerical identity versus exact qualitative similarity
     - Why absolute fundamental identity does not eliminate kind-sensitive persistence explanations
@@ -110,10 +113,13 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The brain as central realizer rather than an automatic second subject
     - Duplication, symmetric fission, and the limits of closest-continuity accounts
     - Continuous organismic careers and constrained non-continuous life-sets
-    - $IdFact_H$, origin anchoring, essence, non-branching, and $GapAdm_K$
+    - $IdFact_H$, origin structure $\Omega_x$, essence, non-branching, and $GapAdm_K$
     - Numerical recreation versus duplicate reconstruction
     - Animalist, constitution, simple, soul, haecceitist, and pattern competitors
     - Synchronic individuation, diachronic persistence, and reidentification evidence
+    - Holistic constitutive token individuation $CTI_G^{\Omega}$: one unified source-bearing career linked to a possibly extended origin structure, with numerical identity still fundamental
+    - Onset topology, formation process, boundary determinacy, and bearer kind; why no privileged first instant is assumed
+    - Temporal bearer, tenseless identity fact, and atemporal divine ground; why neither an eternal identity-object nor a sharp onset follows
     - Organismic, hylomorphic, psychological, causal, simple, haecceitist, constitution, and pattern accounts
     - Persistence through bodily change, unconscious intervals, and possible non-existence gaps
     - Duplication, fission, replacement, and numerical recreation as discriminators
@@ -260,9 +266,13 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Creation as existential dependence rather than temporal beginning or only direct $OEC^+$
-    - Why every genuine non-created concrete must be necessary under the total-contingent-ground thesis
+    - Why every actual non-created concrete must be necessary under the actual total-contingent-ground thesis
     - The exact scope limit of $U_G$, $U_D$, $CMU_G$, and $MUU$
-    - Universal concrete dependence $UCD_G$ as an abductive extension, not unrestricted necessary-entity uniqueness
+    - Actual concrete dependence $ACD_G$ as the principal one-terminus result
+    - Essentially independent necessary concreta and why necessary actuality makes them direct rivals to $ACD_G$
+    - The strongest residual countermodel: a brute contingent independent concrete in a non-actual history
+    - $UCD_G\leftrightarrow CTD_G\land NCD_G$ and the modal total-ground/dependence-essentiality bridges
+    - Universal concrete dependence $UCD_G$ as a conditional modal-sovereignty completion, not a consequence of actual economy
     - Necessary existence *ab alio* and why a necessary dependent concrete remains created
     - Non-created-relational tasks: malformed existential tasks, source-indexed joint action, and possible direct effects
     - `NCCBlock`: the exact external-defeater form
@@ -295,7 +305,10 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The non-destructive filter: $PP_G$, created otherness, dependence direction, and source separation
     - Asymmetric non-depleting constitution $ANDC$
     - The constitutive-content test: real overlap or inflated grounding vocabulary?
-    - Actual $CCD$ versus unexercised overlap capacity
+    - Principal actual $ANDC$ versus the constitutively disjoint $OEC^+_{CCD}$ fallback
+    - $ANDC^{\Phi}$ as the proposed finite-determination combination: relational on $G$'s side, creature-intrinsic finite form, and a primitive typed bridge
+    - $\Phi_x^C$ as kind, unity, form, power, origin, and admissible-career profile without divine scripting of exact settlements
+    - Non-replaceable whole constitution as the active test of content beyond ordinary grounding
     - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives
@@ -337,6 +350,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The remaining normative burden in what is due to a bearer, capacity, or relation
     - Due-good privation and positive experiential or causal vehicles of evil
     - Broad and grave evil; moral and non-agentic causal origins
+    - Whole-history dynamicity versus change in every interval; the exact limited scope of Shoemaker's freeze construction
+    - Temporal embodied change, structural vulnerability, and why profile-relative exposure does not justify token suffering
     - Conscious-capacity profiles: welfare, projects, construction, responsibility, and moral status
     - Sacrifice: cost, belief, trust, hope or faith, agentic excellence, objective fit, causal success, and value for contemporary or future others
     - Defeasible priority for commitments extending beyond the agent's life

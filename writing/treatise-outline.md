@@ -134,6 +134,12 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Theistic plenitude as coherent but unrequired
     - Actual imaginative acts versus non-actual intentional contents
     - Representational vehicles, content, intentional targets, and modal status
+    - The actual cognitive token: subject, embodied vehicle, content-profile, and target-role
+    - Referential purport versus successful reference; external anchors and de re thought
+    - Possible and impossible role-satisfaction under $Adm_C$ without possible individuals
+    - Public fictions as actual artifacts, practices, and dossier-roles; optional dependent abstract characters
+    - Truth, accuracy, answerability, executability, and fiction-internal satisfaction as typed standards
+    - Content-sensitive causation through the embodied subject, without ghost causes
     - Assigned content, hidden constitutive conflict, and incomplete scenarios
     - Why imaginability does not establish metaphysical possibility
 
@@ -249,8 +255,8 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Independent $SEAdm_G$ and formal executive generality $FEG_G$
     - Intentional refraining versus mere non-occurrence or inability
     - Atemporal action: logical order without a divine temporal sequence
-    - Executive intrinsic modes versus qualitative self-modification
-    - Conditional coverage of $ED_{IM}^{exec}$ and the open $ED_{IM}^{qual}$ extension
+    - Executive intrinsic modes, Cambridge modes, basic reconstitution, and contingent non-basic intrinsic modes
+    - Conditional coverage of $ED_{IM}^{exec}$ and correction of the broad $ED_{IM}^{qual}$ extension
     - Why divine states and relations are not automatically further actions
     - Abstract necessities as task constraints rather than causal patients
     - Creation as existential dependence rather than temporal beginning or only direct $OEC^+$
@@ -260,7 +266,9 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Necessary existence *ab alio* and why a necessary dependent concrete remains created
     - Non-created-relational tasks: malformed existential tasks, source-indexed joint action, and possible direct effects
     - `NCCBlock`: the exact external-defeater form
-    - Ontology-relative $OMP_Q^{\mathcal O_*}$, conditional non-created closure, and the remaining novel-action-kind problem
+    - Immediate-patient topology as structural action-domain exhaustion
+    - Non-destructive self-qualification, the unadopted $SQG_G$ bridge, and `SQBlock`
+    - Ontology-relative $OMP_Q^{\mathcal O_*}$ and exact conditions for reopening unrestricted range
     - The exact-copy paradox and derivative near-copies
     - Actual constitutive disjointness versus possible strict-*ex-deo* capacity
     - The bounded-demiurge or plural-ultimate fallback if $UCD_G$ or unrestricted maximality fails
@@ -350,7 +358,10 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Provisional essential grounding of objective fit in $G$
     - The non-circular route: kinds $G$ instantiates or grounds
     - A good-oriented divine profile toward sourcehood and relation
-    - The P-gap: why orientation toward created valence is where evil enters
+    - Reason-ground versus response-target: how relation can ground a valence-directed reason
+    - Applicability, uptake, exercise, and exhaustive orientation
+    - The thin P-reason: objective valence plus the participant reading of finite otherness
+    - The remaining P-gap: why undefeated orientation toward created valence is where evil enters
     - Good-orientation is not omnibenevolence
     - Stopping rule: defer moral status, population ethics, aggregation, and applied ethics unless ontologically load-bearing
 28. **Agency, Development, Suffering, and Evil**

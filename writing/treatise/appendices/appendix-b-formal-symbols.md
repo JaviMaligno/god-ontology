@@ -21,6 +21,13 @@
 | $ASA(G,A)$ | actual subject acquaintance | $Actual(A)\land ConsciousSubject(A)\land DirectEpistemicAccess(G,A)\land\forall c[ActualStateOf(c,A)\rightarrow GraspsAsPresentedTo(G,c,A)]$ | preferred (C284) | S34 |
 | $K_G^{total}=\langle ACO_P,MKO,ASA\rangle$ | divine epistemic profile | role-structured, not stages or faculties | preferred (C289) | S34 |
 | $K_G^{h}(p)$ iff $h\vDash p$ | local ACO semantics | grounding biconditional, not temporal | preferred | S02 |
+| $Cog(A,i,c,t)$, $HasContent(i,c)$ | finite cognition | actual temporal manifestation $i$ of embodied subject $A$ with an instantiated content-profile $c$ | proposed preferred F2 (C624) | S76 |
+| $c_i=\langle m,f,\rho,\alpha,\kappa\rangle$ | content-profile normal form | mode, representational format, target-role, anchoring profile, and typed satisfaction/accuracy profile; analytic aspects, not mental parts | proposed analytic device (C624) | S76 |
+| $c_i\equiv_C c_j$ | repeatable content | equivalence of token profiles at a selected content-relevant grain; type abstraction without required independent abstract causation | proposed preferred (C625) | S76 |
+| $PurportsRef(i,\rho)$, $Ref(i,x)$ | target-role; actual reference | purport does not entail a referent; reference requires actual $x$, a successful plural route, and role-fit | proposed preferred distinction/schema (C626–C627) | S76 |
+| $PossSat(\rho)$, $PossSat^{partial}(\rho)$ | modal target satisfaction | an `Adm_C` specification contains a role-fitting satisfier; a partial role has an admissible completion that does | proposed accepted integration (C628) | S76 |
+| $FicArt(F)$, $Introduces(F,\rho_F)$, $In_F(P(\rho_F))$ | public fiction | actual artifact/practice and stabilized dossier-role; fiction-internal predication without a required concrete character | proposed preferred minimum (C629) | S76 |
+| $CausalContent(i,e)$ | content-sensitive causal role | the actual contentful episode manifests the integrated subject's cognitive power and contributes to $e$; target/type is no second efficient cause | proposed preferred F2 (C631) | S76 |
 
 ## B.2 Agency and intervention
 
@@ -64,6 +71,9 @@
 | $Created_G(x)$, $NCC_G(L)$ | creation; non-created concrete | $Created_G(x):=x\neq G\land DependsExistentially(x,G)$; $NCC_G(L):=Concrete(L)\land L\neq G\land\neg Created_G(L)$ | proposed clarification (C586–C590) | S73 |
 | $UCD_G$ | universal concrete dependence | $\Box\forall x[(Concrete(x)\land x\neq G)\rightarrow DependsExistentially(x,G)]$ | proposed preferred F2, abductive (C591–C594) | S73 |
 | $LTask_G(a,L)$, $NCCBlock_G(L,a)$ | non-created task; blocker | an eligible divine task genuinely concerning $L$; an underived $L$-boundary plus failure of $StrongCan$ | proposed diagnostic (C597–C600) | S73 |
+| $CNBIM_G(m)$ | contingent non-basic intrinsic mode | intrinsic, contingent, $PP_G$-compatible, non-executive, non-Cambridge mode adding no essential power, proper part, substrate, or bearer | proposed candidate schema, no positive witness (C604–C605) | S74 |
+| $SelfQualAdm_G(a,m)$ | non-destructive self-qualification | independently eligible action with $G$ as direct source and immediate bearer of a $CNBIM$ result | proposed residual task schema (C606–C609) | S74 |
+| $SQG_G$, $SQBlock_G(a,m)$ | self-qualificatory range bridge; blocker | universal strong capacity over `SelfQualAdm`; independently possible eligible self-qualification plus failure of $StrongCan$ | bridge not adopted; blocker diagnostic (C609–C615) | S74 |
 | $RCB(C,S)$, $AOR$, $Elig_C^G$, $CP_G^{elig}$ (trunk) | root creation; plenitude | root created basis; agentic-origin realization; essence-compatible eligibility; $\forall S[Elig_C^G(S)\rightarrow CanCreate(G,S)]$ | preferred (C369–C376) | S40 |
 | $CC_G=CC_G^{+}\land CC_G^{pers}\land CC_G^{ann}$ (trunk) | constitutive control | positive, persistence-sensitive, annihilative ranges | preferred (C385–C401) | S41–S42 |
 | $Life_H(x)$, $Ann(G,x,t_1)$ (trunk) | life-set; annihilation | bounded temporal profile; direct terminal boundary with no specified created remainder | preferred (C392–C395) | S42 |
@@ -87,7 +97,10 @@
 | --- | --- | --- | --- | --- |
 | $\mathcal A_{min}=\{P,S,R\}$ | anchors | conscious valence, agentive sourcehood, truthful recognition or relation | preferred (C187) | S27 |
 | $Fit_*(x,a,B,C,\tau)$ | objective fit | bearer eligibility, directed anchor profile, apt proportionate response, scope, defeat | preferred (C188–C189, C203) | S27–S28 |
-| $GoodOrient_a(G)$ | good-orientation | $\forall d\in Disp^{est}(G)[Relevant(d,a)\rightarrow Fit_*(d,a,\ldots)]$; holds for $S,R$; open for $P$ | preferred/open (C463–C464) | S47 |
+| $GoodOrient_a(G)$ | good-orientation | $\forall d\in Disp^{est}(G)[Relevant(d,a)\rightarrow Fit_*(d,a,\ldots)]$; holds for $S,R$; undefeated exhaustive response remains open for $P$ | preferred/open (C463–C464, C622–C623) | S48, S75 |
 | $Permits(G,s)$, $Cover(r,s)$, $Gratuitous(s)$ | permission structure | $Occurs(s)\land CanPrevent(G,s)\land\neg Prevents(G,s)$; undefeated misfit prevention would produce; permitted with no cover | accepted (C473) | S48 |
 | $ContHorizon(B)$ | continuation | numerically same bearer with undefeated $P$-fit beyond $Life(B)$, anywhere in $\mathfrak R^*$ | conditional (C480–C485) | S49 |
-| typed creative reason $\langle target, mode, level\rangle$ | reasons | requiring/favoring/justifying at creation/architecture/specification | accepted (C521–C527) | S55 |
+| typed creative reason $\langle ground,target,mode,level\rangle$ | reasons | the fact grounding a reason is distinguished from its response target; requiring/favoring/justifying at creation/architecture/specification | accepted refinement (C521, C616) | S56, S75 |
+| $PCase(x,B,C,\tau)$, $RespScope(A,B,x,C,\tau)$ | P-reason applicability | an obtaining realization, protection, loss, or corruption of P-fit; $A$ can identify it and its bearer, can respond, and stands in a pertinent causal, creative, or personal nexus | preferred conditional (C618) | S75 |
+| $Applies(r,A)$, $Owns(A,r)$, $Exercises(A,r,\alpha)$ | reason standings | normative applicability; uptake into the agent's profile; explanatory exercise in an act | accepted distinction (C617) | S75 |
+| $r_P^{thin}$ | valence-directed reason | structural-profile-indexed in creative deliberation and de re bearer-indexed in actual response; favoring without maximizing or guaranteeing undefeated response | preferred at F2 (C621–C623) | S75 |

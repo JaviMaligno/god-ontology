@@ -155,12 +155,31 @@ The author's second Lennoxian motivation is also verified as an identifiable arg
 | Peter Geach on prayer for past events | **C** | Exact source: “Praying for Things to Happen,” in *God and the Soul* (Routledge & Kegan Paul, 1969), 86-99. Geach argues that impetratory prayer concerns future two-way contingencies and rejects prayer for past events. He is a contrast to Dummett, not a co-author of the same independence condition. |
 | Kit Fine and Gideon Rosen on grounding | **C/Q** | Exact sources: Fine, “Guide to Ground,” in *Metaphysical Grounding* (Cambridge, 2012), 37-80; Rosen, “Metaphysical Dependence: Grounding and Reduction,” in *Modality* (Oxford, 2010), 109-136. They establish the grounding framework, but the [SEP discussion of fundamentality](https://plato.stanford.edu/entries/fundamentality/#WellFoun) shows that strong well-foundedness and bans on infinite chains are contested and admit multiple formulations. WFR remains a project commitment or derivation from its own C29-C30/S39 assumptions, not a theorem obtained merely by citing Fine and Rosen. |
 
+## S75 — P-reason ground and uptake (C616-C623)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Mark C. Murphy, *God's Own Ethics* (2017) | **V/Q** | The [OUP record](https://doi.org/10.1093/oso/9780198796916.001.0001) states that God may rationally promote creaturely well-being without being governed by an automatic requiring norm to do so. This directly supports the coherence of a non-requiring divine welfare reason; S75 does not import Murphy's perfect-being framework or contingent self-legislation. |
+| Niko Kolodny, “Love as Valuing a Relationship” (2003) | **V/Q** | The [author-hosted article](https://www.mit.edu/~shaslang/mprg/KolodnyLVR.pdf) distinguishes the ground of valuation from its focus and argues that a relationship can give a participant reasons to act in the other's interests. This supports C616's formal distinction; the divine application and the cumulative participant inference remain local. |
+| Stephen Darwall, “Respect and the Second-Person Standpoint” (2004) | **Q** | The [author manuscript](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/62458/Darwall2004_Respect_and_the_Second-Person_Standpoint.pdf%3Bsequence%3D1) connects recognition of persons with second-personal practical authority. It is a stronger comparison, not a premise: the project has not adopted equal reciprocal authority between $G$ and created agents. |
+| Aquinas on love as willing another's good | **Q** | The traditional route makes concern for another's good internal to love. It cannot establish S75's result because divine love has not been independently derived; using it here would assume the attribute under investigation. |
+
+## S76 — Thought, imagination, and non-actual reference (C624-C633)
+
+| Work | Result | Evidence and disposition |
+| --- | --- | --- |
+| Tim Crane, “Intentionalism” (2009) | **V/Q** | [DOI and institutional record](https://doi.org/10.1093/oxfordhb/9780199262618.003.0029) confirm the mode/content/object partition and Crane's claim that an intentional state's nature need not contain its object. S76's target-role and plural anchoring are local developments, not Crane's terminology. |
+| R. M. Sainsbury, “Intentionality without Exotica” (2009) | **V/Q** | The [author-hosted paper](https://www.marksainsbury.net/uploads/9/7/2/9/97295048/rmsintentionality.pdf) explicitly permits fully intelligible singular expressions and individual concepts without referents to contribute to truth-evaluable content. S76 does not import the paper's rule that simple empty singular contents are false. |
+| Amie L. Thomasson, “Fiction, Modality and Dependent Abstracta” (1996) | **V** | The [author-hosted article](https://www.amiethomasson.org/_files/ugd/63fc8a_b7987a44d0ab4ad188da8ae99f2257b4.pdf), *Philosophical Studies* 84:295–320, presents fictional characters as created, multiply dependent abstract artifacts. It is a stronger live alternative to S76's minimum dossier-role account. |
+| William Jaworski, “Hylomorphism, Explanatory Practice, and the Problem of Mental Causation” (2020) | **V/Q** | [DOI:10.2307/48570647](https://doi.org/10.2307/48570647), *American Philosophical Quarterly* 57(1):79–100, argues that hylomorphic structure permits mental and physical causation to be different and non-competing. This supports C631 conditionally on S37; it does not independently prove the project's hylomorphic subject model. |
+
 ## Classification disposition
 
-The overall classification remains “established components; project-specific synthesis” for S46-S58 and S64, with three sharpenings:
+The overall classification remains “established components; project-specific synthesis” for S46-S58, S64, and S76, with four sharpenings:
 
 - S47's agentic stopping point has a close established precedent in O'Connor.
 - S48's non-requiring orientation toward creaturely welfare has a direct close precedent in Murphy; the project's distinctiveness lies in its derivation and typing.
 - S53's non-criterial and intermittent persistence has a direct close precedent in Merricks; the project's distinctiveness lies in deriving and integrating it with sourcehood, eternalism, and re-realization.
+- S76's components all have close precedents in Crane, Sainsbury, Thomasson, and Jaworski; only their integration with `Adm_C`, actual-marker semantics, embodied sourcehood, and ACO/MKO/ASA is project-specific.
 
 No verified source warrants a standalone novelty claim. The residual limits are interpretive page-level questions in broad monographs, not missing or fabricated bibliographic items.

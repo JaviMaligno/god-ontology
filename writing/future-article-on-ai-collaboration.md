@@ -12,6 +12,8 @@ Esta ontología no parte de un conjunto de ideas propias ya cerrado al que la IA
 
 El modelo propone distinciones, argumentos, consecuencias y objeciones; yo los examino y decido si me convencen, si encajan con la ontología que puedo sostener y cómo deben corregirse. Esto exige una atención autoral especialmente estrecha. No estamos ante una demostración cuyo resultado pueda validarse solo mediante reglas formales, porque una ontología de la realidad no es demostrable en ese sentido. La decisión final incorpora necesariamente mi juicio filosófico: coherencia, poder explicativo, plausibilidad y encaje con aquello que considero defendible.
 
+La aceptación tampoco congela una decisión. Si después aparece una alternativa con mejores motivos, mayor poder explicativo, más coherencia o menor coste ontológico, la IA debe advertirlo y proponer una revisión, aunque la posición anterior ya hubiese sido aceptada. Su función incluye mantener abierta esa vigilancia comparativa; la función del autor sigue siendo evaluar la comparación y decidir si la mejora compensa alterar el resto de la arquitectura. La revisión ha de ser visible y razonada, no una sustitución silenciosa en los documentos.
+
 Por eso, la autoría se encuentra aquí menos en aportar de antemano todo el contenido y más en dirigir la investigación, someter cada propuesta a juicio, aceptar o rechazar compromisos y mantener la unidad de la posición. La IA posee una autonomía generativa considerable, pero no autoridad para decidir qué ontología adopto.
 
 ## Contraste con trabajos anteriores

@@ -38,6 +38,12 @@
 | *ex deo* (causal, virtual, participatory, strict) | *ex deo* (causal, virtual, participativo, estricto) | *que sale de Dios, en varios sentidos* |
 | materiality as instantiated profile | materialidad como perfil instanciado | *ser material es tener cierta organización* |
 | constitutive admissibility ($Adm_C$) | admisibilidad constitutiva | *que una descripción de mundo pueda cumplirse* |
+| cognitive episode / content-profile | episodio cognitivo / perfil de contenido | *el pensamiento real y la forma en que presenta algo* |
+| intentional target-role | papel objetivo intencional | *el hueco al que apunta el pensamiento* |
+| referential purport / successful reference | pretensión referencial / referencia lograda | *apuntar a algo / alcanzar de verdad a la cosa* |
+| possible target satisfaction | satisfacción posible del papel objetivo | *que algo pudiera ocupar ese hueco en un mundo posible* |
+| fictional artifact / dossier-role | artefacto ficcional / papel de expediente | *la obra real y el expediente compartido sobre el personaje* |
+| content-sensitive causal relevance | relevancia causal sensible al contenido | *soy yo quien actúa mediante ese pensamiento* |
 | root created basis | base creada raíz | *el punto de partida de lo creado* |
 | qualified creative plenitude | plenitud creadora cualificada | *puede crear cualquier mundo posible* |
 | conditional modal ultimity | ultimidad modal condicional | *si hay un mundo creado, su fuente última es el mismo Dios* |

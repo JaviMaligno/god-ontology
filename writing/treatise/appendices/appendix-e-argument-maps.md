@@ -47,7 +47,25 @@ Fixity argument fails at each premise:
 What is not thereby proved: freedom itself (rests on agent causation and Alt(A,t,h))     [C55–C60, S02]
 ```
 
-## E.4 Divine action (Part VI)
+## E.4 Thought, content, and targets (Part IV)
+
+```
+actual embodied subject A
+  └─ actual cognitive token i through bodily/neural vehicle v                           [C624]
+       └─ actual content-profile cᵢ = ⟨mode, format, target-role, anchor, satisfaction⟩
+            ├─ repeatable type: cᵢ ≡C cⱼ; no independent abstract cause required         [C625]
+            ├─ referential purport toward role ρ                                         [C626]
+            │    ├─ successful route + actual role-fit → actual referent x               [C627]
+            │    ├─ satisfier in some Adm_C specification → possible target type         [C628]
+            │    └─ no admissible satisfier → impossible target, actual thought          [C628]
+            ├─ public fiction F → actual artifact/practice + stabilized dossier-role     [C629]
+            │    └─ In_F(P(ρ)): truth in the fiction, not unrestricted actual predication
+            └─ causal role: A acts through actual contentful i; target/type adds no cause [C631]
+ACO/ASA know i and whose content it is; MKO tracks satisfaction or failure               [C632]
+Residue: original intentionality, abstract-type and cultural-artifact ontology, empty-name semantics
+```
+
+## E.5 Divine action (Part VI)
 
 ```
 Intervention I_j = ⟨G,τ,x,m,e_t⟩; changes which history is actual, no meta-temporal edit  [C15, C22, C35]
@@ -62,7 +80,7 @@ GSDA: created causes produce ordinary effects; G could substitute (CCS_G)       
 Response without succession: RespondsTo; WFR; agent-neutrality for anticipatory responses [C549–C552]
 ```
 
-## E.5 Further attributes (Part VII)
+## E.6 Further attributes (Part VII)
 
 ```
 Unity: U_G (preferred, abductive) → U_D given the agentic stopping point                [C80–C83]
@@ -73,21 +91,24 @@ Omnipotence: qualified; range vs strength; OMP_C preferred, OMP_Q provisional   
   ├─ CP_G^elig via Adm_C + CMU_G + RCB + AOR + relevant witness                          [C344–C345, C360, C369–C376]
   ├─ CC_G and HI_G^elig                                                                  [C385–C401, C406–C418]
   ├─ CAN_G closes pure created-directed tasks; ontology-relative maximality fragmentwise [C420–C433]
-  └─ UCD_G conditionally closes NCC; otherwise only a full NCCBlock defeats OMP_Q         [C595–C600]
+  ├─ UCD_G conditionally closes NCC; otherwise only a full NCCBlock defeats OMP_Q         [C595–C600]
+  └─ patient topology closes novel kinds; self-qualification reopens only via SQBlock    [C601–C615]
 Immateriality: aspatiality, physical immateriality, absolute non-spatiality (abductive)  [C84–C87]
   └─ positive account of material production (E.2)                                      [C88, C487–C490]
 Omnipresence: Present_O = grounding reach + epistemic access + causal availability       [C90–C91]
   └─ five levels of personal presence; UPA; co-produced reciprocity                     [C121–C124]
 Goodness: A_min = {P,S,R}; Fit_*; due-good privation                                     [C187–C190, C206]
   ├─ non-circular G-grounding of Fit_*                                                   [C462]
-  ├─ typed reasons; established profile targets S and R only                            [C521–C524]
-  └─ GoodOrient_S ∧ GoodOrient_R earned; GoodOrient_P not earned (the P-gap)             [C463–C464]
+  ├─ typed reasons: ground, target, mode, and level                                      [C521, C616]
+  ├─ GoodOrient_S ∧ GoodOrient_R earned                                                  [C463]
+  ├─ P-fit applies to G + participant reading → thin operative P-reason preferred       [C618–C621]
+  └─ undefeated GoodOrient_P not earned (the remaining P-gap)                           [C622–C623]
 Evil: permission is the load-bearing relation; source and regularity covers; bearer-level remainder;
   continuation load-bearing; belief with exact content                                   [C472–C479]
 Identity: absolute primitive =_N; organismic persistence; gappy careers admissible       [C435–C456]
 ```
 
-## E.6 The two registers (Part VIII)
+## E.7 The two registers (Part VIII)
 
 ```
 Argument establishes availability: Present_O, UPA, address never override                [C91, C122, C466]

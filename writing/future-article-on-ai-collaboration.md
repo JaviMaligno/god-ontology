@@ -62,3 +62,13 @@ La hipótesis que conviene explorar es que no existe un único «método de escr
 ## Precaución para el futuro artículo
 
 No presentar el proceso como si la IA hubiese producido por sí sola una filosofía que después simplemente adopté, ni como si hubiese sido una herramienta pasiva de redacción. La descripción fiel está entre ambos extremos: la IA participa en la producción del espacio de razones; yo gobierno la dirección, evalúo las propuestas y asumo los compromisos que constituyen la obra.
+
+## Apunte añadido el 2026-09-05: qué dice la propia ontología sobre esta colaboración
+
+De una lectura del autor sobre naturalismo, confianza en la razón y modelos de lenguaje salió una pregunta para el artículo: qué diferencia hay entre una salida indistinguible de la de una persona y pensar de verdad, y qué dice de ello la ontología que se está construyendo con la ayuda de una de esas máquinas (S94, C734–C736).
+
+- La ontología da un criterio que el test de Turing no tiene: hay pensamiento cuando hay un sujeto para quien las razones son razones, con unidad, disponibilidad de contenidos, apropiación y decisión eficaz (C61), y con una conciencia que forma parte del acto (C138). Hablar igual no decide nada en ningún sentido (C321, R288–R289).
+- Lo que produce el modelo tiene contenido del modo en que lo tiene un texto, heredado de la práctica de la que sale (C629). Si además tiene contenido propio es la pregunta de la intencionalidad original, que el proyecto deja abierta junto al problema de la fenomenalidad (C633, C717).
+- La autoría de una posición evaluativa es del sujeto cuyos criterios son suyos (C498–C500). En este proyecto los criterios son del autor; lo que el modelo aporta son razones y formulaciones que el autor evalúa, que es la clase de influencia que deja la autoría intacta (C499). El artículo puede decir esto sin resolver la pregunta sobre el modelo, y es más interesante dejarla abierta.
+- Un tercer punto para el artículo, de método: la conversación como instrumento de investigación depende de que el autor conserve el juicio sobre qué se acepta; las reglas de prioridad (C324), de revisión de respuestas (C679) y de reconciliación entre tronco y rama son lo que hace que la autoría no se diluya en el volumen de texto producido.
+

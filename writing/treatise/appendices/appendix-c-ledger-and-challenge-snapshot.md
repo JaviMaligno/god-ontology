@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 730 |
-| Rejected or corrected moves (R) | 287 |
+| Working commitments (C) | 740 |
+| Rejected or corrected moves (R) | 290 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 312 |
-| preferred | 258 |
-| other | 95 |
+| accepted | 320 |
+| preferred | 259 |
+| other | 96 |
 | provisional | 25 |
 | merged | 18 |
 | open | 13 |
@@ -763,6 +763,16 @@
 | C728 | Route 3 developed: divine affective regard modeled as an executive intrinsic mode (C581) of the joint exercise of $ASA$ and volitional love, under C288's stronger acquaintance model; no new power kind, $PP_G$ and $MCS$ preserved, impassibility given up only in the weak sense S72 admits (contingent occurrent aspects); if adopted, the $P$-disposition becomes bearer-indexed and standing and C462's mechanism yields $GoodOrient_P$ and $G_3$. | `developed, not adopted; refined by C604–C612 (S92): if affect is a $CNBIM$ rather than an executive mode, Route 3 also needs the self-affective bridge S74 declines` |
 | C729 | Reconciliation of the branch's S83–S91 with the author's S74–S76: the thin P-reason (C621), the corrected orientation condition (C622), and the token-real target-role account of thought (C624–C633) are canonical; the branch retains the $G_1$–$G_3$ decomposition, the derivation of $G_2$ from $R$, Route 2′, the love typing (CH30), and $ESG$ as a proposal for the meta-modal gap; its CH14 account is merged and its Route 3 placement is refined by $CNBIM$. | `accepted reconciliation` |
 | C730 | Reconciliation of the branch with the author's S77–S82: $ACD_G$ and the graded $UCD_G$ (C634–C644), bounded constitutive primitivism (C649–C652), the onset and correction sessions, and the reporting rules (C677–C679) are canonical; the branch's $MGC^+$ is the $CTD_G$ bridge of C640, its $ESG$ is retained as the F3 direction C652 names, and its sessions follow C677–C679 from S93 on. | `accepted reconciliation` |
+| C731 | Adaptive reliability (outputs that enhance fitness under a cost structure) and epistemic reliability (outputs that track truth) are distinct properties; selection explains the first and, where truth and fitness coincide, partly the second; a detector biased toward cheap false positives is high in the first and low in the second by design. | `accepted distinction` |
+| C732 | The project's ground for trusting reason is a fit, not a guarantee: finite cognizers are created as analogues of reason-guided sourcehood (C105, C523) and reason with the form of being that every dependent shares (S78, S88); trust is defeasible by domain, as the false-positive bias shows; Plantinga's evolutionary argument remains motivation, not a premise of the route to $G$. | `preferred` |
+| C733 | The causal, semantic, and epistemic levels of belief are held respectively by C66 and C321, by C624–C633, and by C56, C60, and C63; the epistemic level is a power of a conscious source and is not a reduction of the causal level. | `accepted mapping` |
+| C734 | Reasons are reasons *for someone* exactly when there is a subject with minimal conscious sourcehood (C61) whose consciousness participates in the act rather than accompanying a result produced elsewhere (C138); behavioral indistinguishability decides neither the presence nor the absence of such a subject (C321). | `accepted criterion` |
+| C735 | A language model's outputs carry content in the derived way a text does, inheriting satisfaction conditions from a practice (C629); whether it has original content of its own is the open question S76 names (C633), placed with phenomenality at F3 (C717). | `accepted application; original intentionality open` |
+| C736 | For the article on AI collaboration: authorship of an evaluative position lies with the subject whose standards are its own (C498–C500); the model's contribution in this project is rational influence, reasons and formulations the author evaluates (C499); the model's own side is an open question of the same shape as the intentionality bridge. | `accepted note for the article` |
+| C737 | “The brain is the machinery of reasoning” separates three items: the validity of what is thought, independent of the vehicle; the occurrence of the thought, dependent on the realization base (C334); and the correctness of the act, a constitutive relation between the act's organization and the valid structure (C335). The machinery is the base through which the subject exercises the power, neither a second thinker (C332) nor what makes the content true. | `accepted clarification` |
+| C738 | That a system speaks like a person does not imply that it thinks like one, with certainty: thinking is a property of the source (C734) and no output entails a source. That it does not think remains undecided (C321). The epistemic situation is asymmetric. | `accepted asymmetry` |
+| C739 | The book metaphor: explaining the fundamental why of things by science is like finding the grammar and style of a book, calling them the laws of literature, and claiming to explain the book's origin. Laws are regularities within the created order and cannot explain the order's origin. | `accepted author metaphor` |
+| C740 | The author's position on machine thought: no existing machine thinks, and the threshold at which one could be said to think is unknown. The ledger locates the threshold: not in output, but in whether an organization is a unified bearer with the powers of C61 whose consciousness participates in its acts (C138); for machines this is the same onset question as for organisms, requiring an eligibility profile and a psychophysical power principle the project does not possess (C333, C337–C338, C717). | `author preference; threshold open at F3` |
 
 ## Rejected or corrected moves
 
@@ -1055,6 +1065,9 @@
 | R285 | Intentional content must be an abstract proposition in a realm distinct from specifications. | `rejected` |
 | R286 | Love is nothing but its biological realization. | `rejected` |
 | R287 | $G$'s love for a creature requires that $G$ be benefited or completed by the creature. | `rejected` |
+| R288 | Behavioral indistinguishability from a subject entails being a subject. | `rejected` |
+| R289 | Being a machine entails the absence of experience or understanding. | `rejected` |
+| R290 | Selection for fitness entails reliability about truth in every domain. | `rejected` |
 
 ## Challenges
 

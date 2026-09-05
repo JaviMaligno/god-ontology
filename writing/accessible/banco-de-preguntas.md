@@ -19,7 +19,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | --- | --- | --- | --- | --- |
 | P01 | ¿Por qué crees en Dios? | `respondida` | C01–C05, C457–C460; S09, S47 | — |
 | P02 | ¿No basta con decir que el universo simplemente existe? | `respondida` | C457, C459; S47 | — |
-| P03 | ¿No es «Dios» solo un nombre para lo que la ciencia aún no explica? | `respondida` | C01–C03, R02; S26 | — |
+| P03 | ¿No es «Dios» solo un nombre para lo que la ciencia aún no explica? | `respondida` | C01–C03, C739, R02; S26, S95 (metáfora del autor: las leyes de la literatura no explican el origen del libro) | — |
 | P04 | ¿Por qué un «alguien» y no un «algo», como una estructura matemática? | `respondida` | C05, C458–C461; S09, S47 | — |
 | P05 | ¿Puedes demostrarlo? | `respondida` | estándar constructivo; S09 | — |
 | P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S47 | — |
@@ -52,8 +52,8 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P62 | ¿Es lo mismo querer a una persona y querer a Dios? | `respondida` | C124, C295–C296, C471, C725; S20, S35, S46, S91 (mismo género; hacia Dios se caen ayudar y proteger y quedan reconocer, responder, querer lo que él quiere y alegrarse) | CH30 |
 | P63 | ¿Me quiere Dios a mí, en concreto? | `parcial` | C115, C122, C284–C286, C718–C721, C726; S20, S34, S90–S91 (querer el bien y ver de verdad, en concreto: ganado; la garantía: fe; si siente: abierto, ruta 3) | CH30 |
 | P64 | ¿Se quiere Dios a sí mismo? | `parcial` | C47, C462, C727; S48, S91 (verse de verdad y querer lo que es: sí y necesariamente; sin parte de ayudarse; afectivo no atribuido; lo trinitario se deja) | CH30 |
-| P65 | ¿Por qué me fío de mi razón, si mi cerebro está hecho para sobrevivir y no para acertar? | `abierta` | C01–C03, C56, C60, C63, C705–C711; Partes I–II (confianza cognitiva bajo el naturalismo evolutivo: Lennox, Plantinga, objeción de Fales); sesión propuesta (la distinción causa/razón, la fiabilidad adaptativa frente a la epistémica, y la lógica como forma del ser participada) | — |
-| P66 | ¿Piensa de verdad una máquina que habla como yo? ¿Qué me diferencia de ella? | `abierta` | C61, C63, C138, C624–C633, C717; S07, S22, S76, S89 (fuente consciente para quien las razones son razones; contenido y vehículo; puente de la intencionalidad en F3); nota para el artículo sobre colaboración con IA | — |
+| P65 | ¿Por qué me fío de mi razón, si mi cerebro está hecho para sobrevivir y no para acertar? | `parcial` | C01–C05, C56, C60, C63, C105, C523, C731–C733; Partes I–II, S94 (fiabilidad adaptativa frente a epistémica; razonar es un poder, no una alarma; hechos como parecido de una fuente que actúa por razones, con la forma del ser; confianza graduada por dominio; sin garantía), C737; S95 (la tinta: verdad del contenido, ocurrencia del acto, corrección del acto) | — |
+| P66 | ¿Piensa de verdad una máquina que habla como yo? ¿Qué me diferencia de ella? | `parcial` | C61, C138, C321, C629, C633, C717, C734–C736; S07, S22, S76, S89, S94 (criterio: sujeto para quien las razones son razones; la salida no decide en ningún sentido; contenido derivado como un libro; la intencionalidad original queda abierta; la autoría del proyecto es del autor), C738; S95 (hablar como yo no implica pensar como yo, seguro; lo contrario, sin decidir), C740 (inclinación del autor: ninguna máquina actual piensa; el límite es la misma pregunta de aparición que para los organismos) | — |
 | P15 | ¿Puede Dios hacer cualquier cosa? | `fusionada en P44` | C74–C76, C142; S11 | CH05 |
 | P16 | ¿Por qué creó Dios el mundo? | `respondida` | C104–C113, C521–C526, C616–C623; S18, S56, S75 (razones plausibles tipadas; razón tenue dirigida a lo que sienten los sujetos; el motivo real no se pretende conocer, C113) | CH02 |
 | P17 | ¿Necesitaba Dios crear? | `respondida` | C111, C132 | — |

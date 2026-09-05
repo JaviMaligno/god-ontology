@@ -99,3 +99,5 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S91 — Love: a first typing under the anchors, and what the affective route would require](2026-09-02-love-first-typing.md)
 - [S92 — Reconciliation of the branch's S83–S91 with the author's S74–S76](2026-09-03-reconciliation-with-s74-s76.md)
 - [S93 — Reconciliation of the branch with the author's S77–S82](2026-09-05-reconciliation-with-s77-s82.md)
+- [S94 — Cognitive trust, adaptive versus epistemic reliability, and machine thought](2026-09-05-cognitive-trust-and-machine-thought.md)
+- [S95 — The brain as machinery, the ink analogy, the asymmetry about machines, and the book metaphor](2026-09-05-machinery-ink-and-the-book.md)

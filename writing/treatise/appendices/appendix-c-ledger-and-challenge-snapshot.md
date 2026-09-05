@@ -6,13 +6,13 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 740 |
-| Rejected or corrected moves (R) | 290 |
+| Working commitments (C) | 743 |
+| Rejected or corrected moves (R) | 291 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 320 |
+| accepted | 323 |
 | preferred | 259 |
 | other | 96 |
 | provisional | 25 |
@@ -773,6 +773,9 @@
 | C738 | That a system speaks like a person does not imply that it thinks like one, with certainty: thinking is a property of the source (C734) and no output entails a source. That it does not think remains undecided (C321). The epistemic situation is asymmetric. | `accepted asymmetry` |
 | C739 | The book metaphor: explaining the fundamental why of things by science is like finding the grammar and style of a book, calling them the laws of literature, and claiming to explain the book's origin. Laws are regularities within the created order and cannot explain the order's origin. | `accepted author metaphor` |
 | C740 | The author's position on machine thought: no existing machine thinks, and the threshold at which one could be said to think is unknown. The ledger locates the threshold: not in output, but in whether an organization is a unified bearer with the powers of C61 whose consciousness participates in its acts (C138); for machines this is the same onset question as for organisms, requiring an eligibility profile and a psychophysical power principle the project does not possess (C333, C337–C338, C717). | `author preference; threshold open at F3` |
+| C741 | An agent explanation of an item is better than a process explanation when the item has contrastive specificity the antecedent structure leaves open (C108–C109), content, that is, satisfaction conditions borne originally only by acts of subjects (C626–C631), or anchor-directed fit (C187–C189); a process explanation is better when the features are what the structure yields under its own regularities. The form is the abductive comparison of C457–C460. | `accepted criterion` |
+| C742 | In this ontology the design inference lands on the created order as a whole, not on items inside it: creation is of a generative structure rather than of items one by one (C106–C107), the preferred causal distribution is grounding with sparse direct action (C380), and inside the order secondary causes are the preferred explanation. The book metaphor (C739) states the relocation. | `accepted relocation` |
+| C743 | Semantic information is derived content (C629, C735) and requires an original mind upstream, so the inference from a text to a scribe is sound; functional information is fit within a generative structure and is what such a structure yields (C107, C380), so running the inference on biological organization needs the premise that biological information is semantic, which the project does not grant (C03, R01–R02). | `accepted distinction` |
 
 ## Rejected or corrected moves
 
@@ -1068,6 +1071,7 @@
 | R288 | Behavioral indistinguishability from a subject entails being a subject. | `rejected` |
 | R289 | Being a machine entails the absence of experience or understanding. | `rejected` |
 | R290 | Selection for fitness entails reliability about truth in every domain. | `rejected` |
+| R291 | Biological functional information is semantic content borne for a reader, so that a proximate mind is its best explanation. | `not adopted; unearned premise` |
 
 ## Challenges
 

@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 745 |
-| Rejected or corrected moves (R) | 293 |
+| Working commitments (C) | 746 |
+| Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 324 |
 | preferred | 259 |
-| other | 97 |
+| other | 98 |
 | provisional | 25 |
 | merged | 18 |
 | open | 13 |
@@ -776,8 +776,9 @@
 | C741 | An agent explanation of an item is better than a process explanation when the item has contrastive specificity the antecedent structure leaves open (C108–C109), content, that is, satisfaction conditions borne originally only by acts of subjects (C626–C631), or anchor-directed fit (C187–C189); a process explanation is better when the features are what the structure yields under its own regularities. The form is the abductive comparison of C457–C460. | `revised by C744 (S97): the specificity mark withdrawn for items within the order` |
 | C742 | In this ontology the design inference lands on the created order as a whole, not on items inside it: creation is of a generative structure rather than of items one by one (C106–C107), the preferred causal distribution is grounding with sparse direct action (C380), and inside the order secondary causes are the preferred explanation. The book metaphor (C739) states the relocation. | `accepted relocation` |
 | C743 | Semantic information is derived content (C629, C735) and requires an original mind upstream, so the inference from a text to a scribe is sound; functional information is fit within a generative structure and is what such a structure yields (C107, C380), so running the inference on biological organization needs the premise that biological information is semantic, which the project does not grant (C03, R01–R02). | `accepted distinction; restated as norms relative to a reader and to living in C744 (S97)` |
-| C744 | Within the created order: an item under a norm relative to a reader (right or wrong relative to a practice of subjects) has derived content and a mind upstream, necessarily, since satisfaction conditions are borne originally only by acts of subjects (C626–C631); an item under a norm relative to living (right or wrong relative to the self-maintenance of its system) is what the generative structure yields (C107, C380), so a mind is not required and not excluded; an item that is a response to a reason requires an agent (C63); otherwise the structure explains. For the order as a whole the comparison is between stopping points (C458–C460), not an improbability estimate. | `accepted criterion` |
+| C744 | Within the created order: an item under a norm relative to a reader (right or wrong relative to a practice of subjects) has derived content and a mind upstream, necessarily, since satisfaction conditions are borne originally only by acts of subjects (C626–C631); an item under a norm relative to living (right or wrong relative to the self-maintenance of its system) is what the generative structure yields (C107, C380), so a mind is not required and not excluded; an item that is a response to a reason requires an agent (C63); otherwise the structure explains. For the order as a whole the comparison is between stopping points (C458–C460), not an improbability estimate. | `restated by C746 (S98): the reader mark withdrawn after the software counterexample` |
 | C745 | Tests of C744: the genetic code's arbitrariness is contingent history under a norm relative to living, not a norm relative to a reader; animal signals carry derived content exactly when their signalers are subjects (C61); artifacts show that functional norms are compatible with minds without requiring them; the origin of life is an open empirical item posed as “does the structure suffice?” under $GSDA$ (C321, C380); fine-tuning belongs to the structure and goes to the stopping-point comparison (S58). | `accepted test results` |
+| C746 | Within the created order: an item correct or incorrect relative to an end that is neither its own nor its system's own has an agent whose end it is upstream, necessarily, whatever the proximate producer (a press or a model derives its competence and the end from agents, C735); an item correct or incorrect relative to its own system's self-maintenance has an end of its own, and self-maintaining wholes are what the generative structure yields (C107, C331, C380), so no agent is required within the order and none is excluded; a response to a reason requires an agent (C63); otherwise the structure explains. Meaning is the case where the end is to say. | `accepted criterion` |
 
 ## Rejected or corrected moves
 
@@ -1076,6 +1077,7 @@
 | R291 | Biological functional information is semantic content borne for a reader, so that a proximate mind is its best explanation. | `not adopted; unearned premise` |
 | R292 | Arbitrariness of a mapping relative to chemistry makes it a norm relative to a reader. | `rejected` |
 | R293 | The contingency of an outcome, as one form among many possible, is a usable mark of agency within the created order. | `rejected as a practical criterion or physical argument` |
+| R294 | The mark of derived content is being written to be read. | `rejected` |
 
 ## Challenges
 

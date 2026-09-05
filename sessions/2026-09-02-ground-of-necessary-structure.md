@@ -1,9 +1,9 @@
 # Session: The ground of necessary structure
 
 **Date:** 2026-09-02
-**Session ID:** S82
-**Primary question:** What grounds necessary structure: the logical and identity truths, mathematical structure, and the type-level constitutive profiles that fix what can be created (open question 5, C350–C351)? The author's direction after S80: the reading on which that structure is $G$'s own way of being fits the architecture better, the rival reading already says the structure is not apart from $G$, and the register should give a decided answer.
-**Dependencies:** S38 (C343–C351, C355); S57/S60 (C529, C542); S05 (C12, C48, C51–C54); S30 (C224–C227, $MCS$); S32 (C264); S47 (C457); S51 (C492); S73 ($UCD_G$, C586–C594); S80 (C644); C55–C60, C363
+**Session ID:** S88
+**Primary question:** What grounds necessary structure: the logical and identity truths, mathematical structure, and the type-level constitutive profiles that fix what can be created (open question 5, C350–C351)? The author's direction after S86: the reading on which that structure is $G$'s own way of being fits the architecture better, the rival reading already says the structure is not apart from $G$, and the register should give a decided answer.
+**Dependencies:** S38 (C343–C351, C355); S57/S60 (C529, C542); S05 (C12, C48, C51–C54); S30 (C224–C227, $MCS$); S32 (C264); S47 (C457); S51 (C492); S73 ($UCD_G$, C586–C594); S86 (C697); C55–C60, C363
 **Origin:** the author's instruction “podemos trabajarlo para dar una respuesta más clara y decidida”
 **Target depth:** F2 for the grounding thesis and its exclusions; the participation relation itself is left at the same depth as $Fit_*$'s realization (C195), a preferred provisional bridge
 
@@ -11,7 +11,7 @@
 
 Necessary structure is grounded in $G$'s nature, not in $G$'s will, not in $G$'s knowledge, not in $G$'s power, and not in a realm apart from $G$. The thesis, **essential-structure grounding** ($ESG$), says: the logical and identity truths hold of $G$'s nature first and of every dependent as a consequence, since a dependent shares the form of being of that on which it depends; and the space of instantiable profiles, including the mathematical structure of possible plurality, is the space of ways $G$'s being can be participated by dependents. The structure is not made, because it is not the result of any exercise; it is not apart from $G$, because it is how $G$ is; and it is not ours, because we abstract it from a created order made according to it. This is the exemplarist reading, restated without divine simplicity, divine ideas as a second realm, or a logic of participation the project has not built.
 
-The two readings the register offered (S80) converge under $ESG$: “authorless” is true, because no will authored the structure; “from $G$” is true, because the structure is $G$'s nature as participable. The rival that survives as a fallback is primitive necessity: structure that is nothing apart from $G$ but is grounded in nothing. It is coherent, and it is disfavored by the same weak explanatory preference that prefers one terminus for concreta (C457, C592): it leaves the form of everything as a second unexplained fundamental. The rival that is rejected is a Platonic realm as an independent stopping point, and the rival that is rejected outright is voluntarism, on which necessary truths are willed and thereby contingent.
+The two readings the register offered (S86) converge under $ESG$: “authorless” is true, because no will authored the structure; “from $G$” is true, because the structure is $G$'s nature as participable. The rival that survives as a fallback is primitive necessity: structure that is nothing apart from $G$ but is grounded in nothing. It is coherent, and it is disfavored by the same weak explanatory preference that prefers one terminus for concreta (C457, C592): it leaves the form of everything as a second unexplained fundamental. The rival that is rejected is a Platonic realm as an independent stopping point, and the rival that is rejected outright is voluntarism, on which necessary truths are willed and thereby contingent.
 
 $ESG$ is proposed preferred at F2, abductively, at the same evidential level as universal concrete dependence (C591), of which it is the structural counterpart. It changes no clause of the criterion of possibility, which stays free of every $G$-clause (C529, C542): $ESG$ says why the criterion holds, not what it says.
 
@@ -48,7 +48,7 @@ for each logical or identity truth $\lambda$. The grounding relation is Finean �
 
 where $Participable(\pi,Nat(G))$ holds when a bearer instantiating $\pi$ would be a coherent dependent of $G$: coherent in itself ($ESG_1$), coherent in its powers and their compossibility, and coherent as dependent (the created-dependence clause $DepSat_C$ that $Adm_C$ already contains). The left-hand side is the criterion S38 and S57 built and S60 reconciled; the right-hand side is its ground. The biconditional is not a redefinition: $Adm_C$ keeps its clauses and its criterion independence (C343, C529), and $ESG_2$ says that what makes those clauses the right ones is that they spell out what it is to be a possible dependent of $G$.
 
-**Mathematical structure** falls under $ESG_2$. Number, order, and quantity are the structure of possible plurality: of there being many distinct dependents, each a way of participating one source. That structure is grounded in $G$'s nature as participable *in many ways*, which is the exemplarist thesis in its minimal form: one nature, many possible imitations, and the many on the side of the dependents (Aquinas, ST I q.15 a.2; q.44 a.3). The created order instantiates that structure, and finite knowers abstract it from the created many, which is why mathematics is discovered by abstraction and yet is not ours (S80, C644).
+**Mathematical structure** falls under $ESG_2$. Number, order, and quantity are the structure of possible plurality: of there being many distinct dependents, each a way of participating one source. That structure is grounded in $G$'s nature as participable *in many ways*, which is the exemplarist thesis in its minimal form: one nature, many possible imitations, and the many on the side of the dependents (Aquinas, ST I q.15 a.2; q.44 a.3). The created order instantiates that structure, and finite knowers abstract it from the created many, which is why mathematics is discovered by abstraction and yet is not ours (S86, C697).
 
 ## Step 3: why $ESG$ is preferred over the two survivors
 
@@ -66,7 +66,7 @@ A second form of the objection asks whether $ESG_2$ secretly reintroduces divine
 
 ## Step 5: the order of the argument
 
-The author's worry in S80 was that the argument to $G$ uses necessary truths, so that grounding them in $G$ would make the argument circular. It does not, for the reason S03 already gave for knowledge and history: the order of explanation is not the order of discovery. We reason with logic to the conclusion that the contingent order has an underived source; $ESG$ then says what that logic is, ontologically. A ruler is used to measure the building before one learns what rulers are made of. The argument's premises are the contingency data and the weak explanatory preference (C01–C05, C457), not any claim about the ground of logic; $ESG$ is a downstream result that explains a tool, not an upstream premise that the tool presupposes.
+The author's worry in S86 was that the argument to $G$ uses necessary truths, so that grounding them in $G$ would make the argument circular. It does not, for the reason S03 already gave for knowledge and history: the order of explanation is not the order of discovery. We reason with logic to the conclusion that the contingent order has an underived source; $ESG$ then says what that logic is, ontologically. A ruler is used to measure the building before one learns what rulers are made of. The argument's premises are the contingency data and the weak explanatory preference (C01–C05, C457), not any claim about the ground of logic; $ESG$ is a downstream result that explains a tool, not an upstream premise that the tool presupposes.
 
 ## Adversarial tests
 
@@ -94,30 +94,30 @@ In the sense that a square circle is not a way of participating $G$'s being, yes
 
 | Claim ID | Old status | New status | Content | Provenance |
 | --- | --- | --- | --- | --- |
-| C652 | — | `accepted exclusions` | Necessary structure is grounded neither in $G$'s will (a willed necessity would be contingent), nor in $G$'s knowledge (MKO tracks, C355), nor in $G$'s power (C274, C529), nor in a rival concrete ground (C264, C351) | this session; C55, C363 |
-| C653 | — | `proposed preferred at F2` | **Essential-structure grounding $ESG$:** logical and identity truths hold in virtue of $G$'s nature and of every dependent by dependence ($ESG_1$); a type-level profile is admissible iff it is a way $G$'s being can be participated by a dependent ($ESG_2$); mathematical structure is the structure of possible plurality so grounded | this session; C343, C350–C351 |
-| C654 | — | `accepted clarification` | $ESG$ changes no clause of $Adm_C$ and preserves criterion independence; it supplies the ontological dependence C343 left open, upstream of $CP_G^{elig}$ | this session; C529, C542, C372–C376 |
-| C655 | — | `preferred comparison` | Primitive necessity is the coherent fallback, disfavored by WEP as a second unexplained fundamental; an independent abstract realm is rejected as a stopping point by the same grounds that support $UCD_G$, with brute concordance as the decisive cost | this session; C195, C457, C592 |
-| C656 | — | `accepted reply` | The bootstrapping objection reads grounding as production; “in virtue of a nature” is neither causal nor prior to the nature; truths about $G$ are grounded in $Nat(G)$ the same way | this session; S38 literature (Fine) |
-| C657 | — | `accepted compatibility` | $ESG$ preserves $MCS$ (profiles are ways of participation, not constituents), the contingency of creation (C111, C363), and the order of the argument to $G$ (explanation is not discovery, S03) | this session; C224, C492 |
-| C658 | — | `accepted specification` | The accessible register's decided answer: necessary truths are not made, not apart from $G$, and not ours: they are $G$'s way of being as shareable, instantiated in creation and abstracted by us | this session; C644 |
-| C350 | `preferred with F3 ontology open` | `preferred; ground supplied at F2 by C653` | uninstantiated profiles are participable ways of $G$'s being | this session |
-| C351 | `preferred typed distinction` | `preferred; resolved toward grounding in $G$ by C653, fallback C655` | | this session |
-| C644 | `accepted author correction` | `accepted author correction; decided in S82 (C653, C658)` | | this session |
-| R253 | — | `rejected` | $G$ wills the necessary truths (universal possibilism) | this session; C652 |
-| R254 | — | `rejected` | Grounding necessary structure in $G$'s nature defines possibility through divine power | this session; C654 |
-| R255 | — | `rejected overreach` | $ESG$ is demonstrated rather than abductively preferred | this session; C655 |
+| C705 | — | `accepted exclusions` | Necessary structure is grounded neither in $G$'s will (a willed necessity would be contingent), nor in $G$'s knowledge (MKO tracks, C355), nor in $G$'s power (C274, C529), nor in a rival concrete ground (C264, C351) | this session; C55, C363 |
+| C706 | — | `proposed preferred at F2` | **Essential-structure grounding $ESG$:** logical and identity truths hold in virtue of $G$'s nature and of every dependent by dependence ($ESG_1$); a type-level profile is admissible iff it is a way $G$'s being can be participated by a dependent ($ESG_2$); mathematical structure is the structure of possible plurality so grounded | this session; C343, C350–C351 |
+| C707 | — | `accepted clarification` | $ESG$ changes no clause of $Adm_C$ and preserves criterion independence; it supplies the ontological dependence C343 left open, upstream of $CP_G^{elig}$ | this session; C529, C542, C372–C376 |
+| C708 | — | `preferred comparison` | Primitive necessity is the coherent fallback, disfavored by WEP as a second unexplained fundamental; an independent abstract realm is rejected as a stopping point by the same grounds that support $UCD_G$, with brute concordance as the decisive cost | this session; C195, C457, C592 |
+| C709 | — | `accepted reply` | The bootstrapping objection reads grounding as production; “in virtue of a nature” is neither causal nor prior to the nature; truths about $G$ are grounded in $Nat(G)$ the same way | this session; S38 literature (Fine) |
+| C710 | — | `accepted compatibility` | $ESG$ preserves $MCS$ (profiles are ways of participation, not constituents), the contingency of creation (C111, C363), and the order of the argument to $G$ (explanation is not discovery, S03) | this session; C224, C492 |
+| C711 | — | `accepted specification` | The accessible register's decided answer: necessary truths are not made, not apart from $G$, and not ours: they are $G$'s way of being as shareable, instantiated in creation and abstracted by us | this session; C697 |
+| C350 | `preferred with F3 ontology open` | `preferred; ground supplied at F2 by C706` | uninstantiated profiles are participable ways of $G$'s being | this session |
+| C351 | `preferred typed distinction` | `preferred; resolved toward grounding in $G$ by C706, fallback C708` | | this session |
+| C697 | `accepted author correction` | `accepted author correction; decided in S88 (C706, C711)` | | this session |
+| R281 | — | `rejected` | $G$ wills the necessary truths (universal possibilism) | this session; C705 |
+| R282 | — | `rejected` | Grounding necessary structure in $G$'s nature defines possibility through divine power | this session; C707 |
+| R283 | — | `rejected overreach` | $ESG$ is demonstrated rather than abductively preferred | this session; C708 |
 
 ## Literature and precedent
 
-Recorded from memory; to be verified in the author's next literature pass. Aquinas, ST I q.15 a.2 (many ideas, one essence known as imitable) and q.44 a.3 (God as exemplar cause) are the precedent for $ESG_2$; Descartes's creation of the eternal truths is the voluntarist position R253 rejects; Leibniz's location of the eternal truths in the divine understanding is the conceptualist neighbor from which $ESG$ differs by grounding in nature rather than in intellect. Brian Leftow, *God and Necessity* (2012), defends a theistic ground of modal truth and confronts the problem of truths about God; Michael Bergmann and Jeffrey Brower, “A Theistic Argument against Platonism (and in Support of Truthmakers and Divine Simplicity)” (2006), state the bootstrapping objection that C656 answers and argue the aseity–sovereignty pressure against Platonism that Step 3 uses; Thomas Morris and Christopher Menzel, “Absolute Creation” (1986), are the theistic-activist position that $ESG$ declines by refusing production. Kit Fine, “Essence and Modality” (1994), supplies the direction of grounding. The project-specific element is the pairing of $ESG$ with a criterion of possibility that contains no $G$-clause, so that the ground and the criterion are kept apart. No novelty claim.
+Recorded from memory; to be verified in the author's next literature pass. Aquinas, ST I q.15 a.2 (many ideas, one essence known as imitable) and q.44 a.3 (God as exemplar cause) are the precedent for $ESG_2$; Descartes's creation of the eternal truths is the voluntarist position R281 rejects; Leibniz's location of the eternal truths in the divine understanding is the conceptualist neighbor from which $ESG$ differs by grounding in nature rather than in intellect. Brian Leftow, *God and Necessity* (2012), defends a theistic ground of modal truth and confronts the problem of truths about God; Michael Bergmann and Jeffrey Brower, “A Theistic Argument against Platonism (and in Support of Truthmakers and Divine Simplicity)” (2006), state the bootstrapping objection that C709 answers and argue the aseity–sovereignty pressure against Platonism that Step 3 uses; Thomas Morris and Christopher Menzel, “Absolute Creation” (1986), are the theistic-activist position that $ESG$ declines by refusing production. Kit Fine, “Essence and Modality” (1994), supplies the direction of grounding. The project-specific element is the pairing of $ESG$ with a criterion of possibility that contains no $G$-clause, so that the ground and the criterion are kept apart. No novelty claim.
 
 ## Repository updates
 
-- [x] commitment ledger (C652–C658, R253–R255; C350, C351, C644 annotated; open question 5 replaced)
+- [x] commitment ledger (C705–C711, R281–R283; C350, C351, C697 annotated; open question 5 replaced)
 - [x] glossary ($ESG$; participable profile)
 - [x] treatise Part IV
-- [x] accessible answer P53 rewritten as decided; bank
+- [x] accessible answer P59 rewritten as decided; bank
 - [x] session index, development map, research method
 
 ## Next question

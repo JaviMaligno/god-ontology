@@ -388,15 +388,15 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Por qué creó Dios el mundo | preferido para las razones, incluida una razón tenue dirigida a lo que sentimos; la respuesta exhaustiva al sufrimiento sigue siendo creencia y el motivo real no se pretende conocer | C104–C113, C521–C526, C616–C623; S18, S56, S75 |
 | De qué está hecho Dios | preferido | C222–C238, C492–C493; S30–S31, S51 |
 | Cómo produce materia algo no material | preferido; el funcionamiento interno del poder de hacer existir queda como límite reconocido | C487–C491, C496; S51 |
-| Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S77 |
-| Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración; corregida por el autor en lo relativo a las verdades necesarias | C586–C600, C636–C644; S73, S78–S80 |
-| Existen los números y las ideas | preferido: la estructura necesaria es la manera de ser de Dios en cuanto participable, no hecha ni aparte ni nuestra; la necesidad sin fundamento queda como alternativa coherente | C03, C52, C264, C343, C350–C351, C429, C644, C652–C658; S05, S32, S38, S80, S82 |
-| El amor es más que biología | preferido: la capacidad es biológica, el acierto es objetivo | C187–C189, C321, C670–C671; S27, S85 |
-| Querer a una persona y querer a Dios | preferido: mismo género, asimetría | C124, C295–C296, C471, C672; S20, S35, S46, S85 |
-| Me quiere Dios en concreto | preferido para querer el bien y ver de verdad; creencia para la garantía; abierto si siente | C115, C122, C284–C286, C665–C668, C673; S20, S34, S84–S85 |
-| Se quiere Dios a sí mismo | preferido sin componente afectivo; lo trinitario se deja | C47, C462, C674; S48, S85 |
-| Por qué Dios no se muestra más claramente | parcial: la mitad estructural es preferida (relación de dos, sin instalar la respuesta); el umbral y la parte de lo que sentimos son creencia | C91, C122–C124, C296, C466–C470, C498, C503; S20, S35, S46, S52, S80 |
-| Necesita Dios que le recemos | parcial: que no necesita es preferido; lo que la relación es para nosotros es establecido; que la quiera por nosotros es creencia | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S80 |
+| Está el mundo hecho de Dios | preferido para la negativa; la constitución no destructiva es una capacidad condicional a F2, no ejercida en el modelo actual | C559–C572; S71, S83 |
+| Puede haber algo no hecho por Dios | preferido, condicional a F2: la dependencia universal de lo concreto es una preferencia abductiva, no una demostración; corregida por el autor en lo relativo a las verdades necesarias | C586–C600, C689–C697; S73, S84–S86 |
+| Existen los números y las ideas | preferido: la estructura necesaria es la manera de ser de Dios en cuanto participable, no hecha ni aparte ni nuestra; la necesidad sin fundamento queda como alternativa coherente | C03, C52, C264, C343, C350–C351, C429, C697, C705–C711; S05, S32, S38, S86, S88 |
+| El amor es más que biología | preferido: la capacidad es biológica, el acierto es objetivo | C187–C189, C321, C723–C724; S27, S91 |
+| Querer a una persona y querer a Dios | preferido: mismo género, asimetría | C124, C295–C296, C471, C725; S20, S35, S46, S91 |
+| Me quiere Dios en concreto | preferido para querer el bien y ver de verdad; creencia para la garantía; abierto si siente | C115, C122, C284–C286, C718–C721, C726; S20, S34, S90–S91 |
+| Se quiere Dios a sí mismo | preferido sin componente afectivo; lo trinitario se deja | C47, C462, C727; S48, S91 |
+| Por qué Dios no se muestra más claramente | parcial: la mitad estructural es preferida (relación de dos, sin instalar la respuesta); el umbral y la parte de lo que sentimos son creencia | C91, C122–C124, C296, C466–C470, C498, C503; S20, S35, S46, S52, S86 |
+| Necesita Dios que le recemos | parcial: que no necesita es preferido; lo que la relación es para nosotros es establecido; que la quiera por nosotros es creencia | C105, C111, C124, C132, C295–C296, C469, C524–C526; S18, S35, S46, S56, S86 |
 | Puede Dios hacer cualquier cosa | preferido a F2 para toda tarea admitida por la ontología actual; $UCD_G$ cierra condicionalmente los relata no creados y el audit por tipo de paciente no encuentra un tipo nuevo positivo; la forma irrestricta conserva `SQBlock` y `NCCBlock` como reaperturas exactas, no como contraejemplos actuales | C261–C262, C372, C375–C376, C420–C433, C573–C615; S32, S40–S44, S71–S74 |
 | Saber no es causar | preferido | C10–C13, C22–C30; S01–S03 |
 | Libres de verdad | preferido; el sujeto encarnado unificado es aceptado en S37 | C08, C57, C212–C221, C330–C336; S22, S29, S37 |

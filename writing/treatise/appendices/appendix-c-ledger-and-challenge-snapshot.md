@@ -1,6 +1,6 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-05 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-06 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 

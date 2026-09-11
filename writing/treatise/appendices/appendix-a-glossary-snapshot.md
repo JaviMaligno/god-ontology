@@ -1,6 +1,6 @@
 # Appendix A — Glossary Snapshot
 
-*Generated 2026-09-06 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
+*Generated 2026-09-11 from `ontology/glossary.md` by `scripts/build-appendices.mjs`. The glossary file remains the canonical register; this snapshot exists so that the treatise carries its definitions at the state of the current draft. Relative links have been flattened to plain text.*
 
 Entries: 363.
 

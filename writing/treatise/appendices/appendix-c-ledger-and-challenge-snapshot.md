@@ -1,23 +1,23 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-06 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-11 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 746 |
+| Working commitments (C) | 750 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 324 |
+| accepted | 326 |
 | preferred | 259 |
-| other | 98 |
+| other | 99 |
 | provisional | 25 |
 | merged | 18 |
-| open | 13 |
+| open | 14 |
 | deferred | 4 |
 | superseded | 3 |
 | rejected | 2 |
@@ -779,6 +779,10 @@
 | C744 | Within the created order: an item under a norm relative to a reader (right or wrong relative to a practice of subjects) has derived content and a mind upstream, necessarily, since satisfaction conditions are borne originally only by acts of subjects (C626–C631); an item under a norm relative to living (right or wrong relative to the self-maintenance of its system) is what the generative structure yields (C107, C380), so a mind is not required and not excluded; an item that is a response to a reason requires an agent (C63); otherwise the structure explains. For the order as a whole the comparison is between stopping points (C458–C460), not an improbability estimate. | `restated by C746 (S98): the reader mark withdrawn after the software counterexample` |
 | C745 | Tests of C744: the genetic code's arbitrariness is contingent history under a norm relative to living, not a norm relative to a reader; animal signals carry derived content exactly when their signalers are subjects (C61); artifacts show that functional norms are compatible with minds without requiring them; the origin of life is an open empirical item posed as “does the structure suffice?” under $GSDA$ (C321, C380); fine-tuning belongs to the structure and goes to the stopping-point comparison (S58). | `accepted test results` |
 | C746 | Within the created order: an item correct or incorrect relative to an end that is neither its own nor its system's own has an agent whose end it is upstream, necessarily, whatever the proximate producer (a press or a model derives its competence and the end from agents, C735); an item correct or incorrect relative to its own system's self-maintenance has an end of its own, and self-maintaining wholes are what the generative structure yields (C107, C331, C380), so no agent is required within the order and none is excluded; a response to a reason requires an agent (C63); otherwise the structure explains. Meaning is the case where the end is to say. | `accepted criterion` |
+| C747 | Exact retrospective fit to a person's recorded decisions does not by itself establish the process that produced them or conscious authorship; a finite discrete sequence can be represented by a conditional distribution concentrated on the recorded action at each episode index. | `accepted author clarification` |
+| C748 | Outcome representability, prospective prediction, causal explanation, and conscious sourcehood are distinct; probabilistic explanation can be legitimate without identifying a conscious bearer, and probabilistic tendencies need not exclude agency. | `proposed analytic refinement` |
+| C749 | Strong prospective non-modellability of human agency and the metaphysical possibility of conscious/non-conscious systems indistinguishable by every physical test remain open, with hypotheses and realization bridges still to be specified. | `open; integrated and banked` |
+| C750 | Practical predictive success, including hypothetical exact prospective prediction of every actual decision, does not by itself cause, instantiate, or establish antecedent determination of the subject's choice. Knowledge of actuality entails truth, not necessity or causal production. | `accepted author clarification; ACO application conditional on existing preferences` |
 
 ## Rejected or corrected moves
 

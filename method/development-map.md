@@ -104,6 +104,8 @@ The author's brief of 2026-09-02 adds a question-driven track: plain questions f
 33. Apply S81's source-argument disclosure and accessible-answer reporting controls in every later session; no citation or hidden file edit may replace the author's opportunity to inspect the reasoning.
 
 
+S99 integrates the author's distinction between probabilistic output fit and conscious authorship into C57/C738 at F1 with a local F2 retrospective representation example (C747–C750). The author's follow-up extends the point to useful prospective prediction, including hypothetical perfect accuracy, and integrates it with C10/S02: knowledge tracks the actual act without causing it or entailing its necessity. Strong prospective non-modellability and total physical indistinguishability remain banked; fully non-conscious libertarian agency remains C218. No trunk priority or existing preference is changed. Any deeper pass must specify the subject-level causal difference and the observations or interventions under comparison.
+
 ## Depth-control rules
 
 - Do not deepen a topic solely because formalization is possible.

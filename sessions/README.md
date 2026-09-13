@@ -134,5 +134,6 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S126 — Human participation, conditional vocation, and its limits](2026-09-13-human-participation-and-conditional-vocation.md)
 - [S127 — Reconcile parallel histories and canonical identifiers](2026-09-13-reconcile-parallel-histories.md)
 - [S128 — Divine hiddenness and recognizable access](2026-09-13-divine-hiddenness-and-recognizable-access.md)
+- [S129 — Divine discretion and the value of created life](2026-09-13-divine-discretion-and-created-life.md)
 
 S127 reconciles the parallel histories. Existing remote S83–S108 retain their numbers; former local S83–S99 are S110–S126. S109 keeps its number and records the intervening scoped integration. Numbers identify records, not a strict temporal ordering.

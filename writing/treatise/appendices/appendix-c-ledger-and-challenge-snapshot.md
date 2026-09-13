@@ -6,7 +6,7 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 929 |
+| Working commitments (C) | 934 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 32 |
 
@@ -14,7 +14,7 @@
 | --- | --- |
 | accepted | 353 |
 | preferred | 259 |
-| other | 245 |
+| other | 250 |
 | provisional | 25 |
 | open | 20 |
 | merged | 18 |
@@ -28,7 +28,7 @@
 | scoped | 9 |
 | integrated | 1 |
 | opened | 1 |
-| author-promoted | 1 |
+| S129 | 1 |
 
 ## Working commitments
 
@@ -963,6 +963,11 @@
 | C927 | A withholding explanation must identify the relevant good and show why an alternative adequate, agency-preserving disclosure would not secure it. | `open comparative burden` |
 | C928 | Absence of felt experience is not a deductive refutation of bare presence or capacity, but the framework has no general immunity to evidence of absence or nonbelief. | `accepted scope correction of C470` |
 | C929 | Nonbelief, lack of a felt manifestation, and nonparticipation do not by themselves establish culpable resistance; lack of feeling also does not establish absence of every relation. | `accepted inference limit; P35 explanation remains partial` |
+| C930 | Finite lives can realize goods that matter within the preferred creative purpose before the subject explicitly identifies God. | `proposed application of the participant profile` |
+| C931 | God may ordinarily favor presence that accompanies finite self-formation and leaves created lives substantial initiative over continual divine direction of their development. | `constructive explanatory hypothesis; not yet author-preferred` |
+| C932 | Evidential clarity, frequency of address, practical direction and the place of divine recognition within finite formation must be assessed separately. | `analytic constraint on the proposed explanation` |
+| C933 | Under the proposed purpose, explicit recognition can develop within a life whose created goods already matter; lack of belief need not mean that all creative purposes toward that life have failed. | `conditional extension; no automatic implicit communion` |
+| C934 | The hypothesis favors recognizable response when it can serve a willing subject's own initiative without defeating the specified goods; prolonged nonrecognition in such a case is a substantive difficulty for it. | `defeasible comparative consequence; residual explanation open` |
 
 ## Rejected or corrected moves
 
@@ -1298,4 +1303,4 @@
 | CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | `integrated into S82; partial F2 answer` |
 | CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 | CH31 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | `tested partially in S109; profile proposed, mission and full incarnation open` |
-| CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | `author-promoted in S128; P57 and P35 partial, access reason proposed, actual explanation open` |
+| CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | `S129 proposes nondirective presence for valued finite development; P57 explanatory hypothesis, P35 partial; clearer nondirective access is the strongest open comparison` |

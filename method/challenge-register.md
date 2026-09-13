@@ -83,7 +83,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | love, divine affect, passibility, the P-gap, personal relation, the accessible register | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 
 | CH31 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | finite creation, reflective agency, open purpose, human variation and conditional incarnation | `tested partially in S109; profile proposed, mission and full incarnation open` |
-| CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | divine hiddenness, personal presence, recognizable access, freedom, love, evidence | `author-promoted in S128; P57 and P35 partial, access reason proposed, actual explanation open` |
+| CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | divine hiddenness, personal presence, recognizable access, freedom, love, evidence | `S129 proposes nondirective presence for valued finite development; P57 explanatory hypothesis, P35 partial; clearer nondirective access is the strongest open comparison` |
 
 ## Priority gate after S26
 
@@ -692,6 +692,8 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Status:** author-promoted bounded inquiry in [S128](../sessions/2026-09-13-divine-hiddenness-and-recognizable-access.md), C922–C929. Existing P57 and adjacent P35 are revised at partial status; no duplicate question is added. Related: CH20 on experiential warrant and CH30 on love.
 
+**Constructive revision — S129:** the author requests a clearer explanation. [S129](../sessions/2026-09-13-divine-discretion-and-created-life.md), C930–C934, proposes ordinary presence that accompanies a life whose goods and self-formation already matter before explicit recognition. This is a hypothesis about creative purpose and mode of involvement, not an empirical law that clarity undermines maturity. P57 is rewritten at proposed/partial status; P35 is unchanged. S128's source assessments and clarity/control distinction are retained.
+
 **Q0 — ordinary question:** Why does God not make himself more evident, especially to someone willing to relate? Lack of pain does not remove the question about lost opportunity.
 
 **Q1 — distinctions:** Ontological presence, God's capacity to communicate, adequate recognizable opportunity from the subject's side, and reciprocal participation are different. Clarity about existence does not entail love, trust or obedience. Absence of feeling does not entail absence of every relation; nonbelief does not establish resistance.
@@ -704,4 +706,4 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Q5 — evidential assessment:** Which observations would support or weaken a specified relational profile? Preserve C470's narrow non-refutation distinction without making hiddenness irrelevant evidence. Separate a merely compatible explanation from support that it explains actual cases. Do not infer rejection, guarantee later communion or settle free responses through pre-actual truths.
 
-**Next dependency:** sharpen adequate access and a bounded reason comparison if the author develops this question further. The common finite-generation and unity/efficacy programme remains active.
+**Next dependency:** compare clearer recognizable response at the same low directive involvement and with the same self-formation opportunities. Identify a particular good that could justify withholding under those fixed conditions, or let the access reason favor clearer response. Constant guidance and certain existence are different variables; the proposal must not defend the latter's absence by criticizing only the former. The common finite-generation and unity/efficacy programme remains active.

@@ -57,6 +57,8 @@ The following equivalences keep the plain language faithful. They are guides, no
 
 ## Workflow
 
+Read every revised answer in isolation before reporting it. References to this working conversation, removed analogies, or earlier drafts do not belong in the published answer. Any necessary antecedent must be supplied within the answer; development history belongs in the session record. This author-requested editorial control follows the S107 correction.
+
 1. Take a question from the bank, or add one.
 2. Locate the ledger items that bear on it. If they suffice, write the answer and record provenance. If they do not, mark the question `abierta` and propose the gap as a session under the research method.
 3. After any session that changes a cited item, revise the affected answers.

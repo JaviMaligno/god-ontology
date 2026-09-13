@@ -1,20 +1,20 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-11 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-12 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 750 |
+| Working commitments (C) | 802 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 326 |
+| accepted | 334 |
 | preferred | 259 |
-| other | 99 |
+| other | 143 |
 | provisional | 25 |
 | merged | 18 |
 | open | 14 |
@@ -692,7 +692,7 @@
 | C657 | Structural exposure neither entails death or evil in every material world nor justifies any particular suffering; profile-relative cost, nomological inevitability, token inevitability, and token permission remain distinct. | `accepted P-gap constraint` |
 | C658 | The meta-modal ground is complete enough at F2+ under $BCP$; stronger divine-essential grounding is selective F3, and structural vulnerability remains banked unless it becomes load-bearing for the P-gap. | `accepted bounded closure; next priority strengthened in S79` |
 | C659 | The author's comparison with nothing was primarily a comparative case for theism and for ontological continuity *ex deo*, not an argument that atheism reifies an entity named Nothing. | `accepted authorial correction` |
-| C660 | Non-destructive strict *ex deo* through $ANDC$ is the principal working hypothesis for actual creation; constitutively disjoint $OEC^+_{CCD}$ is now the live fallback. | `preferred principal creation hypothesis; active burden` |
+| C660 | S79 selected non-destructive strict ex deo through ANDC over constitutively disjoint creation; S107 reopens their comparative ranking at the author's direction. | `earlier preference; ranking reopened, both candidates live` |
 | C661 | Shoemaker's freeze construction targets local change and the claim that every non-zero temporal interval contains change; because its complete history contains transitions and changing regions, it does not counter whole-history dynamicity. | `accepted scope correction` |
 | C662 | A material temporal created order requires some change somewhere in its complete history; wholly idle metric duration is disfavored as ungrounded surplus rather than declared logically contradictory under every theory of time. | `preferred at F2` |
 | C663 | Whole-history change does not entail mortality, evil, or any token suffering; those conclusions require additional bearer-, law-, and value-relative premises. | `accepted inferential limit` |
@@ -716,7 +716,7 @@
 | C681 | Numerical identity is not an additional material component or separable immaterial substance; it is a fundamental fact or relation true of a bearer, whose actual human realization is embodied. | `proposed preferred clarification` |
 | C682 | Human consciousness is temporally and bodily realized by one embodied subject, while reductive physical identity and a second immaterial-substance bearer remain unearned; the ultimate phenomenal ground stays open. | `proposed preferred F2 restatement` |
 | C683 | Reductive materialism owes phenomenality, source unity, and simple persistence; substance dualism owes individuation, embodiment, causal interaction, and non-duplication; non-spatiality alone solves none of these. | `accepted conditional burden map` |
-| C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed principal ANDC refinement` |
+| C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed ANDC refinement; overall ranking reopened in S107` |
 | C685 | $\Phi_x^C$ constrains the kind, unity, form, powers, origin structure, and admissible bearer-careers of $x$ but does not settle its exact actual career; autonomous settlements remain creaturely contributions to $H_x^*$. | `accepted agency constraint on C684` |
 | C686 | $ANDC^{\Phi}$ must make whole constitution non-replaceable and explanatorily distinct from ordinary existential grounding; otherwise it collapses into verbal overlap and $OEC^+_{CCD}$ regains comparative force. | `open load-bearing test` |
 | C687 | Reconciliation after the trunk's S71–S72 and the citation pass: C494's $NI$ condition is superseded by S71; WFR (C550) rests on the project's own well-foundedness of the grounding order (C29–C30, S39) and is recorded as a project commitment, not as a theorem of the grounding literature; S48 and S53 are project-specific derivations with direct precedents (Murphy, Merricks); no other branch row changes status. | `accepted reconciliation` |
@@ -783,6 +783,58 @@
 | C748 | Outcome representability, prospective prediction, causal explanation, and conscious sourcehood are distinct; probabilistic explanation can be legitimate without identifying a conscious bearer, and probabilistic tendencies need not exclude agency. | `proposed analytic refinement` |
 | C749 | Strong prospective non-modellability of human agency and the metaphysical possibility of conscious/non-conscious systems indistinguishable by every physical test remain open, with hypotheses and realization bridges still to be specified. | `open; integrated and banked` |
 | C750 | Practical predictive success, including hypothetical exact prospective prediction of every actual decision, does not by itself cause, instantiate, or establish antecedent determination of the subject's choice. Knowledge of actuality entails truth, not necessity or causal production. | `accepted author clarification; ACO application conditional on existing preferences` |
+| C751 | Personal continuation and same-bearer identity after death are explicitly promoted by the author as the next development task. | `accepted author priority` |
+| C752 | Evidence for a hot expanding early universe and conditional past geodesic incompleteness does not by itself establish an absolute beginning of all physical reality or an agentic cause. | `proposed evidence-scope clarification` |
+| C753 | Temporal beginning, contingent dependence, ultimate grounding, and conscious agency are distinct claims; the C05 preference does not depend on a proved first instant, and impersonal stochastic reality remains a rival. | `proposed clarification of retained preference` |
+| C754 | The author prefers a theological interpretation of communion as freely accepted relationship and of hell-like deprivation as absence of freely accepted participation, without requiring explicit refusal or experienced pain. | `author theological preference; actuality and finality open` |
+| C755 | Nonbelief, rejection of a religious representation, and informed refusal of relationship are distinct; a refusal at one time does not entail an irrevocable refusal throughout a further life. | `proposed scope constraint; practical framing refined by C761` |
+| C756 | Personal survival requires further conscious life of the numerically same bearer; realization base, duration, welfare, and accepted communion are separate questions. | `proposed F1–F2 refinement` |
+| C757 | Fundamental identity and complete divine knowledge are compatible with a terminal life and therefore do not entail survival or constitute cross-gap identity. | `proposed F2 integration; C448 retained` |
+| C758 | Protection against harm, forced reciprocation, and justification of permanent privation are different questions; calling a condition self-exclusion does not discharge the divine-goodness burden. | `proposed integration burden; suffering conditional only` |
+| C759 | Expansion, the thermal microwave background, and primordial abundances jointly support the hot Big-Bang model; its standard expansion history has a finite age of about 13.8 billion years. | `proposed strengthened evidence statement` |
+| C760 | The author identifies Borde–Guth–Vilenkin: its positive past-average expansion condition bounds past proper time or affine length along the relevant geodesics, without Einstein's field equations or energy conditions. Special relativity alone does not supply that bound; Hawking–Penrose is a separate conditional incompleteness result. | `accepted source identification; proposed theorem-scope clarification` |
+| C761 | Present explicit non-participation in a relationship does not require an informed act of rejection; someone who does not seek or open themselves to God need not first believe in God to lack that communion. | `accepted author correction; population frequency unverified` |
+| C762 | Absence of a possible greater good, privation of a due good, and experienced pain are distinct; neither a lesser degree of fulfillment nor privation alone entails suffering. | `accepted author distinction` |
+| C763 | A condition retaining finite goods, agency, and interpersonal recognition while lacking accepted communion with God need not be painful on the selected premises. | `author theological possibility; actuality and finality open` |
+| C764 | Same-bearer continuation, conscious realization, and consent to communion have separate conditions; faith, nonbelief, or willingness to relate cannot constitute the cross-gap identity link. | `proposed continuation integration` |
+| C765 | Interruption of conscious episodes, cessation of the present realization base, and nonexistence of the subject are distinct; renewed experience is compatible with uninterrupted bearer existence. | `proposed F2 distinction` |
+| C766 | Uninterrupted survival requires a finite subject with admissible unity, powers, and supporting constitution through the transition; a memory, identity label, or divine relation is not that subject. | `proposed conditional persistence profile` |
+| C767 | Primitive numerical identity need not be reduced to another object or qualitative criterion, but admissibility of disconnected careers is a distinct modal commitment, not a consequence of primitive identity or E+ alone. | `proposed clarification; C436 and C448 retained` |
+| C768 | A unique matching successor causally derived from a subject's records need not be that subject; shared dependence on God also does not entail shared numerical identity. | `proposed F2 non-entailment results` |
+| C769 | Renewed realization without a mandatory hidden survivor remains the preferred continuation possibility; a genuine existence gap is permitted, not required, and both routes retain kind-sensitive realization burdens. | `proposed comparative assessment` |
+| C770 | Numerical survival does not by itself preserve autobiographical goods or establish a fitting horizon; memory, relationships, acquired dispositions, and freely continued authorship remain further tasks. | `proposed continuation integration` |
+| C771 | Numerical identity means that references concern one individual; qualitative/biographical profile, individuation, persistence, and identification ask different questions. Logical identity's primitiveness does not itself prove metaphysical non-reduction or survival. | `proposed definitional clarification; C436 retained` |
+| C772 | A lived episode, its contribution to later dispositions, and a memory representing it are distinct; experience and choice can form a subject's changing profile without constituting a transferable numerical identity. | `author observation integrated; proposed refinement` |
+| C773 | Embodiment, conscious capacities, agentive sourcehood, and experiential episodes are different roles of the one concrete subject, not an inventory of independent agents or substances. | `preferred account clarified; analogy non-inferential` |
+| C774 | Form is the actual unifying and power-conferring organization of the individual, distinct from a repeatable structural description, a current personality, and the independently warranted kind-essential constraints. | `proposed clarification of C331–C332` |
+| C775 | A proposed further conscious life must supply a finite concrete bearer, unity of its own states and powers, an origin-compatible non-branching career, and actual experienced episodes. | `proposed F2 adequacy profile` |
+| C776 | A later bearer's being ontologically the same does not require an infallible finite recognition procedure; divine acquaintance tracks identity and does not guarantee that any proposed reconstruction continues the individual. | `existing anti-circularity rule reapplied` |
+| C777 | Develop the subject-level dual-aspect candidate locally: one concrete unity has intrinsic conscious powers and bodily realization; its episodes are dimensions of its own activity, without an added inner owner receiving them. | `proposed local explanatory hypothesis; C338's deeper bridge open` |
+| C778 | The positive ground of created individuality is real origination/constitution of a concrete finite power-bearing unity in its origin history; divine acquaintance knows the resulting subject rather than producing it merely as knowledge. | `proposed constitutive explanation; primitive token unity retained` |
+| C779 | Divine origin, finite resemblance in conscious sourcehood, and real constitutive participation under principal ANDC are distinct; S104 clarified the third as its then-preferred creation hypothesis; S107 reopens that comparative ranking. | `historical preference clarification; constitutive bridge and ranking open` |
+| C780 | The local subject model explains dependence and ownership roles without closing the intrinsic-unity bridge, the extra content of strict constitution, or identity through total cessation. | `proposed scope and concrete next test` |
+| C781 | The opacity of divine-constitution language reflects an incomplete theoretical account as well as poor expression: S71/S82 stipulate the primitive relation and explicitly leave its extra constitutive content open. | `accepted author correction; internal audit` |
+| C782 | The positive content intended by strict ex deo is G itself in the constitutive role for finite creatures, not merely a shared description or an originating cause. | `proposed explication; relation still undeveloped` |
+| C783 | Dependence at every stage, essential reliance on G, finite resemblance, and perfect divine knowledge do not by themselves establish a real common constituent. | `proposed F2 non-entailment audit` |
+| C784 | Joint access to contents differs from their being jointly lived as aspects of an actual phenomenal episode; the latter gives a substantive local target for the intrinsic-unity inquiry. | `proposed source-informed local criterion` |
+| C785 | Accurate communication or representation of another's experience does not by itself transfer phenomenal ownership or establish a new group-level subject; divine acquaintance likewise does not entail a shared first-person episode. | `proposed internal application` |
+| C786 | The carpenter analogy assigned both originating and constituting roles to G; external material and material transformation do not belong to finite-form ANDC. | `accepted author correction` |
+| C787 | Interpret finite-form ANDC through the numerically same G as terminal concrete constitutive base, with genuinely created finite individuals and organization but no separate underlying created substrate. | `proposed constructive interpretation` |
+| C788 | A shared terminal constitutive base and distinct created terminal bases provide different candidate truth conditions even when divine causation, constant dependence, and knowledge are held fixed. | `proposed bounded F2 semantic contrast` |
+| C789 | A common terminal constitutive explanation supplies a comparative motive for C787, with primitive one-to-many constitution and finite power ownership as its explicit costs. | `proposed comparative rationale; no global economy verdict` |
+| C790 | In the shared-base proposal, finite predicates, episode ownership, and act-sourcehood belong to created bearers; a persistent common base alone transmits neither their identities nor their survival. | `proposed integration; inherited unity and identity burdens retained` |
+| C791 | Compare finite-form ANDC and constitutively disjoint creation seriously on consistent scope, economy, satisfaction and framework fit, while developing identity in parallel and repairing standalone accessible prose. | `accepted author direction and editorial correction` |
+| C792 | Leave the overall creation ranking open at this pass: both are active candidates with different local advantages and unreduced creative bridges. | `proposed comparative assessment` |
+| C793 | If divine constitution is the general account of concrete creation, it applies to non-conscious creation too; selective constitution requires an additional rule and justification. | `proposed conditional scope result` |
+| C794 | Divine origin, common constitution, resemblance in a specified capacity and freely received communion must not be collapsed into one scale of divinity. | `proposed semantic and scope discipline` |
+| C795 | Both creation candidates must explain finite natures, actual finite determination and real individual plurality; ANDC does not eliminate this burden by identifying the terminal base with G. | `proposed comparative burden correction` |
+| C796 | In ordinary organismic persistence, maintaining and transforming an actual unity differs from using its information or components to originate another functioning unity. | `proposed causal explanation within C439` |
+| C797 | With finite organization, origin, powers, episode ownership and causal continuity fixed, the existing identity reasons do not change solely because the ultimate constitutive base changes between the two candidates. | `proposed bounded comparative independence` |
+| C798 | An independently justified finite support exclusive to a subject could discriminate survival accounts; its reality, efficacy and unity-preserving role must be established in either creation candidate. | `proposed discriminator; no support adopted` |
+| C799 | Develop a common generative explanation of finite novelty, keeping shared-constitution and disjoint interpretations open unless a substantive dependency or consequence separates them. | `accepted author direction` |
+| C800 | The common creative task is effective actualization of finite individuals with instantiated organization and powers proper to them, including under a shared-base interpretation. | `proposed common generative account` |
+| C801 | A justification of the common creative core transfers between interpretations only insofar as its premises do not depend on the disputed constitutive sharing. | `proposed conditional transfer discipline` |
+| C802 | More descriptive predicates do not by themselves establish more fundamental creative acts, powers or independent relations; S107's local economy advantage needs an irreducibility argument. | `proposed economy correction` |
 
 ## Rejected or corrected moves
 

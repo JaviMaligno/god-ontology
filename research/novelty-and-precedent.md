@@ -1,5 +1,41 @@
 # Novelty and Precedent: Initial Assessment
 
+## S108 common generative explanation — 2026-09-12
+
+[S108](../sessions/2026-09-12-common-generative-explanation.md) follows the author's internal argument that both interpretations require effective finite novelty. Inspected S107's comparison/identity-independence sections and C230–C233/C684–C685. These supply shared premises, not a completed creative mechanism. The session reconstructs the common-task inference, limits transfer to interpretation-independent premises, and qualifies economy arguments from predicate counts. No external source or empirical claim does inferential work; novelty is unassessed.
+
+## S107 creation comparison and identity independence — 2026-09-12
+
+[S107](../sessions/2026-09-12-creation-comparison-and-identity-independence.md) compares the internal models of S106 on scope, finite nature, ontology and relation costs, agency, and identity. No external source or empirical finding does inferential work. The inspected basis is C660/C684–C686, S106's positive proposal/local interpretation/comparative rationale, and C438–C448 with the S102 persistence-gap distinction. Their premises and use are reconstructed in S107 and the reply. The new assessment is bounded: no demonstrated global winner, no full equivalence claim, and no new identity or survival theorem. Novelty is unassessed. A read-only parallel identity analysis supplies internal counterchecks, not independent evidential authority.
+
+## S106 common constitutive base and created form — 2026-09-12
+
+[S106](../sessions/2026-09-12-common-constitutive-base-and-created-form.md) develops an internal interpretation of C684: the same terminal concrete constitutive base G, real created finite bearers and organization, and no separate underlying created substrate. S71's whole-presence/content test, S82 sections 4–5, and S105's non-entailment audit are inspected as internal constraints, with their premises, role, and limits reconstructed in the session and reply. No external source or empirical result does inferential work. The local base map distinguishes the candidate from disjoint creation but does not establish metaphysical possibility. Novelty and historical proximity remain unassessed.
+
+## S105 constitutive audit and unity source — 2026-09-12
+
+[S105](../sessions/2026-09-12-constitution-content-and-joint-experience.md) inspects S71/S82's primitive constitution relation and finds no completed explanation beyond the explicit open C686 burden. **Tim Bayne and David J. Chalmers, “What is the Unity of Consciousness?” (2003)**, [authors' text](https://consc.net/papers/unity.html), sections 1–3, is inferentially active for the local distinction between joint access and joint phenomenal experience. Premises, inferential step, project role, and limits are reconstructed in S105 and disclosed in the reply. The universal necessary Unity Thesis and empirical neurological interpretations are not adopted. The subsequent communication/ASA model is an internal application; no empirical group-consciousness conclusion or novelty claim is made.
+
+## S104 positive subject model and participation — 2026-09-12
+
+[S104](../sessions/2026-09-12-created-individuality-and-divine-participation.md) develops the existing C338 candidate as a local explanatory proposal and integrates C660/C684 with real origination and ASA. No external source is inferentially active, no empirical finding is introduced, and the existing dual-aspect label supplies no historical authority. S93 is inspected to resolve P54's stale actual-model preference. The primitive intrinsic-unity bridge and C686 remain open; novelty is unassessed.
+
+## S103 internal identity and form clarification — 2026-09-12
+
+[S103](../sessions/2026-09-12-subject-identity-form-and-lived-experience.md) refines subject, numerical identity, biographical profile, form, experience, memory, and recognition using existing commitments and the author's autobiographical observation. No external named source is inferentially active; the threefold/trinitarian image is expressly non-inferential author imagery. No memory-science or comparative identity literature is surveyed. Forgetting alone is not treated as refuting every continuity theory, nor logical primitiveness as proving metaphysical non-reduction. Novelty is unassessed.
+
+## S102 internal continuation comparison — 2026-09-11
+
+[S102](../sessions/2026-09-11-survival-persistence-and-renewed-realization.md) compares persistent-bearer support with admissibility of disconnected careers using the existing identity, embodiment, and divine-task commitments. It separates consciousness and existence gaps and tests lone copying, branching, common ground, and bare identity. No external named source is used inferentially; no empirical survival or substrate-transfer literature is assessed. Novelty is unassessed. The unresolved explanatory burden is kind-sensitive realization admissibility, not a demanded reduction of primitive numerical identity.
+
+## S101 broadened cosmological audit — 2026-09-11
+
+[S101](../sessions/2026-09-11-cosmic-age-nonparticipation-and-privation.md) adds Olive and Peacock's PDG 2025 cosmology review (§§22.1, 22.1.3–22.1.5, 22.2.3, 22.3.7, 22.4.1–22.4.2) and the original Hawking–Penrose (1970) argument (§§1 and 3, focusing/corollary/proof, inspected through a reproduction). It states the positive finite-age standard-model evidence and conditional classical singularity result, with full source-argument disclosure. The author's follow-up identifies Borde–Guth–Vilenkin (2003), already used in S100; §§I–IV, especially equations (8)–(11), are re-inspected to explain the positive-average-expansion bound without Einstein's field equations or energy conditions. The internal unbounded-flat-time countermodel addresses special relativity alone, not BGV. Non-participation and painless privation are internal clarifications, not empirical classifications of nonbelievers. Novelty is unassessed.
+
+## S100 targeted scope audit — 2026-09-11
+
+The author's interest in Frank Turek is recorded as non-inferential inspiration; no particular video was inspected or used as authority. The inspected scientific sources are NASA's John Mather Q&A, “What Is The Big Bang?” through “What Can We See?”, NASA's “Early Universe / Cosmic Inflation”, and Borde, Guth and Vilenkin (2003), §§I, III equations (8)–(11), and IV. Exact links, premises, roles, assumptions, and limits are in [S100](../sessions/2026-09-11-creation-free-communion-and-personal-continuation.md). Their result is restricted evidence for hot expanding history and conditional past-incompleteness, not a direct derivation of absolute creation or conscious agency. Thermodynamic arguments remain unaudited research pointers. The same session's continuation and voluntary-communion analysis uses internal commitments; no external survival or theological source changes status. Novelty is unassessed.
+
 **Initial assessment date:** 2026-08-31
 **Latest targeted update:** 2026-09-04 (S77 comparison of divine sovereignty and aseity, universal divine sourcehood, derivative necessary beings, plural necessary concreta, and priority monism; earlier question-driven sources remain reconciled in [the provenance checklist](provenance-checklist.md))
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.

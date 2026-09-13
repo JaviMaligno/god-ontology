@@ -694,6 +694,8 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Constructive revision — S129:** the author requests a clearer explanation. [S129](../sessions/2026-09-13-divine-discretion-and-created-life.md), C930–C934, proposes ordinary presence that accompanies a life whose goods and self-formation already matter before explicit recognition. This is a hypothesis about creative purpose and mode of involvement, not an empirical law that clarity undermines maturity. P57 is rewritten at proposed/partial status; P35 is unchanged. S128's source assessments and clarity/control distinction are retained.
 
+**Subsequent author review:** the author endorses this direction. C931/P57 are now preferred, partial and revisable; the challenge and its next comparison remain open. The accessible answer's wording is unchanged.
+
 **Q0 — ordinary question:** Why does God not make himself more evident, especially to someone willing to relate? Lack of pain does not remove the question about lost opportunity.
 
 **Q1 — distinctions:** Ontological presence, God's capacity to communicate, adequate recognizable opportunity from the subject's side, and reciprocal participation are different. Clarity about existence does not entail love, trust or obedience. Absence of feeling does not entail absence of every relation; nonbelief does not establish resistance.

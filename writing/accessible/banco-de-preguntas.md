@@ -26,7 +26,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
 | P42 | ¿Existen otros universos? | `respondida` | C535–C540; S58 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
 | P41 | ¿Qué quiere decir que algo sea posible? ¿Podría el mundo haber sido de otra manera? | `respondida con fundamento último limitado` | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 (posible no es imaginable ni «lo que Dios puede»; los perfiles no son cosas; el residuo de tipos nunca instanciados queda como estructura necesaria primitiva; un fundamento en la esencia divina sigue abierto) | CH14 |
-| P48 | ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada? | `respondida; intención corregida` | C457–C461, C646–C648, C659–C660; S47, S78–S79 (la nada absoluta no es fuente; el argumento principal prefiere un fundamento agente y, dentro del teísmo, continuidad ontológica *ex deo* frente a producción disjunta) | CH24, CH27 |
+| P48 | ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada? | `parcial; preferencia teísta y constitución abierta` | C457–C461, C646–C648, C659, C803–C805; S109 (la nada no es fuente; se retiene la preferencia teísta y se comparan ambas interpretaciones constitutivas) | CH24, CH27 |
 
 ## B. Qué Dios
 
@@ -57,9 +57,9 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P21 | ¿Escucha Dios cuando alguien reza? | `parcial` | C122–C124, C466–C470; S20, S46 (capacidad y respuesta posible; ejercicio no garantizado) | CH03, CH20 |
 | P22 | ¿Tiene Dios un plan para mi vida? | `respondida` | C18, C119, C501–C503; S52 (providencia como tablero preparado, no guion ni embudo) | — |
 | P40 | ¿Qué me hace ser yo? | `respondida` | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 (identidad numérica primitiva; un solo ser vivo en esta vida; la fuente como refinamiento) | CH22 |
-| P49 | ¿Cuándo empiezo a ser yo? ¿De dónde sale mi identidad? ¿Existe eternamente? | `parcial a F2; supuesto puntual corregido` | C435–C456, C506–C519, C653–C654, C664–C675; S45, S53, S55, S78–S80 (no se presupone un primer instante; $CTI_G^{\Omega}$ sitúa la individuación en una carrera completa y una estructura de origen posiblemente extendida; organismo, conciencia, agencia y persona tienen umbrales distintos) | CH18, CH22, CH24 |
-| P51 | ¿Dónde “vive” la identidad? ¿Es material o inmaterial? | `parcial` | C680–C681; S82 (la identidad no es otro componente localizado, sino un hecho fundamental acerca del portador encarnado) | CH18, CH22, CH29 |
-| P52 | ¿Dónde “vive” la conciencia? ¿Es material o inmaterial? | `parcial` | C680, C682–C683; S36–S37, S82 (realización corporal preferida; reducción física, fundamento fenoménico y sustancia separada no resueltos) | CH16, CH29 |
+| P49 | ¿Cuándo empiezo a ser yo? ¿De dónde sale mi identidad? ¿Existe eternamente? | `parcial a F2; supuesto puntual corregido` | C435–C456, C506–C519, C653–C654, C664–C675; S45, S53, S55, S78–S80 (no se presupone un primer instante; $CTI_G^{\Omega}$ sitúa la individuación en una carrera completa y una estructura de origen posiblemente extendida; organismo, conciencia, agencia y persona tienen umbrales distintos); C803–C805, S109 (interpretación constitutiva abierta) | CH18, CH22, CH24 |
+| P51 | ¿Dónde “vive” la identidad? ¿Es material o inmaterial? | `parcial` | C680–C681; S82 (la identidad no es otro componente localizado, sino un hecho fundamental acerca del portador encarnado); C803–C805, S109 (interpretación constitutiva abierta) | CH18, CH22, CH29 |
+| P52 | ¿Dónde “vive” la conciencia? ¿Es material o inmaterial? | `parcial` | C680, C682–C683; S36–S37, S82 (realización corporal preferida; reducción física, fundamento fenoménico y sustancia separada no resueltos); C803–C805, S109 (interpretación constitutiva abierta) | CH16, CH29 |
 | P53 | Si algo es inmaterial, ¿cómo puede pertenecer a una persona y actuar en un mundo material? | `parcial` | C680, C682–C684; S37, S82 (poder, aspecto o fundamento no espacial no equivale a segunda sustancia; una sustancia separada sí debe explicar la interacción) | CH16, CH29 |
 | P39 | Si nos manipulan, con propaganda, adicciones diseñadas o algoritmos, ¿seguimos siendo libres? | `respondida` | C497–C500, C505; S52 (libres acto a acto; no autores de la propia vida si nos encauzan o nos instalan los criterios) | CH23 |
 
@@ -96,10 +96,26 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P37 | ¿Es todo esto compatible con la ciencia? | `respondida` | C01–C03, C183–C184, R26–R27; S26 | — |
 | P38 | ¿Cómo has llegado a esto? ¿No te lo has inventado? | `respondida` | método de investigación; nota sobre colaboración con IA | — |
 
+## G. Nuestra relación con la creación y una posible misión
+
+Preguntas incorporadas en S98–S99 y ampliadas en [S109](../../sessions/2026-09-13-common-creation-reflective-agency-and-open-purpose.md). La pregunta de propósito permanece abierta; conocer la creación es una respuesta propuesta. La encarnación se examina respecto de la condición humana completa. P71 tiene respuesta parcial. Los números locales P54–P60 se conservan; el remoto usa esos números para otras preguntas y llega a P70. S109 fija la correspondencia por rutas y reserva los números intermedios para una futura conciliación global.
+
+| ID | Pregunta | Estado | Base | Desafío |
+| --- | --- | --- | --- | --- |
+| P54 | Si toda la creación procede de Dios, ¿qué tenemos en común y qué podría distinguir a los seres humanos? | `parcial` | C785, C788, C803–C806; S109 (origen compartido; constitución abierta; poderes finitos diferenciados) | CH30 |
+| P55 | ¿La agencia y la capacidad de conocer la creación son exclusivas de los humanos, o pueden darse en otros animales o seres desconocidos? | `parcial` | C780, C782, C786–C788; S98–S99 (evidencia comparativa acotada; exclusividad y agencia libertaria no establecidas) | CH30 |
+| P56 | ¿Con qué propósito nos ha creado Dios? ¿Tenemos alguna misión en el mundo? | `parcial; propósito y existencia abiertos` | C781, C789–C791, C795, C808; S109 (participación como respuesta propuesta) | CH30 |
+| P57 | ¿Qué razones permitirían afirmar que tenemos esa misión, y no solo la capacidad de conocer? | `parcial` | C105–C113, C521–C524, C789–C790, C795; S98–S99 (argumento de coherencia para el contenido; atribución efectiva de misión abierta) | CH30 |
+| P58 | ¿Qué relación podría tener lo que nos hace humanos con que Dios se encarnara en Jesucristo? | `parcial; encaje condicional` | C793–C794, C809–C810; S109 (humanidad completa y sujeto; misión como aspecto posible) | CH30 |
+| P59 | ¿Cómo se relacionaría esa posible misión con quienes no pueden ejercer esas capacidades o no producen nuevos conocimientos? | `parcial` | C144, C187–C188, C193, C320, C438–C442, C791; S98–S99 (participación común propuesta; valor personal no reducido al rendimiento; criterios exhaustivos de estatus abiertos) | CH30 |
+| P60 | Si Dios ya conoce la creación, ¿qué valor tendría que nosotros la descubriéramos? | `respondida` | C105, C112, C124–C126, C187–C188, C790, C792; S98–S99 (distinción epistemológica derivada; valor de la participación condicionado al marco preferido) | CH30 |
+| P71 | ¿Qué distingue nuestra conciencia y nuestra forma de decidir de las de otros seres? | `parcial; perfil propuesto` | C297–C308, C497–C505, C766, C788, C804–C807; S109 (reflexividad, eficacia y formación; exclusividad abierta) | CH29, CH30 |
+
 ## Huecos detectados y su tratamiento
 
 | Pregunta | Hueco en la ontología | Tratamiento |
 | --- | --- | --- |
+| P54–P60, P71 | Separar capacidades, propósito y misión; explicar agencia reflexiva y compatibilidad cristológica sin presuponer exclusividad ni constitución disjunta | S109/CH30: respuestas parciales, salvo P60 dentro del marco preferido; realización de la comprensión, intención creadora e integración completa de la encarnación abiertas |
 | P01, P02, P04 | El paso de la contingencia al fundamento necesario y la preferencia por el agente estaban en F1 sin argumento formal | S47: preferencia explicativa débil, lema de necesitación, cuatro puntos de parada |
 | P26 | La bondad divina no estaba ganada y no se sabía qué parte lo estaba | S48: perfil orientado al bien hacia la agencia y la relación; hueco P identificado |
 | P27 | Orientación divina hacia lo que los seres conscientes sienten | S49: permiso, coberturas de fuente y de regularidad, resto a nivel de cada sujeto; el cierre completo depende de P31 |

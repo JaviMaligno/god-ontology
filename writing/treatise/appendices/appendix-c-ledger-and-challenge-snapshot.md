@@ -1,22 +1,22 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-05 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-09-13 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 686 |
+| Working commitments (C) | 804 |
 | Rejected or corrected moves (R) | 274 |
-| Challenges (CH) | 29 |
+| Challenges (CH) | 30 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 293 |
-| preferred | 248 |
-| other | 90 |
+| accepted | 308 |
+| preferred | 247 |
+| other | 189 |
 | provisional | 25 |
-| open | 12 |
+| open | 17 |
 | merged | 9 |
 | deferred | 4 |
 | superseded | 3 |
@@ -24,7 +24,7 @@
 
 | Challenge status (first word) | Count |
 | --- | --- |
-| tested | 19 |
+| tested | 20 |
 | scoped | 9 |
 | integrated | 1 |
 
@@ -279,7 +279,7 @@
 | C245 | *Ex deo* is divided into causal source $ED_C$, virtual or exemplar source $ED_V$, participatory derivation $ED_P$, and strict constitutive source $ED_S$. | `accepted taxonomy` |
 | C246 | $OEC^+$ entails causal and virtual “from $G$” relations and is compatible with participatory derivation without entailing strict *ex deo*. | `accepted` |
 | C247 | Strict *ex deo* $ED_S$ begins only when a numerically divine reality constitutes, persists in, or becomes created reality. | `accepted terminology` |
-| C248 | Creator–creation constitutive disjointness $CCD(G,\mathcal C_0)$ is an explicit condition of the fully specified disjoint $OEC^+$ model. | `accepted fallback refinement; no longer principal after C660` |
+| C248 | Creator–creation constitutive disjointness $CCD(G,\mathcal C_0)$ is an explicit condition of the fully specified disjoint $OEC^+$ model. | `accepted model definition; actual-creation ranking reopened by C803` |
 | C249 | $MCS(G)$ does not by itself exclude every strict *ex deo* model. | `accepted scope constraint` |
 | C250 | Strict *ex deo* does not automatically satisfy $PMC_U$. | `accepted constraint` |
 | C251 | Partition, contingent divine mode, world-as-divine-body, and whole-presence constitution are distinct strict-*ex-deo* variants. | `historical taxonomy; refined by C559–C571` |
@@ -369,7 +369,7 @@
 | C335 | Constitutive or realization explanation and agent- or event-causal explanation may be non-competing when they answer different typed questions about one process. | `accepted compatibility model` |
 | C336 | A justified result that the prior microphysical state plus laws necessarily fixes the exact token outcome independently of the subject would defeat libertarian origination for that token. | `accepted defeater` |
 | C337 | At current F2 depth, certain organized subjects possess fundamental phenomenal powers; phenomenality is not derived from nonphenomenal structure alone. | `accepted qualified primitive at F2` |
-| C338 | A subject-level dual-aspect account is the strongest live deeper bridge for the intrinsic phenomenal nature of the preferred power model. | `accepted as open strong candidate` |
+| C338 | A subject-level dual-aspect account remains a live deeper bridge, but S89 withdraws S88's preferred identity of bodily and experiential process in favor of distinct processes within one subject. | `open alternative; scoped preference superseded by C726` |
 | C339 | Substance dualism is coherent enough to remain live but is presently disfavored. | `accepted as live but disfavored` |
 | C340 | Panpsychist and fundamental-experiential models are admissible but presently disfavored. | `accepted as live but disfavored` |
 | C341 | CH16 is locally tested at F2 while the ultimate phenomenal bridge, causal non-competition, exact onset criteria, and the pre-conscious bearer/person boundary remain open F3 burdens. | `accepted F2 stopping point` |
@@ -691,7 +691,7 @@
 | C657 | Structural exposure neither entails death or evil in every material world nor justifies any particular suffering; profile-relative cost, nomological inevitability, token inevitability, and token permission remain distinct. | `accepted P-gap constraint` |
 | C658 | The meta-modal ground is complete enough at F2+ under $BCP$; stronger divine-essential grounding is selective F3, and structural vulnerability remains banked unless it becomes load-bearing for the P-gap. | `accepted bounded closure; next priority strengthened in S79` |
 | C659 | The author's comparison with nothing was primarily a comparative case for theism and for ontological continuity *ex deo*, not an argument that atheism reifies an entity named Nothing. | `accepted authorial correction` |
-| C660 | Non-destructive strict *ex deo* through $ANDC$ is the principal working hypothesis for actual creation; constitutively disjoint $OEC^+_{CCD}$ is now the live fallback. | `preferred principal creation hypothesis; active burden` |
+| C660 | S79–S83 ranked non-destructive strict *ex deo* through $ANDC$ as principal for actual creation and constitutively disjoint $OEC^+_{CCD}$ as fallback. | `historical preference superseded by C692` |
 | C661 | Shoemaker's freeze construction targets local change and the claim that every non-zero temporal interval contains change; because its complete history contains transitions and changing regions, it does not counter whole-history dynamicity. | `accepted scope correction` |
 | C662 | A material temporal created order requires some change somewhere in its complete history; wholly idle metric duration is disfavored as ungrounded surplus rather than declared logically contradictory under every theory of time. | `preferred at F2` |
 | C663 | Whole-history change does not entail mortality, evil, or any token suffering; those conclusions require additional bearer-, law-, and value-relative premises. | `accepted inferential limit` |
@@ -715,9 +715,127 @@
 | C681 | Numerical identity is not an additional material component or separable immaterial substance; it is a fundamental fact or relation true of a bearer, whose actual human realization is embodied. | `proposed preferred clarification` |
 | C682 | Human consciousness is temporally and bodily realized by one embodied subject, while reductive physical identity and a second immaterial-substance bearer remain unearned; the ultimate phenomenal ground stays open. | `proposed preferred F2 restatement` |
 | C683 | Reductive materialism owes phenomenality, source unity, and simple persistence; substance dualism owes individuation, embodiment, causal interaction, and non-duplication; non-spatiality alone solves none of these. | `accepted conditional burden map` |
-| C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed principal ANDC refinement` |
+| C684 | **Finite-form asymmetric non-depleting constitution $ANDC^{\Phi}$:** combine a relation on $G$'s side, a finite form intrinsic to $x$, and a primitive typed constitution bridge, avoiding an intrinsic divine mode while giving the creature its own powers and unity. | `proposed refinement within the active ex-deo branch` |
 | C685 | $\Phi_x^C$ constrains the kind, unity, form, powers, origin structure, and admissible bearer-careers of $x$ but does not settle its exact actual career; autonomous settlements remain creaturely contributions to $H_x^*$. | `accepted agency constraint on C684` |
-| C686 | $ANDC^{\Phi}$ must make whole constitution non-replaceable and explanatorily distinct from ordinary existential grounding; otherwise it collapses into verbal overlap and $OEC^+_{CCD}$ regains comparative force. | `open load-bearing test` |
+| C686 | $ANDC^{\Phi}$ must make whole constitution non-replaceable and explanatorily distinct from ordinary existential grounding; otherwise it collapses into verbal overlap and $OEC^+_{CCD}$ regains comparative force. | `open load-bearing test; diagnostically refined in S83` |
+| C687 | Essential existential dependence on $G$ does not entail constitutive overlap: a disjoint creature may also have an irreplaceable divine ground. | `proposed inferential limit` |
+| C688 | $B(G,x)$ explicitly asserts the numerically same undivided $G$ as a real constitutive basis of distinct $x$; plural creatures may share that basis without sharing token identity, finite properties, or acts. | `proposed primitive constitutive refinement` |
+| C689 | If $G$ is constitutively essential to an actual $ANDC$ bearer, that bearer cannot persist as wholly disjoint from $G$; an independently possible disjoint match would be another bearer. | `proposed conditional identity constraint` |
+| C690 | Restricted relational structures can preserve dependence, distinctness, finite profiles, and source predicates while differing over $B$; this shows local formal non-entailment, not metaphysical possibility or explanatory adequacy. | `proposed local F2 diagnostic` |
+| C691 | The finite-power test asks whether disjoint origination is an adequate explanatory stopping point and whether a shared divine basis could explain more without identifying creaturely exercises with divine acts. | `open dependency; disjoint development prioritized by C705` |
+| C692 | The author reopens strict ex deo versus disjoint actual creation and directs parallel testing against the same challenges; attraction to something of God in creatures remains without selecting literal constitutive overlap. | `accepted S84 reopening; open ranking superseded by C700` |
+| C693 | Divine origin, derived resemblance or participation, immediate personal presence, and numerically divine constitution are different readings of something of God in us; only the last requires strict overlap. | `proposed analytic application` |
+| C694 | Disjoint creation currently has a local explanatory-economy advantage because it preserves the established common resources without an additional unexplained shared-basis relation. | `proposed abductive assessment; not an overall selection` |
+| C695 | A shared divine constituent does not by itself explain material realization, distinct finite consciousness, token identity, or personal continuation. | `proposed comparative limit` |
+| C696 | The matched finite-choice test requires genuine creaturely settlement in both branches; ex deo gains explanatory force only if its constitutive link supports creature-owned powers beyond grounding without identifying their exercise with a divine act. | `proposed comparative F2 diagnostic` |
+| C697 | Neither creation branch closes the P-gap, and constitutive overlap entails neither divine co-suffering nor justified permission of a creature's suffering. | `proposed comparative limit` |
+| C698 | The existing temporal, epistemic, modal, power, intentional-content, and axiological modules remain common conditional resources rather than established discriminators between the two creation branches. | `proposed integration audit` |
+| C699 | Compare both creation models by earned explanation, total residual commitments, and explicitly weighted preferences; use the disjoint branch as the current economy baseline and ex deo as the active continuity candidate without presuming a tie or a winner. | `comparative method retained; no-winner staging superseded by C700` |
+| C700 | S85 selected disjoint actual creation, with origin/dependence, finite participation and personal presence, while treating literal divine constitution as dispensable. | `historical preference; reopened by C803` |
+| C701 | Disjoint creation with participation and presence integrates OEC/CCD, causal and exemplar derivation, creature-owned finite powers, relational immanence, ASA, and personal availability without a new shared constituent or mediating substance. | `proposed F1 integration within the disjoint candidate; ranking open after C803` |
+| C702 | Participation here abbreviates real derivation together with specified, actually instantiated finite analogues of capacities such as knowledge or reason-guided sourcehood. | `proposed scoped definition` |
+| C703 | A real divine act directed at a creature is compatible with disjointness unless that divine act or mode is additionally made a constituent; a shared created medium requires independent explanatory justification. | `proposed candidate audit` |
+| C704 | Origin, finite likeness, personal presence, and asymmetric co-production can be retained without literal divine constitution; relinquishing overlap does not lose an established solution to consciousness, numerical identity, survival, or suffering. | `proposed benefit-and-limit audit` |
+| C705 | Assess disjoint origination of genuinely creature-owned finite powers as an explanatory stopping point; participation specifies the result rather than replacing its production explanation. | `proposed bounded F2 resolution in S86; realization and warrant remain open` |
+| C706 | Causal origin, intrinsic realization, token exercise, and contrastive settlement answer different questions; giving an explanation and independently establishing its truth are also distinct. | `proposed analytic clarification` |
+| C707 | Originative power supplies a substantive constrained causal hypothesis and a permissible non-reductive stopping point under the preferred framework, without independent proof of that power or a mechanism beneath its exercise. | `proposed abductive assessment` |
+| C708 | Created capacities may arise through real secondary production; their existential dependence on God does not transfer source identity or make God the immediate producer of every manifestation. | `proposed integration of existing source rules` |
+| C709 | The alternative-history test fixes action-relevant productive and enabling conditions, not all divine truths that track or respond to the settlement. | `proposed local F2 scope refinement` |
+| C710 | Alternative outcomes are insufficient for autonomous choice: an unowned lottery lacks the subject's originating exercise for reasons, and a divine substitute with the same bodily result is not the same free act. | `proposed conditional source diagnostic` |
+| C711 | Applying creative plenitude to finite sourcehood requires independent source-sensitive admissibility and eligibility; divine capacity cannot be used to manufacture that admissibility. | `proposed anti-circular application` |
+| C712 | Production versus exercise is sufficiently specified for bounded F2 use within the preferred disjoint framework, while independent warrant, instantiated sourcehood, and finite phenomenal realization remain explicit burdens. | `proposed bounded conditional closure` |
+| C713 | Compare intrinsic realization accounts while retaining God's ultimate productive role; S89 corrects the S88 token-unity proposal and develops differentiated processes within the qualified-power baseline. | `comparison developed; unity and differentiated causal relations active` |
+| C714 | Creative power and God's non-sufficient determination of free creaturely settlements are established working commitments; S86's lack of a deeper mechanism or independent proof is an evidential limit rather than a new active defeater. | `accepted authorial clarification` |
+| C715 | A divine ultimate ground of finite consciousness and an intrinsic account of the embodied subject, including the dual-aspect candidate, can be complementary rather than competing explanations. | `proposed architectural clarification` |
+| C716 | A divinely actualized psychophysical power profile is the candidate in which God originates an independently admissible order containing real finite phenomenal powers borne and ordinarily manifested by created embodied subjects. | `proposed constructive candidate; positive bridge open` |
+| C717 | Integrate the author's preference for a divine role in deep conscious explanation into C713 while preserving disjointness, ordinary secondary manifestation, independent admissibility, and the distinction between consciousness and free choice. | `accepted research direction; proposed integration constraints` |
+| C718 | An embodied conscious episode is provisionally modeled as one subject-owned psychophysical process with physical and phenomenal dimensions, rather than two independently acting correlated events. | `withdrawn as preferred after explicit S89 correction; alternative remains open` |
+| C719 | The dual-aspect token claim does not entail physical reduction, universal consciousness, a one-to-one physical/phenomenal modal mapping, or identity of the persisting bearer with its current stream. | `retained conditional constraints; C718 no longer preferred` |
+| C720 | Bearer unity, phenomenal-field unity, and agentive integration are distinct; organismic identity or shared information alone does not determine how experiences are jointly presented. | `proposed analytic distinction` |
+| C721 | Anchor embodied experience in an independently individuated bearer with unity, origin, and immanent career; coordinated organismic regulation is a candidate constraint, not a sufficient consciousness test. | `proposed bearer-first constraint` |
+| C722 | One efficacious psychophysical token avoids a particular causal-duplication problem but does not by itself establish the relevance of its phenomenal dimension to the effects. | `retained adequacy constraint; token-unity application conditional after S89` |
+| C723 | God originates independently admissible finite psychophysical powers whose manifestations belong to the creature, without a shared divine phenomenal token or universal direct divine production of episodes. | `retained divine-ground integration; scoped in S88` |
+| C724 | Dual aspect presently offers a modest specification within the qualified phenomenal-power account rather than eliminating its primitive or demonstrating a deeper complete theory. | `historical S88 assessment; preference superseded by C726` |
+| C725 | The next task is a non-circular bearer-to-field bridge that makes phenomenal unity substantive beyond functional integration and constrains qualitative and practical roles. | `open next dependency` |
+| C726 | Bodily process and experience are distinct within the same embodied subject; S88's identity of the two is withdrawn from the preferred model. | `accepted authorial correction; realization relation still open` |
+| C727 | Pain and suffering are not interchangeable; separate the bodily process from experience and provisionally distinguish felt pain from the subject's affliction. | `accepted authorial non-identity; author-endorsed provisional vocabulary` |
+| C728 | Enduring pain shows that pain need not compel avoidance; it does not by itself establish an undetermined response, libertarian freedom, or bodily/experiential non-identity. | `accepted working clarification after S89 author review` |
+| C729 | Bodily processes, lived pain, suffering, and deliberation contribute differently within one subject, and decisions may affect these through different routes. | `accepted authorial direction; author-endorsed provisional causal-role specification` |
+| C730 | Agency over a response does not entail agency over the occurrence, intensity, or cessation of pain or suffering. | `accepted scope constraint after S89 author review` |
+| C731 | Provisionally specify phenomenal unity as a joint manifestation of a bearer-owned phenomenal capacity, allowing distinct contents to be lived together without identifying their processes. | `author-endorsed provisional F1 refinement of the qualified primitive` |
+| C732 | The next selective burden is whether the joint-manifestation proposal can constrain the bearer-to-field relation beyond restating unity while preserving differentiated contributions to agency. | `partially developed in C733–C738; actual bridge open` |
+| C733 | Specify the S37 psychophysical-power requirement through three distinct roles: possession of a phenomenal capacity, bodily organization of an episode, and a bridge linking that organization to joint presentation. | `proposed F1 specification of retained C333/C337` |
+| C734 | For one candidate embodied route, define active integration by multiple bodily processes contributing to an evolving common regulatory state that in turn conditions their further processing. | `proposed independently describable route; not a consciousness criterion` |
+| C735 | A scoped bridge premise linking an eligible bearer's phenomenal capacity and the proposed active bodily integration to joint presentation supplies a conditional manifestation model. | `proposed local F2 conditional schema; bridge unestablished` |
+| C736 | The current structural and ownership constraints underdetermine joint presentation; adding the scoped bridge condition constrains the field relation while leaving the action variable open in the local schema. | `derived non-entailment within the stated schema` |
+| C737 | Assess the candidate route through selective participation, disruptions preserving the bearer, alternative realization paths, and separation of phenomenal unity from report or motor control. | `proposed bridge adequacy constraints` |
+| C738 | Prefer the constrained conditional bridge as the next elaboration of the accepted qualified-power account, while keeping its actual bodily condition and psychophysical link explicitly open. | `retained provisional direction; first evidence pass in C739–C745` |
+| C739 | Collective phenomenal consciousness is neither accepted nor rejected; the author requires reasons for either judgment and a substantive account of unity. | `accepted non-endorsement/non-rejection; asymmetric credence clarified by C746` |
+| C740 | Distinguish coordinated subjects, information incorporated into an existing subject's experience, and a collective with a phenomenal perspective attributable to the collective itself. | `proposed conceptual partition` |
+| C741 | BrainNet supplies scoped evidence of mediated multi-person communication and collaborative performance, not a measured collective phenomenal field. | `source-grounded evidential limit` |
+| C742 | The inspected split-brain study separates some cross-field comparison performance from response availability and metacognitive reports; it does not settle this project's phenomenal field count. | `source-grounded scoped assessment` |
+| C743 | Cross-content comparison, shared responses, information transfer, and reported co-presence are different evidential targets; none is an unqualified substitute for phenomenal unity. | `proposed evidential refinement` |
+| C744 | Assess unity through converging experiential reports, flexible relational tasks, and interventions or comparisons that distinguish transmission, access, common causes, and candidate integration. | `proposed comparative evidence standard` |
+| C745 | S90's active-regulation route remains a conditional candidate after the first evidence pass; its current breadth does not identify the bearer or determine phenomenal unity. | `retained scoped assessment; prediction audit developed in C747–C751` |
+| C746 | The author gives individual consciousness greater credence than collective consciousness; the individual account remains the preferred working baseline and the collective question remains open. | `accepted authorial comparative preference` |
+| C747 | Distinguish co-present contents, a relation presented in experience, and a judgment about a relation computed or received from information. | `proposed conceptual refinement` |
+| C748 | A discriminating prediction needs specified information routes, processing rules, and report assumptions in addition to a phenomenal-unity claim. | `proposed local inference constraint` |
+| C749 | For independent balanced binary inputs, a final decision with access to only one input cannot exceed one-half expected accuracy on equality; a rule receiving both can attain perfect accuracy in the noiseless toy model. | `derived local F2 information-route result` |
+| C750 | Success at the toy relational task can reject the stipulated one-input model but does not distinguish joint experience from a computation using both labels. | `derived non-entailment within the toy schema` |
+| C751 | Use relational-task performance and co-presence reports as distinct outcomes; assess candidate realization accounts through their causal dependence rather than treating correctness as a unity certificate. | `retained specification; causal audit developed in C752–C757` |
+| C752 | Distinguish a change in the target experience, a change in shared experiential access/reporting, and a change in access/reporting specific to the target relation. | `author-endorsed provisional causal distinction after S94` |
+| C753 | In the local causal schema, an experiential control report distinguishes stipulated shared report failure from target-experience change, but leaves selective access failure observationally equivalent. | `derived local F2 discrimination and countermodel` |
+| C754 | An additional indicator improves discrimination only through warranted differences in its dependence on experience, access, reporting, and the intervention. | `proposed evidential constraint` |
+| C755 | The inspected report/no-report rivalry study supports controlling reporting demands when interpreting candidate experiential indicators, within its specific task and measurement assumptions. | `scoped empirical assessment` |
+| C756 | Retain active bodily regulation as a provisional realization candidate, assessed through specified interventions and converging evidence against explicit access/report alternatives. | `author-endorsed provisional route and assessment after S94` |
+| C757 | After the bounded causal audit, prioritize distinguishing participation in realizing an experiential episode from supplying inputs, enabling conditions, or receiving outputs. | `author-endorsed direction; F1 proposal developed in C758–C763` |
+| C758 | Distinguish episode-relative roles of antecedent formation, input, enabling support, realization participation, and output/report; one process may occupy several roles. | `author-endorsed provisional F1 role distinction after S95` |
+| C759 | A process is a candidate bodily episode realizer when it actually occupies an operative role in forming, maintaining, differentiating, or regulating the specified organization during the episode. | `proposed F1 participation specification` |
+| C760 | Necessity, replaceability, and direct reciprocal coupling are inadequate standalone tests of episode participation. | `scoped conceptual constraints` |
+| C761 | A more specific realization proposal should distinguish changes to operative organization from changes to its inputs, support, and report, then supply scoped psychophysical predictions. | `proposed conditional assessment` |
+| C762 | The participation account refines the bodily realization base while leaving the phenomenal manifestation bridge, actual boundary, and field count open. | `retained architectural limit; scoped F1 refinement` |
+| C763 | After this bounded F1 participation pass, return to the inherited burden of lived content contributing causally to appraisal and a still-open response. | `developed in C765–C768; equal priority clarified by C764` |
+| C764 | Continued unity/realization work and experiential causal efficacy have equal active authorial priority; the assistant may choose the immediate order. | `accepted authorial priority correction` |
+| C765 | Distinguish phenomenal occurrence, experiential uptake in appraisal/control, and the subject's settlement of a still-open response. | `proposed F1 explanatory distinction` |
+| C766 | For eligible episodes, prefer the hypothesis that lived content contributes causally in its experienced character to the subject's appraisal or control. | `author-preferred provisional psychophysical efficacy condition after S96` |
+| C767 | Eliminating an experiential variable by substitution from a prediction formula does not decide whether experience is an efficacious mediator or an accompaniment. | `derived local F2 substitution and underdetermination result` |
+| C768 | Specify lived character, intermediate appraisal effects, bodily realization and return routes, bypass alternatives, and admissible contrasts when assessing experiential uptake. | `proposed evidential specification` |
+| C769 | Integration of influences in one appraisal does not establish their joint phenomenal presence; return next to selective co-presentation, current memory contents, and standing influences. | `retained distinction; focal/background refinement in C770–C774` |
+| C770 | Distinguish focal attention, phenomenal presence, and causal or formative contribution; absence from focal thought alone settles neither phenomenal absence nor hidden presence. | `proposed conceptual distinction` |
+| C771 | Distinguish a persisting goal, its current operation, and its phenomenal manifestation or effect. | `proposed F1 goal-role specification` |
+| C772 | Refine joint manifestation to allow nonfocal lived relations and modes through which prominent contents are presented. | `proposed F1 unity refinement` |
+| C773 | For the candidate embodied route, distinguish current framing of experience, uptake into appraisal/control, and later reconfiguration through attention, bodily activity, or changed goals. | `proposed temporal integration of the two active fronts` |
+| C774 | Assess claimed background presence without inferring it merely from causal effects or later articulation; next examine continuity through changes in focus, background, and appraisal. | `retained assessment; temporal development in C775–C778` |
+| C775 | Distinguish persistence of the subject, joint presentation at a stage, and continuity of an experiential manifestation through change. | `proposed temporal distinction` |
+| C776 | For the candidate embodied route, propose continuity as ongoing manifestation through an updating organization rather than preservation of an immutable content inventory. | `proposed F1 continuation model` |
+| C777 | Overlap of content lists across indexed stages does not establish that all their contents were simultaneously jointly present or that the intervening experience was continuous. | `derived bounded F2 overlap constraint` |
+| C778 | A temporal realization account must distinguish ongoing manifestation from separate presentations linked by memory or other causal influences. | `proposed next temporal bridge specification` |
+| C779 | The author frames knowing creation and consciously participating in it as proposed mission content conditional on having a mission, without guaranteeing that one exists, and requests question banking. | `accepted authorial framing and research direction` |
+| C780 | Propose conscious and responsible participation as a profile joining understanding of reality, examination and revision of reasons, and orientation of action and relations through that understanding. | `proposed F1 capacity profile` |
+| C781 | If creatures with the proposed profile have a mission, knowing creation and consciously participating in it is a proposed content under the open purpose question of C808. | `proposed conditional content; existence of a mission open` |
+| C782 | Keep intentional behavior, consciousness, libertarian agency, reflective understanding, biological humanity and personal worth distinct in the proposed vocation inquiry. | `open distribution; proposed scope constraints` |
+| C783 | The author's conditional belief in incarnation initially supplies a purpose-and-relation coherence test, broadened by the author in C809, without proving human exclusivity or actual divine motive. | `proposed conditional fit; full ontological compatibility open` |
+| C784 | The author authorizes answers to P54–P60 and deeper theoretical or metaphysical work as needed. | accepted bounded research direction |
+| C785 | Common divine dependence allows differentiated creature-owned capacities; a distinctive role need not involve divine constituents, species exclusivity or universal superiority. | proposed F1 application of retained creation distinctions |
+| C786 | Templer and Hampton's memory-choice experiments support a bounded nonhuman functional capacity relevant to the proposed profile. | source-grounded scoped support |
+| C787 | Dean and colleagues supply a scoped comparison linking advanced children's task performance with shared sociocognitive processes. | source-grounded scoped comparison |
+| C788 | Refine the proposed human participation profile through reflective understanding, communication, social support and responsible response across a shared history. | proposed F1 communal and developmental specification |
+| C789 | Capacity, valuing a good, intending a community's vocation, and assigning an individual obligation are different claims. | derived bounded F2 non-entailment; local vocabulary stipulated |
+| C790 | Actual finite understanding can realize a candidate good of otherness, sourcehood and truthful relation, making it a fitting proposed content of a mission if one exists. | proposed positive conditional rationale |
+| C791 | A shared vocation can have varied contributions, while concern for a person need not depend on any contribution to discovery. | proposed F1 role/value integration; bounded inference constraint |
+| C792 | Divine knowledge of p does not by itself realize a finite subject's understanding of p; finite discovery can therefore have value without adding information to God. | derived epistemic distinction; value conditional on preferred anchors |
+| C793 | The inspected Catholic incarnation account supplies a conditional reconciliation/communion rationale and requires a divine personal subject with full humanity. | source-grounded theological comparator; conditional use only |
+| C794 | Separate incarnation's purpose fit, distinct constituent bases or natures, and one personal bearer; the bare CCD formula does not settle the last relation. | derived bounded F2 scope audit; full ontological integration open |
+| C795 | Establishing an actual vocation requires support for a directed creative intention beyond the fit or existence of capacities. | open intentional bridge; proposed evidential target |
+| C803 | Incorporate the uploaded author-directed reopening of the creation ranking and common generative task, correcting the locally retained disjoint preference. | `accepted scoped author correction; comparative outcome remains proposed/open` |
+| C804 | Both creation interpretations require actual finite individuals with instantiated organization and powers proper to them; sharing a base does not remove effective finite novelty. | `proposed common F1 generative account` |
+| C805 | A universal origin or constitutive relation cannot by itself distinguish human agency; finite power and organization premises must supply the relevant difference. | `derived bounded scope constraint; realization open` |
+| C806 | Propose reflective agency through lived understanding, evaluation of reasons and ends, practical uptake, and shared formation of a life over time. | `proposed F1 human-profile integration` |
+| C807 | Keep the proposed reflective profile distinct from its causal realization, libertarian authorship, biological distribution and personal worth. | `proposed integration with retained inference limits` |
+| C808 | Ask openly about the purpose of human creation and whether humans have a mission; knowing creation and conscious participation remain one conditional proposed answer. | `accepted author correction; mission existence and actual purpose open` |
+| C809 | Test incarnation against the whole human condition, including embodied experience, understanding, will and relation; mission is one possible aspect. | `accepted broader author scope; proposed conditional theological fit` |
+| C810 | Universal divine constitution does not entail personal assumption of a human life, and neither creation interpretation yet supplies a full incarnation/agency integration. | `derived bounded non-entailment; full integration open` |
+| C811 | Develop actual finite unity and efficacious understanding as the shared next dependency; keep purpose assignment and full incarnation as separate burdens. | `proposed synthesis and research direction` |
 
 ## Rejected or corrected moves
 
@@ -1031,3 +1149,4 @@
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | `scoped in S78; ontology branch before ethics` |
 | CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | `integrated into S82; partial F2 answer` |
+| CH30 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | `tested partially in S109; profile proposed, mission and full incarnation open` |

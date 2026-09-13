@@ -1,8 +1,40 @@
 # Novelty and Precedent: Initial Assessment
 
 **Initial assessment date:** 2026-08-31
-**Latest targeted update:** 2026-09-04 (S77 comparison of divine sovereignty and aseity, universal divine sourcehood, derivative necessary beings, plural necessary concreta, and priority monism; earlier question-driven sources remain reconciled in [the provenance checklist](provenance-checklist.md))
+**Latest targeted update:** 2026-09-13 (S109: scoped integration of the uploaded creation/agency development and re-inspection of Catechism §§457–475 for the broader human-condition test). Earlier empirical comparisons retain their original scope; no updated comparative survey is claimed.
 **Scope:** A targeted first pass, not a systematic review. Exact-phrase searches and a small set of directly relevant papers were checked. Absence from search results is not evidence of novelty.
+
+## S109 source and reconciliation scope
+
+[S109](../sessions/2026-09-13-common-creation-reflective-agency-and-open-purpose.md) reconstructs the exact arguments from pinned remote S99/S103/S106–S108 and local S52/S86. They support common finite generation, reflective agency and bounded distinctions; their IDs are not interchangeable across the two histories. The Catholic comparator is used conditionally for a divine personal subject with complete human intellect and will. It supplies no proof of incarnation, human exclusivity or a selected creation interpretation. No new empirical result or originality claim is introduced.
+
+## S99 targeted comparison and conditional vocation
+
+[S99](../sessions/2026-09-13-human-participation-and-conditional-vocation.md) records the exact inspected portions and premise-to-conclusion disclosures for Templer and Hampton (2012), doi:10.1007/s10071-011-0468-4; Dean et al. (2012), doi:10.1126/science.1213969; and the *Catechism of the Catholic Church*, §§456–475. The first supplies scoped nonhuman functional evidence; the second a task-specific comparison of shared sociocognitive processes; the third a conditional purpose-and-personal-unity constraint. Neither universal human exclusivity nor a divine mission follows. The theological comparator is not adopted as independently proved doctrine.
+
+The positive role synthesis and the capacity/value/vocation/duty distinction are internal proposals and bounded inference checks. Bare CCD does not analyze personal assumption; a stipulated relation is not a metaphysical incarnation model. Mission existence and full incarnation compatibility remain open. This is a targeted assessment, not a current literature review or originality claim.
+
+## S96 internal refinement note
+
+S96 distinguishes focal attention, lived background, and formative influence, and proposes that goal-related framing can enter joint manifestation as a felt mode (C770–C774). C766 becomes explicitly author-preferred. These are authorial and internal conceptual developments, without a new inferentially active external source, empirical finding, or novelty claim. The vocabulary is used locally; no historical school or theory is adopted through it. See [S96](../sessions/2026-09-09-lived-background-and-experiential-framing.md). The latest targeted external assessment remains S93.
+
+S97 extends this internal account to experiential continuity (C775–C778), with a finite indexed-overlap check. It distinguishes an ongoing manifestation from matching contents or a continuing subject. No external source is newly used inferentially and no novelty claim is made. See [S97](../sessions/2026-09-09-current-answer-and-experiential-continuity.md).
+
+## S95 internal refinement note
+
+S95 specifies experiential uptake as a proposed psychophysical efficacy condition and checks algebraic substitution versus causal dispensability (C765–C768). These are internal argument and illustrative mappings; no named external source is newly used inferentially, no mechanism is claimed established, and no originality claim is made for the general causal issue. Unity and efficacy retain equal active priority under C764. See [S95](../sessions/2026-09-09-experiential-uptake-and-joint-priority.md). The latest targeted external assessment remains S93.
+
+## S94 internal refinement note
+
+S94 proposes episode-relative operative participation in the candidate bodily realization base (C758–C762). Its role distinctions and hypothetical counterexamples are internal argument, not new empirical evidence or an adopted literature theory. No novelty claim is made for distinguishing components, inputs, enabling conditions, and outputs. The exact participation proposal awaits targeted comparison if needed at selective F3; the latest external source assessment remains S93. See [S94](../sessions/2026-09-09-episode-participation-and-realization-roles.md).
+
+## S93 targeted evidence note
+
+Frässle et al. (2014), [“Binocular Rivalry: Frontal Activity Relates to Introspection and Action But Not to Perception”](https://doi.org/10.1523/JNEUROSCI.4403-13.2014), is used only for report-demand controls in C755. [S93](../sessions/2026-09-09-causal-comparison-of-experience-and-report.md) records the inspected primary methods/results/discussion passages and the full argumentative disclosure. No unity marker, actual bridge, or current consensus is inferred. The local causal schema C752–C754 is a project-specific illustration; no novelty claim is made for distinguishing experience from access and report.
+
+## S91 targeted evidence note
+
+[Jiang et al., BrainNet (2019)](https://doi.org/10.1038/s41598-019-41895-7) and [Pinto et al., split-brain study (2017)](https://doi.org/10.1093/brain/aww358) are inspected primary sources for a limited evidential audit, not a comprehensive review or a novelty finding. C741–C745 use them to distinguish measured collaboration, response access, comparison, and phenomenal-unity interpretation. No source establishes a collective field, a unique subject count, or S90's exact bridge. Source portions, premise/conclusion reconstruction, imported assumptions, and project assessments are recorded and disclosed in [S91](../sessions/2026-09-08-phenomenal-unity-evidence-and-collective-neutrality.md). Collective consciousness remains open under C739; S92 clarifies greater authorial credence in individual consciousness (C746), without a new source-based assessment.
 
 ## Bottom line
 

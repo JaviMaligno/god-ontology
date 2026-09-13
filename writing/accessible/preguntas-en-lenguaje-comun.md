@@ -28,9 +28,9 @@ Bastar, basta: no es una postura absurda. Lo que pasa es que es la postura que m
 
 La broma tiene una intuición buena, aunque tomada literalmente hace trampas. «Nada» no es el nombre de una cosa extraña en la que crea el ateo. Decir que no hay nada significa que no existe ninguna cosa; por eso la nada absoluta no puede causar, convertirse en materia ni hacer nada. Un ateo puede pensar que el universo existe sin explicación, que hay una estructura impersonal necesaria, o simplemente que no sabe cuál es la explicación. Esas son alternativas reales; no quedan refutadas diciendo que la nada no existe.
 
-Pero mi argumento principal no era esa corrección de palabras. Era una comparación. Primero, me parece más sensato poner en el fondo una realidad positiva capaz de explicar y elegir que detenerme en una ausencia o en un «simplemente existe». Segundo, una vez aceptado Dios, me resulta más inteligible que el mundo proceda realmente de él que imaginar la aparición de una sustancia totalmente disjunta sin ninguna continuidad ontológica. Por eso mi hipótesis principal es ahora una creación *ex deo*: Dios no se divide, no se agota ni se convierte entero en el mundo, pero su realidad entra de verdad en la constitución de criaturas distintas de él. La creación disjunta sin materia previa queda como alternativa si no conseguimos hacer coherente esa relación.
+Mi argumento principal es una comparación: me parece más sensato poner en el fondo una realidad positiva capaz de explicar y elegir que detenerme en un «simplemente existe». Aceptado ese fundamento, dejo abierta la cuestión de si Dios constituye lo creado o produce una realidad que depende de él sin tenerlo como constituyente.
 
-Algunos autores llaman *ex nihilo* incluso a una creación que procede de Dios, porque solo quieren negar una materia independiente anterior. No voy a discutir por la etiqueta. Aquí uso *ex deo* en el sentido fuerte que importa para mi preferencia: hay continuidad constitutiva real, no solo que Dios sea una causa externa. Esto todavía tiene una deuda seria: explicar cómo una misma realidad divina puede constituir seres distintos sin que sus propiedades y decisiones pasen a ser propiedades y decisiones de Dios.
+En ambos casos hay que explicar algo realmente nuevo: individuos finitos con su propia organización y sus propias capacidades. Compartir un fundamento constitutivo tampoco explicaría por sí solo esa diferencia. Por eso desarrollo esa tarea común antes de elegir entre las dos interpretaciones. Ninguna convierte la nada en una causa ni resuelve por sí sola la conciencia, la identidad o la vida después de la muerte.
 
 Tampoco pone a Dios y a la nada en empate el hecho de que ninguno sea un objeto visible. Observar la nada absoluta sería imposible porque observar ya requiere que existan un observador y una experiencia. Que algo no se pueda observar físicamente solo fija el límite de ese método; no dice por sí solo qué explicación es mejor.
 
@@ -280,23 +280,23 @@ Queda un resto que no sé reducir, y prefiero decirlo. Ninguna descripción de l
 
 Sobre el tiempo hay tres niveles. Yo, el portador, tengo una realización temporal, pero no doy por supuesto que mi vida contenga un primer instante exacto. El hecho completo de que el niño, el adulto y el anciano sean uno está en la historia entera y es verdadero sin esperar a que llegue cada momento. Y Dios fundamenta esa carrera completa mediante una relación que no tiene que ir ocurriendo paso a paso. De ahí no sale una identidad eterna flotando antes de mí: una historia atemporalmente conocida no es una persona que exista antes de su propia vida.
 
-La hipótesis *ex deo* añade una precisión. Dios puede ser el fondo eterno que me constituye, pero ese fondo común no basta para distinguirme, porque también puede constituir a otros. Mi identidad creada necesita además mi carrera unificada, mi estructura propia de origen y mi capacidad de actuar. Si me identificáramos sin más con la realidad divina eterna, dejaría de ser una criatura distinta.
+Dios fundamenta mi existencia, pero dejo abierto si también es constituyente de lo creado. En ambas interpretaciones siguen haciendo falta mi unidad, mi estructura de origen y mi carrera propia; compartir fundamento no nos convierte en el mismo individuo. Mi relación con un fundamento eterno tampoco me convierte en una persona eterna.
 
 Si hubiera un tramo posterior a la muerte, podría pertenecer a la misma persona, pero aquí queda el hueco más duro. Sin continuidad viva entre ambos tramos, una sola historia, la misma estructura de origen y la ausencia de bifurcación restringen la respuesta; todavía no explican por completo qué hace que el tramo posterior sea mío. La identidad a través de una desaparición total sigue siendo una posibilidad coherente con un hecho numérico básico, no una consecuencia ya explicada por una cadena ni por el mero reconocimiento de Dios.
 
 ### ¿Dónde «viven» la identidad y la conciencia? ¿Son materiales o inmateriales?
 
-La pregunta contiene varias distintas. «Dónde» puede preguntar por un lugar físico, por quién tiene algo, por aquello mediante lo que funciona o por lo que en último término hace que exista. Si mezclo esas preguntas, cualquier respuesta parece obligarme demasiado pronto a elegir entre «todo es materia» y «hay una cosa invisible metida en el cuerpo».
+Mi identidad es el hecho de que soy este mismo individuo a lo largo de mi vida. No es una pieza situada en el cerebro ni una sustancia aparte: es algo verdadero de mí, un ser corporal con una historia propia.
 
-Mi identidad no me parece una pieza que viva en algún sitio. No está en una célula, en un recuerdo ni en un punto del cerebro; tampoco necesito convertirla en una sustancia invisible. Es el hecho de que el niño, el adulto y el anciano sean literalmente el mismo individuo. Ese hecho es verdadero acerca de un ser corporal y temporal, pero no es por ello otro objeto material dentro de él. Decirlo así tampoco demuestra que exista un alma separada o eterna.
+En esta vida, mis experiencias ocurren en mí y se realizan mediante mi cuerpo, pero distingo el proceso corporal de la experiencia vivida. Prefiero entenderme como una sola persona corporal con capacidades conscientes. Esto no demuestra que la conciencia se reduzca a una descripción física ni que exista una segunda sustancia. Estoy explorando que una actividad corporal organizada permita vivir conjuntamente distintos contenidos y el fondo desde el que los vivo.
 
-La conciencia tiene una respuesta algo distinta. Durante esta vida, mis experiencias ocurren en el tiempo y se realizan mediante mí como ser corporal: cerebro, cuerpo, afectos, percepción y acción forman parte de la base. Por eso no imagino una conciencia-homúnculo que observa al cuerpo desde dentro. Pero que una experiencia tenga realización corporal no demuestra que su carácter vivido se reduzca por completo a una descripción física. Esa reducción todavía necesita argumento.
+En esa hipótesis, una meta puede formar parte de ese fondo sin ser un pensamiento explícito, aunque no todo lo que influye en mí está siendo vivido. Prefiero pensar que lo vivido contribuye realmente a mi valoración y a mis decisiones, sin fijar por sí solo cómo respondo. Distingo el dolor del sufrimiento, y poder responder a ellos no significa poder elegir que desaparezcan.
 
-Lo que prefiero por ahora es una sola persona con organización corporal y capacidades conscientes: dos aspectos o papeles del mismo sujeto, no dos agentes que compiten por mover el mismo cuerpo. No sé todavía si lo fenoménico es una capacidad fundamental de ese sujeto, si tiene una explicación física reductiva que aún no poseemos o si exige una teoría más profunda de doble aspecto. Una sustancia inmaterial separada sigue siendo una posibilidad, pero tendría que explicar cómo se individúa, cómo se une a este cuerpo, cómo actúa a través de él y por qué no introduce una segunda persona.
+Dios fundamenta mi existencia y mis capacidades; dejo abierta su relación constitutiva con lo creado. En ambas interpretaciones queda por explicar cómo la organización corporal se vincula con una experiencia unificada y cómo lo vivido interviene causalmente en mi actividad.
 
-Algo no espacial tampoco tiene que estar «dentro» del mundo como una pelota dentro de una caja. Puede pertenecer a un sujeto como capacidad, aspecto o fundamento y manifestarse mediante un proceso corporal. Eso hace inteligible la posibilidad; no resuelve por sí solo la interacción. Si se afirma una sustancia distinta que causa movimientos físicos, hace falta explicar el puente causal. Nuestra opción actual evita ese problema concreto atribuyendo la experiencia y la acción al sujeto entero, aunque todavía debe explicar por qué ese sujeto puede sentir.
+### ¿Podría existir una conciencia colectiva?
 
-Esto encaja con la hipótesis *ex deo* que estamos construyendo: Dios puede ser el fondo constitutivo no espacial del que depende el individuo, mientras la forma finita, el cuerpo y las capacidades pertenecen realmente a la criatura. Así no soy una parte separada de Dios ni un modo suyo, y mis decisiones siguen siendo mías. Pero esta última relación sigue abierta en su punto central: aún tenemos que mostrar que «Dios me constituye» dice algo metafísicamente más preciso que «Dios hace que yo exista».
+Creo más en la conciencia individual que en la colectiva. La primera es mi punto de partida; la segunda sigue siendo una cuestión abierta, que no afirmo ni descarto. Varias personas pueden compartir información y actuar coordinadamente, pero eso no basta para atribuir una experiencia al conjunto. Para dar ese paso necesitaría razones sobre quién vive esa experiencia y qué la hace una unidad. La conciencia individual también necesita una explicación de su unidad; reconocer ese límite no me obliga a dar la misma credibilidad a ambas propuestas.
 
 ### ¿Por qué merece la pena sacrificarse?
 
@@ -336,6 +336,66 @@ Creo que sí, y no como adorno. Tocan justo dos de las tres cosas en las que con
 
 ---
 
+## Nuestra relación con la creación y una posible misión
+
+### Si toda la creación procede de Dios, ¿qué tenemos en común y qué podría distinguir a los seres humanos?
+
+Lo que compartimos es depender de Dios para existir. Dejo abierto si también compartimos un fundamento constitutivo divino. En cualquiera de las dos interpretaciones hay individuos finitos con capacidades propias. Si la constitución divina fuera común a toda la creación, no bastaría para explicar una diferencia específicamente humana: habría que explicar qué capacidades y qué organización tiene cada ser.
+
+Lo distintivo que propongo estudiar en nosotros es una participación reflexiva y compartida: podemos preguntarnos cómo es la realidad, examinar nuestras razones, transmitir lo comprendido y orientar nuestra conducta a partir de ello. Así, el conocimiento puede formar parte de una respuesta propia a la creación. Este perfil permite hablar de un papel especial sin haber demostrado que sea exclusivo de nuestra especie ni que todo lo demás exista únicamente para servirnos.
+
+### ¿La agencia y la capacidad de conocer la creación son exclusivas de los humanos, o pueden darse en otros animales o seres desconocidos?
+
+No identificaría la agencia ni el conocimiento con pertenecer a la especie humana. Hay evidencia de que otros primates ajustan sus decisiones a la disponibilidad de sus recuerdos; también hay diferencias observadas en cómo grupos humanos y otros primates aprovechan el aprendizaje compartido. Esto favorece estudiar un conjunto de capacidades y sus formas de organización, en lugar de suponer que todo aparece junto o está completamente ausente. [Templer y Hampton (2012)](https://hamptonlab.wordpress.com/wp-content/uploads/2024/10/2011animcog-memoryawarenesstemplerhampton.pdf), [Dean et al. (2012)](https://faculty.washington.edu/ccab/Dean%20etal%20-%20cognitive%20basis%20of%20culture%20-%20Science%202012.pdf).
+
+Esas pruebas no demuestran por sí solas libertad en el sentido fuerte que investigo, ni una conciencia idéntica a la nuestra. Podemos partir del caso humano sin fijar todavía una frontera absoluta. Si otros animales o seres desconocidos realizan el perfil relevante, habría que reconocerles una participación comparable; su lugar de origen no sería una razón para excluirlos.
+
+### ¿Qué distingue nuestra conciencia y nuestra forma de decidir de las de otros seres?
+
+Propongo buscar la diferencia en cómo se organizan varias capacidades: vivir lo que nos ocurre, comprender razones, examinar si son buenas y orientar nuestra conducta a partir de ese examen. Puedo desear algo y preguntarme si merece la pena desearlo; también revisar una creencia porque reconozco que estaba equivocado. Esa reflexión puede alcanzar mis propios fines y la clase de persona que quiero llegar a ser.
+
+Lo llamaría agencia reflexiva: una forma de participar en la formación de la propia vida, aprendiendo y dando razones junto a otros. No exige pensar explícitamente cada movimiento, elegir desde cero el propio carácter ni acertar siempre. En la teoría que prefiero, comprender debe contribuir realmente a la decisión; describir una conducta o predecirla no basta para explicar esa contribución.
+
+Esto propone un perfil reconocible en la vida humana, pero no demuestra que ninguna otra criatura pueda realizarlo ni que cada persona lo ejerza del mismo modo. Tampoco deduce la libertad de tener pensamientos: queda por explicar cómo interviene el sujeto en la decisión. El perfil podría compartirse con otros seres y seguir distinguiéndonos de quienes carezcan de él. El valor de una persona no queda medido por su rendimiento en estas capacidades.
+
+### ¿Con qué propósito nos ha creado Dios? ¿Tenemos alguna misión en el mundo?
+
+No sé si Dios nos ha asignado una misión ni cuál fue su propósito concreto al crearnos. Dentro del marco que propongo, tiene sentido que valore la existencia de otros sujetos capaces de comprender, actuar por sí mismos y relacionarse con él y entre ellos.
+
+Si tenemos una misión, propondría conocer la creación y participar conscientemente en ella. Esto incluye comprender, compartir lo aprendido, cuidar y responder a otros; la investigación científica sería una expresión posible. Es una hipótesis sobre el propósito, abierta a otras respuestas. No implica un encargo idéntico para cada persona ni hace depender su valor de lo que consiga.
+
+### ¿Qué razones permitirían afirmar que tenemos esa misión, y no solo la capacidad de conocer?
+
+Necesitaría justificar que Dios pretende nuestra participación como una finalidad dirigida a nosotros. La capacidad de conocer y el valor que puede tener su ejercicio no bastan para demostrar esa intención.
+
+Mi marco ya favorece un creador que hace posibles otros sujetos con actividad propia y relaciones reales. Comprender y responder encaja con esas razones: permite que seamos participantes. Ese es un argumento a favor de la coherencia de la propuesta. Pero las mismas capacidades también podrían existir sin constituir una misión asignada.
+
+Para avanzar tendría que encontrar razones que distinguieran esas posibilidades: un argumento más fuerte sobre la intención creadora o una comunicación atribuible a Dios cuya fiabilidad pudiera defender. No bastaría con sentir que algo tiene sentido. Por ahora puedo defender el contenido como hipótesis razonable dentro de mi marco, mientras dejo abierta la existencia de la misión.
+
+### ¿Qué relación podría tener lo que nos hace humanos con que Dios se encarnara en Jesucristo?
+
+Si acepto la encarnación, la relacionaría con nuestra vida personal entera: corporalidad, experiencia, comprensión, voluntad y relaciones. El relato cristiano que tomo como referencia afirma que el Hijo asume una humanidad completa, con entendimiento y voluntad humanos. Esto permite pensar un encuentro en el que Dios comparte nuestra condición, y no solo nos comunica información. [Catecismo, §§457–475](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html).
+
+La capacidad de comprender y responder hace inteligible ese encuentro; una posible misión puede formar parte de él. Pero no explica por sí sola por qué habría elegido nuestra humanidad entre todas las formas posibles de vida personal. Compartir nuestra historia puede ser una razón particular sin exigir que seamos los únicos seres capaces de esa relación.
+
+Tampoco bastaría con que toda criatura tuviera a Dios como constituyente: eso sería común a todas, mientras que la encarnación afirma algo específico sobre quién vive esa humanidad. La integración de esa afirmación con mi teoría del sujeto y de la agencia sigue abierta.
+
+### ¿Cómo se relacionaría esa posible misión con quienes no pueden ejercer esas capacidades o no producen nuevos conocimientos?
+
+No haría depender el valor de una persona de lo que descubre. Una vocación compartida tampoco exige que todos desempeñemos la misma tarea: aprender, enseñar, cuidar y sostener las condiciones de una vida común pueden contribuir de maneras diferentes.
+
+Y quien no pueda hacer ninguna de esas cosas no tiene que volverse útil para que su bien importe. Lo que pueda vivir y las relaciones de las que forma parte cuentan por sí mismos, dentro del marco que estoy construyendo. Ser destinatario de cuidado no es fracasar en una misión intelectual.
+
+Por eso separo el posible papel de una comunidad, la contribución que cada persona puede realizar y el valor de cada una. Esta distinción no resuelve todos los límites de la personalidad o del estatus moral, pero evita deducirlos de la productividad intelectual.
+
+### Si Dios ya conoce la creación, ¿qué valor tendría que nosotros la descubriéramos?
+
+Que Dios conozca una verdad no hace que yo la comprenda. Mi comprensión es una actividad real de otro sujeto, y puede abrir posibilidades de acción, encuentro y aprendizaje compartido. Su valor no depende de que la información sea nueva para Dios.
+
+Si Dios valora que existan otros capaces de participar por sí mismos, tiene sentido que valore esa comprensión. En el marco que prefiero, Dios conoce nuestra historia sin tener que aprenderla: quienes descubrimos, nos equivocamos y aprendemos somos nosotros. Esto no convierte cualquier adquisición de información en algo bueno ni demuestra que tengamos una misión; explica por qué nuestro conocimiento podría valer sin remediar una carencia divina.
+
+---
+
 ## Lo que no sé
 
 Para que quede junto y a la vista:
@@ -357,9 +417,17 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 
 | Pregunta | Tipo | Compromisos y sesiones |
 | --- | --- | --- |
+| Si toda la creación procede de Dios, ¿qué tenemos en común y qué podría distinguir a los seres humanos? | origen común retenido; constitución abierta; perfil distintivo propuesto | C785, C788, C803–C806; S109; CH30 |
+| ¿La agencia y la capacidad de conocer la creación son exclusivas de los humanos, o pueden darse en otros animales o seres desconocidos? | evidencia comparativa acotada; exclusividad y agencia libertaria no establecidas | C780, C782, C786–C788; S98–S99; CH30 |
+| ¿Con qué propósito nos ha creado Dios? ¿Tenemos alguna misión en el mundo? | propósito y existencia de misión abiertos; contenido propuesto | C781, C789–C791, C795, C808; S109; CH30 |
+| ¿Qué distingue nuestra conciencia y nuestra forma de decidir de las de otros seres? | agencia reflexiva propuesta; exclusividad y realización abiertas | C297–C308, C497–C505, C766, C788, C804–C807; S109; CH29–CH30 |
+| ¿Qué razones permitirían afirmar que tenemos esa misión, y no solo la capacidad de conocer? | argumento de coherencia para el contenido; atribución efectiva de misión abierta | C105–C113, C521–C524, C789–C790, C795; S98–S99; CH30 |
+| ¿Qué relación podría tener lo que nos hace humanos con que Dios se encarnara en Jesucristo? | encaje cristológico condicional; humanidad, identidad y agencia pendientes de integración | C793–C794, C809–C810; S109; CH30 |
+| ¿Cómo se relacionaría esa posible misión con quienes no pueden ejercer esas capacidades o no producen nuevos conocimientos? | participación común propuesta; valor personal no reducido al rendimiento; criterios exhaustivos de estatus abiertos | C144, C187–C188, C193, C320, C438–C442, C791; S98–S99; CH30 |
+| Si Dios ya conoce la creación, ¿qué valor tendría que nosotros la descubriéramos? | distinción epistemológica derivada; valor de la participación condicionado al marco preferido | C105, C112, C124–C126, C187–C188, C790, C792; S98–S99; CH30 |
 | Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C457–C460; S09, S47 |
 | No basta con que exista | preferido | C457, C459; S47 |
-| Dios y «la nada» | preferido con intención corregida: la nada absoluta no es fuente; el argumento principal prefiere el agente y después la continuidad constitutiva *ex deo* frente a producción disjunta; el rival no teísta serio es la realidad bruta u otro fundamento | C646–C648, C659–C660; S78–S79, CH24, CH27 |
+| Dios y «la nada» | preferencia teísta retenida; creación disjunta y constitución compartida abiertas; explicación generativa común propuesta | C646–C648, C659, C803–C805; S109; CH24, CH27 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C458–C461, C513; S09, S47, S62 |
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
@@ -384,8 +452,9 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |
 | Por qué permite el sufrimiento | preferido para la regla; abierto para el resto de cada persona; creencia con contenido exacto; la capa de la dificultad es experiencial y no sostiene el argumento | C472–C479, C300, C505; S49, S52; CH19, CH21 |
 | Qué me hace ser yo | aceptado/preferido: identidad numérica primitiva; en esta vida, un solo ser vivo con una historia organizada; persistencia simple como refinamiento desde la agencia; identificación nunca constitutiva | C435–C446, C506, C514–C519, C556; S45, S53, S55, S68 |
-| Cuándo empiezo, de dónde sale mi identidad y si es eterna | parcial a F2: no se presupone un primer instante; $CTI_G^{\Omega}$ integra una carrera completa con una estructura de origen posiblemente extendida sin reducir la identidad numérica; organismo, conciencia, agencia y persona pueden tener umbrales distintos | C653–C654, C664–C675; S78–S80 |
-| Dónde viven la identidad y la conciencia; materialidad e inmaterialidad | parcial: identidad no reificada; conciencia corporalmente realizada sin reducción ganada; una sola persona con poderes conscientes es la opción preferida; el fundamento fenoménico y la interacción de una sustancia separada siguen abiertos | C680–C686; S36–S37, S45, S55, S82; CH29 |
+| Cuándo empiezo, de dónde sale mi identidad y si es eterna | parcial: origen y carrera no reducen la identidad; fundamento común no identifica individuos ni garantiza eternidad; constitución abierta | C653–C654, C664–C675, C803–C805; S109 |
+| Dónde viven la identidad y la conciencia; materialidad e inmaterialidad | síntesis parcial: sujeto corporal y eficacia experiencial preferidos; constitución, unidad y realización abiertas | C680–C683, C720–C738, C758–C762, C766, C770–C778, C803–C807; S109; CH29 |
+| Posibilidad de una conciencia colectiva | abierta, con mayor credibilidad autoral de la conciencia individual; coordinación y experiencia propia del conjunto diferenciadas | C739–C746; S91–S92; CH16, CH29 |
 | Vida después de la muerte | coherente y dentro del poder de Dios; condicional a la bondad hacia lo que sentimos; universal si se da; la recreación numérica es posibilidad preferida sin nada que persista entre medias | C447–C453, C458–C464, C506–C510, C556; S45, S49, S53, S68; CH21, CH22 |
 | Sacrificio y futuro | preferido | C162–C164, C192–C194, C200–C202; S24, S27–S28 |
 | Sentir y pensar | preferido/aceptado | C122–C124, C466–C470; S20, S46 |

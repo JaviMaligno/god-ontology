@@ -2,7 +2,27 @@
 
 This register accumulates high-pressure questions for a later hardening pass after the main architecture is sufficiently complete. A queued challenge is not an objection already answered or a reason to interrupt the current development order.
 
+**Current comparative control (S109, C803–C805):** the uploaded author-directed comparison reopens the local disjoint preference. Develop common finite origination and unity while keeping the constitutive interpretations open. S86's production/exercise distinction and local consciousness work remain usable where independent of that choice. See [S109](../sessions/2026-09-13-common-creation-reflective-agency-and-open-purpose.md) for pinned remote provenance and ID disambiguation. No universal common-base relation establishes a specifically human power, survival or incarnation.
+
 ## Status vocabulary
+
+S96 makes C766 explicitly author-preferred while retaining its causal burden and substantive reopening conditions. C770–C774 refine CH16/CH29 through focal content, lived background, and formative influence: a goal outside focal attention is not automatically absent, and a felt effect does not present all its causes. S97 develops continuity through changing focus/background: C775–C778 separate persistence, local jointness and temporal continuation. Adjacent content overlap supplies neither global co-presence nor a temporal bridge. The next task distinguishes ongoing manifestation from separate causally connected presentations; retrospective articulation remains no automatic witness of earlier presence.
+
+S95 records equal active priority for unity/realization and experiential efficacy (C764). C765–C768 propose uptake in appraisal, preserve the nonconscious bypass challenge, and establish only a bounded substitution result: prediction without an explicit experiential variable does not decide causal dispensability. C769's return to selective co-presentation is developed in S96; neither unity nor efficacy is supplied by one-subject ownership.
+
+S94 develops episode participation through C758–C763: current operative roles, with explicit input/support/report distinctions and counterexamples to necessity and replaceability tests. CH16/CH29 retain the open actual bridge and field boundary. The causal burden developed in S95 concerns C215–C220/C722/C729: causal relevance of lived content within the differentiated one-subject model, without inferring it from bodily membership or the whole-subject label.
+
+S93 develops C751 through C752–C757: controls can distinguish a stipulated shared experiential-report failure, while selective access can mimic changed experience with preserved accuracy. A targeted report/no-report study constrains method, not the actual unity bridge. CH16/CH29's proposed episode-participation pass is developed in S94; no generic report caveat, perfect indicator, or field-count theorem is introduced.
+
+S92 clarifies the author's ranking: individual consciousness is more credible, while collective consciousness remains open (C746). CH16/CH29's comparison now separates co-presence, lived relation, and relational judgment. C749–C750 derive a binary information-route bound but no phenomenal conclusion; an exact comparison can come from information processing without the schema deciding whether its terms are lived together. C751 proposes the causal comparison developed in S93. This neither dismisses reports nor settles the actual bridge.
+
+S91 integrates the author's explicit neutrality about collective consciousness into CH16/CH29 (C739–C745). A source-scoped evidence pass separates communication among people, information integrated by an existing receiver, cross-field comparison, response availability, and reported co-presence. BrainNet does not measure a collective field; Pinto et al.'s response/visual-task dissociation does not settle this project's field count. S90's exact active-regulation bridge remains untested. The proposed next discrimination concerns jointly lived relations versus transmitted/separately processed contents, with no universal organismic exclusion or report-only definition.
+
+S90 partially develops CH16/CH29's bearer-to-field burden with a candidate active bodily integration route and an explicit additional psychophysical bridge (C733–C738). Structural facts alone leave joint presentation underdetermined in the local schema; a scoped field link need not select the eventual act. CH13's causal-relevance burden remains, and absence of one sufficient bodily route does not license absence of consciousness. The next test needs evidence separating joint presentation from coordinated access, not a report-only definition of phenomenal unity.
+
+S89 corrects S88's CH16/CH29 proposal: bodily and experiential processes are distinct within one subject, and pain, suffering, and decision have differentiated roles (C726–C730). The token-identity preference is withdrawn. CH13 still requires a real contribution of lived content, and neither process identity nor endurance alone establishes freedom. C731 proposes joint phenomenal manifestation as a specification of the qualified primitive; C732 tests whether the bearer-to-field relation can add independent constraints beyond shared access. No clinical mechanism, onset threshold, or completed causal-relevance result is claimed.
+
+S87 refines the active CH16/CH29 comparison: God's ultimate productive role is compatible with creature-intrinsic dual-aspect realization. The proposed created psychophysical profile must specify bearer unity, capacity versus manifestation, finite perspective, and causal role. Creative power and the non-sufficient determination of free choices are retained at their established levels; no new CH12 blocker follows from an acknowledged explanatory limit (C714–C717).
 
 | Status | Meaning |
 | --- | --- |
@@ -60,6 +80,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 | CH27 | Can absolute nothingness be a causal or explanatory rival to $G$, and does creation *ex nihilo* make something arise from it? | contingency, explanatory stopping points, creation, material production, scientific access | `tested F2 in S78` |
 | CH28 | Does material temporality require change, vulnerability, death, evil, or suffering, and at which modal level could any such necessity hold? | time, materiality, secondary causation, privation, P-gap, divine permission | `scoped in S78; ontology branch before ethics` |
 | CH29 | Where do identity and consciousness “live,” what follows from material or immaterial realizations, and how does their locus constrain finite *ex deo* determination? | identity, consciousness, embodiment, mind–body realization, $ANDC$, creaturely sourcehood | `integrated into S82; partial F2 answer` |
+| CH30 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | finite creation, reflective agency, open purpose, human variation and conditional incarnation | `tested partially in S109; profile proposed, mission and full incarnation open` |
 
 ## Priority gate after S26
 
@@ -76,6 +97,8 @@ S46–S48 open a question-driven route into the register: plain questions from t
 S78 obeyed the same priority rule, but S79 corrects three results after author review. S80 then corrects S79's residual punctual assumption: a life-set need not contain a first instant, and origin is represented by a possibly extended structure $\Omega_x$ rather than one point event. CH18 now receives onset-neutral $CTI_G^{\Omega}$ while cross-gap identity remains deeper. CH27 retains the distinction between absence and a reified Nothing, but the author's actual point promotes genuine *ex deo* continuity over disjoint production and thereby strengthens CH24's priority. CH28 distinguishes whole-history dynamicity $WCh$, which Shoemaker does not challenge, from interval density $ICh$, which his global-freeze construction targets. Structural vulnerability remains separate from token permission.
 
 S82 integrates CH29 into that prior CH24 burden rather than promoting it by recency. The locus decomposition clarifies the embodied subject model, while $ANDC^{\Phi}$ uses it to divide finite determination among a relation on $G$'s side, creature-intrinsic instantiated predicates, and a primitive typed constitution bridge. The active test remains whether whole constitution adds content beyond existential grounding.
+
+S83 advances that test without closing it (C687–C691): non-replaceability also fits essential disjoint grounding; the explicit common-basis predicate $B(G,x)$ states the additional constitutive claim, and its essentiality would exclude same-bearer conversion to disjointness only conditionally. Restricted models establish formal separation, not metaphysical admissibility or explanatory success. CH24 now tests whether a shared basis positively explains creature-owned finite powers without divine-act identity or redundancy with $CCD$.
 
 Scientific findings enter a challenge as metaphysical defeaters only when an explicit empirical–ontological bridge derives a consequence contradicted by robust evidence. Mere non-detection or exclusion by a method's operating scope is not itself a challenge result.
 
@@ -400,7 +423,7 @@ Actual human consciousness remains temporal and embodied, but creation as depend
 
 S37 completes that F2 comparison, accepted by the author's subsequent “Ok adelante” under the default-acceptance rule. Reductive identity remains live but non-preferred; weak emergence is insufficient as a complete phenomenal explanation; substance dualism and panpsychist families remain coherent but disfavored. The working model is a unified embodied power-bearing subject under a thin hylomorphic interpretation. Real organization constitutes one living subject and grounds a power profile; a conscious episode is a temporal manifestation of that subject through its bodily realization base.
 
-The ultimate phenomenal bridge remains open. A subject-level dual-aspect account is the strongest deeper candidate, while S37 provisionally stops with fundamental phenomenal powers of certain organized subjects. Cross-level causal non-competition, exact onset criteria, and the pre-conscious bearer/person boundary also remain F3 burdens rather than current blockers.
+The ultimate phenomenal bridge remains open. S37 provisionally stops with fundamental phenomenal powers of certain organized subjects; S89 refines this baseline through distinct bodily and experiential processes and proposed joint phenomenal manifestation. Dual aspect remains a live alternative, but S88's process identity is no longer preferred. Cross-level causal relations, exact onset criteria, and the pre-conscious bearer/person boundary remain F3 burdens rather than new creative-power blockers.
 
 CH16 is therefore locally tested at F2. S38 follows the accepted priority and gives $Poss_C^{ind}$ an F2 constitutive-admissibility account, with CH14 integrated as a test. This makes B1 of S33 locally available and leads to CH17.
 
@@ -603,3 +626,21 @@ The useful formal distinction is among whole-history and interval claims, absolu
 **Q5 — exact test:** Supply semantics or a model in which `ConstitutivelyEssentialTo(G,x)` differs from mere `Depends(x,G)`, preserves $PP_G$, $CreatedOther$, $SourceSep$, and $CTI_G^{\Omega}$, and leaves more than one contrastively different $H$ admissible under the same $\Phi_x^C$.
 
 S82 answers Q0 at a partial level and proposes a combined route for Q4. Q5 is now the active test of C686. No new literature is used to establish that proposal.
+
+## CH30 — Human distinctiveness, open purpose and incarnation
+
+**Status:** partial results in S98–S99, broadened by explicit author correction in [S109](../sessions/2026-09-13-common-creation-reflective-agency-and-open-purpose.md) (C803–C811). Local P54–P60 retain answers, with P56 and P58 reformulated; P71 adds the reflective-agency profile. Mission existence and content are open questions, with conscious participation one proposed answer.
+
+**Q0 — ordinary questions:** What distinguishes our consciousness and way of deciding? For what purpose has God created us, and do we have a mission? How might the human condition relate to incarnation? Keep these questions independent enough that one proposed answer does not presuppose another.
+
+**Q1 — definition:** Separate origin, terminal constitution, individual bearer, real finite organization, own powers and their exercise. Distinguish intentional behavior, lived understanding, evaluation of ends, libertarian sourcehood and personhood. A shared divine base would not by itself identify bearers or select humans.
+
+**Q2 — positive profile and realization:** C806 proposes lived understanding, reflective evaluation of reasons and ends, practical uptake and shared formation over time. What makes that understanding operative in the subject's decision? Local C766/C778 retain causal and temporal burdens. Matching outputs or predicting them does not supply the bearer/source relation.
+
+**Q3 — distribution and worth:** Other terrestrial or unknown realizers are not excluded. No kind/degree verdict, universal human performance criterion or moral hierarchy follows. S99's bounded primate comparisons remain at their scoped statuses in unchanged P55; they are not new evidence for an exclusive essence. P59 continues to separate contribution from concern for persons.
+
+**Q4 — open purpose:** Retain C789's distinct capacity/value/vocation/duty predicates. Fit with valued finite otherness and relation supports a candidate purpose but not actual directed assignment. What evidence would support that intention beyond a valuable capacity? Scientific discovery is one possible expression, not a universal performance duty.
+
+**Q5 — broad incarnation test:** Re-inspected Catechism §§457–475 requires, conditionally, a divine personal subject and complete humanity including intellect and will. This concerns the whole human condition, independently of establishing a mission. Universal divine constitution leaves finite subjects distinct and cannot alone entail personal assumption. Both creation interpretations owe a positive model of one subject, human operation and divine identity consistent with the project's agency conditions. No unique human eligibility or motive is derived from fit.
+
+**Shared next dependency:** investigate finite unity and the efficacy of understanding, using both local continuity/uptake work and the pinned remote's common generative task. Keep full incarnation and actual purpose assignment as separate open burdens. No question is newly banked without a written answer in this pass.

@@ -89,6 +89,11 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Conscious bearer, conscious capacity, token episode, and content
     - Temporal occurrence, tenseless actuality, and atemporal divine knowledge
     - Existential production, capacity production, realization, episode causation, and subject contribution
+    - Episode-relative operative participation versus input, enabling support, and output: redundancy, replacement, and the open phenomenal bridge (S94)
+    - Experiential uptake in appraisal before settlement: proposed causal efficacy, nonconscious bypass, and why algebraic substitution is not causal elimination (S95)
+    - Equally active unity question: focal attention, lived background, and formative influence; goals as content, orientation, or causes of felt effects (S96)
+    - Framing, experiential uptake and later reconfiguration; bearer persistence, local jointness and experiential continuity (C773–C778)
+    - An updating manifestation and its temporal bridge; why overlapping contents do not form one simultaneous field (S97)
     - Bearer–presentation–integration and persistence through non-conscious intervals
     - Whether the bearer before first consciousness already counts as a person
     - Determined conscious states and token-relative freedom
@@ -305,10 +310,10 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The non-destructive filter: $PP_G$, created otherness, dependence direction, and source separation
     - Asymmetric non-depleting constitution $ANDC$
     - The constitutive-content test: real overlap or inflated grounding vocabulary?
-    - Principal actual $ANDC$ versus the constitutively disjoint $OEC^+_{CCD}$ fallback
+    - S109 incorporates the uploaded open comparison: develop common finite generation and own powers under both constitutive interpretations; S85's disjoint preference is historical. Distinguish reflective agency, an open purpose question and the broader incarnation test
     - $ANDC^{\Phi}$ as the proposed finite-determination combination: relational on $G$'s side, creature-intrinsic finite form, and a primitive typed bridge
     - $\Phi_x^C$ as kind, unity, form, power, origin, and admissible-career profile without divine scripting of exact settlements
-    - Non-replaceable whole constitution as the active test of content beyond ordinary grounding
+    - S83's non-replaceability limit, S84's matched comparison, and S86's bounded stopping-point result: origin/realization/exercise/settlement, GSDA, source-sensitive alternatives, ACO scope, independent eligibility, and remaining phenomenal realization
     - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives

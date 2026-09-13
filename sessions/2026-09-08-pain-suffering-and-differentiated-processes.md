@@ -1,9 +1,9 @@
 # Session: Pain, suffering, and distinct processes within one subject
 
 **Date:** 2026-09-08  
-**Session ID:** S89  
+**Session ID:** S116  
 **Primary question:** How should the embodied-subject account distinguish bodily process, experience, pain, suffering, and their roles in decision?  
-**Starting ledger items:** C55–C57, C134–C137, C212–C220, C327–C338, C720–C725  
+**Starting ledger items:** C55–C57, C134–C137, C212–C220, C327–C338, C845–C850  
 **Target depth:** F1 correction and unity proposal with a local logical separation
 
 ## Authorial correction and U18
@@ -12,7 +12,7 @@ The author writes:
 
 > dolor es diferente a sufrimiento, el proceso corporal es distinto a la experiencia. De lo contrario no seria posible aguantar dolor, no seria un motivo sino una causa determinante. Ambos forman parte del mismo sujeto pero informan de manera distinta la decision y la decision contribuye a ellas de manera diferente. De acuerdo en lo siguiente tambien
 
-The explicit correction overrides S88's proposed preferred identity of bodily and experiential process (C718). The current preference is distinct processes within one embodied subject. The author also accepts proceeding with the next unity question. Unchallenged S88 distinctions and limits remain at their proposed status under U18: bearer unity, phenomenal unity, and agentive integration are distinct; lived-content relevance needs more than efficacy of a containing episode; divine grounding remains complementary.
+The explicit correction overrides S115's proposed preferred identity of bodily and experiential process (C843). The current preference is distinct processes within one embodied subject. The author also accepts proceeding with the next unity question. Unchallenged S115 distinctions and limits remain at their proposed status under U18: bearer unity, phenomenal unity, and agentive integration are distinct; lived-content relevance needs more than efficacy of a containing episode; divine grounding remains complementary.
 
 Do not translate the author's correction into an endorsement of a second substance, a clinically specified mechanism, or a proof of libertarian freedom. The pain/suffering distinction is accepted; the finer vocabulary below is proposed for clarity rather than attributed wholesale to the author.
 
@@ -27,7 +27,7 @@ Do not translate the author's correction into an endorsement of a second substan
 
 These are conceptual role distinctions for this model, not an empirical taxonomy. Pain and suffering may overlap in an episode; distinct concepts do not establish separable components in every case. Calling pain experiential here is a proposed use of vocabulary, not an equation of pain with suffering or an assumption that the author used “dolor” in a technical sense.
 
-A coarse decision episode can contain several distinct processes. Saying “one episode” in that ordinary aggregative sense is compatible with this correction; it must not silently restore S88's stronger identity of bodily realization and phenomenal occurrence.
+A coarse decision episode can contain several distinct processes. Saying “one episode” in that ordinary aggregative sense is compatible with this correction; it must not silently restore S115's stronger identity of bodily realization and phenomenal occurrence.
 
 ## Endurance, reasons, and causal determination
 
@@ -77,19 +77,19 @@ The working choice is provisional: retain the phenomenal capacity and its jointl
 
 ## Architecture and alternatives
 
-The accepted subject is one embodied bearer with real powers. Distinguishing its bodily and experiential processes does not by itself establish two substances; substance dualism remains an alternative with its existing additional burdens. S88's token-identity account remains an open alternative, with its previous preference withdrawn. C335's conditional non-competition model remains valid as a compatibility claim but cannot establish the identity now withdrawn.
+The accepted subject is one embodied bearer with real powers. Distinguishing its bodily and experiential processes does not by itself establish two substances; substance dualism remains an alternative with its existing additional burdens. S115's token-identity account remains an open alternative, with its previous preference withdrawn. C335's conditional non-competition model remains valid as a compatibility claim but cannot establish the identity now withdrawn.
 
 God remains the ultimate source of independently admissible finite powers. The creature bears and manifests its own experience through ordinary created capacities. Disjoint creation, GSDA, independent admissibility, and the non-sufficient divine determination of free choices remain at their current status. Process differentiation and primitive joint manifestation neither require a divine constituent nor derive finite phenomenal unity from divine consciousness.
 
 ## Decisions
 
-- C726: accept the authorial process distinction and withdraw C718's preference.
-- C727: accept pain/suffering non-identity; propose scoped vocabulary without clinical claims.
-- C728: distinguish endurance from proof of non-identity or libertarian freedom.
-- C729: preserve differentiated contributions and propose limited return routes.
-- C730: separate response agency from control over suffering.
-- C731: propose jointly manifested phenomenal content within the qualified-power baseline.
-- C732: retain the independent bearer-to-field bridge as the next selective burden.
+- C851: accept the authorial process distinction and withdraw C843's preference.
+- C852: accept pain/suffering non-identity; propose scoped vocabulary without clinical claims.
+- C853: distinguish endurance from proof of non-identity or libertarian freedom.
+- C854: preserve differentiated contributions and propose limited return routes.
+- C855: separate response agency from control over suffering.
+- C856: propose jointly manifested phenomenal content within the qualified-power baseline.
+- C857: retain the independent bearer-to-field bridge as the next selective burden.
 
 ## Literature and evidence
 
@@ -107,7 +107,7 @@ Status: authorial bodily/experiential and pain/suffering distinctions accepted; 
 
 ## Repository updates
 
-Current ledger C338/C713/C718/C719/C722/C724 and new C726–C732; current architecture, glossary, development map, challenge control, research sequence, README, session index, one accessible paragraph and provenance row, and generated appendices. S88 remains a historical record of the proposal subsequently corrected.
+Current ledger C338/C838/C843/C844/C847/C849 and new C851–C857; current architecture, glossary, development map, challenge control, research sequence, README, session index, one accessible paragraph and provenance row, and generated appendices. S115 remains a historical record of the proposal subsequently corrected.
 
 ## Next selective task
 
@@ -115,8 +115,8 @@ Can a positive bearer-to-field relation constrain joint manifestation independen
 
 ## Author review — 2026-09-08
 
-The author replies: “De acuerdo con tu propuesta”. This explicitly endorses S89's working proposal, including the logical clarification about endurance, differentiated causal roles, the limits of control over suffering, and the provisional joint-manifestation account. C727–C731 record that endorsement. C726 remains accepted and C732 remains open.
+The author replies: “De acuerdo con tu propuesta”. This explicitly endorses S116's working proposal, including the logical clarification about endurance, differentiated causal roles, the limits of control over suffering, and the provisional joint-manifestation account. C852–C856 record that endorsement. C851 remains accepted and C857 remains open.
 
-The endorsement retains the proposal's stated qualifications. In particular, C731 remains a provisional F1 specification of the qualified phenomenal primitive; no positive bodily realization bridge, onset criterion, causal mechanism, or additional empirical support is inferred from agreement. C728 and C730 are accepted working clarifications; vocabulary and candidate return routes remain provisional.
+The endorsement retains the proposal's stated qualifications. In particular, C856 remains a provisional F1 specification of the qualified phenomenal primitive; no positive bodily realization bridge, onset criterion, causal mechanism, or additional empirical support is inferred from agreement. C853 and C855 are accepted working clarifications; vocabulary and candidate return routes remain provisional.
 
 The next task is unchanged. No new ontology claim or research priority is introduced in this review, and no accessible answer or its provenance row is changed: its existing first-person preference and explicit open limits remain accurate.

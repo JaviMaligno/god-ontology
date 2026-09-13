@@ -1,10 +1,10 @@
 # Session: Relational predictions and preference for individual consciousness
 
 **Date:** 2026-09-08  
-**Session ID:** S92  
+**Session ID:** S119  
 **Primary question:** Which predictions distinguish a lived relation from a relation computed or communicated?  
 **Dependencies:** asymmetric individual/collective credence; information-route and phenomenal-inference scope  
-**Starting ledger items:** C134, C333, C337, C720, C731, C735–C745  
+**Starting ledger items:** C134, C333, C337, C845, C856, C860–C870  
 **Target depth:** F1 distinctions with a local F2 prediction and non-entailment audit
 
 ## Starting position and author direction
@@ -13,7 +13,7 @@ The author says:
 
 > De acuerdo con tu siguiente paso, y creo mas en la conciencia individual que en la colectiva
 
-The individual embodied-consciousness account remains the working preference and has greater authorial credence. Collective consciousness remains open, without endorsement or rejection. This clarifies S91's neutrality: it meant non-commitment on the collective claim, not equal credibility or equal research priority.
+The individual embodied-consciousness account remains the working preference and has greater authorial credence. Collective consciousness remains open, without endorsement or rejection. This clarifies S118's neutrality: it meant non-commitment on the collective claim, not equal credibility or equal research priority.
 
 The hypotheses need not be mutually exclusive. The author can regard individual consciousness as well supported while leaving open whether some collective could also have a perspective. No numerical probability, universal impossibility, or new empirical finding is attributed to the author.
 
@@ -106,7 +106,7 @@ This is useful because it prevents three errors:
 - treating a conscious correct answer as proof that all its original inputs were jointly experienced;
 - giving a collective a phenomenal subject merely because information from several participants is required for a successful output.
 
-The result does not demand equal skepticism toward individual and collective consciousness. C746 records the author's asymmetric credence. A shared explanatory standard does not entail equal existing support or equal research priority.
+The result does not demand equal skepticism toward individual and collective consciousness. C871 records the author's asymmetric credence. A shared explanatory standard does not entail equal existing support or equal research priority.
 
 ## Proposed next working specification
 
@@ -138,16 +138,16 @@ The generic accuracy-to-unity inquiry now has a bounded result. Repeating it wit
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C746 | accepted authorial preference | Individual consciousness has greater credence; collective consciousness remains open |
-| C747 | proposed distinction | Co-presence, lived relation, and relational judgment are different targets |
-| C748 | proposed prediction constraint | Information routes and output/report rules must be specified |
-| C749 | derived local F2 result | Balanced binary equality has a one-input bound and an exact two-input comparator |
-| C750 | derived weak-schema non-entailment | Perfect comparison does not establish joint experience |
-| C751 | proposed next specification | Compare causal dependence of relational reports separately from correctness |
+| C871 | accepted authorial preference | Individual consciousness has greater credence; collective consciousness remains open |
+| C872 | proposed distinction | Co-presence, lived relation, and relational judgment are different targets |
+| C873 | proposed prediction constraint | Information routes and output/report rules must be specified |
+| C874 | derived local F2 result | Balanced binary equality has a one-input bound and an exact two-input comparator |
+| C875 | derived weak-schema non-entailment | Perfect comparison does not establish joint experience |
+| C876 | proposed next specification | Compare causal dependence of relational reports separately from correctness |
 
 ## Literature and evidence
 
-No named external source is used inferentially in this session. S91's source assessments are preserved at their prior scope, not extended or reinterpreted through an uninspected citation. The current result follows from explicitly stated local definitions and finite enumeration. The candidate tests are hypothetical, and no empirical result or comparative neuroscience consensus is asserted. External evidential maturity is unchanged.
+No named external source is used inferentially in this session. S118's source assessments are preserved at their prior scope, not extended or reinterpreted through an uninspected citation. The current result follows from explicitly stated local definitions and finite enumeration. The candidate tests are hypothetical, and no empirical result or comparative neuroscience consensus is asserted. External evidential maturity is unchanged.
 
 ## Accessible-answer report
 
@@ -161,9 +161,8 @@ Status: the greater credence in individual consciousness is accepted authorial p
 
 ## Repository updates
 
-C739 and C745 status pointers; new C746–C751; architecture, glossary, development map, challenge register, research sequence, session index; one correction to the research register's current preference note, without a new literature search; revised accessible answer and provenance; generated appendices.
+C864 and C870 status pointers; new C871–C876; architecture, glossary, development map, challenge register, research sequence, session index; one correction to the research register's current preference note, without a new literature search; revised accessible answer and provenance; generated appendices.
 
 ## Next question
 
 How do candidate bodily integration and information-only routes differ in their predicted causal dependence of reported relational experience, separately from relational-task accuracy?
-

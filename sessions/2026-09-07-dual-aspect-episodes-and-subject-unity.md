@@ -1,15 +1,15 @@
 # Session: Dual-aspect episodes and subject unity
 
 **Date:** 2026-09-07  
-**Session ID:** S88  
+**Session ID:** S115  
 **Primary question:** What does a subject-level dual-aspect account add to the accepted embodied phenomenal-power model?  
 **Dependencies:** bearer and phenomenal unity; causal relevance of experience  
-**Starting ledger items:** C134–C139, C212–C220, C310–C338, C435–C446, C680–C685, C700–C717  
+**Starting ledger items:** C134–C139, C212–C220, C310–C338, C435–C446, C680–C685, C825–C842  
 **Target depth:** F1 comparison with local F2 distinctions and adequacy constraints, not a completed psychophysical theory
 
 ## Starting position
 
-The author endorses the route for further development. Under U18, S87's proposed divine-ground integration stays at its proposed status. The accepted baseline remains one embodied power-bearing subject with a qualified phenomenal primitive; God is the ultimate source within preferred disjoint creation. Neither creative power nor non-sufficient divine determination of free decisions is reopened.
+The author endorses the route for further development. Under U18, S114's proposed divine-ground integration stays at its proposed status. The accepted baseline remains one embodied power-bearing subject with a qualified phenomenal primitive; God is the ultimate source within preferred disjoint creation. Neither creative power nor non-sufficient divine determination of free decisions is reopened.
 
 **Proposed result:** prefer a limited dual-aspect refinement of that baseline: an embodied conscious episode is one subject-owned process with physical and phenomenal dimensions, not a pair of independently acting processes. This refines the ontology of manifestation but does not eliminate the phenomenal primitive. Its explanatory gain over the existing baseline is modest, because that baseline already avoided a second subject and competing bodily causes.
 
@@ -84,7 +84,7 @@ If an independently established prior process sufficiently settles a choice befo
 
 God originates an independently admissible order whose creaturely power profiles include these psychophysical manifestations. Ordinary capacities and episodes can be realized through created processes. The bearer of $\phi$ is $x$, not God; the divine knowledge of it is not that very experiential token. No return to strict ex deo or universal direct divine episode production follows.
 
-God's conscious nature provides the already-preferred ultimate conscious source; it does not derive which finite bodily profile has which phenomenal character, how many perspectives obtain, or where an onset threshold lies. Those are constraints on the positive created profile proposed in S87. Independent admissibility is not replaced by divine will.
+God's conscious nature provides the already-preferred ultimate conscious source; it does not derive which finite bodily profile has which phenomenal character, how many perspectives obtain, or where an onset threshold lies. Those are constraints on the positive created profile proposed in S114. Independent admissibility is not replaced by divine will.
 
 ## What has been gained, and what has not
 
@@ -105,14 +105,14 @@ A baseline defender can say that “one subject with phenomenal powers” alread
 
 | Claim ID | Status | Content |
 | --- | --- | --- |
-| C718 | proposed preferred scoped refinement | An embodied conscious episode is one subject-owned psychophysical process with physical and phenomenal dimensions; two descriptions alone would not establish that claim. |
-| C719 | proposed scope constraints | Token unity does not entail physical reduction, universal consciousness, a one-to-one modal mapping, or identification of the subject with its current stream. |
-| C720 | proposed analytic distinction | Bearer unity, phenomenal-field unity, and agentive integration are different; none automatically substitutes for the others. |
-| C721 | proposed bearer-first constraint | Use independently specified unity–origin–career and organismic organization to anchor the actual bearer; information sharing or complexity alone establishes no new phenomenal subject. |
-| C722 | proposed causal-adequacy refinement | One efficacious token avoids a particular duplication problem but does not by itself establish the causal relevance of its phenomenal dimension; consciously guided action still needs its lived-content contribution. |
-| C723 | retained divine-ground integration | God grounds independently admissible finite psychophysical powers; the creature manifests its own experience, with no shared divine token or universal intervention. |
-| C724 | proposed bounded comparative assessment | Dual aspect is a modest refinement within the qualified-power account, not an elimination of its primitive or a demonstrated deeper realization theory. |
-| C725 | open next dependency | Specify a non-circular bearer-to-field bridge and its qualitative/control constraints sufficiently to compare a genuinely unified subject with mere aggregation. |
+| C843 | proposed preferred scoped refinement | An embodied conscious episode is one subject-owned psychophysical process with physical and phenomenal dimensions; two descriptions alone would not establish that claim. |
+| C844 | proposed scope constraints | Token unity does not entail physical reduction, universal consciousness, a one-to-one modal mapping, or identification of the subject with its current stream. |
+| C845 | proposed analytic distinction | Bearer unity, phenomenal-field unity, and agentive integration are different; none automatically substitutes for the others. |
+| C846 | proposed bearer-first constraint | Use independently specified unity–origin–career and organismic organization to anchor the actual bearer; information sharing or complexity alone establishes no new phenomenal subject. |
+| C847 | proposed causal-adequacy refinement | One efficacious token avoids a particular duplication problem but does not by itself establish the causal relevance of its phenomenal dimension; consciously guided action still needs its lived-content contribution. |
+| C848 | retained divine-ground integration | God grounds independently admissible finite psychophysical powers; the creature manifests its own experience, with no shared divine token or universal intervention. |
+| C849 | proposed bounded comparative assessment | Dual aspect is a modest refinement within the qualified-power account, not an elimination of its primitive or a demonstrated deeper realization theory. |
+| C850 | open next dependency | Specify a non-circular bearer-to-field bridge and its qualitative/control constraints sufficiently to compare a genuinely unified subject with mere aggregation. |
 
 ## Literature and novelty notes
 
@@ -124,11 +124,11 @@ Revise one paragraph of **¿Dónde «viven» la identidad y la conciencia? ¿Son
 
 > Lo que prefiero por ahora es una sola persona corporal con capacidades conscientes. La propuesta que estoy desarrollando precisa que, cuando tengo una experiencia, su realización corporal y su carácter vivido pertenecen a un mismo proceso mío. Son dos dimensiones reales de ese proceso, no dos personas ni dos acciones que deban empujarse entre sí. Eso todavía no explica por qué determinado proceso tiene experiencia, ni demuestra que una descripción física pueda expresar todo lo que se siente. Tampoco basta para explicar qué hace que varias vivencias formen un campo consciente común. Una sustancia inmaterial separada sigue siendo una alternativa, pero por ahora no la necesito para formular esta relación.
 
-Update the existing provenance row with C718–C725 and S88. No question is newly banked, and no other accessible passage is changed.
+Update the existing provenance row with C843–C850 and S115. No question is newly banked, and no other accessible passage is changed.
 
 ## Repository updates
 
-Session index; ledger C718–C725 and C338/C713 pointers; core architecture; glossary; development map and challenge register; research sequence; one accessible delta and provenance; generated appendices. No assessed precedent or treatise chapter plan is replaced.
+Session index; ledger C843–C850 and C338/C838 pointers; core architecture; glossary; development map and challenge register; research sequence; one accessible delta and provenance; generated appendices. No assessed precedent or treatise chapter plan is replaced.
 
 ## Next question
 

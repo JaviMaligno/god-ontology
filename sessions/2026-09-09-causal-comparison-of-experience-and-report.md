@@ -1,17 +1,17 @@
 # Session: Causal comparison of experience and report
 
 **Date:** 2026-09-09  
-**Session ID:** S93  
+**Session ID:** S120  
 **Primary question:** What can changes in relational-experience reports, with comparison accuracy preserved, discriminate?  
 **Dependencies:** report/access pathways; scope of evidence for the bodily realization bridge  
-**Starting ledger items:** C134, C333, C337, C720, C731, C734–C738, C743–C751  
+**Starting ledger items:** C134, C333, C337, C845, C856, C859–C863, C868–C876  
 **Target depth:** local F2 causal countermodels; one targeted empirical check
 
 ## Author direction and retained baseline
 
-The author says “ok continua”, authorizing S92's proposed causal comparison. Under U18, unchallenged S92 material remains at its stated status. The instruction does not establish the actual bridge or promote all earlier proposals to accepted conclusions.
+The author says “ok continua”, authorizing S119's proposed causal comparison. Under U18, unchallenged S119 material remains at its stated status. The instruction does not establish the actual bridge or promote all earlier proposals to accepted conclusions.
 
-Individual consciousness retains greater authorial credence than collective consciousness (C746). Collective consciousness remains open and does not become an equal-priority program. The embodied power bearer, differentiated bodily and experiential processes, qualified phenomenal primitive, and provisional joint manifestation retain their existing statuses. Preferred disjoint creation and genuine created causal powers remain in place.
+Individual consciousness retains greater authorial credence than collective consciousness (C871). Collective consciousness remains open and does not become an equal-priority program. The embodied power bearer, differentiated bodily and experiential processes, qualified phenomenal primitive, and provisional joint manifestation retain their existing statuses. Preferred disjoint creation and genuine created causal powers remain in place.
 
 ## Preferred answer for this pass
 
@@ -81,11 +81,11 @@ A candidate supported by such convergence can become the better explanation with
 
 **Reconstructed argument:** P1: ocular indicators tracked reported dominant percepts in active-report trials. P2: in 20 participants, rivalry/replay comparisons with and without active report showed reduced frontal differential activity without report while indicators continued tracking alternations. The authors infer that part of the usual neural pattern reflects reporting/introspection rather than rivalry itself.
 
-**Project role:** targeted support for C755's requirement to assess reporting demands; it does not validate a unity marker.
+**Project role:** targeted support for C880's requirement to assess reporting demands; it does not validate a unity marker.
 
 **Imported assumptions:** indicators remain informative without report; the condition contrasts bear on report-related processing.
 
-**Limits and assessment:** reporting can itself alter rivalry, and attention remains relevant. The study does not establish identical phenomenology across conditions, universal frontal irrelevance, a field count, or S90's bridge. Retain its methodological lesson and decline those stronger conclusions.
+**Limits and assessment:** reporting can itself alter rivalry, and attention remains relevant. The study does not establish identical phenomenology across conditions, universal frontal irrelevance, a field count, or S117's bridge. Retain its methodological lesson and decline those stronger conclusions.
 
 This is a targeted source check, not a systematic review or a claim about present consensus. Sources cited inside that paper are not independently adopted as inferential premises.
 
@@ -99,7 +99,7 @@ Neither creation branch gains a special advantage from this result. Divine ultim
 
 ## Bounded completion and next dependency
 
-C751's generic causal audit is now developed to a bounded F2 result. Repeating “reports might be mistaken” or adding a further unspecified indicator would not advance it. Actual discrimination requires a more specific realization account and evidence.
+C876's generic causal audit is now developed to a bounded F2 result. Repeating “reports might be mistaken” or adding a further unspecified indicator would not advance it. Actual discrimination requires a more specific realization account and evidence.
 
 The next ontological dependency is episode membership: distinguish bodily processes that participate in realizing one jointly manifested experience from influences that merely supply inputs, enable it, or receive its outputs. Common causation or communication is not already constitutive participation. This is prior to treating an organizational boundary as a boundary of phenomenal unity.
 
@@ -121,12 +121,12 @@ Proceed first at F1 with a positive membership proposal and counterexamples. Ret
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C752 | proposed causal distinction | Target experience, shared reporting, and selective access can change separately |
-| C753 | derived local F2 result | A shared control can distinguish one report-failure model while leaving a selective rival |
-| C754 | proposed evidential constraint | Additional indicators need warranted dependencies and transfer |
-| C755 | scoped empirical assessment | The inspected study motivates report-demand controls within its limited domain |
-| C756 | retained provisional route; proposed assessment | Specific bodily realization can be assessed abductively through constrained convergence |
-| C757 | proposed priority after bounded completion | Next distinguish episode participation from input, enabling, and output relations |
+| C877 | proposed causal distinction | Target experience, shared reporting, and selective access can change separately |
+| C878 | derived local F2 result | A shared control can distinguish one report-failure model while leaving a selective rival |
+| C879 | proposed evidential constraint | Additional indicators need warranted dependencies and transfer |
+| C880 | scoped empirical assessment | The inspected study motivates report-demand controls within its limited domain |
+| C881 | retained provisional route; proposed assessment | Specific bodily realization can be assessed abductively through constrained convergence |
+| C882 | proposed priority after bounded completion | Next distinguish episode participation from input, enabling, and output relations |
 
 ## Accessible track and repository
 
@@ -137,4 +137,3 @@ Update the ledger and its active question, architecture, glossary, development m
 ## Next question
 
 What makes a bodily process participate in realizing this unified experience, rather than merely influencing or receiving information from it?
-

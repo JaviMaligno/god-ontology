@@ -1,11 +1,11 @@
 # Session: Current answer and experiential continuity
 
 **Date:** 2026-09-09  
-**Session ID:** S97  
+**Session ID:** S124  
 **Primary question:** What can persist when the focus and background of an experience change?  
 **Immediate author correction:** consolidate the accessible answer as the current view  
 **Dependencies:** bearer versus manifestation; unity and efficacy as equal priorities  
-**Starting ledger items:** C438–C439, C680–C683, C700, C720, C726–C731, C747, C764, C766, C770–C774  
+**Starting ledger items:** C438–C439, C680–C683, C825, C845, C851–C856, C872, C889, C891, C895–C899  
 **Target depth:** F1 continuity proposal with a bounded F2 overlap check
 
 ## Author direction and editorial correction
@@ -20,7 +20,7 @@ This is an editorial consolidation, not a withdrawal of the omitted detailed arg
 
 Record the standing writing rule in the accessible method: answers should integrate the current view rather than grow by appending the next session's paragraph. Preserve development history in session records and provenance.
 
-Under U18, S96's unchallenged background proposal remains at its proposed status. The present editorial correction does not supply new empirical evidence or promote that proposal to an established mechanism.
+Under U18, S123's unchallenged background proposal remains at its proposed status. The present editorial correction does not supply new empirical evidence or promote that proposal to an established mechanism.
 
 ## Current answer: complete replacement
 
@@ -83,7 +83,7 @@ F_0\cap F_1=\{b\},\qquad F_1\cap F_2=\{c\}.
 
 Yet no listed stage contains both a and d. The union contains four labels, but it is not another stipulated simultaneous presentation. Therefore connected overlap across stages does not establish that all contents were ever jointly present.
 
-The labels are content types used for this local inference. Repeating b at two stages does not settle token identity. The sets are not a complete ontology of experience and do not replace S96's lived modes or relations.
+The labels are content types used for this local inference. Repeating b at two stages does not settle token identity. The sets are not a complete ontology of experience and do not replace S123's lived modes or relations.
 
 The example does not prove actual experiential continuity either: the selected stages leave their transitions unspecified. A continuity account needs more than matching adjacent content lists.
 
@@ -117,10 +117,10 @@ The existing scoped bridge from bodily organization to joint manifestation at a 
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C775 | proposed temporal distinction | Bearer persistence, stagewise jointness and continuity through change are different targets |
-| C776 | proposed F1 continuation model | An ongoing manifestation can update content, focus and background |
-| C777 | derived bounded F2 constraint | Indexed overlap does not entail global simultaneous co-presence or fill unspecified transitions |
-| C778 | proposed next bridge specification | Distinguish ongoing manifestation from causally connected interruption/resumption |
+| C900 | proposed temporal distinction | Bearer persistence, stagewise jointness and continuity through change are different targets |
+| C901 | proposed F1 continuation model | An ongoing manifestation can update content, focus and background |
+| C902 | derived bounded F2 constraint | Indexed overlap does not entail global simultaneous co-presence or fill unspecified transitions |
+| C903 | proposed next bridge specification | Distinguish ongoing manifestation from causally connected interruption/resumption |
 
 The editorial instruction is recorded in the accessible method, not introduced as an ontology claim.
 
@@ -128,7 +128,7 @@ The editorial instruction is recorded in the accessible method, not introduced a
 
 No named external source is inferentially active. Arguments use the inspected project commitments and explicitly hypothetical configurations. No empirical result, field-count theorem or novelty claim is introduced.
 
-Update the complete accessible answer and its provenance; the standing accessible writing rule; C774's development pointer and C775–C778; the current architecture paragraph, glossary, paired priority, challenge and research sequence, a scoped internal-refinement note, treatise outline and session index; generated appendices. Preserve prior sessions as the development record.
+Update the complete accessible answer and its provenance; the standing accessible writing rule; C899's development pointer and C900–C903; the current architecture paragraph, glossary, paired priority, challenge and research sequence, a scoped internal-refinement note, treatise outline and session index; generated appendices. Preserve prior sessions as the development record.
 
 Verification covers the complete answer's exact reproduction and placement, preservation of surrounding answers, the finite overlap claim, ledger/link integrity, generated appendices and corpus fidelity.
 

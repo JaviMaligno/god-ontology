@@ -1,7 +1,7 @@
 # Session: Constitutive content beyond existential grounding
 
 **Date:** 2026-09-05  
-**Session ID:** S83  
+**Session ID:** S110  
 **Primary question:** Does S82's non-replaceable whole constitution distinguish principal $ANDC^{\Phi}$ from existential grounding?  
 **Dependencies:** constitutive content (C559–C572, C660, C684–C686); identity and creaturely sourcehood (C672–C675, C685)  
 **Starting ledger items:** C565, C660, C672, C684–C686  
@@ -73,13 +73,13 @@ The same limit applies to freedom. One can represent two admissible careers with
 
 | Claim ID | Old status | New status | Reason | Provenance |
 | --- | --- | --- | --- | --- |
-| C660, C684 | principal preference / proposed refinement | retained at their existing level | No global defeater established; the non-replaceability argument is insufficient rather than the preferred model disproved. | U18; author continuation; S79–S83 |
-| C686 | open load-bearing test | open; diagnostically refined | Distinguish explicit constitutive content, local formal separation, and earned explanation. | C687–C691 |
-| C687 | — | proposed inferential limit | Essential dependence can hold under disjoint grounding and does not imply overlap. | Internal argument above |
-| C688 | — | proposed primitive constitutive refinement | $B$ asserts the same concrete divine basis within distinct constituted bearers, with no ordinary-part or inheritance inference. | C565, C660, C684 |
-| C689 | — | proposed conditional identity constraint | Essential overlap would exclude same-bearer conversion to disjointness; actual overlap and alternative possibility are separate premises. | C672, C684–C688 |
-| C690 | — | proposed local formal diagnostic | The restricted structures establish formal non-entailment, not metaphysical possibility or explanatory adequacy. | Section 4 |
-| C691 | — | open active dependency | Explain how a genuinely shared basis supports creature-owned finite powers without identity of divine and creaturely exercise. | C566, C685–C690 |
+| C660, C684 | principal preference / proposed refinement | retained at their existing level | No global defeater established; the non-replaceability argument is insufficient rather than the preferred model disproved. | U18; author continuation; S79–S82, S110 |
+| C686 | open load-bearing test | open; diagnostically refined | Distinguish explicit constitutive content, local formal separation, and earned explanation. | C812–C816 |
+| C812 | — | proposed inferential limit | Essential dependence can hold under disjoint grounding and does not imply overlap. | Internal argument above |
+| C813 | — | proposed primitive constitutive refinement | $B$ asserts the same concrete divine basis within distinct constituted bearers, with no ordinary-part or inheritance inference. | C565, C660, C684 |
+| C814 | — | proposed conditional identity constraint | Essential overlap would exclude same-bearer conversion to disjointness; actual overlap and alternative possibility are separate premises. | C672, C684–C686, C812–C813 |
+| C815 | — | proposed local formal diagnostic | The restricted structures establish formal non-entailment, not metaphysical possibility or explanatory adequacy. | Section 4 |
+| C816 | — | open active dependency | Explain how a genuinely shared basis supports creature-owned finite powers without identity of divine and creaturely exercise. | C566, C685–C686, C812–C815 |
 
 ## Literature and novelty notes
 
@@ -91,7 +91,7 @@ No accessible answer is added or changed and no new question is banked. The exis
 
 ## Repository updates
 
-- Ledger: C687–C691 and C686's diagnostic pointer.
+- Ledger: C812–C816 and C686's diagnostic pointer.
 - Architecture and glossary: primitive $B$ and its evidential limits.
 - Development map, research sequence, and challenge register: the finite-power bridge becomes the next concrete test inside the still-open constitutive-content priority.
 - Session index and generated appendices updated. Treatise outline and novelty map unchanged: no chapter or assessed precedent changes.

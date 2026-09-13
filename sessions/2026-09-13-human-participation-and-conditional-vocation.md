@@ -1,17 +1,17 @@
 # Session: Human participation, conditional vocation, and its limits
 
 **Date:** 2026-09-13  
-**Session ID:** S99  
-**Primary question:** What answers can the ontology give to P54–P60 while leaving the existence of a mission open?  
+**Session ID:** S126  
+**Primary question:** What answers can the ontology give to P72–P78 while leaving the existence of a mission open?  
 **Dependencies:** the capacity/agency and value interfaces; conditional incarnation compatibility  
-**Starting ledger items:** C105–C126, C144–C150, C187–C196, C245–C248, C320, C438–C442, C521–C524, C700–C705, C779–C783  
+**Starting ledger items:** C105–C126, C144–C150, C187–C196, C245–C248, C320, C438–C442, C521–C524, C825–C830, C904–C908  
 **Depth:** F1 positive synthesis, bounded F2 non-entailment and incarnation-scope audits, targeted primary-source assessment
 
 ## Author direction and starting status
 
-The author asks to attempt answers to all seven questions and explicitly authorizes deeper theoretical and metaphysical work where needed. This promotes the P54–P60 pass for the present session. It does not accept the existence of a mission, discard the U18 rule, or permanently replace the equally active unity/efficacy queue.
+The author asks to attempt answers to all seven questions and explicitly authorizes deeper theoretical and metaphysical work where needed. This promotes the P72–P78 pass for the present session. It does not accept the existence of a mission, discard the U18 rule, or permanently replace the equally active unity/efficacy queue.
 
-Retain S98's unchallenged proposals at their proposed status. The canonical conditional remains: **«Si tenemos una misión, sería conocer la creación y participar conscientemente en ella».** An answer may be complete about an inference limit while the metaphysical issue remains open. Question-bank status tracks the written answer separately from commitment status.
+Retain S125's unchallenged proposals at their proposed status. The canonical conditional remains: **«Si tenemos una misión, sería conocer la creación y participar conscientemente en ella».** An answer may be complete about an inference limit while the metaphysical issue remains open. Question-bank status tracks the written answer separately from commitment status.
 
 ## Positive proposal
 
@@ -48,7 +48,7 @@ Consider two finite interpretations of the same local base. Each contains G, a c
 
 Within M1, let a be performing an original scientific discovery at a given moment. The community's end does not imply that every member has `O(x,a,c)`. Different contributions, inability, competing reasons and receiving care remain possible. A further normative/allocation premise is required to generate particular obligations. Mere creation by an agent also does not, without such a bridge, establish that agent's unrestricted moral authority.
 
-The weak use of “vocation” for a fitting activity is easier to support conditionally on the preferred reasons. It must not silently replace the stronger claim that an actual mission is assigned. S98's existence question remains substantive under the stronger reading.
+The weak use of “vocation” for a fitting activity is easier to support conditionally on the preferred reasons. It must not silently replace the stronger claim that an actual mission is assigned. S125's existence question remains substantive under the stronger reading.
 
 ## Bearer value and shared participation
 
@@ -62,7 +62,7 @@ The outcome is an inference limit plus a proposed inclusive interpretation of th
 
 Let `K_G(p)` denote divine knowledge of p and `K_x(p)` finite understanding/knowledge of p. Factivity gives `K_G(K_x(p)) -> K_x(p)`, but `K_G(p)` alone does not entail `K_x(p)`. Confusing the two would erase the bearer-indexed fact the proposal values.
 
-ACO knows the actual finite discovery in its place in the complete history; this introduces no temporal learning by God and no truth about a merely possible libertarian outcome. The additional actuality is a creature's understanding and possible response. Its value depends on the preferred otherness/sourcehood/relation interface, rather than on informational novelty for God. This supplies P60's answer without establishing `V_G`.
+ACO knows the actual finite discovery in its place in the complete history; this introduces no temporal learning by God and no truth about a merely possible libertarian outcome. The additional actuality is a creature's understanding and possible response. Its value depends on the preferred otherness/sourcehood/relation interface, rather than on informational novelty for God. This supplies P78's answer without establishing `V_G`.
 
 ## Exact external sources and disclosed arguments
 
@@ -72,19 +72,19 @@ The following three sources are inferentially active. No other search result or 
 
 **Exact source:** Victoria L. Templer and Robert R. Hampton, “Rhesus monkeys (Macaca mulatta) show robust evidence for memory awareness across multiple generalization tests,” *Animal Cognition* 15 (2012), 409–419; DOI 10.1007/s10071-011-0468-4. Inspected general methods, Experiments 1–4, and general discussion, including alternative stimulus-control and response-competition accounts, in the [author's copy](https://hamptonlab.wordpress.com/wp-content/uploads/2024/10/2011animcog-memoryawarenesstemplerhampton.pdf).
 
-**Argument and project assessment:** Six trained male macaques could choose a smaller certain reward instead of a memory test. If novelty alone caused rejection, unusual memory-strengthening trials should also increase rejection. Double presentation improved accuracy and reduced rejection, whereas omitted samples and longer delays increased it. The authors favor memory monitoring. The project retains bounded functional evidence relevant to P55; it does not infer libertarian agency or human-like phenomenology. The study leaves behavioral-cue and response-competition explanations incompletely excluded. Experimental memory manipulation and reward interpretation are imported at the task level; species universality, moral rank and divine purpose are not.
+**Argument and project assessment:** Six trained male macaques could choose a smaller certain reward instead of a memory test. If novelty alone caused rejection, unusual memory-strengthening trials should also increase rejection. Double presentation improved accuracy and reduced rejection, whereas omitted samples and longer delays increased it. The authors favor memory monitoring. The project retains bounded functional evidence relevant to P73; it does not infer libertarian agency or human-like phenomenology. The study leaves behavioral-cue and response-competition explanations incompletely excluded. Experimental memory manipulation and reward interpretation are imported at the task level; species universality, moral rank and divine purpose are not.
 
 ### Dean and colleagues
 
 **Exact source:** L. G. Dean, R. L. Kendal, S. J. Schapiro, B. Thierry and K. N. Laland, “Identification of the Social and Cognitive Processes Underlying Human Cumulative Culture,” *Science* 335 (2012), 1114–1118; DOI 10.1126/science.1213969. Inspected design, main results and discussion, plus relevant supplementary methods, in the [article and supplement](https://faculty.washington.edu/ccab/Dean%20etal%20-%20cognitive%20basis%20of%20culture%20-%20Science%202012.pdf).
 
-**Argument and project assessment:** A sequential three-stage puzzlebox made solution advancement and social behavior comparable within a specified design. Children's advanced success covaried with teaching, imitation and social support, unlike the tested nonhuman groups. The authors infer a role for that sociocognitive package. The project retains a scoped difference supporting attention to organized shared capacities (P54–P55), not a universal necessary condition or an inherent ceiling on other species. Samples, enculturation, task suitability and unequal exposure/conditions limit transfer; covariation is not by itself causal proof. Their broad 2012 exclusivity claims are not adopted as a current finding or as evidence of divine assignment.
+**Argument and project assessment:** A sequential three-stage puzzlebox made solution advancement and social behavior comparable within a specified design. Children's advanced success covaried with teaching, imitation and social support, unlike the tested nonhuman groups. The authors infer a role for that sociocognitive package. The project retains a scoped difference supporting attention to organized shared capacities (P72–P73), not a universal necessary condition or an inherent ceiling on other species. Samples, enculturation, task suitability and unequal exposure/conditions limit transfer; covariation is not by itself causal proof. Their broad 2012 exclusivity claims are not adopted as a current finding or as evidence of divine assignment.
 
 ### Catholic doctrinal comparator
 
 **Exact source:** [*Catechism of the Catholic Church*, §§456–475](https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_two/artcile_3.html), especially §§457–460 and 464–475. This is a primary statement of Catholic doctrine used as a specified Christian comparator, not an argument establishing its truth or exhausting Christian interpretations.
 
-**Argument and project assessment:** Given reconciliation/communion as the purpose and complete humanity assumed by a divine personal subject, sharing human life is pertinent to that purpose. This supports a conditional relational fit for P58 and limits the adequacy of a merely interpersonal-contact model. The premise is theological. The project does not independently import incarnation, Trinity, salvation or exclusivity; the source's personal-unity requirement becomes a burden on the proposed compatibility.
+**Argument and project assessment:** Given reconciliation/communion as the purpose and complete humanity assumed by a divine personal subject, sharing human life is pertinent to that purpose. This supports a conditional relational fit for P76 and limits the adequacy of a merely interpersonal-contact model. The premise is theological. The project does not independently import incarnation, Trinity, salvation or exclusivity; the source's personal-unity requirement becomes a burden on the proposed compatibility.
 
 ## Incarnation: exact compatibility audit
 
@@ -102,7 +102,7 @@ Conversely, add the unrestricted bridge `HumanLife(h) -> its personal subject is
 
 The next positive model would have to justify the bearer relation, retain complete human powers, avoid two unrelated personal agents, and integrate temporal human knowledge/acts with divine knowledge and the agency account. The source distinguishes divine and human intellect/will; typed predicates can locate apparent conflicts, but labels alone do not resolve them. The project's G is not silently identified with a fully analyzed Trinitarian person, and no Trinity model is derived in this pass.
 
-Thus C700's preferred creation model is retained. Full incarnation compatibility is neither established nor declared impossible. A material revision, if needed, must be proposed with its exact scope and downstream cost.
+Thus C825's preferred creation model is retained. Full incarnation compatibility is neither established nor declared impossible. A material revision, if needed, must be proposed with its exact scope and downstream cost.
 
 ## What could support a mission's existence?
 
@@ -112,9 +112,9 @@ The comparative burden is to improve on a creator who values finite others and t
 
 ## Decisions and answer status
 
-C784 records the authorized pass. C785/C788 specify differentiated participation; C786–C787 record scoped empirical inputs; C789 gives the capacity/vocation/duty non-entailment; C790 develops the positive conditional rationale; C791 separates shared role and bearer value; C792 gives the knowledge distinction; C793–C794 record the theological comparator and exact compatibility limits; C795 identifies the remaining intentional bridge.
+C909 records the authorized pass. C910/C913 specify differentiated participation; C911–C912 record scoped empirical inputs; C914 gives the capacity/vocation/duty non-entailment; C915 develops the positive conditional rationale; C916 separates shared role and bearer value; C917 gives the knowledge distinction; C918–C919 record the theological comparator and exact compatibility limits; C920 identifies the remaining intentional bridge.
 
-P54–P59 receive partial accessible answers. P60 is answered at the level of explaining non-redundancy within the preferred value framework. No status change asserts a mission's existence. S98 remains a historical record of banking.
+P72–P77 receive partial accessible answers. P78 is answered at the level of explaining non-redundancy within the preferred value framework. No status change asserts a mission's existence. S125 remains a historical record of banking.
 
 ## Accessible-answer report
 
@@ -122,7 +122,7 @@ Seven new answers are added under “Nuestra relación con la creación y una po
 
 ## Repository scope and verification
 
-Update the commitment ledger, local glossary terms, session index, research note, development integration note, CH30, P54–P60 and their gap row, seven accessible answers and provenance, and generated appendices. This is an application and bounded extension of the existing architecture; no new substance or unconditional mission is consolidated into the treatise.
+Update the commitment ledger, local glossary terms, session index, research note, development integration note, CH31, P72–P78 and their gap row, seven accessible answers and provenance, and generated appendices. This is an application and bounded extension of the existing architecture; no new substance or unconditional mission is consolidated into the treatise.
 
 Verification checks preservation of unrelated pre-session content, exact question/answer mapping, statuses and identifiers, local links, generated appendices, corpus fidelity and the bounded logical counterexamples. Repository validation does not establish the philosophical premises or empirical completeness.
 

@@ -1,15 +1,15 @@
 # Session: Originative power as a bounded explanatory stopping point
 
 **Date:** 2026-09-05  
-**Session ID:** S86  
+**Session ID:** S113  
 **Primary question:** Does disjoint origination of creature-owned powers explain anything beyond the fact that those powers exist?  
 **Dependencies:** reason-guided originating sourcehood; grounding, secondary production, and ACO  
-**Starting ledger items:** C31–C34, C55–C66, C230–C236, C330–C338, C372–C384, C457–C460, C700–C705  
+**Starting ledger items:** C31–C34, C55–C66, C230–C236, C330–C338, C372–C384, C457–C460, C825–C830  
 **Target depth:** F1 explanatory assessment with local F2 scope and source diagnostics
 
 ## Starting position
 
-The author's “ok ve a por ello” advances S85's stated task. Under U18, the participation-and-presence proposal is retained at its proposed level; the disjoint preference stays revisable. No accepted agency or phenomenal primitive becomes independently proven by this continuation.
+The author's “ok ve a por ello” advances S112's stated task. Under U18, the participation-and-presence proposal is retained at its proposed level; the disjoint preference stays revisable. No accepted agency or phenomenal primitive becomes independently proven by this continuation.
 
 **Proposed result:** originative power can serve as a substantive but non-reductive causal explanation within the preferred ontology. It identifies a source, a real power, an exercised act, its eligible terminus, and limits on causal attribution. It is neither a mechanism beneath all powers nor independent proof that the posited creative power exists. The production-versus-exercise test receives bounded conditional closure; finite phenomenal realization remains a separate task.
 
@@ -110,14 +110,14 @@ If retained under U18, stop repeating the bare “production or mere label?” f
 
 | Claim ID | Status | Content |
 | --- | --- | --- |
-| C706 | proposed analytic clarification | Separate causal origin, intrinsic realization, token exercise, and contrastive settlement, as well as explanation from evidence. |
-| C707 | proposed abductive stopping-point assessment | OEC is a substantive constrained causal hypothesis, not an independently proven mechanism or a deduction from generic agency; a power label alone is insufficient. |
-| C708 | proposed integration of existing source rules | Created capacities can arise through ordinary secondary production; dependence does not transfer source identity or make God the immediate producer of every exercise. |
-| C709 | proposed local F2 scope refinement | Hold productive/enabling conditions fixed, not all outcome-tracking divine truths; independently determining decrees cannot be excluded by definition. |
-| C710 | proposed conditional source diagnostic | Live alternatives alone do not distinguish a real choice from an unowned lottery; source-sensitive bodily substitutes are different acts. |
-| C711 | proposed anti-circular application | Creative plenitude presupposes independent source-sensitive admissibility; it cannot establish that admissibility from desired power. |
-| C712 | proposed bounded F2 closure | Production versus exercise is sufficiently specified within the preferred framework; metaphysical and evidential primitives remain explicit, and no full realization closure follows. |
-| C713 | open selective next dependency | Compare the subject-level dual-aspect candidate with the existing qualified primitive on unified embodied phenomenality and action, retaining the current bearer model. |
+| C831 | proposed analytic clarification | Separate causal origin, intrinsic realization, token exercise, and contrastive settlement, as well as explanation from evidence. |
+| C832 | proposed abductive stopping-point assessment | OEC is a substantive constrained causal hypothesis, not an independently proven mechanism or a deduction from generic agency; a power label alone is insufficient. |
+| C833 | proposed integration of existing source rules | Created capacities can arise through ordinary secondary production; dependence does not transfer source identity or make God the immediate producer of every exercise. |
+| C834 | proposed local F2 scope refinement | Hold productive/enabling conditions fixed, not all outcome-tracking divine truths; independently determining decrees cannot be excluded by definition. |
+| C835 | proposed conditional source diagnostic | Live alternatives alone do not distinguish a real choice from an unowned lottery; source-sensitive bodily substitutes are different acts. |
+| C836 | proposed anti-circular application | Creative plenitude presupposes independent source-sensitive admissibility; it cannot establish that admissibility from desired power. |
+| C837 | proposed bounded F2 closure | Production versus exercise is sufficiently specified within the preferred framework; metaphysical and evidential primitives remain explicit, and no full realization closure follows. |
+| C838 | open selective next dependency | Compare the subject-level dual-aspect candidate with the existing qualified primitive on unified embodied phenomenality and action, retaining the current bearer model. |
 
 ## Literature and novelty notes
 
@@ -125,11 +125,11 @@ No external source is used inferentially. Internal premises were inspected in S0
 
 ## Accessible-answer report
 
-No accessible answer is added or revised, and no question is newly banked. S85's answers still accurately state the disjoint preference and unresolved finite-consciousness realization; this pass specifies the internal explanation rather than changing those claims. The complete new argument and status are delivered in the conversational reply.
+No accessible answer is added or revised, and no question is newly banked. S112's answers still accurately state the disjoint preference and unresolved finite-consciousness realization; this pass specifies the internal explanation rather than changing those claims. The complete new argument and status are delivered in the conversational reply.
 
 ## Repository updates
 
-Ledger C706–C713 and C705 status; core architecture; glossary; development map and stale highest-priority list; challenge register; research sequence; session index; README and treatise outline where the active task changes; generated appendices. Historical sessions and ex-deo alternatives remain intact.
+Ledger C831–C838 and C830 status; core architecture; glossary; development map and stale highest-priority list; challenge register; research sequence; session index; README and treatise outline where the active task changes; generated appendices. Historical sessions and ex-deo alternatives remain intact.
 
 ## Next question
 

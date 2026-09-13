@@ -1,10 +1,10 @@
 # Session: Experiential uptake and joint priority
 
 **Date:** 2026-09-09  
-**Session ID:** S95  
+**Session ID:** S122  
 **Primary question:** How can lived content contribute to appraisal without sufficiently settling the response?  
 **Dependencies:** distinct bodily and experiential processes; equal priority of unity and causal efficacy  
-**Starting ledger items:** C55–C57, C134–C137, C215–C220, C330–C338, C722, C726–C731, C746, C758–C763  
+**Starting ledger items:** C55–C57, C134–C137, C215–C220, C330–C338, C847, C851–C856, C871, C883–C888  
 **Target depth:** F1 causal proposal and a local F2 substitution/non-identification check
 
 ## Author direction and priority correction
@@ -13,9 +13,9 @@ The author writes:
 
 > ok me parece bien esa diferenciacion y creo que tan prioritario como lo que propones es continuar con esto, asi que lo que prefieras
 
-The S94 role distinction is author-endorsed provisional working material. The participation proposal is retained at its proposed scope under U18. Agreement does not establish an actual realization mechanism.
+The S121 role distinction is author-endorsed provisional working material. The participation proposal is retained at its proposed scope under U18. Agreement does not establish an actual realization mechanism.
 
-The author explicitly makes continued unity/realization work as important as experiential causal efficacy, while allowing the assistant to choose the immediate order. Both are active priorities. S94's proposal to move to efficacy must not be read as relegating the unity question as a whole to a deferred research tier. Exact empirical realization remains a selective F3 burden; conceptual progress on unity remains live.
+The author explicitly makes continued unity/realization work as important as experiential causal efficacy, while allowing the assistant to choose the immediate order. Both are active priorities. S121's proposal to move to efficacy must not be read as relegating the unity question as a whole to a deferred research tier. Exact empirical realization remains a selective F3 burden; conceptual progress on unity remains live.
 
 This pass begins with experiential efficacy because a specified relation to appraisal also constrains the unity account. The next pass should return to selective co-presentation, including current memory contents and motives that influence without being presently experienced.
 
@@ -142,20 +142,20 @@ Neither ex deo nor disjoint creation by itself chooses the uptake law or the fie
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C764 | accepted authorial priority | Unity/realization and experiential efficacy have equal active priority |
-| C765 | proposed F1 distinction | Occurrence, uptake, and settlement are different explanatory targets |
-| C766 | proposed working psychophysical efficacy condition | Some experienced contents contribute to appraisal/control in their lived character |
-| C767 | derived local F2 inference limit | Algebraic substitution and matched predictions do not settle uptake versus bypass |
-| C768 | proposed evidential specification | Compare content-sensitive intermediate contributions under warranted causal and intervention assumptions |
-| C769 | retained unity distinction; proposed next pass | Return to selective co-presentation versus memory and standing influences |
+| C889 | accepted authorial priority | Unity/realization and experiential efficacy have equal active priority |
+| C890 | proposed F1 distinction | Occurrence, uptake, and settlement are different explanatory targets |
+| C891 | proposed working psychophysical efficacy condition | Some experienced contents contribute to appraisal/control in their lived character |
+| C892 | derived local F2 inference limit | Algebraic substitution and matched predictions do not settle uptake versus bypass |
+| C893 | proposed evidential specification | Compare content-sensitive intermediate contributions under warranted causal and intervention assumptions |
+| C894 | retained unity distinction; proposed next pass | Return to selective co-presentation versus memory and standing influences |
 
 ## Sources, accessible track, and repository
 
-No named external source is used inferentially in this pass. S29 and S89 supply inspected project commitments, not a fresh adoption of their cited literature. The local mappings are illustrative and no empirical result, present scientific consensus, or novelty claim is introduced.
+No named external source is used inferentially in this pass. S29 and S116 supply inspected project commitments, not a fresh adoption of their cited literature. The local mappings are illustrative and no empirical result, present scientific consensus, or novelty claim is introduced.
 
 No accessible answer is added or changed and no question is banked. Existing answers preserve the relevant distinctions and open causal realization; this deeper proposed efficacy premise is presented to the author here before any further first-person elaboration.
 
-Update C758's endorsement and C763's priority pointer; add C764–C769; update the paired priority, architecture, glossary, challenge and research maps, internal refinement note, treatise outline, session index, and generated appendices. Add an author-review note to S94 preserving its historical sequencing while recording the equal-priority correction.
+Update C883's endorsement and C888's priority pointer; add C889–C894; update the paired priority, architecture, glossary, challenge and research maps, internal refinement note, treatise outline, session index, and generated appendices. Add an author-review note to S121 preserving its historical sequencing while recording the equal-priority correction.
 
 ## Next question
 
@@ -163,4 +163,4 @@ What distinguishes contents jointly present in an experience from present memori
 
 ## Author review — 2026-09-09
 
-The author explicitly prefers experiential uptake over the bypass alternative and asks whether goals outside focal thought can nevertheless form the lived situation. [S96](2026-09-09-lived-background-and-experiential-framing.md) records the exact reply, makes C766 author-preferred at its provisional scope, and integrates the question into C769. The existing non-entailment from causal influence to presence remains; absence from focal attention must not be substituted for phenomenal absence. No empirical superiority of the preferred model is inferred.
+The author explicitly prefers experiential uptake over the bypass alternative and asks whether goals outside focal thought can nevertheless form the lived situation. [S123](2026-09-09-lived-background-and-experiential-framing.md) records the exact reply, makes C891 author-preferred at its provisional scope, and integrates the question into C894. The existing non-entailment from causal influence to presence remains; absence from focal attention must not be substituted for phenomenal absence. No empirical superiority of the preferred model is inferred.

@@ -1,10 +1,10 @@
 # Session: Reflective participation and creaturely vocation
 
 **Date:** 2026-09-13  
-**Session ID:** S98  
+**Session ID:** S125  
 **Primary question:** If we have a mission, could its content be knowing creation and participating consciously in it, without establishing that we have one?  
 **Dependencies:** disjoint creation and finite participation; creative reasons and personal response  
-**Starting ledger items:** C105–C113, C121–C126, C245–C248, C320, C438–C439, C521–C524, C535–C540, C700–C705, C764, C775–C778  
+**Starting ledger items:** C105–C113, C121–C126, C245–C248, C320, C438–C439, C521–C524, C535–C540, C825–C830, C889, C900–C903  
 **Target depth:** bounded F1 conceptual integration; questions banked
 
 ## Author direction and correction
@@ -17,7 +17,7 @@ The author then clarifies:
 
 The canonical framing is therefore: **«Si tenemos una misión, sería conocer la creación y participar conscientemente en ella».** This identifies proposed content under an open antecedent. It does not assert that a mission exists, derive that antecedent from our capacities, or claim that this is demonstrably the only possible mission. The author's clarification governs any broader language of vocation below.
 
-Integrate this spontaneous question with participation, creative reasons and personal availability. Bank the research questions without promoting a new empirical or Christological program above the equally active unity/efficacy work. Under U18, retain S97's unchallenged material at its proposed status. Common origin does not explicitly retract S85's disjoint preference.
+Integrate this spontaneous question with participation, creative reasons and personal availability. Bank the research questions without promoting a new empirical or Christological program above the equally active unity/efficacy work. Under U18, retain S124's unchallenged material at its proposed status. Common origin does not explicitly retract S112's disjoint preference.
 
 ## Definitions and proposed content
 
@@ -33,7 +33,7 @@ Knowing creation need not be restricted to professional science or measured by i
 ## Internal argument disclosed to the author
 
 1. C105–C106 and C523 prefer real finite others with their own sourcehood; C113 leaves God's uniquely actual ultimate motive unknown.
-2. C245–C248 and C700–C702 allow differentiated, creature-owned finite capacities without a numerically divine constituent.
+2. C245–C248 and C825–C827 allow differentiated, creature-owned finite capacities without a numerically divine constituent.
 3. Understanding reality and orienting one's response through reasons specify a candidate form of finite participation. C121–C124 already distinguish personal availability from actual creaturely response.
 4. **Conditional interpretation:** if there is a mission for creatures with this profile, knowing creation and consciously participating in it is a fitting candidate for its content within that preferred architecture.
 
@@ -43,7 +43,7 @@ The rival in which these capacities exist without this assigned mission remains 
 
 ## Scope checks
 
-- Common dependence supplies no inference to uniform properties or to inheritance of every divine feature (C702).
+- Common dependence supplies no inference to uniform properties or to inheritance of every divine feature (C827).
 - Finite discovery does not fill a gap in God's knowledge. What becomes actual is the creature's understanding and response (C112, C125–C126).
 - Biological humanity is not built into the capacity profile. Other terrestrial creatures, as well as unknown beings elsewhere, remain within the open scope inquiry. No empirical comparison or claim of human exclusivity is supplied.
 - Reflective ability does not itself prove libertarian sourcehood, and agency is not defined as human membership.
@@ -56,17 +56,17 @@ The author's conditional Christian belief is an input for compatibility, not evi
 
 If the intended incarnation includes personal encounter within a life capable of understanding and responding freely, the proposed profile makes a human life intelligible in that role. This is a conditional fit in purpose and relation. A singular choice does not entail exclusive human capacities, impossibility of other incarnations, or knowledge of why God made that choice. Relation or solidarity could also matter; cognition alone does not settle the motive.
 
-Full ontological compatibility remains open. A later account must specify what «se encarnó» means and test it against C248/C700. If it introduces a numerically divine constituent into a created bearer, the scope of disjointness would need explicit review. No exception is inserted, and this F1 fit is not a completed Christological consistency model.
+Full ontological compatibility remains open. A later account must specify what «se encarnó» means and test it against C248/C825. If it introduces a numerically divine constituent into a created bearer, the scope of disjointness would need explicit review. No exception is inserted, and this F1 fit is not a completed Christological consistency model.
 
 ## Decisions
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C779 | accepted authorial framing and banking direction | Propose the content of a mission conditionally; its existence remains open. Integrate the question without changing the trunk queue. |
-| C780 | proposed F1 profile | Conscious and responsible participation joins understanding, reflective reasons, action and relation without a new substance or species-exclusive definition. |
-| C781 | proposed conditional content; existence open | If there is a mission, knowing creation and participating consciously is the proposed content; capacity supplies neither actual assignment nor duty. |
-| C782 | open distribution; proposed scope constraints | Agency, reflection, humanity and worth remain distinct; no empirical exclusion of nonhumans or performance-based personhood criterion is established. |
-| C783 | proposed conditional fit; ontological compatibility open | Incarnation is a requested coherence condition, not proof of exclusivity; its ontology must be specified before claiming compatibility with disjoint creation. |
+| C904 | accepted authorial framing and banking direction | Propose the content of a mission conditionally; its existence remains open. Integrate the question without changing the trunk queue. |
+| C905 | proposed F1 profile | Conscious and responsible participation joins understanding, reflective reasons, action and relation without a new substance or species-exclusive definition. |
+| C906 | proposed conditional content; existence open | If there is a mission, knowing creation and participating consciously is the proposed content; capacity supplies neither actual assignment nor duty. |
+| C907 | open distribution; proposed scope constraints | Agency, reflection, humanity and worth remain distinct; no empirical exclusion of nonhumans or performance-based personhood criterion is established. |
+| C908 | proposed conditional fit; ontological compatibility open | Incarnation is a requested coherence condition, not proof of exclusivity; its ontology must be specified before claiming compatibility with disjoint creation. |
 
 ## Sources and novelty
 
@@ -74,7 +74,7 @@ No named external source is inferentially active. The argument uses the inspecte
 
 ## Accessible-answer report and repository scope
 
-P54–P60 are banked as **abierta** in the accessible question bank and linked to CH30. **No accessible answer has yet been written for these questions.** The existing answers file is unchanged. The conceptual proposal above is deliberative material, not a completed accessible answer.
+P72–P78 are banked as **abierta** in the accessible question bank and linked to CH31. **No accessible answer has yet been written for these questions.** The existing answers file is unchanged. The conceptual proposal above is deliberative material, not a completed accessible answer.
 
 Update the ledger, proposed glossary terms, one development-map integration note, the two question registers, this session and its index, and generated appendices. Preserve unrelated working-tree changes. Do not consolidate the main architecture or treatise around an unestablished mission.
 

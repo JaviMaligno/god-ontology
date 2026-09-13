@@ -1,17 +1,17 @@
 # Session: Unity evidence and neutrality about collective consciousness
 
 **Date:** 2026-09-08  
-**Session ID:** S91  
+**Session ID:** S118  
 **Primary question:** Which evidence bears on phenomenal unity rather than communication, coordinated processing, or response access?  
 **Dependencies:** collective-consciousness neutrality; source-to-ontology bridge limits  
-**Starting ledger items:** C134, C215–C216, C333, C337, C438, C720–C721, C726, C731–C738  
+**Starting ledger items:** C134, C215–C216, C333, C337, C438, C845–C846, C851, C856–C863  
 **Target depth:** targeted evidential F1 pass over the existing F2 conditional schema
 
 ## Starting position and author direction
 
 The author agrees that a substantive unity explanation is needed, explicitly neither rejects nor endorses collective consciousness, and authorizes continuing the proposed evidence inquiry.
 
-Retain S90 at its proposed conditional status under U18. The collective case is integrated as a boundary test of the same inquiry, not promoted to an independent research program. No source or lack of evidence may silently turn the author's neutrality into rejection.
+Retain S117 at its proposed conditional status under U18. The collective case is integrated as a boundary test of the same inquiry, not promoted to an independent research program. No source or lack of evidence may silently turn the author's neutrality into rejection.
 
 The actual embodied subject remains the preferred baseline. However, the human organismic account must not become a universal definition excluding every other possible bearer. Conversely, neutrality does not establish that any collective has a phenomenal perspective.
 
@@ -37,11 +37,11 @@ The question is not whether a collective is “really a unity” as opposed to a
 
 **Source argument:** P1: decisions from two senders reach a receiver through an EEG/TMS interface with task feedback. P2: five triads perform the task above chance. C: the interface supports mediated collaborative problem solving.
 
-**Project role:** C741 limits what this result establishes about C734–C738. The measured endpoints concern communication and task performance; the study does not supply a test distinguishing a collective field from coordinated individual processing.
+**Project role:** C866 limits what this result establishes about C859–C863. The measured endpoints concern communication and task performance; the study does not supply a test distinguishing a collective field from coordinated individual processing.
 
 **Imported assumption:** task performance and the documented channel design support the communication interpretation within the experiment. **Declined assumption:** effective or direct brain communication entails shared experiential tokens or collective phenomenality.
 
-**Assessment and limits:** evidence for collaboration is retained. Collective consciousness is neither established nor refuted. The implementation's binary signals, receiver role, small sample, and task-specific design constrain generalization. We do not claim that this study directly instantiates or tests every component of S90's R.
+**Assessment and limits:** evidence for collaboration is retained. Collective consciousness is neither established nor refuted. The implementation's binary signals, receiver role, small sample, and task-specific design constrain generalization. We do not claim that this study directly instantiates or tests every component of S117's R.
 
 ### Source 2: split-brain task dissociation
 
@@ -49,7 +49,7 @@ The question is not whether a collective is “really a unity” as opposed to a
 
 **Source argument:** P1: the two patients in Experiment 1 detect/localize across visual fields through different response modes. P2: DDC's later cross-field comparison is impaired relative to within-field comparison. P3: confidence and subjective reports favor conscious access. C: the authors suggest preserved conscious unity despite divided perception.
 
-**Project role:** C742 accepts a limited task dissociation relevant to C720/C737, not the title's unity verdict as a settled field count.
+**Project role:** C867 accepts a limited task dissociation relevant to C845/C862, not the title's unity verdict as a settled field count.
 
 **Imported assumption:** task results and reports are defeasible evidence about their respective targets. **Declined assumptions:** response availability or metacognitive confidence suffices for joint presentation, and comparison failure establishes separate subjects.
 
@@ -57,14 +57,14 @@ The question is not whether a collective is “really a unity” as opposed to a
 
 ## Consequence for the candidate bridge
 
-The evidence makes S90's burden sharper without verifying or falsifying its exact R-to-J link.
+The evidence makes S117's burden sharper without verifying or falsifying its exact R-to-J link.
 
 1. A common response or successful collaboration can be explained by transmission and receiver processing. Those outputs alone do not select a collective-field interpretation.
 2. Ability to respond to individual contents and ability to compare them are distinct measured targets. One cannot silently stand for the other.
 3. Neither target is identical by definition to jointly lived experience.
 4. Therefore a bridge assessment must say which evidence concerns bodily coordination, which concerns practical access, and which bears on co-presence, and then defend the inference connecting them.
 
-This is a project reconstruction using C134/C720 and the inspected task designs. It does not infer that experiences are inaccessible to evidence or that all interpretations are equally supported. It identifies why the particular measures cannot carry a stronger conclusion unaided.
+This is a project reconstruction using C134/C845 and the inspected task designs. It does not infer that experiences are inaccessible to evidence or that all interpretations are equally supported. It identifies why the particular measures cannot carry a stronger conclusion unaided.
 
 **Revision of scope:** active shared regulation remains a candidate physical condition, but its current breadth does not individuate a subject. Describing feedback more richly can still leave the ownership and phenomenal relation open. The collective comparison exposes that gap; it does not show that every feedback network is conscious or that no collective could be.
 
@@ -100,13 +100,13 @@ The endorsed embodied-power model remains preferred. Process distinction, the ph
 
 | Claim | Status | Result |
 | --- | --- | --- |
-| C739 | accepted authorial neutrality | Collective consciousness is neither endorsed nor rejected |
-| C740 | proposed distinction | Coordination, receiver integration, and collective phenomenality are separate |
-| C741 | source-grounded scoped assessment | BrainNet supports mediated collaboration; no collective-field measurement |
-| C742 | source-grounded scoped assessment | Split-brain task dissociation does not settle field count here |
-| C743 | proposed evidential refinement | Comparison, response, communication, and co-presence require separate treatment |
-| C744 | proposed standard | Seek converging, discriminating evidence under symmetric explanatory demands |
-| C745 | proposed scope assessment | R remains conditional; next specify rival predictions about relational experience |
+| C864 | accepted authorial neutrality | Collective consciousness is neither endorsed nor rejected |
+| C865 | proposed distinction | Coordination, receiver integration, and collective phenomenality are separate |
+| C866 | source-grounded scoped assessment | BrainNet supports mediated collaboration; no collective-field measurement |
+| C867 | source-grounded scoped assessment | Split-brain task dissociation does not settle field count here |
+| C868 | proposed evidential refinement | Comparison, response, communication, and co-presence require separate treatment |
+| C869 | proposed standard | Seek converging, discriminating evidence under symmetric explanatory demands |
+| C870 | proposed scope assessment | R remains conditional; next specify rival predictions about relational experience |
 
 ## Literature and novelty notes
 
@@ -124,9 +124,8 @@ Status: open, with explicit authorial neutrality; the explanatory distinction is
 
 ## Repository updates
 
-Ledger C738 pointer and C739–C745; architecture, glossary, development map, challenge register, research sequence, session index, targeted precedent note; new accessible question/answer and provenance row; generated appendices.
+Ledger C863 pointer and C864–C870; architecture, glossary, development map, challenge register, research sequence, session index, targeted precedent note; new accessible question/answer and provenance row; generated appendices.
 
 ## Next question
 
 Which rival predictions would distinguish jointly lived relational contents from transmitted or separately processed information, without defining unity through the very task used to test it?
-

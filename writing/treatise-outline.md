@@ -2,6 +2,22 @@
 
 Working language: English. Research notes may remain bilingual. The outline deliberately separates the original motivation from the ontology that later emerged.
 
+**S108 current task:** develop one generative explanation of finite individuality and powers, with shared constitution and disjointness as open interpretations rather than duplicate research programmes. Sharing a base does not explain finite novelty by itself. Count irreducible commitments rather than descriptive predicates; S107's economy assessment is qualified. Reopen the interpretive fork only for a substantive dependency or consequence (C799–C802).
+
+**S107 current control:** compare finite-form ANDC and constitutively disjoint creation as serious active candidates; the author reopens C660 and C792 proposes an open overall ranking. Use universal concrete scope or justify a selective hybrid. Neither candidate escapes finite-form or individuality burdens. Present maintenance-versus-copying as the positive ordinary identity account and its current independence from the ultimate-base choice. Correct P54/P70 and P49's dangling opening; require standalone editorial review. Historical principal/fallback statements below describe their session's status (C791–C798).
+
+S100 promotes personal continuation by explicit author direction: the next Part VII continuation pass must distinguish same-bearer identity, renewed realization, experienced life, duration, and freely accepted communion. The preferred cross-gap possibility needs a deeper token-grounding bridge; the cosmological origin discussion must distinguish hot early history, conditional past-incompleteness, absolute beginning, and ultimate agency (C751–C758).
+
+S102 supplies the bounded route comparison for that pass: renewed experience can follow either continuous bearer persistence or a genuine existence gap, with different constitution/admissibility burdens. Preserve primitive identity without presenting it as proof of disconnected careers. Explain why a sole matching causal successor and a common divine ground are insufficient, and separate numerical survival from autobiographical goods. The next dependency is essential finite unity and admissible realization change (C765–C770).
+
+S103 supplies the author's requested definition pass for the identity chapter and its continuation application. Distinguish subject, numerical identity, biographical profile, instantiated form, lived episode, memory, and recognition; explain experience as real self-formation without reifying it as an identity component. Treat the threefold analogy as non-inferential imagery only. P40's old inference from divine acquaintance to successful numerical recreation is repaired; finite unity through realization change remains open (C771–C776).
+
+S104 moves to a positive local subject model: bodily constituents, organizing form, intrinsic powers, and episodes belong to one concrete bearer; develop C338 without adding an inner owner or claiming that structural integration derives phenomenality. Actual origination/constitution supplies the subject known through ASA. Divine participation follows the principal C660 preference, with creaturely powers and acts still distinct; P54's obsolete disjoint account is repaired. Intrinsic experiential unity and C686 remain the load-bearing tests (C777–C780).
+
+S105 explicitly audits the author's concern that constitution remains unexplained: state the intended positive constituent role before exclusions, and acknowledge that S71/S82 leave the relation primitive. Dependence and resemblance do not distinguish it from the causal fallback. The source-informed coordination pass separates joint access from actual joint experience without supplying a subject-counting or survival criterion. P54/P70 now reflect the inherited hypothesis under active review (C781–C785).
+
+S106 develops a candidate constitutive inventory: G as the same terminal concrete base, with real finite individuals and organization but no additional underlying created substrate. Correct both roles in the carpenter analogy and retire its material operation. State the comparative gain and fundamental non-mereological cost; the local base map is a semantic contrast, not a possibility proof. P54 is revised, C686 remains open, and common constitution proves neither common phenomenal ownership nor survival (C786–C790).
+
 First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-i-ii-motivation-and-method.md) (S67, drafted to be overwritten in the author's voice), [Part III](treatise/part-iii-from-contingent-reality-to-a-necessary-agent.md) and [Part IV](treatise/part-iv-the-minimal-ontology.md) (S59), [Part V](treatise/part-v-knowledge-time-and-freedom.md) (S61), [Part VI](treatise/part-vi-divine-action.md) (S63; constitutive control and annihilation are placed there rather than under omnipotence in Part VII), [Part VII](treatise/part-vii-deriving-further-attributes.md) (S65), and [Part VIII](treatise/part-viii-comparison-and-evaluation.md) (S66). The appendices have a first pass in [treatise/appendices/](treatise/appendices/): A, C, and F are generated by `scripts/build-appendices.mjs`; B, D, E, G, and H are hand-written (S69). S70 brought Parts III–VI up to the trunk's S39–S45 (identity, possibility, plenitude, fixed-history intervention); Part VII Chapter 28 states S45 as canonical.
 
 ## Preface: Scope and epistemic posture
@@ -89,11 +105,11 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - Conscious bearer, conscious capacity, token episode, and content
     - Temporal occurrence, tenseless actuality, and atemporal divine knowledge
     - Existential production, capacity production, realization, episode causation, and subject contribution
-    - Episode-relative operative participation versus input, enabling support, and output: redundancy, replacement, and the open phenomenal bridge (S94)
-    - Experiential uptake in appraisal before settlement: proposed causal efficacy, nonconscious bypass, and why algebraic substitution is not causal elimination (S95)
-    - Equally active unity question: focal attention, lived background, and formative influence; goals as content, orientation, or causes of felt effects (S96)
-    - Framing, experiential uptake and later reconfiguration; bearer persistence, local jointness and experiential continuity (C773–C778)
-    - An updating manifestation and its temporal bridge; why overlapping contents do not form one simultaneous field (S97)
+    - Episode-relative operative participation versus input, enabling support, and output: redundancy, replacement, and the open phenomenal bridge (S121)
+    - Experiential uptake in appraisal before settlement: proposed causal efficacy, nonconscious bypass, and why algebraic substitution is not causal elimination (S122)
+    - Equally active unity question: focal attention, lived background, and formative influence; goals as content, orientation, or causes of felt effects (S123)
+    - Framing, experiential uptake and later reconfiguration; bearer persistence, local jointness and experiential continuity (C898–C903)
+    - An updating manifestation and its temporal bridge; why overlapping contents do not form one simultaneous field (S124)
     - Bearer–presentation–integration and persistence through non-conscious intervals
     - Whether the bearer before first consciousness already counts as a person
     - Determined conscious states and token-relative freedom
@@ -310,10 +326,10 @@ First-pass prose drafts now exist for every Part: [Parts I–II](treatise/parts-
     - The non-destructive filter: $PP_G$, created otherness, dependence direction, and source separation
     - Asymmetric non-depleting constitution $ANDC$
     - The constitutive-content test: real overlap or inflated grounding vocabulary?
-    - S109 incorporates the uploaded open comparison: develop common finite generation and own powers under both constitutive interpretations; S85's disjoint preference is historical. Distinguish reflective agency, an open purpose question and the broader incarnation test
+    - S109 incorporates the uploaded open comparison: develop common finite generation and own powers under both constitutive interpretations; S112's disjoint preference is historical. Distinguish reflective agency, an open purpose question and the broader incarnation test
     - $ANDC^{\Phi}$ as the proposed finite-determination combination: relational on $G$'s side, creature-intrinsic finite form, and a primitive typed bridge
     - $\Phi_x^C$ as kind, unity, form, power, origin, and admissible-career profile without divine scripting of exact settlements
-    - S83's non-replaceability limit, S84's matched comparison, and S86's bounded stopping-point result: origin/realization/exercise/settlement, GSDA, source-sensitive alternatives, ACO scope, independent eligibility, and remaining phenomenal realization
+    - S110's non-replaceability limit, S111's matched comparison, and S113's bounded stopping-point result: origin/realization/exercise/settlement, GSDA, source-sensitive alternatives, ACO scope, independent eligibility, and remaining phenomenal realization
     - Making-grounding versus building-grounding and the $ED_O$ rival
     - Why strict overlap does not satisfy $PMC_U$ unless it supplies a material cause
     - Material-continuity and co-fundamental alternatives

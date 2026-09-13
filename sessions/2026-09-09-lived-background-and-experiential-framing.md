@@ -1,10 +1,10 @@
 # Session: Lived background and experiential framing
 
 **Date:** 2026-09-09  
-**Session ID:** S96  
+**Session ID:** S123  
 **Primary question:** Can goals form experience without being focal thoughts?  
 **Dependencies:** selective phenomenal presence; preferred experiential uptake  
-**Starting ledger items:** C134, C215–C216, C330–C337, C720, C726–C731, C747, C752, C758–C769  
+**Starting ledger items:** C134, C215–C216, C330–C337, C845, C851–C856, C872, C877, C883–C894  
 **Target depth:** F1 refinement of presence, framing, and temporal feedback
 
 ## Author direction
@@ -15,14 +15,14 @@ The author writes:
 
 Two directions follow:
 
-1. Experiential uptake (C766) becomes explicitly author-preferred while remaining a provisional psychophysical hypothesis. The bypass rival remains available for substantive comparison, without a standing equal ranking or a claim that its inferiority has been empirically established.
-2. The question about goals is integrated into the already active selective-presence inquiry (C769). The author accepts that influences exceed what is present, but asks whether goals can also form the experienced situation. This question is not itself treated as acceptance of every background-presence claim proposed below.
+1. Experiential uptake (C891) becomes explicitly author-preferred while remaining a provisional psychophysical hypothesis. The bypass rival remains available for substantive comparison, without a standing equal ranking or a claim that its inferiority has been empirically established.
+2. The question about goals is integrated into the already active selective-presence inquiry (C894). The author accepts that influences exceed what is present, but asks whether goals can also form the experienced situation. This question is not itself treated as acceptance of every background-presence claim proposed below.
 
-Both unity/realization and causal efficacy retain equal active priority under C764. Unchallenged material remains at its existing proposed status under U18.
+Both unity/realization and causal efficacy retain equal active priority under C889. Unchallenged material remains at its existing proposed status under U18.
 
 ## Correction to the previous framing
 
-S95 distinguished current experience from standing influences, but its exposition could suggest that a goal outside focal thought must be outside experience. That inference is not licensed.
+S122 distinguished current experience from standing influences, but its exposition could suggest that a goal outside focal thought must be outside experience. That inference is not licensed.
 
 Distinguish:
 
@@ -61,7 +61,7 @@ The example also permits a weaker alternative: the goal might affect only a subs
 
 ## What this adds to the unity proposal
 
-Refine C731's joint manifestation to permit both currently presented contents and the lived relations or modes through which they are presented. An experienced orientation can shape a whole situation without being an additional independent item alongside every sensation.
+Refine C856's joint manifestation to permit both currently presented contents and the lived relations or modes through which they are presented. An experienced orientation can shape a whole situation without being an additional independent item alongside every sensation.
 
 The proposed field is therefore sensitive to more than a list of focal objects. A felt background can participate in the same manifestation as what is prominent. This is compatible with distinct contents and bodily processes; it does not require a second observer or another subject for the background.
 
@@ -71,7 +71,7 @@ No new mechanism, unique boundary, field count, or necessary relation between at
 
 ## Linking framing and efficacy
 
-The author-preferred C766 applies to the lived configuration, not merely to explicitly formulated thoughts. A candidate temporal sequence is:
+The author-preferred C891 applies to the lived configuration, not merely to explicitly formulated thoughts. A candidate temporal sequence is:
 
 1. Current goals and bodily organization help shape how the situation is lived.
 2. That lived configuration contributes to subsequent appraisal or control through the proposed uptake relation.
@@ -108,12 +108,12 @@ This remains a provisional F1 specification. It does not establish which actual 
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C766 | author-preferred provisional hypothesis after S96 | Lived content can contribute to appraisal/control; the bypass rival is not equally preferred |
-| C770 | proposed conceptual distinction | Focal attention, phenomenal presence, and formative influence are different |
-| C771 | proposed F1 goal-role specification | Distinguish a goal, its operation, and its lived manifestation or effect |
-| C772 | proposed F1 unity refinement | Joint manifestation can include nonfocal lived relations and modes |
-| C773 | proposed temporal integration | Framing, uptake, and later reconfiguration form distinct links within one subject |
-| C774 | proposed assessment and next development | Assess background presence without causal/report shortcuts; examine continuity through focus/background change |
+| C891 | author-preferred provisional hypothesis after S123 | Lived content can contribute to appraisal/control; the bypass rival is not equally preferred |
+| C895 | proposed conceptual distinction | Focal attention, phenomenal presence, and formative influence are different |
+| C896 | proposed F1 goal-role specification | Distinguish a goal, its operation, and its lived manifestation or effect |
+| C897 | proposed F1 unity refinement | Joint manifestation can include nonfocal lived relations and modes |
+| C898 | proposed temporal integration | Framing, uptake, and later reconfiguration form distinct links within one subject |
+| C899 | proposed assessment and next development | Assess background presence without causal/report shortcuts; examine continuity through focus/background change |
 
 ## Accessible-answer report
 
@@ -127,12 +127,12 @@ Status: experiential uptake is explicitly author-preferred but provisional; nonf
 
 ## Repository updates
 
-C766 preference and C769 development pointer; C770–C774; architecture, glossary, paired development priority, challenge and research maps, internal refinement note, treatise outline, session index, an S95 author-review note, accessible paragraph and provenance; generated appendices.
+C891 preference and C894 development pointer; C895–C899; architecture, glossary, paired development priority, challenge and research maps, internal refinement note, treatise outline, session index, an S122 author-review note, accessible paragraph and provenance; generated appendices.
 
 ## Next question
 
 How can focus, lived background, and appraisal change within an unfolding experience, distinguishing modification of a present content, incorporation of another, and a discontinuity without assuming a fixed field count?
 
-## Later editorial consolidation — S97
+## Later editorial consolidation — S124
 
-The author asks that the accessible answer state the current view rather than accumulate the development history. [S97](2026-09-09-current-answer-and-experiential-continuity.md) replaces the complete answer with a four-paragraph synthesis and retains this session's paragraph as historical documentation. The editorial change does not withdraw the background proposal or change its status.
+The author asks that the accessible answer state the current view rather than accumulate the development history. [S124](2026-09-09-current-answer-and-experiential-continuity.md) replaces the complete answer with a four-paragraph synthesis and retains this session's paragraph as historical documentation. The editorial change does not withdraw the background proposal or change its status.

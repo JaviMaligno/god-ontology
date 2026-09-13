@@ -1,17 +1,17 @@
 # Session: Parallel comparison of disjoint and ex deo creation
 
 **Date:** 2026-09-05  
-**Session ID:** S84  
+**Session ID:** S111  
 **Primary question:** Which creation model performs better against the existing challenges, and which preferences does each require?  
 **Dependencies:** origination and finite realization (CH12/CH24); creature-owned agency (CH13/CH15)  
-**Starting ledger items:** C240–C254, C284–C296, C468, C487–C496, C559–C572, C660, C672–C691  
+**Starting ledger items:** C240–C254, C284–C296, C468, C487–C496, C559–C572, C660, C672–C686, C812–C816  
 **Target depth:** comparative F1 integration with the existing F2 diagnostics; not a new F3 literature or empirical audit
 
 ## Authorial correction and starting position
 
 The author no longer clearly endorses the preference for strict ex deo over disjoint creation. The author remains attracted to “de algun modo haya algo de Dios que queda en nosotros,” judges disjointness apparently simpler, and explicitly asks to carry both models in parallel through the challenges and gaps and identify the preferences required.
 
-This overrides the S79–S83 principal/fallback ranking. Both become active provisional alternatives; the overall choice is open. The author's attraction to divine continuity is retained as an interpretive preference, not as an essential constitutive-overlap commitment. The assistant's first comparative assessment favors disjointness on present explanatory economy, without promoting it to an author-endorsed overall winner. Existing common modules retain their status. S83's branch-specific proposals remain proposals rather than common commitments.
+This overrides the S79–S82, S110 principal/fallback ranking. Both become active provisional alternatives; the overall choice is open. The author's attraction to divine continuity is retained as an interpretive preference, not as an essential constitutive-overlap commitment. The assistant's first comparative assessment favors disjointness on present explanatory economy, without promoting it to an author-endorsed overall winner. Existing common modules retain their status. S110's branch-specific proposals remain proposals rather than common commitments.
 
 ## Definitions and shared baseline
 
@@ -85,22 +85,22 @@ Favor $E$ more strongly if its constitution bridge explains finite power, perspe
 
 | Claim ID | Old status | New status | Reason |
 | --- | --- | --- | --- |
-| C660 | principal actual $ANDC$, disjoint fallback | historical ranking superseded by C692 | Explicit authorial reopening, not automatic symmetry. |
+| C660 | principal actual $ANDC$, disjoint fallback | historical ranking superseded by C817 | Explicit authorial reopening, not automatic symmetry. |
 | C248 | disjoint fallback | active comparative branch | The author requests parallel evaluation. |
 | C684 | principal refinement | proposed refinement within the $E$ branch | Content retained; global priority removed. |
-| C691 | active $ANDC$-first dependency | shared comparative finite-power test | Same explanatory episode for both models. |
-| C692 | — | accepted authorial direction | Overall model choice open; divine-continuity attraction retained without strict-overlap ratification. |
-| C693 | — | proposed analytic application | Origin, resemblance/participation, presence, and numerical constitution are distinct. |
-| C694 | — | proposed abductive assessment | $D$ currently has an economy advantage, not a demonstrated global victory. |
-| C695 | — | proposed comparative limit | Shared God does not itself solve material or phenomenal realization, identity, or survival. |
-| C696 | — | proposed matched-test result | Genuine sourcehood is common; $E$ needs a positive power bridge beyond grounding without divine-act identity. |
-| C697 | — | proposed comparative limit | Both retain the P-gap; overlap establishes neither divine co-suffering nor justified permission. |
-| C698 | — | proposed integration audit | Existing temporal, epistemic, modal, power, content, and value modules remain conditional common resources. |
-| C699 | — | proposed comparative decision rule | Earn explanatory gains, identify residual preferences, and compare the strongest versions without score-counting or forced ties. |
+| C816 | active $ANDC$-first dependency | shared comparative finite-power test | Same explanatory episode for both models. |
+| C817 | — | accepted authorial direction | Overall model choice open; divine-continuity attraction retained without strict-overlap ratification. |
+| C818 | — | proposed analytic application | Origin, resemblance/participation, presence, and numerical constitution are distinct. |
+| C819 | — | proposed abductive assessment | $D$ currently has an economy advantage, not a demonstrated global victory. |
+| C820 | — | proposed comparative limit | Shared God does not itself solve material or phenomenal realization, identity, or survival. |
+| C821 | — | proposed matched-test result | Genuine sourcehood is common; $E$ needs a positive power bridge beyond grounding without divine-act identity. |
+| C822 | — | proposed comparative limit | Both retain the P-gap; overlap establishes neither divine co-suffering nor justified permission. |
+| C823 | — | proposed integration audit | Existing temporal, epistemic, modal, power, content, and value modules remain conditional common resources. |
+| C824 | — | proposed comparative decision rule | Earn explanatory gains, identify residual preferences, and compare the strongest versions without score-counting or forced ties. |
 
 ## Literature and novelty notes
 
-No external source is used inferentially and no literature search is claimed. This is a reconstruction from the inspected project ledger, current challenge register, and S83. Novelty remains unassessed. Earlier bibliographic references are not being used to rank the two branches.
+No external source is used inferentially and no literature search is claimed. This is a reconstruction from the inspected project ledger, current challenge register, and S110. Novelty remains unassessed. Earlier bibliographic references are not being used to rank the two branches.
 
 ## Accessible-answer report
 
@@ -116,7 +116,7 @@ The provenance/status row is updated. The other accessible ex deo passages alrea
 
 ## Repository updates
 
-Ledger, architecture, glossary, roadmap, research sequence, challenge register, treatise outline, README, session index, accessible delta, and generated appendices. Historical session conclusions are preserved with a canonical S84 status override in current documents. No new assessed precedent changes the novelty map.
+Ledger, architecture, glossary, roadmap, research sequence, challenge register, treatise outline, README, session index, accessible delta, and generated appendices. Historical session conclusions are preserved with a canonical S111 status override in current documents. No new assessed precedent changes the novelty map.
 
 ## Next question
 

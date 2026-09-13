@@ -1,10 +1,10 @@
 # Session: Episode participation and realization roles
 
 **Date:** 2026-09-09  
-**Session ID:** S94  
+**Session ID:** S121  
 **Primary question:** What distinguishes participation in realizing an experience from input, enabling, and output relations?  
 **Dependencies:** the active bodily organization candidate; the distinction between realization and phenomenal manifestation  
-**Starting ledger items:** C215–C220, C330–C338, C438, C720–C738, C746, C752–C757  
+**Starting ledger items:** C215–C220, C330–C338, C438, C845–C863, C871, C877–C882  
 **Target depth:** F1 architectural specification with conceptual counterexamples
 
 ## Author direction and retained baseline
@@ -13,7 +13,7 @@ The author says:
 
 > Estoy de acuerdo con tu propuesta adelante
 
-This endorses S93's working proposal and authorizes C757. Its causal distinctions and provisional realization route are retained as author-endorsed working material, not promoted to an established empirical law. S93's local formal result and scoped source assessment keep their stated scope.
+This endorses S120's working proposal and authorizes C882. Its causal distinctions and provisional realization route are retained as author-endorsed working material, not promoted to an established empirical law. S120's local formal result and scoped source assessment keep their stated scope.
 
 The current preference is one embodied subject with distinct bodily and experiential processes. Individual consciousness retains greater authorial credence than collective consciousness. The qualified phenomenal power and its provisional joint manifestation remain in place. Disjoint creation remains preferred.
 
@@ -21,9 +21,9 @@ The current preference is one embodied subject with distinct bodily and experien
 
 Participation is an active role in an organized exercise of the subject's capacity. A bodily process is a candidate episode realizer when it performs part of the operation that forms, maintains, differentiates, or regulates the relevant bodily configuration during the episode.
 
-This is a criterion for membership in the proposed bodily realization base, relative to an independently specified organization. It is not yet a sufficient criterion for consciousness or an independent discovery of that organization. The bridge from eligible bodily organization to lived joint manifestation remains an additional commitment under C333/C735.
+This is a criterion for membership in the proposed bodily realization base, relative to an independently specified organization. It is not yet a sufficient criterion for consciousness or an independent discovery of that organization. The bridge from eligible bodily organization to lived joint manifestation remains an additional commitment under C333/C860.
 
-“Realizer” does not mean a bodily fragment is literally a piece of felt experience. The bodily process and the experience remain distinct under C726. Nor are already conscious micro-subjects combined to create the individual; the working bearer is the independently individuated subject whose power is exercised.
+“Realizer” does not mean a bodily fragment is literally a piece of felt experience. The bodily process and the experience remain distinct under C851. Nor are already conscious micro-subjects combined to create the individual; the working bearer is the independently individuated subject whose power is exercised.
 
 ## Role distinctions
 
@@ -53,7 +53,7 @@ The interval can include maintenance and feedback. Participation does not requir
 
 Show which role the process actually occupies in forming, preserving, differentiating, or regulating the configuration. Explain its dependencies on other roles and the dependencies they have on it.
 
-For the S90 route, participation is situated in the common regulatory organization. Reciprocal regulation belongs to the organization as a whole; every component need not directly exchange signals with every other component. A local feed-forward stage can participate in a larger recurrent operation.
+For the S117 route, participation is situated in the common regulatory organization. Reciprocal regulation belongs to the organization as a whole; every component need not directly exchange signals with every other component. A local feed-forward stage can participate in a larger recurrent operation.
 
 A supply of information or resources does not establish this further role simply because removing it would stop the operation.
 
@@ -73,7 +73,7 @@ The source of one label can change the result by changing the input. The resourc
 
 The example distinguishes causal roles; the arrangement is not thereby conscious. In the bodily hypothesis, an independently supported bridge would have to connect a specified eligible arrangement to how contents are lived together.
 
-A conditional prediction follows for a refined candidate: if an intervention changes a realization-relevant relation while eligible inputs, support, and experiential access survive, the bridge should specify what difference in joint presentation follows. S90's broad sufficient-route schema does not yet give that prediction. In particular, disrupting one sufficient route does not prove experience disappears if an alternative route remains.
+A conditional prediction follows for a refined candidate: if an intervention changes a realization-relevant relation while eligible inputs, support, and experiential access survive, the bridge should specify what difference in joint presentation follows. S117's broad sufficient-route schema does not yet give that prediction. In particular, disrupting one sufficient route does not prove experience disappears if an alternative route remains.
 
 ## Counterexamples and revisions
 
@@ -86,7 +86,7 @@ A conditional prediction follows for a refined candidate: if an intervention cha
 | Every member needs direct reciprocal influence on every other member | A feed-forward local stage can belong to a recurrent whole | Apply the organizational requirement at the appropriate level |
 | Any reciprocal information exchange constitutes one subject | A hypothetical conversation can contain mutual adjustment without its description identifying a further bearer | Feedback alone does not establish collective experience |
 | All reporting is external to realization | A reporting activity can regulate an ongoing episode or a later one | Distinguish role and interval rather than excluding a process class |
-| All realized contents must be reportable | Organizational participation is defined without requiring verbal access | Preserve S93's distinction between experience and report |
+| All realized contents must be reportable | Organizational participation is defined without requiring verbal access | Preserve S120's distinction between experience and report |
 
 The replacement claim is deliberately limited. It licenses neither that any device could replace a bodily component nor that functional duplication preserves the same experience or subject.
 
@@ -110,9 +110,9 @@ Distinguishing bodily realization from lived experience also leaves a specific c
 
 ## Bounded result and priority audit
 
-C757 now has a proposed F1 answer about organizational participation and explicit limits. The exact biological realization, onset, field count, and overlapping candidate boundaries remain open for selective F3. They are not declared solved or irrelevant.
+C882 now has a proposed F1 answer about organizational participation and explicit limits. The exact biological realization, onset, field count, and overlapping candidate boundaries remain open for selective F3. They are not declared solved or irrelevant.
 
-A more elaborate generic component test would not supply the missing actual psychophysical principle. The next priority should therefore return to the already inherited agency burden in C215–C220, C722 and C729: the causal contribution of lived content before a decision is settled. This is part of the existing body–experience junction and the author's pain/suffering correction, not a newly opened lateral topic.
+A more elaborate generic component test would not supply the missing actual psychophysical principle. The next priority should therefore return to the already inherited agency burden in C215–C220, C847 and C854: the causal contribution of lived content before a decision is settled. This is part of the existing body–experience junction and the author's pain/suffering correction, not a newly opened lateral topic.
 
 The proposed next pass should explain how an experience can supply a non-sufficient motive through appraisal and control, while bodily and experiential processes remain distinct within one subject. It must retain the defeater that a complete prior settlement independent of conscious contribution excludes consciously free origination for that token. No experiment or new freedom proof is promised.
 
@@ -120,16 +120,16 @@ The proposed next pass should explain how an experience can supply a non-suffici
 
 | Claim | Status | Content |
 | --- | --- | --- |
-| C758 | proposed F1 role distinction | Episode-relative input, support, realization, output, and historical roles are nonexclusive |
-| C759 | proposed F1 participation specification | Actual operative contribution identifies candidate membership relative to a specified bodily organization |
-| C760 | scoped conceptual constraints | Necessity, replaceability, and pairwise reciprocity are inadequate standalone membership tests |
-| C761 | proposed conditional assessment | Organizational changes need differentiated bridge predictions and preserved-route controls |
-| C762 | retained architectural limit | Bodily participation is not process identity, phenomenal sufficiency, or a field-count criterion |
-| C763 | proposed next inherited dependency | Return to the causal efficacy of lived content after this bounded F1 pass |
+| C883 | proposed F1 role distinction | Episode-relative input, support, realization, output, and historical roles are nonexclusive |
+| C884 | proposed F1 participation specification | Actual operative contribution identifies candidate membership relative to a specified bodily organization |
+| C885 | scoped conceptual constraints | Necessity, replaceability, and pairwise reciprocity are inadequate standalone membership tests |
+| C886 | proposed conditional assessment | Organizational changes need differentiated bridge predictions and preserved-route controls |
+| C887 | retained architectural limit | Bodily participation is not process identity, phenomenal sufficiency, or a field-count criterion |
+| C888 | proposed next inherited dependency | Return to the causal efficacy of lived content after this bounded F1 pass |
 
 ## Sources and evidential maturity
 
-No named external source is used inferentially in this session. The distinctions and hypothetical counterexamples are reconstructed from the project's working premises. S93's empirical source remains at its prior scope and does not support a new claim here.
+No named external source is used inferentially in this session. The distinctions and hypothetical counterexamples are reconstructed from the project's working premises. S120's empirical source remains at its prior scope and does not support a new claim here.
 
 No novelty is claimed for distinguishing components, causes, and enabling conditions. A targeted literature assessment of the exact participation proposal remains deferred; this pass does not claim established mechanistic or neuroscientific consensus.
 
@@ -145,7 +145,7 @@ Status: proposed and provisional, elaborating the retained bodily-realization hy
 
 ## Repository updates
 
-C752/C756 endorsement notes, C757 development pointer, C758–C763; architecture, glossary, development map and active question, challenge register, research sequence, internal-refinement note, treatise outline, session index, accessible paragraph and provenance; generated appendices.
+C877/C881 endorsement notes, C882 development pointer, C883–C888; architecture, glossary, development map and active question, challenge register, research sequence, internal-refinement note, treatise outline, session index, accessible paragraph and provenance; generated appendices.
 
 ## Next question
 
@@ -153,4 +153,4 @@ How does lived content contribute causally to appraisal and a still-open respons
 
 ## Author review — 2026-09-09
 
-The author replies: “ok me parece bien esa diferenciacion y creo que tan prioritario como lo que propones es continuar con esto, asi que lo que prefieras”. The role distinction is endorsed at its provisional scope. Continued unity/realization work and experiential efficacy now have equal active priority; the assistant may choose the immediate order. S94's bounded F1 pass does not demote the unity question as a whole to deferred F3. [S95](2026-09-09-experiential-uptake-and-joint-priority.md) develops uptake first and schedules the return to selective co-presentation. No actual realization law or new empirical support follows from agreement.
+The author replies: “ok me parece bien esa diferenciacion y creo que tan prioritario como lo que propones es continuar con esto, asi que lo que prefieras”. The role distinction is endorsed at its provisional scope. Continued unity/realization work and experiential efficacy now have equal active priority; the assistant may choose the immediate order. S121's bounded F1 pass does not demote the unity question as a whole to deferred F3. [S122](2026-09-09-experiential-uptake-and-joint-priority.md) develops uptake first and schedules the return to selective co-presentation. No actual realization law or new empirical support follows from agreement.

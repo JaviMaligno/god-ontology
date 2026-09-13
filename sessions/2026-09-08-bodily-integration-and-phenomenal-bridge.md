@@ -1,15 +1,15 @@
 # Session: Bodily integration and a conditional phenomenal bridge
 
 **Date:** 2026-09-08  
-**Session ID:** S90  
+**Session ID:** S117  
 **Primary question:** What can bodily organization explain about joint phenomenal presentation beyond common subjecthood?  
 **Dependencies:** independently specified bodily organization; field conditions versus response determination  
-**Starting ledger items:** C134–C137, C215–C216, C310–C316, C330–C338, C438, C720–C738  
+**Starting ledger items:** C134–C137, C215–C216, C310–C316, C330–C338, C438, C845–C863  
 **Target depth:** F1 candidate with local F2 conditional scope and countermodels; not an actual-world psychophysical mechanism
 
 ## Starting position
 
-The author explicitly endorses S89 and asks to continue along that route. Retain one embodied subject, distinct bodily and experiential processes, differentiated pain/suffering/decision roles, and joint manifestation as a qualified phenomenal primitive. God is the ultimate ground within preferred disjoint creation. None of those commitments is reopened by merely acknowledging its explanatory limit.
+The author explicitly endorses S116 and asks to continue along that route. Retain one embodied subject, distinct bodily and experiential processes, differentiated pain/suffering/decision roles, and joint manifestation as a qualified phenomenal primitive. God is the ultimate ground within preferred disjoint creation. None of those commitments is reopened by merely acknowledging its explanatory limit.
 
 S37 already required an independently constrained eligibility profile and a psychophysical power principle (C333). Naming such a principle again would not be progress. This session specifies one candidate episode-level bodily condition, identifies the exact extra premise needed to move from it to experience, and separates that conditional explanation from both a derivation of phenomenality and a sufficient determination of action.
 
@@ -118,13 +118,13 @@ These are conceptual tests. No case study, experiment, medical fact, or observat
 
 ## Alternatives and assessment
 
-**Stop at S89's bare joint-manifestation primitive:** remains coherent and costs fewer specific assumptions. It explains less about selective bodily participation. S90 is worth pursuing only if its candidate can earn constraints independently; otherwise the proposal should be demoted to an illustration of the older power account.
+**Stop at S116's bare joint-manifestation primitive:** remains coherent and costs fewer specific assumptions. It explains less about selective bodily participation. S117 is worth pursuing only if its candidate can earn constraints independently; otherwise the proposal should be demoted to an illustration of the older power account.
 
-**Identify joint experience with the functional organization:** would remove the extra bridge by definition or identity claim, but that is not established here and would reopen the author's S89 correction. Its availability is not a new reason to reverse the working preference.
+**Identify joint experience with the functional organization:** would remove the extra bridge by definition or identity claim, but that is not established here and would reopen the author's S116 correction. Its availability is not a new reason to reverse the working preference.
 
 **Add a separate subject or divine intervention for each field:** neither follows from the structural gap. A separate subject would still need a body–experience relation; invoking God for each episode would add a causal topology not required by the retained GSDA account.
 
-**Preferred next elaboration:** the conditional route above. The gain is limited but concrete: a candidate physical participation condition, an explicit bridge assumption, a distinction between field and action sufficiency, and tests that prohibit stronger conclusions from the one-way rule. Actual realization and evidential maturity remain open. This partially develops C732; it does not close the mind–body problem.
+**Preferred next elaboration:** the conditional route above. The gain is limited but concrete: a candidate physical participation condition, an explicit bridge assumption, a distinction between field and action sufficiency, and tests that prohibit stronger conclusions from the one-way rule. Actual realization and evidential maturity remain open. This partially develops C857; it does not close the mind–body problem.
 
 God remains the ultimate ground of an independently admissible created power profile. This neither turns the finite experience into a divine constituent nor derives its organization from God's consciousness. The ordinary manifestation route belongs to the creature.
 
@@ -132,16 +132,16 @@ God remains the ultimate ground of an independently admissible created power pro
 
 | Claim | Status | Result |
 | --- | --- | --- |
-| C733 | proposed specification | Capacity, bodily episode organization, and phenomenal bridge perform different roles |
-| C734 | proposed route | Active common regulation supplies an independently describable bodily candidate |
-| C735 | proposed conditional F2 schema | An explicit bridge gives one scoped sufficient route to joint presentation |
-| C736 | derived within the weak schema | Structure alone leaves J open; adding the bridge does not itself determine A |
-| C737 | proposed adequacy constraints | Test selective participation, alternate routes, subject boundary, and report/experience separation |
-| C738 | proposed working preference | Pursue the conditional route through targeted evidence; actual bridge remains open |
+| C858 | proposed specification | Capacity, bodily episode organization, and phenomenal bridge perform different roles |
+| C859 | proposed route | Active common regulation supplies an independently describable bodily candidate |
+| C860 | proposed conditional F2 schema | An explicit bridge gives one scoped sufficient route to joint presentation |
+| C861 | derived within the weak schema | Structure alone leaves J open; adding the bridge does not itself determine A |
+| C862 | proposed adequacy constraints | Test selective participation, alternate routes, subject boundary, and report/experience separation |
+| C863 | proposed working preference | Pursue the conditional route through targeted evidence; actual bridge remains open |
 
 ## Literature and novelty notes
 
-No named external source does inferential work, and no empirical theory is borrowed as established support. The argument extends inspected project commitments, principally C333–C337 and S89. All countermodels concern a deliberately weak local schema. Novelty, empirical adequacy, and comparative literature standing are unassessed.
+No named external source does inferential work, and no empirical theory is borrowed as established support. The argument extends inspected project commitments, principally C333–C337 and S116. All countermodels concern a deliberately weak local schema. Novelty, empirical adequacy, and comparative literature standing are unassessed.
 
 ## Accessible-answer report
 
@@ -155,9 +155,8 @@ Status: proposed conditional realization account, not author-endorsed yet or emp
 
 ## Repository updates
 
-Ledger C732 pointer and C733–C738; architecture, glossary, development map, challenge register, research sequence, session index; one accessible paragraph and provenance row; generated appendices. No revision to the accepted creation ranking, agency baseline, or S89 process distinction.
+Ledger C857 pointer and C858–C863; architecture, glossary, development map, challenge register, research sequence, session index; one accessible paragraph and provenance row; generated appendices. No revision to the accepted creation ranking, agency baseline, or S116 process distinction.
 
 ## Next question
 
 What independently assessed evidence can distinguish joint phenomenal presentation from coordinated access and thereby support, refine, or defeat this candidate route and bridge?
-

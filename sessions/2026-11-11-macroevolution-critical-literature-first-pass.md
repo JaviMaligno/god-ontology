@@ -134,3 +134,6 @@ At the author's request the literature on insertion position and on function was
 
 No accessible answer was added or changed; P83 remains banked without an answer, pending the author's decision on C975.
 
+## Next question
+
+The author's decision on C975, after which P83 can be answered in his own terms. The larger-scale evidence (fossil order, biogeography, the base of the tree) remains unexamined and is optional.

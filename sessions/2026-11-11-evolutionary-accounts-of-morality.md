@@ -191,6 +191,29 @@ No source did inferential work.
 
 Question unchanged: **¿Puede venir la moral de la evolución?** Status: **parcial**. The last two paragraphs were replaced; both replacement paragraphs were reproduced to the author in the same reply.
 
+## Fourth author review
+
+1. **Direction (assistant error, structural).** The author objects that the assistant is pulling toward naturalism: the parity argument was phrased from the premise that morality comes from a brain built for survival, the opposite of his thesis, and the assistant settles for sentences that are valid in isolation but disconnected from his argument. He decides between theism and naturalism, and it is theism. Accepted. The first P79 draft and the parity wording were both assistant errors of framing. The rule is now in AGENTS.md. Objections continue to be raised, labelled, inside the author's direction.
+2. **Parity (language).** C949 restated positively: logic, mathematics and morality are truths independent of the human brain; the Lennox question about trusting reason under an unguided process is its companion.
+3. **Step to God (structure).** The author asked for the argument to be carried to God, not left at a secular option. C951 already concluded in a personal ground; the secular option is now presented as the rival rejected on the way, not as a gap.
+4. **Divine nature as standard (argument).** The author finds it almost tautological and wants no circularity; he suggests running both directions. C952. Shown to the author: “decided by God” would make the good contingent and reintroduce his own mutability objection, and C705 already excludes grounding necessary structure in will; “what God is” as conclusion of the first route is not a definition used as a premise; C462 supplies its content. His earlier correction C131 is thereby respected.
+5. **Memory and environment.** Recorded in AGENTS.md at the author's request.
+6. **Literature review requested.** Performed for the sources reachable; see below.
+
+### Further sources inspected and disclosed to the author
+
+| Exact source and inspected portion | Role | Reconstructed premises and conclusion | Target project claim | Imported/declined assumptions | Limits and disposition |
+| --- | --- | --- | --- | --- | --- |
+| Charles Darwin, *The Descent of Man* (2nd ed., Project Gutenberg text), ch. IV passages on the moral sense and ch. V passage on the weak | Support by hostile witness; precedent | Asks why a man feels he ought to obey one instinctive desire rather than another. Grants that social instincts are not stronger than hunger, lust or vengeance. Appetites are temporary and once satisfied not vividly recalled; sympathy is ever-present; comparison in memory yields regret, hence conscience. With hive-bee rearing our females would think it a sacred duty to kill their brothers. Reason tells man to extend sympathy to the nation and then only an artificial barrier stops it short of all races. Aid to the helpless is mainly an incidental result of sympathy, injurious to the race, yet not to be checked without deterioration in the noblest part of our nature. | C942, C944, C937, C953 | Declined: that persistence in memory yields authority; that the bee case shows morality to be contingent. | Direct precedent for the satiety illustration, used in the opposite direction. Confirms the by-product status of care. |
+| T. H. Huxley, “Evolution and Ethics” (1893) and Prolegomena (Project Gutenberg text), located passages | Support by hostile witness | Moral sentiments evolved, and so did immoral ones; the thief and murderer follow nature as much as the philanthropist; cosmic evolution is incompetent to furnish a reason why good is preferable to evil; ethical progress depends on combating the cosmic process. | C942, C953 | Declined: Huxley's acceptance of evolved sentiments as the whole genealogy. | Only the located passages were read. |
+| John Lennox, “The Big Bang: Is There Room for God?” (johnlennox.org), located passage | Background already verified in the provenance checklist | If the mind doing science is the end product of a mindless unguided process, it is like a computer so produced, which one would not trust. | C949, C732 | — | Motivation and companion argument; not a premise of the route to $G$. |
+
+Not reachable and still uninspected: Lewis and Hayek (archive.org downloads redirect to unlisted hosts), Street and Huemer (PhilArchive bot wall, Springer paywall), Joyce, Enoch, Wielenberg, Cuneo, Linville, Ritchie, Swinburne, Buchanan and Powell.
+
+### Accessible-answer report
+
+Question unchanged: **¿Puede venir la moral de la evolución?** Status: **parcial**. The last two paragraphs were replaced again and reproduced to the author in the same reply.
+
 ## Next question
 
 By author direction, open the banked review: why a caused universe is preferable, with arguments for causation that do not depend on a temporal beginning, starting from C457–C460 and C752–C753.

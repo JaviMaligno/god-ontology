@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 951 |
+| Working commitments (C) | 953 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 265 |
+| other | 267 |
 | preferred | 260 |
 | provisional | 25 |
 | open | 20 |
@@ -982,9 +982,11 @@
 | C946 | A specific rule is at most an application of morality to circumstances; selection and correction among rules can occur without morality itself being selected, as scientific theories are corrected toward natural truths. | `author distinction; accepted` |
 | C947 | Historical wrongs do not show that the moral standard changed: perpetrators typically justified them as serving a greater good or by denying the victims' humanity, which presupposes the standard. | `author correction; preferred` |
 | C948 | The author's position is that an ultimate right and wrong cannot arise from evolution; even if evolution were true, morality would have another source. | `author position; governs the accessible answer` |
-| C949 | Rejecting objective moral truth on genealogical grounds commits one, by parity of argument, to rejecting confidence in mathematics, science and philosophy; unless inquiry is abandoned, objective morality is to be accepted. | `author-preferred; best-explanation and cost argument, not formal proof` |
+| C949 | Logic, mathematics and morality are truths of one kind, independent of human beings and their brains; to give up absolute good is, by equivalence of argument, to give up the truth-reaching capacity of logic, mathematics and science. | `author-preferred; best-explanation and cost argument, not formal proof` |
 | C950 | Author outline: objective morality exists as the best explanation; it is not material, since a material basis would have to be explained biologically and cannot be; therefore it comes from God. | `author outline; preferred direction` |
 | C951 | The step to God is completed by comparing three explanations of objective moral truth and our knowledge of it: a natural property, sourceless necessary truths, and a personal ground; the last is preferred. | `proposed abductive completion; awaiting author review` |
+| C952 | Two independent routes reach the divine ground of morality: from objective morality and our knowledge of it to a personal ground, and from the necessary conscious agent already reached by the contingency argument, whose nature grounds all necessary truth, to morality as one such truth. | `proposed convergence; follows the author's suggestion to run both directions` |
+| C953 | Darwin's own text poses the arbitration question and answers it by the short duration of satisfied appetites against ever-present sympathy, while granting that the social instincts are not the stronger; he treats aid to the helpless as an incidental result of sympathy whose suppression would damage the noblest part of our nature. Huxley denies that cosmic evolution furnishes a reason why good is preferable to evil. | `inspected sources; support C942 and C944` |
 
 ## Rejected or corrected moves
 

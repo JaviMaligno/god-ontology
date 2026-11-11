@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 959 |
+| Working commitments (C) | 964 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 270 |
+| other | 275 |
 | preferred | 263 |
 | provisional | 25 |
 | open | 20 |
@@ -993,6 +993,11 @@
 | C957 | Exempting the universe from explanation is special pleading, and a general licence for brute facts would undercut inquiry; this is the same parity that supports objective morality. | `adopted by the author; C457 revised accordingly` |
 | C958 | A beginning of the universe is a separate, reinforcing line: finite standard-model age, the Borde–Guth–Vilenkin bound, and the philosophical arguments against a completed infinite past. | `preferred; scope of C752 unchanged` |
 | C959 | Banked for later: a review of the literature on problems of macroevolution, and the argument that desire and need are anchored in something real, applied to the good, to God and to life beyond death. | `banked by the author; not promoted` |
+| C960 | Natural desires are anchored in real objects able to satisfy them; the desire for unlimited good, for God and for unending life is natural and unsatisfied by anything in this world, so its object most probably exists beyond it. | `author argument; formulation proposed` |
+| C961 | Need is the stronger form of the argument: a universal need whose privation damages the person, with nothing able to answer it, would be unique in nature. | `author direction; formulation proposed` |
+| C962 | A need for God is expected if a conscious agent created finite persons for relation, and unexplained otherwise. | `proposed` |
+| C963 | The demand for an ultimate explanation is itself a natural desire, so the anchoring of natural desire supports C457 from the side of experience. | `proposed` |
+| C964 | The argument supports the reality of what is sought, not each person's attainment of it, and contributes to a cumulative case within the experiential layer. | `proposed scope` |
 
 ## Rejected or corrected moves
 

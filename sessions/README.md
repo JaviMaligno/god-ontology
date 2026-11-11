@@ -137,5 +137,6 @@ Create new records from [TEMPLATE.md](TEMPLATE.md). Stable conclusions are promo
 - [S129 — Divine discretion and the value of created life](2026-09-13-divine-discretion-and-created-life.md)
 - [S130 — Evolutionary accounts of morality and the objective standard](2026-11-11-evolutionary-accounts-of-morality.md)
 - [S131 — Why the universe is caused, without a beginning premise](2026-11-11-caused-universe-without-a-beginning-premise.md)
+- [S132 — The argument from desire and the human need for God](2026-11-11-argument-from-desire-and-need.md)
 
 S127 reconciles the parallel histories. Existing remote S83–S108 retain their numbers; former local S83–S99 are S110–S126. S109 keeps its number and records the intervening scoped integration. Numbers identify records, not a strict temporal ordering.

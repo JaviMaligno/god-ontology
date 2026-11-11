@@ -112,6 +112,20 @@ Si se refiere al multiverso de los físicos, a muchas regiones o burbujas o rama
 
 Y si se refiere a otras creaciones, otros órdenes enteros con sus propias reglas y su propio tiempo, hechos por el mismo Dios, la respuesta honesta es: podría ser. Nada de lo que creo lo impide; de hecho, ya cuento con que pueda haber otro ámbito después de la muerte, y eso es un caso de lo mismo. Dios tendría razones para crear variedad, aunque ninguna lo obligue. Pero desde dentro de este orden no hay manera de saberlo, ni por la ciencia ni por la experiencia. Así que lo dejo en «posible, no descartado, no afirmado». Y si existen, tienen el mismo fondo que este: no hacen falta más dioses para más mundos.
 
+### ¿Deseamos a Dios porque existe?
+
+Creo que sí, en este sentido: nuestros deseos más hondos están anclados en algo real. Tenemos hambre y existe la comida; tenemos sed y existe el agua; necesitamos compañía y existen los demás. No digo que la comida cause el hambre. Digo que un deseo que nace de lo que somos, y no de un capricho, apunta a algo que existe.
+
+Hay que distinguir esos deseos de los que fabricamos. Puedo desear volar como un pájaro o tener un coche concreto, pero eso lo compongo yo con piezas de cosas reales; nadie nace con ese deseo, y unos lo tienen y otros no. Los deseos naturales son otra cosa: los tenemos todos, no los elegimos y, cuando falta lo que piden, nos estropeamos.
+
+Pues bien, deseamos también un bien que no se acabe, una verdad completa, una vida que no termine, y a Dios mismo. Y nada de este mundo lo colma: quien consigue lo que quería descubre que quería más. Eso se repite en todas las épocas y en todas las condiciones. Si los demás deseos naturales tienen algo real que los satisface, lo más probable es que este también, y que lo que lo satisface no sea de este mundo.
+
+Creo además que «deseo» se queda corto y que la palabra justa es necesidad. Uno puede vivir sin un capricho; sin lo que necesita, se daña. Y el ser humano sin sentido, sin un bien último y sin esperanza se daña, aunque tenga todo lo demás. Una necesidad así, puesta en todos y sin nada que pudiera responderle, sería un caso único en la naturaleza.
+
+Esto encaja con lo que pienso de Dios por otros caminos. Si nos hizo alguien que quería relacionarse con nosotros, es de esperar que llevemos dentro esa necesidad. Si no hay nadie, la necesidad está ahí sin explicación.
+
+Tiene un límite que conviene decir. El hambre muestra que existe la comida, no que yo vaya a comer hoy. Del mismo modo, este argumento apunta a que existe aquello que buscamos, no a que cada uno lo alcance sin más. Y es un indicio que se suma a los otros, no una prueba suelta.
+
 ### ¿Puedes demostrarlo?
 
 No. Y no creo que nadie pueda, ni en un sentido ni en otro. Las cuestiones últimas no se resuelven como un teorema. Lo que se puede hacer es comparar explicaciones: cuál es coherente, cuál explica más, cuál necesita menos supuestos raros, cuál encaja mejor con lo que sabemos y con lo que somos. Que no sea un teorema no significa que todas las posturas valgan lo mismo: también cuentan las pruebas y lo que cuesta negar algo. Hay posturas que solo se sostienen renunciando a preguntar. Yo hago esa comparación y me quedo con la que sale mejor. Si me equivoco, me equivoco razonando, no por haber dado un salto sin mirar.
@@ -595,6 +609,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
 | Qué es posible | preferido a F2+: criterio constitutivo del tronco; perfiles como representaciones; residuo de tipos nunca instanciados como estructura necesaria primitiva; fundamento divino-esencial más fuerte abierto | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 |
 | Qué existe cuando imagino algo inexistente | posición aceptada a F2: episodio y perfil de contenido reales; papel objetivo sin entidad obligatoria; referente mediante un camino real; ficción como artefacto y expediente; causalidad por el sujeto encarnado | C352–C354, C534, C624–C633; S38, S57, S76 |
+| Deseamos a Dios porque existe | parcial: argumento del autor con formulación propuesta; indicio acumulativo, no prueba; apunta a la realidad de lo buscado, no a que cada uno lo alcance | C105, C124, C190, C466–C471, C960–C964; S132; CH20 |
 | No se puede demostrar | establecido como método; añadida la distinción entre teorema, pruebas y coste de negar | estándar constructivo; C457, C949; S09, S130–S131 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |

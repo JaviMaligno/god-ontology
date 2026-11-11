@@ -98,7 +98,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P50 | ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal? | `parcial; alcance temporal corregido` | C189–C209, C472–C479, C655–C657, C661–C663; S28, S49, S78–S79 (un mundo material temporal requiere cambio en algún punto de su historia; Shoemaker solo discute si cada intervalo lo requiere; no se siguen mortalidad, mal ni justificación de cada sufrimiento) | CH19, CH28 |
 | P79 | ¿Puede venir la moral de la evolución? | `parcial; reescrita tras corrección del autor` | C168–C170, C195, C462, C705–C711, C935–C937, C941–C953; S130 (la pregunta inicial presuponía un origen evolutivo y la respuesta invertía la posición del autor) | CH09, CH33 |
 | P80 | ¿Puede haber un bien objetivo sin Dios? | `respondida; fundamento en la naturaleza divina provisional` | C131, C195, C462, C705–C708, C950–C952, C954; S130–S131 | CH04, CH33 |
-| P81 | ¿Deseamos a Dios porque existe? | `abierta; sin respuesta propia escrita` | C959; S131 (argumento del deseo y de la necesidad, depositado por el autor) | CH20 |
+| P81 | ¿Deseamos a Dios porque existe? | `parcial; primera respuesta propuesta` | C105, C124, C190, C466–C471, C960–C964; S132 | CH20 |
 
 ## E. Experiencia
 

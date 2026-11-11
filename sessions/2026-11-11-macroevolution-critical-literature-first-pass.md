@@ -114,6 +114,23 @@ The assistant's standing assessment that the shared-mark evidence favours descen
 
 No accessible answer was added or changed; P83 remains banked without an answer.
 
-## Next question
+## Closing pass on the two premises of C971
 
-If pursued: examine the literature on the function of shared retroviral inserts and pseudogenes and on insertion-site preferences, the two premises on which C971 turns.
+At the author's request the literature on insertion position and on function was read.
+
+1. **Position (C973).** The premise holds. Integration preferences are regional and virus-specific. A natural test exists: one retrovirus entered the chimpanzee and gorilla lineages independently, and its insertions fall at different places in at least 95.8% of 287 mapped cases; the overlapping regions resolved to the base pair were distinct insertions.
+2. **Function (C974).** The premise fails as a general claim. Some inserts are regulatory, syncytins are essential, and the functional fraction of the genome is unsettled. The critics' charge that arguments from uselessness were overstated is sustained. The argument for descent survives without the premise, on integration scars and graded decay.
+3. **Assessment (C975).** Shared inserts favour modification over separate making for primates including humans. Universal common descent is not established by this evidence. The author's decision is pending and nothing in the project depends on it.
+
+| Exact source and inspected portion | Role | Reconstructed premises and conclusion | Target project claim | Imported/declined assumptions | Limits and disposition |
+| --- | --- | --- | --- | --- | --- |
+| Rick Mitchell and others, “Retroviral DNA integration: ASLV, HIV, and MLV show distinct target site preferences”, PLoS Biology 2 (2004), abstract (PubMed Central) | Test of the position premise | Over 3,127 integration sites, HIV favours active genes, MLV favours transcription start regions, ASLV shows weak preference; each virus has its own regional bias. | C973 | — | Abstract only; regional, not site-level, data. |
+| Chris Yohn and others, “Lineage-specific expansions of retroviral insertions within the genomes of African great apes but not humans and orangutans”, PLoS Biology 3 (2005), abstract and mapping results | Test of the position premise | A retrovirus present in chimpanzee, gorilla and Old World monkeys is absent from humans and Asian apes; 275 of 287 insertion sites are unambiguously at different locations; 24 ambiguous sites could be at most 12 shared; four resolved to the base pair are independent; the data fit independent, concurrent infection. | C973 | — | The same case is sometimes cited as a conflict with the tree; the positions support the authors' reading. |
+| Edward Chuong, Nels Elde and Cédric Feschotte, “Regulatory evolution of innate immunity through co-option of endogenous retroviruses”, Science 351 (2016), abstract | Test of the function premise | Lineage-specific inserts carry interferon-inducible enhancers; deleting some in human cells impairs neighbouring immune genes. | C974 | — | Abstract only. |
+| Christian Lavialle and others, “Paleovirology of ‘syncytins’”, Phil. Trans. R. Soc. B 368 (2013), abstract | Test of the function premise | Envelope genes of retroviral origin were captured independently in several mammalian lineages and are required for placenta formation. | C974 | — | Abstract only. |
+| ENCODE Project Consortium (2012), abstract; Dan Graur and others (2013), abstract; Manolis Kellis and others (2014), abstract | State of the function dispute | Biochemical activity is assigned to 80% of the genome; critics answer that under 10% is conserved and that the definition of function was misused; the consortium's later paper grants that active regions far exceed conserved ones and leaves their functionality open. | C974 | — | Abstracts only. |
+| Nalini Polavarapu and others, chimpanzee endogenous retroviruses, Genome Biology 7 (2006), abstract | Background | Forty of 42 chimpanzee families have human counterparts. | C973 | — | Family-level, not locus counts. |
+| Casey Luskin, “A Scientific Analysis of Karl Giberson and Francis Collins' The Language of Science and Faith” and “Human Evolution and Common Ancestry: Following the Evidence” (Discovery Institute), located passages | Critic's reply | Arguments from broken or junk DNA rest on gaps in knowledge that keep closing; functional similarity is explained by common design as well as by descent; the chromosome fusion shows only a fusion in the human lineage. | C970, C974 | Declined: that future discovery of function would remove the evidence. | No specific function is offered for the vitamin C pseudogene; no reply to insertion scars was found in the passages read. |
+
+No accessible answer was added or changed; P83 remains banked without an answer, pending the author's decision on C975.
+

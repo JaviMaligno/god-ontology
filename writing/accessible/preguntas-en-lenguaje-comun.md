@@ -12,7 +12,7 @@ Borrador inicial: 2026-09-02; revisado el mismo día tras S49–S61, integrando 
 
 ### ¿Por qué crees en Dios?
 
-Porque no me parece satisfactorio pensar que todas las leyes, todos los hechos y el universo entero simplemente existen porque existen, y que no se puede ir más allá. Podría ser así. Si lo fuera, habría que aceptarlo. Pero es una actitud rara para alguien con curiosidad: la ciencia entera consiste en no conformarse con «es así y punto» y seguir preguntando por qué. Me parece más interesante, y más coherente con esa curiosidad, preguntar qué puede haber más allá.
+Porque no acepto que todas las leyes, todos los hechos y el universo entero existan «porque sí». En ningún otro terreno nos conformamos con esa respuesta cuando cabe una explicación: la ciencia entera consiste en seguir preguntando por qué. Hacer una excepción justo con la pregunta más grande sería un trato de favor, y si el «porque sí» valiera como respuesta, valdría para cualquier cosa y no quedaría ciencia. El universo, además, tiene todo el aspecto de lo que necesita explicación: cambia, está hecho de partes y sus leyes podrían haber sido otras. Así que pregunto qué hay más allá.
 
 Si uno pregunta, hay dos familias de respuesta. Una: en el fondo de todo hay algo así como una estructura matemática, unas reglas, de las que sale todo lo demás sin que nadie elija nada. Otra: en el fondo hay alguien, un ser consciente que elige qué mundo existe. A ese alguien es a quien llamo Dios.
 
@@ -22,7 +22,19 @@ No es una demostración. Es la explicación que me parece más razonable y que m
 
 ### ¿No basta con decir que el universo simplemente existe?
 
-Bastar, basta: no es una postura absurda. Lo que pasa es que es la postura que menos explica. Deja sin cuenta el hecho más grande de todos, que es que exista algo que podría no haber existido, y que sea esto y no otra cosa. Yo prefiero la explicación que deja menos cosas sin explicar, siempre que no cueste más de lo que aporta. Es una preferencia, no una prueba. Pero es la misma preferencia que hace que uno no se conforme con ninguna otra pregunta.
+No. Decirlo es coherente, pero es renunciar a explicar justo donde más importa, y esa renuncia no la aceptamos en ningún otro caso. Si «existe porque sí» fuera una buena respuesta para el universo, lo sería para cualquier cosa, y la ciencia, que vive de no conformarse, se quedaría sin suelo.
+
+Además, el universo no tiene el aspecto de algo que exista por sí mismo. Lo que existe por sí mismo no podría faltar ni ser distinto. El universo cambia, está compuesto de partes y tiene leyes y constantes con valores concretos que podrían haber sido otros. Todo eso es propio de lo que depende de otra cosa. Por eso no puede ser él la primera causa: lo que depende pide algo de lo que depender, y eso tiene que existir por sí mismo.
+
+No es un teorema, pero tampoco una simple preferencia. Quien se detiene en el «porque sí» paga el precio de dejar de preguntar, y ese precio no lo paga en ningún otro sitio.
+
+### ¿Y si el universo ha existido siempre?
+
+Seguiría necesitando una causa. Mi razón para creer que el universo depende de algo no es que haya empezado, sino que es la clase de cosa que no se explica a sí misma, y eso no cambia por mucho que dure.
+
+Lo veo de tres maneras. La primera: el universo podría no haber existido o haber sido distinto, y lo que podría haber sido distinto no contiene su propia explicación, lleve existiendo un tiempo finito o infinito. La segunda: las cosas no solo empezaron a existir; existen ahora, y existen de prestado. Si cada cosa recibe de otra lo que tiene, la cadena entera sigue necesitando algo que lo tenga por sí mismo, igual que un tren no se mueve por tener infinitos vagones si ninguno es la locomotora. La tercera: explicar cada momento por el anterior no explica por qué existe la serie entera. Si cada gallina viene de un huevo y cada huevo de una gallina, sigo sin saber por qué hay gallinas.
+
+Dicho esto, creo además que el universo sí tuvo un principio. La cosmología le da una edad finita, y hay buenos argumentos de que un pasado infinito no puede completarse suceso a suceso. Eso refuerza la conclusión, pero la conclusión no depende de ello: con principio o sin él, el universo necesita una causa.
 
 ### ¿Es más sensato creer en Dios que creer en «la nada»? ¿Puede algo salir de la nada?
 
@@ -39,6 +51,20 @@ Tampoco pone a Dios y a la nada en empate el hecho de que ninguno sea un objeto 
 No, y ese es justamente el error que intento evitar. Que la ciencia no haya explicado algo no es prueba de nada. Y que queramos una explicación tampoco. Lo que digo es otra cosa: la ciencia describe cómo funciona el mundo, y lo hace cada vez mejor. Lo que no hace, ni puede hacer con sus propios medios, es decir por qué las reglas fundamentales son las que son y por qué hay reglas. Esa pregunta no es un hueco que la ciencia vaya a rellenar mañana; es una pregunta de otro tipo. Dios no está en los huecos de la ciencia; está, si está, debajo de toda ella.
 
 Una imagen que uso: pensar que la ciencia puede explicar el motivo de fondo de por qué las cosas son así es como leer un libro, encontrar las regularidades de su gramática, de su ortografía y de su estilo, llamarlas incluso «las leyes de la literatura», y pretender que con ese conocimiento se explica el origen del libro. Las leyes están dentro del libro; el libro no sale de sus leyes.
+
+### ¿Aceptas la evolución?
+
+Depende de qué se meta en esa palabra, porque suele mezclar tres cosas distintas.
+
+La primera es que los seres vivos cambian y se adaptan con el tiempo. Eso lo acepto sin problema: se observa.
+
+La segunda es que ese mecanismo, mutaciones y selección, baste por sí solo para producir órganos, planes corporales y clases de seres vivos nuevos. Eso no está demostrado. El propio Darwin reconoció las dificultades, y hoy se sigue discutiendo dentro de la biología de dónde sale la novedad.
+
+La tercera es que todo el proceso haya ocurrido sin guía, sin que nadie lo quisiera. Eso ya no es ciencia, es filosofía. Que las mutaciones no respondan a lo que el organismo necesita no dice nada sobre si hay alguien detrás del conjunto. Yo creo que lo hay.
+
+Queda la cuestión de si todos los seres vivos descienden unos de otros. Los parecidos, por sí solos, no lo prueban: una sartén y un cazo se parecen porque los ha hecho el mismo fabricante para cosas parecidas, no porque tengan un antepasado común. Un mismo diseñador explica los parecidos igual de bien. Caben entonces dos posibilidades: que Dios hiciera las distintas clases de seres vivos por separado, o que las hiciera modificando las anteriores. Las dos me parecen compatibles con lo que pienso, y también con el Génesis. Mi preferencia personal es la primera, pero reconozco que no tengo toda la evidencia y estoy abierto a la segunda.
+
+No me parece lo más determinante. Lo que importa es que, en cualquiera de los dos casos, la vida viene de alguien y no de un proceso ciego.
 
 ### ¿Por qué un «alguien» y no un «algo»?
 
@@ -100,9 +126,23 @@ Si se refiere al multiverso de los físicos, a muchas regiones o burbujas o rama
 
 Y si se refiere a otras creaciones, otros órdenes enteros con sus propias reglas y su propio tiempo, hechos por el mismo Dios, la respuesta honesta es: podría ser. Nada de lo que creo lo impide; de hecho, ya cuento con que pueda haber otro ámbito después de la muerte, y eso es un caso de lo mismo. Dios tendría razones para crear variedad, aunque ninguna lo obligue. Pero desde dentro de este orden no hay manera de saberlo, ni por la ciencia ni por la experiencia. Así que lo dejo en «posible, no descartado, no afirmado». Y si existen, tienen el mismo fondo que este: no hacen falta más dioses para más mundos.
 
+### ¿Deseamos a Dios porque existe?
+
+Creo que sí, en este sentido: nuestros deseos más hondos están anclados en algo real. Tenemos hambre y existe la comida; tenemos sed y existe el agua; necesitamos compañía y existen los demás. No digo que la comida cause el hambre. Digo que un deseo que nace de lo que somos, y no de un capricho, apunta a algo que existe.
+
+Hay que distinguir esos deseos de los que fabricamos. Puedo desear volar como un pájaro o tener un coche concreto, pero eso lo compongo yo con piezas de cosas reales; nadie nace con ese deseo, y unos lo tienen y otros no. Los deseos naturales son otra cosa: los tenemos todos, no los elegimos y, cuando falta lo que piden, nos estropeamos.
+
+Pues bien, deseamos también un bien que no se acabe, una verdad completa, una vida que no termine, y a Dios mismo. Y nada de este mundo lo colma: quien consigue lo que quería descubre que quería más. Eso se repite en todas las épocas y en todas las condiciones. Si los demás deseos naturales tienen algo real que los satisface, lo más probable es que este también, y que lo que lo satisface no sea de este mundo.
+
+Creo además que «deseo» se queda corto y que la palabra justa es necesidad. Uno puede vivir sin un capricho; sin lo que necesita, se daña. Y el ser humano sin sentido, sin un bien último y sin esperanza se daña, aunque tenga todo lo demás. Una necesidad así, puesta en todos y sin nada que pudiera responderle, sería un caso único en la naturaleza.
+
+Esto encaja con lo que pienso de Dios por otros caminos. Si nos hizo alguien que quería relacionarse con nosotros, es de esperar que llevemos dentro esa necesidad. Si no hay nadie, la necesidad está ahí sin explicación.
+
+Tiene un límite que conviene decir. El hambre muestra que existe la comida, no que yo vaya a comer hoy. Del mismo modo, este argumento apunta a que existe aquello que buscamos, no a que cada uno lo alcance sin más. Y es un indicio que se suma a los otros, no una prueba suelta.
+
 ### ¿Puedes demostrarlo?
 
-No. Y no creo que nadie pueda, ni en un sentido ni en otro. Las cuestiones últimas no se resuelven como un teorema. Lo que se puede hacer es comparar explicaciones: cuál es coherente, cuál explica más, cuál necesita menos supuestos raros, cuál encaja mejor con lo que sabemos y con lo que somos. Yo hago esa comparación y me quedo con la que sale mejor. Si me equivoco, me equivoco razonando, no por haber dado un salto sin mirar.
+No. Y no creo que nadie pueda, ni en un sentido ni en otro. Las cuestiones últimas no se resuelven como un teorema. Lo que se puede hacer es comparar explicaciones: cuál es coherente, cuál explica más, cuál necesita menos supuestos raros, cuál encaja mejor con lo que sabemos y con lo que somos. Que no sea un teorema no significa que todas las posturas valgan lo mismo: también cuentan las pruebas y lo que cuesta negar algo. Hay posturas que solo se sostienen renunciando a preguntar. Yo hago esa comparación y me quedo con la que sale mejor. Si me equivoco, me equivoco razonando, no por haber dado un salto sin mirar.
 
 ### ¿Qué te haría cambiar de idea?
 
@@ -249,6 +289,32 @@ Es objetivo, en este sentido preciso: no depende de lo que nadie crea, aunque s�
 La prueba de que no lo inventamos es que podemos equivocarnos. Ha habido sociedades enteras convencidas de que ciertas crueldades eran correctas, y se equivocaban. Si el bien fuera lo que cada grupo decide, no se podría decir eso. Además, si lo inventáramos nosotros, el sufrimiento de alguien de quien nadie se preocupa no sería malo, y un engaño perfecto que nadie descubre no sería un daño. Creo que sí lo son.
 
 Eso no significa que tengamos acceso directo a lo bueno. Nos acercamos a tientas, con la experiencia, con la discusión, corrigiendo errores. Podemos estar más cerca o más lejos, y a veces sabemos que hemos mejorado. Eso solo tiene sentido si hay algo a lo que acercarse.
+
+### ¿Puede venir la moral de la evolución?
+
+No. De la evolución pueden salir sentimientos, costumbres y reglas concretas, pero no lo que está bien y lo que está mal en última instancia. Aunque la evolución fuera cierta, la moral seguiría viniendo de otra parte.
+
+La razón más directa es esta. Si lo bueno fuera lo que nos ayudó a sobrevivir y reproducirnos, la esclavitud o la violación habrían sido buenas allí donde beneficiaron a quien las cometía, y bastaría una historia distinta para que matar estuviera bien. Lo más coherente sería además la eugenesia: aplicarnos la selección a propósito. Pero sabemos lo contrario. Cuidar de una persona con una discapacidad grave, que quizá nunca devuelva nada, es de lo mejor que hacemos, y eliminar a los débiles es una atrocidad. No veo qué ventaja adaptativa hay en eso. Ahí la moral no obedece a la lógica de la selección: la juzga.
+
+Hay algo más general. Los instintos ya traen sus propios frenos: el hambre se sacia, el miedo detiene, el cansancio obliga a parar. La moral es otra clase de freno. Nos da razones, podemos desobedecerla, y se permite juzgar a todos los instintos, incluidos los que parecen más nobles, como favorecer a los míos. Cuando dos impulsos chocan, la evolución podría explicar que tenga los dos y cuál suele ganar. No explica por qué a veces debe ganar el más débil.
+
+Conviene no confundir la moral con sus reglas. Una regla concreta es, como mucho, una aplicación de la moral a unas circunstancias, y puede aplicarse mal o quedarse corta cuando las circunstancias cambian. Que unas reglas se impongan sobre otras con el tiempo no me extraña: también la ciencia corrige sus teorías y se acerca poco a poco a cómo es la naturaleza. Pero corregir solo tiene sentido si hay algo a lo que acercarse. Por eso tampoco creo que el bien haya ido cambiando con las épocas. Quienes cometían grandes injusticias solían justificarlas como el precio de un bien mayor, o negando que sus víctimas fueran plenamente humanas; rara vez las defendían como buenas sin más. Quien necesita una excusa ya conoce la norma.
+
+También me fijo en lo que pasa cuando el mundo cambia. Una moral fabricada por la evolución para grupos pequeños valdría para la tribu y se rompería en un mundo de millones de desconocidos. No es lo que ocurre: lo que está bien y lo que está mal sigue valiendo a cualquier escala. Y principios como medir a todos con la misma vara en lugar de favorecer a la familia, o respetar la libertad de cada uno, han resultado funcionar mejor en instituciones y mercados que no existían cuando se formaron nuestros instintos y que nadie había ensayado. Lo bueno funciona también donde nadie sabía de antemano que iba a funcionar, y eso indica que tampoco es un simple producto de la cultura.
+
+Hay quien dice que no existe ningún bien ni mal de verdad y que el deber es una ilusión útil. Yo sostengo lo contrario: hay verdades que no dependen de nosotros ni de nuestro cerebro. La lógica y las matemáticas son así; el ser humano no las hace verdaderas, las descubre. La moral es de la misma clase. Por eso no se puede soltar una y quedarse con las otras: quien renuncia al bien absoluto tiene que renunciar, por la misma razón, a que la lógica, las matemáticas y la ciencia alcancen alguna verdad. Y si todo en nosotros fuera el resultado de un proceso sin guía, no habría motivo para fiarse de la propia razón. Pero razonamos, y la ciencia funciona. Hay verdad absoluta, y eso incluye el bien.
+
+¿De dónde viene? Creo que de Dios, y llego por dos caminos. Desde la moral: una verdad absoluta sobre el bien que no sale de la materia ni de la costumbre, y que además podemos conocer, pide a alguien detrás; una verdad suelta, sin origen, sería un «porque sí», y que la conociéramos, una casualidad. Desde Dios: si todo lo que existe depende de un ser necesario, consciente y libre, las verdades que no pueden ser de otra manera, como la lógica, pertenecen a lo que él es, y el bien también. Los dos caminos acaban en el mismo sitio. No digo que algo sea bueno porque Dios lo decida, como si hubiera podido decidir lo contrario. Es bueno por lo que Dios es: vida consciente, libre y verdadera en plenitud. Lo que nos hace bien a nosotros es participar de eso.
+
+### ¿Puede haber un bien objetivo sin Dios?
+
+Creo que no. Un bien objetivo es una verdad que no depende de lo que nadie opine y que además obliga: no solo describe, manda. Una verdad así es indicio de una mente, igual que un diseño lo es de un diseñador y una ley de un legislador.
+
+Quien quiera un bien objetivo sin Dios tiene que decir de dónde sale. De la materia no: ni la biología ni la costumbre dan lo que está bien y lo que está mal en última instancia. Queda decir que el bien es una verdad suelta, que está ahí sin origen. Pero eso es otro «porque sí», y deja sin explicar algo más: cómo es que nosotros hemos llegado a conocerla. Sería una casualidad enorme.
+
+Si en el fondo de todo hay alguien consciente, libre y verdadero, las dos cosas se explican juntas: el bien existe porque pertenece a lo que él es, y lo conocemos porque estamos hechos por él y nos parecemos a él en lo que importa. A la misma conclusión llego por el otro lado: si todo depende de un ser necesario, las verdades que no pueden ser de otra manera, como la lógica, le pertenecen, y el bien es una de ellas.
+
+Hay personas que creen en un bien objetivo sin creer en Dios y viven de acuerdo con él. No digo que no puedan conocer el bien. Digo que su postura no explica de dónde viene.
 
 ### ¿Qué es el mal?
 
@@ -547,8 +613,9 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | ¿Qué relación podría tener lo que nos hace humanos con que Dios se encarnara en Jesucristo? | encaje cristológico condicional; humanidad, identidad y agencia pendientes de integración | C918–C919, C809–C810; S109; CH31 |
 | ¿Cómo se relacionaría esa posible misión con quienes no pueden ejercer esas capacidades o no producen nuevos conocimientos? | participación común propuesta; valor personal no reducido al rendimiento; criterios exhaustivos de estatus abiertos | C144, C187–C188, C193, C320, C438–C442, C916; S125–S126; CH31 |
 | Si Dios ya conoce la creación, ¿qué valor tendría que nosotros la descubriéramos? | distinción epistemológica derivada; valor de la participación condicionado al marco preferido | C105, C112, C124–C126, C187–C188, C915, C917; S125–S126; CH31 |
-| Por qué creo en Dios | preferido; el paso más allá de lo bruto es preferencia explícita | C01–C05, C457–C460; S09, S47 |
-| No basta con que exista | preferido | C457, C459; S47 |
+| Por qué creo en Dios | preferido; la exigencia de explicación, reforzada por el autor en S131, es un argumento de coherencia y coste, no una demostración | C01–C05, C457–C460, C955–C957; S09, S47, S131 |
+| No basta con que exista | preferido; reforzado por el autor en S131 | C457, C459, C956–C957; S47, S131 |
+| Si el universo ha existido siempre | preferido; los argumentos no usan un principio; el principio es apoyo adicional con alcance acotado | C04, C586, C752–C753, C759–C760, C955, C958; S131 |
 | Dios y «la nada» | preferencia teísta retenida; creación disjunta y constitución compartida abiertas; explicación generativa común propuesta | C646–C648, C659, C803–C805; S109; CH24, CH27 |
 | Dios no es un hueco de la ciencia | establecido | C01–C03, R02; S26 |
 | Alguien y no algo | preferido; la objeción del azar con nombre se responde: el modelo no tiene ninguna distribución de probabilidad en su base | C05, C57–C60, C458–C461, C513; S09, S47, S62 |
@@ -556,7 +623,9 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Otros universos | aceptado para los dos primeros sentidos; abierto e incognoscible para el tercero; una apuesta interpretativa sobre la física | C535–C540; S58 |
 | Qué es posible | preferido a F2+: criterio constitutivo del tronco; perfiles como representaciones; residuo de tipos nunca instanciados como estructura necesaria primitiva; fundamento divino-esencial más fuerte abierto | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 |
 | Qué existe cuando imagino algo inexistente | posición aceptada a F2: episodio y perfil de contenido reales; papel objetivo sin entidad obligatoria; referente mediante un camino real; ficción como artefacto y expediente; causalidad por el sujeto encarnado | C352–C354, C534, C624–C633; S38, S57, S76 |
-| No se puede demostrar | establecido como método | estándar constructivo; S09 |
+| Deseamos a Dios porque existe | parcial: argumento del autor con formulación propuesta; indicio acumulativo, no prueba; apunta a la realidad de lo buscado, no a que cada uno lo alcance | C105, C124, C190, C466–C471, C960–C964; S132; CH20 |
+| Aceptas la evolución | posición del autor: abierto a creación separada o por modificación, con preferencia personal por la separada; mecanismo no demostrado y ausencia de guía como filosofía, apoyados en fuentes inspeccionadas | C936, C965–C967, C970, C972, C976; S133 |
+| No se puede demostrar | establecido como método; añadida la distinción entre teorema, pruebas y coste de negar | estándar constructivo; C457, C949; S09, S130–S131 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |
 | Por qué creó Dios el mundo | preferido para las razones, incluida una razón tenue dirigida a lo que sentimos; la respuesta exhaustiva al sufrimiento sigue siendo creencia y el motivo real no se pretende conocer | C104–C113, C521–C526, C616–C623; S18, S56, S75 |
@@ -581,6 +650,8 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Responder antes de la petición | aceptado como consecuencia del orden de fundamentación; la condición es que la respuesta no entre en la situación de quien pide | C120, C417, C549–C553; S19, S43, S64 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
+| Bien objetivo sin Dios | preferido: mejor explicación por dos caminos; el fundamento en la naturaleza divina sigue provisional | C131, C195, C462, C705–C708, C950–C952, C954; S130–S131 |
+| La moral no viene de la evolución | parcial: posición y argumentos del autor, corregida por él en S130; la paridad con el conocimiento es preferida por el autor; el paso a Dios es una mejor explicación propuesta, con el fundamento en la naturaleza divina todavía provisional | C168–C170, C195, C462, C705–C711, C935–C937, C941–C953; S130; CH09, CH33 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Cambio, muerte y mal | parcial: un orden material temporal requiere algún cambio en su historia; Shoemaker solo desafía que todo intervalo lo contenga; la vida corporal es dinámica y vulnerable, pero mortalidad, mal y permiso de cada caso no se siguen de ahí | C655–C657, C661–C663; S78–S79, CH19, CH28 |
 | Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |

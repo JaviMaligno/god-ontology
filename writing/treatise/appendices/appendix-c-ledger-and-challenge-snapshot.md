@@ -1,20 +1,20 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-13 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-11-11 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 934 |
+| Working commitments (C) | 976 |
 | Rejected or corrected moves (R) | 294 |
-| Challenges (CH) | 32 |
+| Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 353 |
-| preferred | 259 |
-| other | 250 |
+| accepted | 354 |
+| other | 287 |
+| preferred | 263 |
 | provisional | 25 |
 | open | 20 |
 | merged | 18 |
@@ -25,7 +25,7 @@
 | Challenge status (first word) | Count |
 | --- | --- |
 | tested | 20 |
-| scoped | 9 |
+| scoped | 10 |
 | integrated | 1 |
 | opened | 1 |
 | S129 | 1 |
@@ -490,7 +490,7 @@
 | C454 | Self-reconstituting descriptions are excluded only when their result violates $PP_G$; contingent relational change and power exercise preserve $G$. | `preferred F2 refinement` |
 | C455 | The S45 identity theory narrows but does not by itself resolve strict non-destructive $ED_S$. | `historical S45 handoff; addressed in C559–C571` |
 | C456 | The identity module establishes neither an actual afterlife nor an actual resurrection. | `accepted scope limit` |
-| C457 | The motivation for seeking a ground beyond brute contingency is a weak explanatory preference (WEP): other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. It is comparative and defeasible, not a strong principle of sufficient reason. | `accepted` |
+| C457 | The demand for a ground beyond brute contingency is a requirement of explanatory consistency: brute fact is a last resort, exempting the universe alone is special pleading, and a general licence for brute facts would undercut inquiry. It is a coherence-and-cost argument on a par with C949, not a formal proof and not a strong principle of sufficient reason. The label WEP is kept as its identifier. | `accepted; strengthened by the author in S131` |
 | C458 | **Necessitation lemma:** a necessary being cannot be a necessitating sufficient ground of a contingent fact; any necessary ground of a genuinely contingent order produces it non-necessitatingly. | `accepted` |
 | C459 | The explanatory options for the contingent order partition into brute contingency, necessitarianism, impersonal necessity with chance, selection law, or plenitude, and a necessary agent with non-necessitating settling. | `accepted classification` |
 | C460 | Only the agentic stopping point supplies contrastive, reason-guided, non-necessitating explanation of the actual contingent order; this is the formal core of the C05 preference. | `preferred` |
@@ -968,6 +968,48 @@
 | C932 | Evidential clarity, frequency of address, practical direction and the place of divine recognition within finite formation must be assessed separately. | `analytic constraint on the proposed explanation` |
 | C933 | Under the proposed purpose, explicit recognition can develop within a life whose created goods already matter; lack of belief need not mean that all creative purposes toward that life have failed. | `conditional extension; no automatic implicit communion` |
 | C934 | The hypothesis favors recognizable response when it can serve a willing subject's own initiative without defeating the specified goods; prolonged nonrecognition in such a case is a substantive difficulty for it. | `defeasible comparative consequence; residual explanation open` |
+| C935 | Evolutionary accounts of morality divide into a genealogical thesis about the faculty ($E_1$), a content thesis about actual moral beliefs ($E_2$), a constitutive thesis identifying rightness with what was selected ($E_3$), and a debunking thesis ($E_4$). | `accepted distinction` |
+| C936 | Arguments about evolved morality are run with common descent granted for the sake of argument; no project claim depends on rejecting macroevolution. | `retained methodological constraint; author position recorded, not a premise` |
+| C937 | Moral rightness is not constituted by having been selected or by promoting fitness. | `preferred rejection of $E_3$` |
+| C938 | The author's restraint argument does not establish a non-evolutionary origin in its satiety form; its retained content is that selection does not supply the reason one conflicting impulse ought to prevail, nor the ranking of maladaptive excellence. | `corrected by the author; superseded by C942` |
+| C939 | Biological and cultural evolution explain actual moral practice including parochial failure, but not the criterion by which parochialism counts as error and widened or long-horizon concern as progress. | `revised by the author; progress framing replaced by C947` |
+| C940 | The functioning of markets or other novel institutions under liberty-respecting rules is not adopted as evidence for an objective standard. | `revised by author direction; superseded by C943` |
+| C941 | Against $E_4$ the project's candidate replies are parity with other non-fitness-selected domains of belief and direct access to anchor $P$ in experience; neither establishes a divine ground of value. | `retained; open comparison` |
+| C942 | Instincts carry their own built-in regulation, whereas morality restrains by reasons, can be disobeyed, and claims standing over every instinct including the social ones; selection does not supply that standing. | `author argument; refined formulation proposed` |
+| C943 | Principles held on moral grounds have proved to work in contexts that did not exist when dispositions were formed and that no one had tried; this transfer is evidence that their content is not purely cultural. | `author-preferred evidential argument; comparative, not demonstrative` |
+| C944 | Care for the severely disabled and the wrongness of coercive eugenics show reflective morality judging the selective process instead of expressing it. | `author argument; proposed formulation` |
+| C945 | A later pass will test whether objective moral truth is intelligible without God and review why a caused universe is preferable, including arguments for causation independent of a temporal beginning. | `banked by the author; not promoted` |
+| C946 | A specific rule is at most an application of morality to circumstances; selection and correction among rules can occur without morality itself being selected, as scientific theories are corrected toward natural truths. | `author distinction; accepted` |
+| C947 | Historical wrongs do not show that the moral standard changed: perpetrators typically justified them as serving a greater good or by denying the victims' humanity, which presupposes the standard. | `author correction; preferred` |
+| C948 | The author's position is that an ultimate right and wrong cannot arise from evolution; even if evolution were true, morality would have another source. | `author position; governs the accessible answer` |
+| C949 | Logic, mathematics and morality are truths of one kind, independent of human beings and their brains; to give up absolute good is, by equivalence of argument, to give up the truth-reaching capacity of logic, mathematics and science. | `author-preferred; best-explanation and cost argument, not formal proof` |
+| C950 | Author outline: objective morality exists as the best explanation; it is not material, since a material basis would have to be explained biologically and cannot be; therefore it comes from God. | `author outline; preferred direction` |
+| C951 | The step to God is completed by comparing three explanations of objective moral truth and our knowledge of it: a natural property, sourceless necessary truths, and a personal ground; the last is preferred. | `proposed abductive completion; awaiting author review` |
+| C952 | Two independent routes reach the divine ground of morality: from objective morality and our knowledge of it to a personal ground, and from the necessary conscious agent already reached by the contingency argument, whose nature grounds all necessary truth, to morality as one such truth. | `proposed convergence; follows the author's suggestion to run both directions` |
+| C953 | Darwin's own text poses the arbitration question and answers it by the short duration of satisfied appetites against ever-present sympathy, while granting that the social instincts are not the stronger; he treats aid to the helpless as an incidental result of sympathy whose suppression would damage the noblest part of our nature. Huxley denies that cosmic evolution furnishes a reason why good is preferable to evil. | `inspected sources; support C942 and C944` |
+| C954 | A morality is a sign of a mind, as a design indicates a designer and a law a legislator; moral sentiments neither refute nor better explain God's absolute morality and at most describe how it comes to be perceived or reached. | `author statement; preferred` |
+| C955 | Four arguments support a cause of the universe without any premise about its beginning: contingency, present dependence, the insufficiency of explaining each part by another, and consistency of explanation. | `preferred organization of the case for C04` |
+| C956 | The universe is not a candidate for the uncaused first cause: an uncaused terminus must be necessary, while the universe changes, is composed, and has laws and constants that could have been otherwise. | `preferred` |
+| C957 | Exempting the universe from explanation is special pleading, and a general licence for brute facts would undercut inquiry; this is the same parity that supports objective morality. | `adopted by the author; C457 revised accordingly` |
+| C958 | A beginning of the universe is a separate, reinforcing line: finite standard-model age, the Borde–Guth–Vilenkin bound, and the philosophical arguments against a completed infinite past. | `preferred; scope of C752 unchanged` |
+| C959 | Banked for later: a review of the literature on problems of macroevolution, and the argument that desire and need are anchored in something real, applied to the good, to God and to life beyond death. | `banked by the author; not promoted` |
+| C960 | Natural desires are anchored in real objects able to satisfy them; the desire for unlimited good, for God and for unending life is natural and unsatisfied by anything in this world, so its object most probably exists beyond it. | `author argument; formulation proposed` |
+| C961 | Need is the stronger form of the argument: a universal need whose privation damages the person, with nothing able to answer it, would be unique in nature. | `author direction; formulation proposed` |
+| C962 | A need for God is expected if a conscious agent created finite persons for relation, and unexplained otherwise. | `proposed` |
+| C963 | The demand for an ultimate explanation is itself a natural desire, so the anchoring of natural desire supports C457 from the side of experience. | `proposed` |
+| C964 | The argument supports the reality of what is sought, not each person's attainment of it, and contributes to a cumulative case within the experiential layer. | `proposed scope` |
+| C965 | Disputes about macroevolution bundle three claims: common descent, the sufficiency of mutation and selection for large-scale novelty, and the unguidedness of the process. | `proposed distinction` |
+| C966 | That the history of life was unguided is a metaphysical addition and not an empirical result; the exclusion of design from science is a rule of method that does not show a design inference to be defective. | `proposed; supports the author's claim` |
+| C967 | Whether mutation and selection suffice for new organs, body plans and higher groups is an open dispute inside biology, and confidence in it outruns the evidence. | `proposed` |
+| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `resolved for the project by C976; assistant's inspected assessment remains in C973–C975` |
+| C969 | The author's claim that macroevolution is mainstream because naturalism is holds for unguidedness and for the exclusion of design, holds in part for the mechanism, and is not shown for descent. | `proposed assessment` |
+| C970 | Similarity alone, genetic or physiological, does not discriminate common descent from common design by one designer. | `author objection; accepted` |
+| C971 | What discriminates descent from separate design is shared marks with no apparent function at the same genomic positions; the force of that evidence depends on two disputed premises, that the marks are functionless and that their position is not otherwise fixed. | `proposed; assistant's assessment that this evidence favours descent is recorded, not established` |
+| C972 | Descent and design are not exclusive: whether a designer made kinds separately or by modifying earlier ones is a question inside the design view, not one between theism and naturalism. | `proposed` |
+| C973 | Independent retroviral infection does not reproduce the same genomic positions, so shared positions are real evidence and not an artefact of insertion preference. | `proposed; inspected` |
+| C974 | The premise that shared retroviral inserts and pseudogenes are functionless is false for some and undetermined for most; the argument for descent does not need it, since it can rest on integration scars and on the graded divergence of each insert's two ends. | `proposed; inspected` |
+| C975 | Assistant's assessment after inspection: shared inserts favour making by modification over separate making for the groups examined, chiefly primates including humans; this does not establish universal common descent, where the evidence is similarity and the author's objection applies. | `assistant assessment; not adopted by the author` |
+| C976 | The author is open both to separate making of kinds by one designer and to making by modification, regards both as compatible with his position and with Genesis, personally prefers separate making, acknowledges not having all the evidence, and does not consider the question the most decisive. | `author position` |
 
 ## Rejected or corrected moves
 
@@ -1304,3 +1346,4 @@
 | CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 | CH31 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | `tested partially in S109; profile proposed, mission and full incarnation open` |
 | CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | `S129 proposes nondirective presence for valued finite development; P57 explanatory hypothesis, P35 partial; clearer nondirective access is the strongest open comparison` |
+| CH33 | Does a biological and cultural genealogy of moral judgment debunk the objective anchors or the approximation relation? | `scoped` |

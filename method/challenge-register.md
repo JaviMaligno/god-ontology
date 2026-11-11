@@ -719,6 +719,8 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Second author review:** rules are applications and may be selected and corrected without morality being selected (C946); wrongdoing was historically excused, not held good as such, so the standard did not change (C947); the author's position is that ultimate right and wrong cannot arise from evolution, and P79 is rewritten accordingly (C948).
 
+**Third author review:** parity is author-preferred as a cost argument (C949); the author outlines the step to God (C950) and the assistant proposes its abductive completion against sourceless moral truths (C951). Two SEP entries were inspected and disclosed; primary works remain pointers.
+
 **Q0 — ordinary question:** Can morality come from evolution?
 
 **Q1 — definition:** Separate the origin of the faculty, the explanation of actual moral beliefs, the identification of rightness with what was selected, and the debunking inference from the first two. Only the last two conflict with C168–C170.
@@ -727,4 +729,4 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Q3 — debunking:** Does direct access to anchor $P$ presuppose the evaluative truth it is meant to secure? Does parity with mathematical and epistemic belief hold, or does accurate belief in those domains have a fitness role that moral belief lacks?
 
-**Source control:** no external source has yet been inspected for this challenge. The pointers in S130 may not alter a status until reconstructed under the disclosure protocol. The arguments must hold with common descent granted (C936).
+**Source control:** only the two SEP entries disclosed in S130 have been inspected. The remaining pointers may not alter a status until reconstructed under the disclosure protocol. The arguments must hold with common descent granted (C936).

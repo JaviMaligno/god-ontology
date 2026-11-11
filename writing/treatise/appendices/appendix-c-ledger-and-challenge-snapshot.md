@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 948 |
+| Working commitments (C) | 951 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 262 |
+| other | 265 |
 | preferred | 260 |
 | provisional | 25 |
 | open | 20 |
@@ -982,6 +982,9 @@
 | C946 | A specific rule is at most an application of morality to circumstances; selection and correction among rules can occur without morality itself being selected, as scientific theories are corrected toward natural truths. | `author distinction; accepted` |
 | C947 | Historical wrongs do not show that the moral standard changed: perpetrators typically justified them as serving a greater good or by denying the victims' humanity, which presupposes the standard. | `author correction; preferred` |
 | C948 | The author's position is that an ultimate right and wrong cannot arise from evolution; even if evolution were true, morality would have another source. | `author position; governs the accessible answer` |
+| C949 | Rejecting objective moral truth on genealogical grounds commits one, by parity of argument, to rejecting confidence in mathematics, science and philosophy; unless inquiry is abandoned, objective morality is to be accepted. | `author-preferred; best-explanation and cost argument, not formal proof` |
+| C950 | Author outline: objective morality exists as the best explanation; it is not material, since a material basis would have to be explained biologically and cannot be; therefore it comes from God. | `author outline; preferred direction` |
+| C951 | The step to God is completed by comparing three explanations of objective moral truth and our knowledge of it: a natural property, sourceless necessary truths, and a personal ground; the last is preferred. | `proposed abductive completion; awaiting author review` |
 
 ## Rejected or corrected moves
 

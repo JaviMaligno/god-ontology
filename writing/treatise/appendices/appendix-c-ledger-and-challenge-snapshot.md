@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 969 |
+| Working commitments (C) | 972 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 279 |
+| other | 282 |
 | preferred | 263 |
 | provisional | 25 |
 | open | 21 |
@@ -1001,8 +1001,11 @@
 | C965 | Disputes about macroevolution bundle three claims: common descent, the sufficiency of mutation and selection for large-scale novelty, and the unguidedness of the process. | `proposed distinction` |
 | C966 | That the history of life was unguided is a metaphysical addition and not an empirical result; the exclusion of design from science is a rule of method that does not show a design inference to be defective. | `proposed; supports the author's claim` |
 | C967 | Whether mutation and selection suffice for new organs, body plans and higher groups is an open dispute inside biology, and confidence in it outruns the evidence. | `proposed` |
-| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `open between author and assistant` |
+| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `open between author and assistant; narrowed by C970–C972` |
 | C969 | The author's claim that macroevolution is mainstream because naturalism is holds for unguidedness and for the exclusion of design, holds in part for the mechanism, and is not shown for descent. | `proposed assessment` |
+| C970 | Similarity alone, genetic or physiological, does not discriminate common descent from common design by one designer. | `author objection; accepted` |
+| C971 | What discriminates descent from separate design is shared marks with no apparent function at the same genomic positions; the force of that evidence depends on two disputed premises, that the marks are functionless and that their position is not otherwise fixed. | `proposed; assistant's assessment that this evidence favours descent is recorded, not established` |
+| C972 | Descent and design are not exclusive: whether a designer made kinds separately or by modifying earlier ones is a question inside the design view, not one between theism and naturalism. | `proposed` |
 
 ## Rejected or corrected moves
 

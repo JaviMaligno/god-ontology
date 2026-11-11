@@ -93,6 +93,27 @@ No accessible answer was added or changed. P83, “¿Aceptas la evolución?”, 
 - [x] novelty map
 - [ ] other files unchanged
 
+## Author follow-up: what common descent rests on
+
+The author can in some sense agree with common descent as common design by one designer plus microevolution, and objects that if it rests only on genetic or physiological similarity it is open to the pan-and-pot reply: similar things need not share an ancestor.
+
+Result shown to the author:
+
+1. **The objection holds against similarity (C970).** It answers the arguments from overall likeness, the tree-building assumption that similarity reflects relatedness, and the step in the chromosome 2 argument that identifies the fused chromosomes with ape chromosomes. The fusion itself shows only that human ancestors once had one more chromosome pair.
+2. **The discriminating evidence is of another kind (C971):** the same apparently functionless marks at the same positions in different species, as the same misprint in two books indicates copying. Its force depends on the marks being functionless and their position not being otherwise determined; both premises are disputed, and the functionless premise has been eroding.
+3. **Descent and design are compatible (C972).** The remaining question is separate making versus making by modification.
+
+The assistant's standing assessment that the shared-mark evidence favours descent is kept and labelled; it is no longer stated as resting on “independent lines” without qualification, since several of those lines reduce to similarity.
+
+| Exact source and inspected portion | Role | Reconstructed premises and conclusion | Target project claim | Imported/declined assumptions | Limits and disposition |
+| --- | --- | --- | --- | --- | --- |
+| Welkin Johnson and John Coffin, “Constructing primate phylogenies from ancient retrovirus sequences”, PNAS 96 (1999), abstract and opening (PubMed Central) | Statement of the mainstream argument | Human genomes carry thousands of proviral remnants of ancient infections; most are nonfunctional and selectively neutral; shared integration sites and the divergence of the two ends of each insert give independent estimates of relationship, which match the accepted primate tree. | C971 | The neutrality premise is the authors'. | The body of the paper and later literature not examined. |
+| J. W. IJdo and others, “Origin of human chromosome 2: an ancestral telomere-telomere fusion”, PNAS 88 (1991), abstract (PubMed Central) | Statement of the mainstream argument | Two inverted arrays of the telomere repeat lie head to head at band 2q13, flanked by sequences typical of chromosome ends; so the site is the relic of a fusion of two ancestral chromosomes. | C970 | Declined: that the fusion by itself shows ancestry shared with apes. | Abstract only. |
+| Casey Luskin, “The Top Ten Scientific Problems with Biological and Chemical Evolution” (Discovery Institute), problems 6, 7 and 10 | Critic's reply | That similarity results from common ancestry is an assumption used to build trees; different genes give conflicting trees; convergence is invoked when similarity does not fit; organs and DNA once called useless have turned out to have functions, including retroviral elements acting as promoters. | C970, C971 | Declined: the cited conflicts and functions as verified. | Advocate source; its references were not checked. |
+| Wikipedia, “Evidence of common descent”, sections on pseudogenes, chromosome 2, endogenous retroviruses and nested hierarchies | Orientation | Summary of the lines of evidence. | C970–C971 | — | Tertiary. |
+
+No accessible answer was added or changed; P83 remains banked without an answer.
+
 ## Next question
 
-If the author wishes to pursue it: examine the evidence for common descent and the critics' replies with the primary sources open, so that C968 rests on inspection and not on standing assessments.
+If pursued: examine the literature on the function of shared retroviral inserts and pseudogenes and on insertion-site preferences, the two premises on which C971 turns.

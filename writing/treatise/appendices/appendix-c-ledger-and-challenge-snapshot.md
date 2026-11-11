@@ -6,15 +6,15 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 941 |
+| Working commitments (C) | 945 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
-| accepted | 353 |
-| preferred | 259 |
-| other | 257 |
+| accepted | 354 |
+| preferred | 261 |
+| other | 258 |
 | provisional | 25 |
 | open | 20 |
 | merged | 18 |
@@ -968,13 +968,17 @@
 | C932 | Evidential clarity, frequency of address, practical direction and the place of divine recognition within finite formation must be assessed separately. | `analytic constraint on the proposed explanation` |
 | C933 | Under the proposed purpose, explicit recognition can develop within a life whose created goods already matter; lack of belief need not mean that all creative purposes toward that life have failed. | `conditional extension; no automatic implicit communion` |
 | C934 | The hypothesis favors recognizable response when it can serve a willing subject's own initiative without defeating the specified goods; prolonged nonrecognition in such a case is a substantive difficulty for it. | `defeasible comparative consequence; residual explanation open` |
-| C935 | Evolutionary accounts of morality divide into a genealogical thesis about the faculty ($E_1$), a content thesis about actual moral beliefs ($E_2$), a constitutive thesis identifying rightness with what was selected ($E_3$), and a debunking thesis ($E_4$). | `proposed distinction; awaiting author review` |
-| C936 | Arguments about evolved morality are run with common descent granted for the sake of argument; no project claim depends on rejecting macroevolution. | `proposed methodological constraint; author position recorded, not a premise` |
-| C937 | Moral rightness is not constituted by having been selected or by promoting fitness. | `proposed rejection of $E_3$` |
-| C938 | The author's restraint argument does not establish a non-evolutionary origin in its satiety form; its retained content is that selection does not supply the reason one conflicting impulse ought to prevail, nor the ranking of maladaptive excellence. | `proposed assessment of an author argument` |
-| C939 | Biological and cultural evolution explain actual moral practice including parochial failure, but not the criterion by which parochialism counts as error and widened or long-horizon concern as progress. | `proposed comparative support for C168–C169` |
-| C940 | The functioning of markets or other novel institutions under liberty-respecting rules is not adopted as evidence for an objective standard. | `proposed limit; generalization test open` |
-| C941 | Against $E_4$ the project's candidate replies are parity with other non-fitness-selected domains of belief and direct access to anchor $P$ in experience; neither establishes a divine ground of value. | `proposed; open comparison` |
+| C935 | Evolutionary accounts of morality divide into a genealogical thesis about the faculty ($E_1$), a content thesis about actual moral beliefs ($E_2$), a constitutive thesis identifying rightness with what was selected ($E_3$), and a debunking thesis ($E_4$). | `accepted distinction` |
+| C936 | Arguments about evolved morality are run with common descent granted for the sake of argument; no project claim depends on rejecting macroevolution. | `retained methodological constraint; author position recorded, not a premise` |
+| C937 | Moral rightness is not constituted by having been selected or by promoting fitness. | `preferred rejection of $E_3$` |
+| C938 | The author's restraint argument does not establish a non-evolutionary origin in its satiety form; its retained content is that selection does not supply the reason one conflicting impulse ought to prevail, nor the ranking of maladaptive excellence. | `corrected by the author; superseded by C942` |
+| C939 | Biological and cultural evolution explain actual moral practice including parochial failure, but not the criterion by which parochialism counts as error and widened or long-horizon concern as progress. | `preferred comparative support for C168–C169` |
+| C940 | The functioning of markets or other novel institutions under liberty-respecting rules is not adopted as evidence for an objective standard. | `revised by author direction; superseded by C943` |
+| C941 | Against $E_4$ the project's candidate replies are parity with other non-fitness-selected domains of belief and direct access to anchor $P$ in experience; neither establishes a divine ground of value. | `retained; open comparison` |
+| C942 | Instincts carry their own built-in regulation, whereas morality restrains by reasons, can be disobeyed, and claims standing over every instinct including the social ones; selection does not supply that standing. | `author argument; refined formulation proposed` |
+| C943 | Principles held on moral grounds have proved to work in contexts that did not exist when dispositions were formed and that no one had tried; this transfer is evidence that their content is not purely cultural. | `author-preferred evidential argument; comparative, not demonstrative` |
+| C944 | Care for the severely disabled and the wrongness of coercive eugenics show reflective morality judging the selective process instead of expressing it. | `author argument; proposed formulation` |
+| C945 | A later pass will test whether objective moral truth is intelligible without God and review why a caused universe is preferable, including arguments for causation independent of a temporal beginning. | `banked by the author; not promoted` |
 
 ## Rejected or corrected moves
 

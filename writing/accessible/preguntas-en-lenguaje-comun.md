@@ -250,6 +250,20 @@ La prueba de que no lo inventamos es que podemos equivocarnos. Ha habido socieda
 
 Eso no significa que tengamos acceso directo a lo bueno. Nos acercamos a tientas, con la experiencia, con la discusión, corrigiendo errores. Podemos estar más cerca o más lejos, y a veces sabemos que hemos mejorado. Eso solo tiene sentido si hay algo a lo que acercarse.
 
+### Si nuestra moral viene de la evolución, ¿puede haber un bien y un mal objetivos?
+
+Creo que sí. Para verlo hay que separar dos cosas que suelen mezclarse: de dónde vienen nuestros sentimientos morales y qué es lo que está bien. Aunque se concediera que la compasión, la lealtad o la vergüenza tienen una historia evolutiva, eso explicaría por qué sentimos lo que sentimos. No diría si lo que sentimos acierta. El origen de una creencia no decide si es verdadera.
+
+Lo que no acepto es el paso siguiente: que lo bueno sea, sin más, lo que nos ayudó a sobrevivir y reproducirnos. Si fuera así, la esclavitud o la violación habrían sido buenas allí donde beneficiaron a quien las cometía, y bastaría una historia distinta para que matar estuviera bien. Lo más coherente sería además la eugenesia: aplicarnos la selección a propósito. Pero creemos lo contrario. Cuidar de una persona con una discapacidad grave, que quizá nunca devuelva nada, nos parece de lo mejor que hacemos, y eliminar a los débiles nos parece una atrocidad. Ahí la moral no obedece a la lógica de la selección: la juzga.
+
+Hay algo más general. Los instintos ya traen sus propios frenos: el hambre se sacia, el miedo detiene, el cansancio obliga a parar. La moral es otra clase de freno. Nos da razones, podemos desobedecerla, y se permite juzgar a todos los instintos, incluidos los que parecen más nobles, como favorecer a los míos. Cuando dos impulsos chocan, la evolución puede explicar que tenga los dos y cuál suele ganar. No explica por qué a veces debe ganar el más débil.
+
+También me fijo en lo que pasa cuando el mundo cambia. Una moral hecha para grupos pequeños debería servir para la tribu y poco más, y de hecho nuestro tribalismo sigue ahí. Pero lo llamamos un defecto, y llamamos progreso a haber extendido el respeto a los extranjeros y a las generaciones que aún no existen. La evolución explica bien nuestra moral real, con sus fallos; lo que no da es el criterio por el que los llamamos fallos. Además, principios que se defendieron por razones morales, como medir a todos con la misma vara en lugar de favorecer a la familia, o respetar la libertad de cada uno, han resultado funcionar mejor en instituciones y mercados que no existían cuando se formaron nuestros instintos y que nadie había ensayado. Me parece un indicio de que esos principios aciertan en algo sobre cómo somos, y no solo recogen la costumbre de un lugar.
+
+Queda la respuesta más dura: que no hay ningún bien objetivo y que el deber es una ilusión útil. No puedo refutarla, pero tiene un precio. El mismo razonamiento pondría en duda nuestra confianza en las matemáticas o en la ciencia, cuyas partes más abstractas tampoco nos ayudaron a sobrevivir. Y hay cosas que no conozco por una intuición heredada, sino directamente: que el dolor atroz es malo para quien lo sufre lo sé al sufrirlo.
+
+Todo esto apoya que el bien es objetivo; por sí solo no muestra que venga de Dios. Creo que una verdad así se entiende mal sin él, pero ese es otro argumento, que todavía tengo que desarrollar.
+
 ### ¿Qué es el mal?
 
 El mal no es una cosa, ni una fuerza opuesta a Dios. Es un bien que debería estar y falta, o está roto: una vida que debería poder sentir alegría y solo siente dolor; una voluntad que debería ser suya y ha sido sometida; una relación que debería ser verdadera y está construida sobre engaño. El dolor existe de verdad, la crueldad existe de verdad; lo que digo es que su maldad consiste en lo que destruyen.
@@ -581,6 +595,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Responder antes de la petición | aceptado como consecuencia del orden de fundamentación; la condición es que la respuesta no entre en la situación de quien pide | C120, C417, C549–C553; S19, S43, S64 |
 | Existe el bien | preferido | C186–C191; S27 |
 | El bien es objetivo | preferido | C168–C177, C187–C188; S25, S27 |
+| Moral y evolución | parcial: argumentos propuestos y dirigidos por el autor; la respuesta de que el deber es una ilusión no queda refutada; el paso a Dios está pendiente | C168–C170, C935–C937, C939, C941–C945; S130; CH09, CH33 |
 | Qué es el mal | aceptado | C189–C190, C206–C207; S27–S28 |
 | Cambio, muerte y mal | parcial: un orden material temporal requiere algún cambio en su historia; Shoemaker solo desafía que todo intervalo lo contenga; la vida corporal es dinámica y vulnerable, pero mortalidad, mal y permiso de cada caso no se siguen de ahí | C655–C657, C661–C663; S78–S79, CH19, CH28 |
 | Dios es bueno | establecido para libertad y relación; razón tenue hacia lo que sentimos preferida a F2; respuesta invicta a cada sufrimiento sigue siendo creencia con contenido exacto; perfección no afirmada | C133, C462–C465, C479, C616–C623; S21, S48–S49, S75 |

@@ -142,9 +142,28 @@ No accessible answer was added or changed. One question is banked as P79 with st
 - [x] commitment ledger (C935–C941, proposed)
 - [x] challenge register (CH33)
 - [x] development map note
-- [x] question bank (P79 banked)
+- [x] question bank (P79 answered in part after review; P80 banked)
+- [x] accessible answers (P79)
 - [x] novelty map
 - [ ] core architecture, glossary, treatise outline: unchanged
+
+## Subsequent author review
+
+The author replies selectively; unmentioned proposals are retained at their proposed level (C935–C937, C939, C941). Explicit corrections and additions:
+
+1. **Restraint (argument correction).** Hunger was an example of a physical brake on instinct, not the thread of the argument; refinement is welcome. C938's criticism addressed the illustration. C942 restates the argument: instincts carry built-in regulation; morality restrains by reasons, can be disobeyed, and claims standing over all instincts, including social ones. A fitness-serving regulator would regulate toward fitness.
+2. **Transfer (argument addition).** That what is good turns out to work in a different context without anyone knowing beforehand that it would is, for the author, further evidence that morality is not purely cultural. The assistant withdraws the charge of conflict with the slavery argument once the inference is read from independently held principle to later confirmation, with success indexed to all affected subjects. Burdens stated to the author: some norms once held as moral did not transfer, and a non-moral mechanism (dispersed knowledge held by free agents) explains why liberty works, though not why what works coincides with what was independently judged right.
+3. **Market premise (authorial direction).** The author does not admit dispute here over the superiority of free markets to socialism and notes that his argument is not about that. It is recorded as a fixed premise of C943. The assistant's earlier caveat concerned finer policy questions the argument does not use and is dropped. Other examples are permitted; impartial institutions against kin favour is offered.
+4. **Eugenics and care for the disabled (argument addition).** C944.
+5. **Point 5 (language).** The author could not tell whether the passage was refinement, criticism or explanation. It was a verdict on scope: both arguments are kept and refute “good is what was adaptive”; they do not reach the view that there is no moral truth.
+6. **Banked by the author.** A later argument against secular realists, on the ground that absolute truth without God makes little sense unless the universe is an uncaused first cause; a review of why a caused universe is more probable; and arguments for causation apart from the universe's having a beginning. C945, P80. Not promoted.
+7. **Accessible answer.** The author authorizes writing and progressively refining it.
+
+No source did inferential work in this review. The economic literature the author appeals to was not inspected; the premise rests on authorial direction.
+
+### Accessible-answer report
+
+Exact question: **Si nuestra moral viene de la evolución, ¿puede haber un bien y un mal objetivos?** Status: **parcial; primera respuesta, en refinamiento**. The complete answer was reproduced to the author in the same reply and is in `writing/accessible/preguntas-en-lenguaje-comun.md`. P80, “¿Puede haber un bien objetivo sin Dios?”, is banked; no answer has been written.
 
 ## Next question
 

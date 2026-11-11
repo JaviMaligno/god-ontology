@@ -715,11 +715,13 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Status:** scoped in [S130](../sessions/2026-11-11-evolutionary-accounts-of-morality.md) (C935–C941, all proposed and awaiting author review). Integrated with CH09 and novelty backlog item 8; no trunk priority changes. P79 is banked without an answer.
 
+**Author review:** unchallenged proposals are retained. The author clarifies that satiety only illustrated built-in limits (C942), fixes the comparative market premise and adopts transfer to untried contexts as evidence against a purely cultural origin (C943), and adds eugenics and care for the disabled (C944). P79 now has a partial answer. The secular-realist comparison is banked (C945, P80).
+
 **Q0 — ordinary question:** If our moral sense comes from evolution, can anything be right or wrong objectively?
 
 **Q1 — definition:** Separate the origin of the faculty, the explanation of actual moral beliefs, the identification of rightness with what was selected, and the debunking inference from the first two. Only the last two conflict with C168–C170.
 
-**Q2 — rival explanations:** Test the claim that evolution explains practice and failure but not the criterion of failure against by-product reasoning, cultural selection and condition-dependent inclusivity. Use effective but wrong practices as the discriminating cases. Do not use the functioning of an institution as evidence of rightness.
+**Q2 — rival explanations:** Test the claim that evolution explains practice and failure but not the criterion of failure against by-product reasoning, cultural selection and condition-dependent inclusivity. Use effective but wrong practices as the discriminating cases. For C943, test transfer against moral norms that did not transfer and against non-moral explanations of why liberty works.
 
 **Q3 — debunking:** Does direct access to anchor $P$ presuppose the evaluative truth it is meant to secure? Does parity with mathematical and epistemic belief hold, or does accurate belief in those domains have a fitness role that moral belief lacks?
 

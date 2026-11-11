@@ -717,7 +717,9 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 
 **Author review:** unchallenged proposals are retained. The author clarifies that satiety only illustrated built-in limits (C942), fixes the comparative market premise and adopts transfer to untried contexts as evidence against a purely cultural origin (C943), and adds eugenics and care for the disabled (C944). P79 now has a partial answer. The secular-realist comparison is banked (C945, P80).
 
-**Q0 — ordinary question:** If our moral sense comes from evolution, can anything be right or wrong objectively?
+**Second author review:** rules are applications and may be selected and corrected without morality being selected (C946); wrongdoing was historically excused, not held good as such, so the standard did not change (C947); the author's position is that ultimate right and wrong cannot arise from evolution, and P79 is rewritten accordingly (C948).
+
+**Q0 — ordinary question:** Can morality come from evolution?
 
 **Q1 — definition:** Separate the origin of the faculty, the explanation of actual moral beliefs, the identification of rightness with what was selected, and the debunking inference from the first two. Only the last two conflict with C168–C170.
 

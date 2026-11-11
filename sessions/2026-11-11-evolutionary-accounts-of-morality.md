@@ -165,6 +165,15 @@ No source did inferential work in this review. The economic literature the autho
 
 Exact question: **Si nuestra moral viene de la evolución, ¿puede haber un bien y un mal objetivos?** Status: **parcial; primera respuesta, en refinamiento**. The complete answer was reproduced to the author in the same reply and is in `writing/accessible/preguntas-en-lenguaje-comun.md`. P80, “¿Puede haber un bien objetivo sin Dios?”, is banked; no answer has been written.
 
+## Second author review
+
+1. **Rules and morality (argument).** Selection of specific norms can exist, as the microevolutionary analogue: a rule is not morality but at most an application, applied differently and imperfectly across contexts. Correction is therefore expected, as science approaches natural truths. C946. This answers the assistant's burden about norms that did not transfer.
+2. **Eugenics and care (argument).** The author doubts that “the good is the adaptive” has any explanatory power here and asks where the adaptiveness lies. The assistant agrees: the by-product reply is not an adaptive explanation and concedes the content was not selected. It remains formally available only as a route to the illusion view.
+3. **Moral progress (argument correction).** The author finds the progress argument weak: where immoral practices prevailed they were justified as a greater good or by dehumanizing the victims, not regarded as good as such. C947 replaces C939's framing; the assistant withdraws its concession that long acceptance of slavery fits a changed morality.
+4. **Accessible answer (gap and language; assistant error).** The first draft framed P79 as “if morality comes from evolution, can there be objective good?” and answered yes in the author's voice. The author holds the contrary: an absolute right and wrong cannot arise from evolution, and even if evolution were true morality would come from elsewhere. C948. The question and answer are rewritten; the complete new answer was reproduced to the author in the same reply. Status: **parcial; reescrita tras corrección del autor**.
+
+No source did inferential work.
+
 ## Next question
 
 After the author's review, and with the listed hosts reachable, inspect Street's dilemma and one realist reply closely enough to reconstruct them, then test whether anchor access at $P$ survives the charge of presupposing an evaluative truth.

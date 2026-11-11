@@ -134,6 +134,14 @@ At the author's request the literature on insertion position and on function was
 
 No accessible answer was added or changed; P83 remains banked without an answer, pending the author's decision on C975.
 
+## Author decision
+
+The author is open to either option, finds both compatible with his position and with the biblical Genesis, personally prefers separate making with common design, acknowledges not having all the evidence, and does not regard the matter as the most decisive. C976. C975 remains the assistant's assessment and is not adopted.
+
+### Accessible-answer report
+
+Exact question: **¿Aceptas la evolución?** (P83). Status: **respondida; posición abierta del autor**. The complete answer was reproduced to the author in the same reply. It states only what he has said; the assistant's assessment on shared inserts is not placed in his voice.
+
 ## Next question
 
-The author's decision on C975, after which P83 can be answered in his own terms. The larger-scale evidence (fossil order, biogeography, the base of the tree) remains unexamined and is optional.
+The queue ordered by the author is complete. Await his next direction.

@@ -52,6 +52,20 @@ No, y ese es justamente el error que intento evitar. Que la ciencia no haya expl
 
 Una imagen que uso: pensar que la ciencia puede explicar el motivo de fondo de por qué las cosas son así es como leer un libro, encontrar las regularidades de su gramática, de su ortografía y de su estilo, llamarlas incluso «las leyes de la literatura», y pretender que con ese conocimiento se explica el origen del libro. Las leyes están dentro del libro; el libro no sale de sus leyes.
 
+### ¿Aceptas la evolución?
+
+Depende de qué se meta en esa palabra, porque suele mezclar tres cosas distintas.
+
+La primera es que los seres vivos cambian y se adaptan con el tiempo. Eso lo acepto sin problema: se observa.
+
+La segunda es que ese mecanismo, mutaciones y selección, baste por sí solo para producir órganos, planes corporales y clases de seres vivos nuevos. Eso no está demostrado. El propio Darwin reconoció las dificultades, y hoy se sigue discutiendo dentro de la biología de dónde sale la novedad.
+
+La tercera es que todo el proceso haya ocurrido sin guía, sin que nadie lo quisiera. Eso ya no es ciencia, es filosofía. Que las mutaciones no respondan a lo que el organismo necesita no dice nada sobre si hay alguien detrás del conjunto. Yo creo que lo hay.
+
+Queda la cuestión de si todos los seres vivos descienden unos de otros. Los parecidos, por sí solos, no lo prueban: una sartén y un cazo se parecen porque los ha hecho el mismo fabricante para cosas parecidas, no porque tengan un antepasado común. Un mismo diseñador explica los parecidos igual de bien. Caben entonces dos posibilidades: que Dios hiciera las distintas clases de seres vivos por separado, o que las hiciera modificando las anteriores. Las dos me parecen compatibles con lo que pienso, y también con el Génesis. Mi preferencia personal es la primera, pero reconozco que no tengo toda la evidencia y estoy abierto a la segunda.
+
+No me parece lo más determinante. Lo que importa es que, en cualquiera de los dos casos, la vida viene de alguien y no de un proceso ciego.
+
 ### ¿Por qué un «alguien» y no un «algo»?
 
 Porque un «algo» sin voluntad solo tiene dos maneras de producir el mundo: o lo produce necesariamente, y entonces todo está fijado desde siempre y nada podría haber sido distinto, o lo produce por azar, y entonces no hay ninguna razón de que el mundo sea así. Un «alguien» tiene una tercera manera, que es la que conocemos por dentro: elegir por motivos sin estar obligado. Cuando yo elijo algo, hay razones, pero las razones no me obligan; soy yo quien decide. Creo que en el fondo de la realidad hay eso, y no una máquina ni una lotería.
@@ -610,6 +624,7 @@ La columna «Tipo» dice qué clase de apoyo tiene cada respuesta en la ontolog�
 | Qué es posible | preferido a F2+: criterio constitutivo del tronco; perfiles como representaciones; residuo de tipos nunca instanciados como estructura necesaria primitiva; fundamento divino-esencial más fuerte abierto | C343–C348, C531–C532, C542, C649–C652; S38, S57, S60, S78 |
 | Qué existe cuando imagino algo inexistente | posición aceptada a F2: episodio y perfil de contenido reales; papel objetivo sin entidad obligatoria; referente mediante un camino real; ficción como artefacto y expediente; causalidad por el sujeto encarnado | C352–C354, C534, C624–C633; S38, S57, S76 |
 | Deseamos a Dios porque existe | parcial: argumento del autor con formulación propuesta; indicio acumulativo, no prueba; apunta a la realidad de lo buscado, no a que cada uno lo alcance | C105, C124, C190, C466–C471, C960–C964; S132; CH20 |
+| Aceptas la evolución | posición del autor: abierto a creación separada o por modificación, con preferencia personal por la separada; mecanismo no demostrado y ausencia de guía como filosofía, apoyados en fuentes inspeccionadas | C936, C965–C967, C970, C972, C976; S133 |
 | No se puede demostrar | establecido como método; añadida la distinción entre teorema, pruebas y coste de negar | estándar constructivo; C457, C949; S09, S130–S131 |
 | Qué me haría cambiar de idea | establecido | condiciones de reversión, S09 y S47 |
 | Qué tipo de Dios | mezcla: unidad, no espacialidad, omnipresencia, disponibilidad y respeto a la agencia son preferidos; omnisciencia de lo actual es aceptada; poder máximo sobre lo creado es preferido y poder sin límite alguno es provisional | C06, C11, C14, C74–C76, C78–C91, C104–C111, C115, C122; S11, S13–S15, S18–S20 |

@@ -6,17 +6,17 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 975 |
+| Working commitments (C) | 976 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 285 |
+| other | 287 |
 | preferred | 263 |
 | provisional | 25 |
-| open | 21 |
+| open | 20 |
 | merged | 18 |
 | deferred | 4 |
 | superseded | 3 |
@@ -1001,14 +1001,15 @@
 | C965 | Disputes about macroevolution bundle three claims: common descent, the sufficiency of mutation and selection for large-scale novelty, and the unguidedness of the process. | `proposed distinction` |
 | C966 | That the history of life was unguided is a metaphysical addition and not an empirical result; the exclusion of design from science is a rule of method that does not show a design inference to be defective. | `proposed; supports the author's claim` |
 | C967 | Whether mutation and selection suffice for new organs, body plans and higher groups is an open dispute inside biology, and confidence in it outruns the evidence. | `proposed` |
-| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `open pending the author's decision; assistant's inspected assessment in C973–C975` |
+| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `resolved for the project by C976; assistant's inspected assessment remains in C973–C975` |
 | C969 | The author's claim that macroevolution is mainstream because naturalism is holds for unguidedness and for the exclusion of design, holds in part for the mechanism, and is not shown for descent. | `proposed assessment` |
 | C970 | Similarity alone, genetic or physiological, does not discriminate common descent from common design by one designer. | `author objection; accepted` |
 | C971 | What discriminates descent from separate design is shared marks with no apparent function at the same genomic positions; the force of that evidence depends on two disputed premises, that the marks are functionless and that their position is not otherwise fixed. | `proposed; assistant's assessment that this evidence favours descent is recorded, not established` |
 | C972 | Descent and design are not exclusive: whether a designer made kinds separately or by modifying earlier ones is a question inside the design view, not one between theism and naturalism. | `proposed` |
 | C973 | Independent retroviral infection does not reproduce the same genomic positions, so shared positions are real evidence and not an artefact of insertion preference. | `proposed; inspected` |
 | C974 | The premise that shared retroviral inserts and pseudogenes are functionless is false for some and undetermined for most; the argument for descent does not need it, since it can rest on integration scars and on the graded divergence of each insert's two ends. | `proposed; inspected` |
-| C975 | Assistant's assessment after inspection: shared inserts favour making by modification over separate making for the groups examined, chiefly primates including humans; this does not establish universal common descent, where the evidence is similarity and the author's objection applies. | `assistant assessment; author's decision pending` |
+| C975 | Assistant's assessment after inspection: shared inserts favour making by modification over separate making for the groups examined, chiefly primates including humans; this does not establish universal common descent, where the evidence is similarity and the author's objection applies. | `assistant assessment; not adopted by the author` |
+| C976 | The author is open both to separate making of kinds by one designer and to making by modification, regards both as compatible with his position and with Genesis, personally prefers separate making, acknowledges not having all the evidence, and does not consider the question the most decisive. | `author position` |
 
 ## Rejected or corrected moves
 

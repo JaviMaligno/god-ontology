@@ -27,7 +27,7 @@ The author decides where the project goes, including its long-standing working p
 
 ## Reading environment for cloud sessions
 
-Run cloud sessions for this repository in the personal environment `god-ontology`. Its network allowlist covers the Stanford and Internet encyclopedias of philosophy, Project Gutenberg, PhilPapers and PhilArchive, archive.org, arXiv, Springer, OUP, Cambridge, NDPR, Wikisource, Wikipedia, johnlennox.org and reasonablefaith.org.
+Run cloud sessions for this repository in the personal environment `god-ontology`. Its network allowlist covers the Stanford and Internet encyclopedias of philosophy, Project Gutenberg, PhilPapers and PhilArchive, archive.org, arXiv, Springer, OUP, Cambridge, NDPR, Wikisource, Wikipedia, johnlennox.org, reasonablefaith.org, PubMed Central, Royal Society, Nature, PNAS, Discovery Institute, Evolution News and BioLogos.
 
 - Fetch sources with `curl` through the session proxy and read the text locally; in S130 the web-fetch tool did not pick up the allowlist.
 - Known gaps: archive.org file downloads redirect to unlisted hosts; PhilArchive and Springer returned bot or paywall pages. Ask the author to upload such texts, or propose the missing host.

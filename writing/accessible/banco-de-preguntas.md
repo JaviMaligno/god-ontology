@@ -116,6 +116,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | --- | --- | --- | --- | --- |
 | P37 | ¿Es todo esto compatible con la ciencia? | `respondida` | C01–C03, C183–C184, R26–R27; S26 | — |
 | P38 | ¿Cómo has llegado a esto? ¿No te lo has inventado? | `respondida` | método de investigación; nota sobre colaboración con IA | — |
+| P83 | ¿Aceptas la evolución? | `abierta; sin respuesta propia escrita` | C936, C965–C969; S133 (la parte sobre la descendencia común está abierta entre autor y asistente) | CH33 |
 
 ## G. Nuestra relación con la creación y una posible misión
 

@@ -6,17 +6,17 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 964 |
+| Working commitments (C) | 969 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 275 |
+| other | 279 |
 | preferred | 263 |
 | provisional | 25 |
-| open | 20 |
+| open | 21 |
 | merged | 18 |
 | deferred | 4 |
 | superseded | 3 |
@@ -998,6 +998,11 @@
 | C962 | A need for God is expected if a conscious agent created finite persons for relation, and unexplained otherwise. | `proposed` |
 | C963 | The demand for an ultimate explanation is itself a natural desire, so the anchoring of natural desire supports C457 from the side of experience. | `proposed` |
 | C964 | The argument supports the reality of what is sought, not each person's attainment of it, and contributes to a cumulative case within the experiential layer. | `proposed scope` |
+| C965 | Disputes about macroevolution bundle three claims: common descent, the sufficiency of mutation and selection for large-scale novelty, and the unguidedness of the process. | `proposed distinction` |
+| C966 | That the history of life was unguided is a metaphysical addition and not an empirical result; the exclusion of design from science is a rule of method that does not show a design inference to be defective. | `proposed; supports the author's claim` |
+| C967 | Whether mutation and selection suffice for new organs, body plans and higher groups is an open dispute inside biology, and confidence in it outruns the evidence. | `proposed` |
+| C968 | On common descent the author's general non-acceptance and the assistant's assessment that it is well supported are both recorded; the question is open between them and not load-bearing. | `open between author and assistant` |
+| C969 | The author's claim that macroevolution is mainstream because naturalism is holds for unguidedness and for the exclusion of design, holds in part for the mechanism, and is not shown for descent. | `proposed assessment` |
 
 ## Rejected or corrected moves
 

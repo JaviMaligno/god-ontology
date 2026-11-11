@@ -2,6 +2,8 @@
 
 This map controls research order and depth. It complements the commitment ledger: status records what the project currently holds, while F-level records how deeply a topic has been developed. Targets are revisable when dependencies or objections change.
 
+**Author-ordered review — S133:** [S133](../sessions/2026-11-11-macroevolution-critical-literature-first-pass.md) makes a first pass over the literature critical of macroevolution with primary sources from both sides (C965–C969, proposed). Unguidedness and the exclusion of design are philosophical; the sufficiency of the mechanism is disputed inside biology; common descent is left open between author and assistant and is not load-bearing. P83 is banked without an answer.
+
 **Author-ordered inquiry — S132:** [S132](../sessions/2026-11-11-argument-from-desire-and-need.md) formulates the argument from desire and its stronger need version (C960–C964, proposed), with Pascal, Augustine and Aquinas inspected and Lewis read only second-hand. P81 has a first partial answer. The remaining banked item from C959 is the macroevolution literature.
 
 **Author-ordered review — S131:** [S131](../sessions/2026-11-11-caused-universe-without-a-beginning-premise.md) gathers the case for a caused universe that uses no beginning premise (C955–C958, proposed) and closes S130 with the author's statements (C954). Banked by the author, not promoted (C959, P81): the literature on problems of macroevolution, and the argument from desire and need. On review the author strengthens C457 into a requirement of explanatory consistency and retains C955–C958; P01, P02 and P05 are revised and P80 and P82 answered.

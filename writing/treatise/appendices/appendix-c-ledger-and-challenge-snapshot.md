@@ -13,8 +13,8 @@
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 273 |
-| preferred | 260 |
+| other | 270 |
+| preferred | 263 |
 | provisional | 25 |
 | open | 20 |
 | merged | 18 |
@@ -490,7 +490,7 @@
 | C454 | Self-reconstituting descriptions are excluded only when their result violates $PP_G$; contingent relational change and power exercise preserve $G$. | `preferred F2 refinement` |
 | C455 | The S45 identity theory narrows but does not by itself resolve strict non-destructive $ED_S$. | `historical S45 handoff; addressed in C559–C571` |
 | C456 | The identity module establishes neither an actual afterlife nor an actual resurrection. | `accepted scope limit` |
-| C457 | The motivation for seeking a ground beyond brute contingency is a weak explanatory preference (WEP): other things being roughly equal, prefer the account that leaves fewer or less fundamental contingent facts unexplained. It is comparative and defeasible, not a strong principle of sufficient reason. | `accepted` |
+| C457 | The demand for a ground beyond brute contingency is a requirement of explanatory consistency: brute fact is a last resort, exempting the universe alone is special pleading, and a general licence for brute facts would undercut inquiry. It is a coherence-and-cost argument on a par with C949, not a formal proof and not a strong principle of sufficient reason. The label WEP is kept as its identifier. | `accepted; strengthened by the author in S131` |
 | C458 | **Necessitation lemma:** a necessary being cannot be a necessitating sufficient ground of a contingent fact; any necessary ground of a genuinely contingent order produces it non-necessitatingly. | `accepted` |
 | C459 | The explanatory options for the contingent order partition into brute contingency, necessitarianism, impersonal necessity with chance, selection law, or plenitude, and a necessary agent with non-necessitating settling. | `accepted classification` |
 | C460 | Only the agentic stopping point supplies contrastive, reason-guided, non-necessitating explanation of the actual contingent order; this is the formal core of the C05 preference. | `preferred` |
@@ -988,10 +988,10 @@
 | C952 | Two independent routes reach the divine ground of morality: from objective morality and our knowledge of it to a personal ground, and from the necessary conscious agent already reached by the contingency argument, whose nature grounds all necessary truth, to morality as one such truth. | `proposed convergence; follows the author's suggestion to run both directions` |
 | C953 | Darwin's own text poses the arbitration question and answers it by the short duration of satisfied appetites against ever-present sympathy, while granting that the social instincts are not the stronger; he treats aid to the helpless as an incidental result of sympathy whose suppression would damage the noblest part of our nature. Huxley denies that cosmic evolution furnishes a reason why good is preferable to evil. | `inspected sources; support C942 and C944` |
 | C954 | A morality is a sign of a mind, as a design indicates a designer and a law a legislator; moral sentiments neither refute nor better explain God's absolute morality and at most describe how it comes to be perceived or reached. | `author statement; preferred` |
-| C955 | Four arguments support a cause of the universe without any premise about its beginning: contingency, present dependence, the insufficiency of explaining each part by another, and consistency of explanation. | `proposed organization of the case for C04` |
-| C956 | The universe is not a candidate for the uncaused first cause: an uncaused terminus must be necessary, while the universe changes, is composed, and has laws and constants that could have been otherwise. | `proposed` |
-| C957 | Exempting the universe from explanation is special pleading, and a general licence for brute facts would undercut inquiry; this is the same parity that supports objective morality. | `proposed strengthening of the motivation in C457` |
-| C958 | A beginning of the universe is a separate, reinforcing line: finite standard-model age, the Borde–Guth–Vilenkin bound, and the philosophical arguments against a completed infinite past. | `proposed; scope of C752 unchanged` |
+| C955 | Four arguments support a cause of the universe without any premise about its beginning: contingency, present dependence, the insufficiency of explaining each part by another, and consistency of explanation. | `preferred organization of the case for C04` |
+| C956 | The universe is not a candidate for the uncaused first cause: an uncaused terminus must be necessary, while the universe changes, is composed, and has laws and constants that could have been otherwise. | `preferred` |
+| C957 | Exempting the universe from explanation is special pleading, and a general licence for brute facts would undercut inquiry; this is the same parity that supports objective morality. | `adopted by the author; C457 revised accordingly` |
+| C958 | A beginning of the universe is a separate, reinforcing line: finite standard-model age, the Borde–Guth–Vilenkin bound, and the philosophical arguments against a completed infinite past. | `preferred; scope of C752 unchanged` |
 | C959 | Banked for later: a review of the literature on problems of macroevolution, and the argument that desire and need are anchored in something real, applied to the good, to God and to life beyond death. | `banked by the author; not promoted` |
 
 ## Rejected or corrected moves

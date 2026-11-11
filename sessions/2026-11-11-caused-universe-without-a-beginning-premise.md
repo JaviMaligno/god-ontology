@@ -88,6 +88,21 @@ No accessible answer was added or changed. P81, “¿Deseamos a Dios porque exis
 - [x] novelty map
 - [ ] core architecture, glossary, challenge register, treatise outline: unchanged
 
+## Subsequent author review
+
+The author agrees to make the explanatory demand stronger and asks for a check of missing accessible answers before moving on. C955, C956 and C958 are retained as preferred; C957 is adopted and C457 is revised from a weak preference to a requirement of explanatory consistency, still short of a formal proof or a strong principle of sufficient reason. No new source.
+
+### Accessible-answer report
+
+All shown to the author in the same reply.
+
+- **¿Por qué crees en Dios?** First paragraph replaced. Status: respondida; reforzada.
+- **¿No basta con decir que el universo simplemente existe?** Rewritten in full. Status: respondida; reescrita.
+- **¿Y si el universo ha existido siempre?** New (P82). Status: respondida.
+- **¿Puede haber un bien objetivo sin Dios?** New answer to banked P80. Status: respondida; fundamento en la naturaleza divina provisional.
+- **¿Puedes demostrarlo?** Two sentences inserted. Status: respondida; precisada.
+- P81 remains banked without an answer. The train image and the closing paragraph of P80 are the assistant's wording and were flagged for the author.
+
 ## Next question
 
-After the author's review, decide whether argument A4 warrants stating C457 as more than a weak preference, and revise the accessible answers on why the universe needs an explanation accordingly.
+By author direction, move to the next banked item; the candidates are the argument from desire and need (P81) and the review of the literature on macroevolution (C959).

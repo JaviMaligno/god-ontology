@@ -17,11 +17,12 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 
 | ID | Pregunta | Estado | Base | Desafío |
 | --- | --- | --- | --- | --- |
-| P01 | ¿Por qué crees en Dios? | `respondida` | C01–C05, C457–C460; S09, S47 | — |
-| P02 | ¿No basta con decir que el universo simplemente existe? | `respondida` | C457, C459; S47 | — |
+| P01 | ¿Por qué crees en Dios? | `respondida; reforzada en S131` | C01–C05, C457–C460, C955–C957; S09, S47, S131 | — |
+| P02 | ¿No basta con decir que el universo simplemente existe? | `respondida; reescrita en S131` | C457, C459, C956–C957; S47, S131 | — |
+| P82 | ¿Y si el universo ha existido siempre? | `respondida` | C04, C586, C752–C753, C759–C760, C955, C958; S131 | CH27 |
 | P03 | ¿No es «Dios» solo un nombre para lo que la ciencia aún no explica? | `respondida` | C01–C03, C739, R02; S26, S95 (metáfora del autor: las leyes de la literatura no explican el origen del libro) | — |
 | P04 | ¿Por qué un «alguien» y no un «algo», como una estructura matemática? | `respondida` | C05, C458–C461; S09, S47 | — |
-| P05 | ¿Puedes demostrarlo? | `respondida` | estándar constructivo; S09 | — |
+| P05 | ¿Puedes demostrarlo? | `respondida; precisada en S131` | estándar constructivo; C457, C949; S09, S130–S131 | — |
 | P06 | ¿Qué te haría cambiar de idea? | `respondida` | condiciones de reversión de S09 y S47 | — |
 | P07 | ¿Por qué el universo se deja describir con matemáticas? | `parcial` | C03, R01 | — |
 | P42 | ¿Existen otros universos? | `respondida` | C535–C540; S58 (mundos posibles no; multiverso físico, cuestión empírica y ajena a Dios; otros órdenes creados, coherentes y posibles, pero incognoscibles desde este) | — |
@@ -96,7 +97,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
 | P50 | ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal? | `parcial; alcance temporal corregido` | C189–C209, C472–C479, C655–C657, C661–C663; S28, S49, S78–S79 (un mundo material temporal requiere cambio en algún punto de su historia; Shoemaker solo discute si cada intervalo lo requiere; no se siguen mortalidad, mal ni justificación de cada sufrimiento) | CH19, CH28 |
 | P79 | ¿Puede venir la moral de la evolución? | `parcial; reescrita tras corrección del autor` | C168–C170, C195, C462, C705–C711, C935–C937, C941–C953; S130 (la pregunta inicial presuponía un origen evolutivo y la respuesta invertía la posición del autor) | CH09, CH33 |
-| P80 | ¿Puede haber un bien objetivo sin Dios? | `abierta; sin respuesta propia escrita` | C128, C195, C945, C950–C951; S130 (esquema del autor y vía breve propuesta, adelantada en el cierre de P79; depositada por el autor junto con el repaso de por qué el universo es causado, que tocará P01–P02) | CH04, CH33 |
+| P80 | ¿Puede haber un bien objetivo sin Dios? | `respondida; fundamento en la naturaleza divina provisional` | C131, C195, C462, C705–C708, C950–C952, C954; S130–S131 | CH04, CH33 |
 | P81 | ¿Deseamos a Dios porque existe? | `abierta; sin respuesta propia escrita` | C959; S131 (argumento del deseo y de la necesidad, depositado por el autor) | CH20 |
 
 ## E. Experiencia

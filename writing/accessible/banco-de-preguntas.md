@@ -95,6 +95,7 @@ Las respuestas actuales están en [preguntas-en-lenguaje-comun.md](preguntas-en-
 | P68 | ¿Qué tipo de vida habría después de la muerte: tendría cuerpo, tiempo y posibilidad de cambiar? | `abierta; sin respuesta propia escrita` | C751, C754–C758; S100 delimita las dimensiones en P31, pero no desarrolla todavía una respuesta propia completa a esta pregunta | CH21, CH22, CH30 |
 | P32 | ¿Los animales cuentan? | `parcial` | C144; perfiles de capacidades conscientes en S23 y S25 | CH10 |
 | P50 | ¿Son necesarios el cambio, la muerte y el mal para que exista un mundo material y temporal? | `parcial; alcance temporal corregido` | C189–C209, C472–C479, C655–C657, C661–C663; S28, S49, S78–S79 (un mundo material temporal requiere cambio en algún punto de su historia; Shoemaker solo discute si cada intervalo lo requiere; no se siguen mortalidad, mal ni justificación de cada sufrimiento) | CH19, CH28 |
+| P79 | Si nuestra moral viene de la evolución, ¿puede haber un bien y un mal objetivos? | `abierta; sin respuesta propia escrita` | C168–C170, C935–C941 (propuestos, pendientes de revisión del autor); S130 | CH09, CH33 |
 
 ## E. Experiencia
 

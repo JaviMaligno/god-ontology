@@ -1,20 +1,20 @@
 # Appendix C — Commitment and Challenge Register Snapshot
 
-*Generated 2026-09-13 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
+*Generated 2026-11-11 from `ontology/commitment-ledger.md` and `method/challenge-register.md` by `scripts/build-appendices.mjs`. The registers remain canonical; this snapshot records their state for the current draft. The status classification below reads the first word of each status cell and is approximate where a cell carries a compound status.*
 
 ## Counts
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 934 |
+| Working commitments (C) | 941 |
 | Rejected or corrected moves (R) | 294 |
-| Challenges (CH) | 32 |
+| Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 353 |
 | preferred | 259 |
-| other | 250 |
+| other | 257 |
 | provisional | 25 |
 | open | 20 |
 | merged | 18 |
@@ -25,7 +25,7 @@
 | Challenge status (first word) | Count |
 | --- | --- |
 | tested | 20 |
-| scoped | 9 |
+| scoped | 10 |
 | integrated | 1 |
 | opened | 1 |
 | S129 | 1 |
@@ -968,6 +968,13 @@
 | C932 | Evidential clarity, frequency of address, practical direction and the place of divine recognition within finite formation must be assessed separately. | `analytic constraint on the proposed explanation` |
 | C933 | Under the proposed purpose, explicit recognition can develop within a life whose created goods already matter; lack of belief need not mean that all creative purposes toward that life have failed. | `conditional extension; no automatic implicit communion` |
 | C934 | The hypothesis favors recognizable response when it can serve a willing subject's own initiative without defeating the specified goods; prolonged nonrecognition in such a case is a substantive difficulty for it. | `defeasible comparative consequence; residual explanation open` |
+| C935 | Evolutionary accounts of morality divide into a genealogical thesis about the faculty ($E_1$), a content thesis about actual moral beliefs ($E_2$), a constitutive thesis identifying rightness with what was selected ($E_3$), and a debunking thesis ($E_4$). | `proposed distinction; awaiting author review` |
+| C936 | Arguments about evolved morality are run with common descent granted for the sake of argument; no project claim depends on rejecting macroevolution. | `proposed methodological constraint; author position recorded, not a premise` |
+| C937 | Moral rightness is not constituted by having been selected or by promoting fitness. | `proposed rejection of $E_3$` |
+| C938 | The author's restraint argument does not establish a non-evolutionary origin in its satiety form; its retained content is that selection does not supply the reason one conflicting impulse ought to prevail, nor the ranking of maladaptive excellence. | `proposed assessment of an author argument` |
+| C939 | Biological and cultural evolution explain actual moral practice including parochial failure, but not the criterion by which parochialism counts as error and widened or long-horizon concern as progress. | `proposed comparative support for C168–C169` |
+| C940 | The functioning of markets or other novel institutions under liberty-respecting rules is not adopted as evidence for an objective standard. | `proposed limit; generalization test open` |
+| C941 | Against $E_4$ the project's candidate replies are parity with other non-fitness-selected domains of belief and direct access to anchor $P$ in experience; neither establishes a divine ground of value. | `proposed; open comparison` |
 
 ## Rejected or corrected moves
 
@@ -1304,3 +1311,4 @@
 | CH30 | Does love mean anything beyond biology; are love between persons and love of $G$ one relation; does $G$ love each subject in particular; does $G$ love itself; and what would divine affective regard add to the volitional love the profile earns? | `opened in S90; typed in S91; Route 3 developed, not adopted` |
 | CH31 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | `tested partially in S109; profile proposed, mission and full incarnation open` |
 | CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | `S129 proposes nondirective presence for valued finite development; P57 explanatory hypothesis, P35 partial; clearer nondirective access is the strongest open comparison` |
+| CH33 | Does a biological and cultural genealogy of moral judgment debunk the objective anchors or the approximation relation? | `scoped` |

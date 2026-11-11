@@ -84,6 +84,7 @@ The bank grows by preserving a short ordinary-language formulation and linking i
 
 | CH31 | What distinguishes human consciousness and agency, what purpose or mission might humans have, and how would incarnation relate to this human condition? | finite creation, reflective agency, open purpose, human variation and conditional incarnation | `tested partially in S109; profile proposed, mission and full incarnation open` |
 | CH32 | Why is God not more recognizable to a capable person willing to relate, and what could justify withholding adequate access while preserving that person's authorship? | divine hiddenness, personal presence, recognizable access, freedom, love, evidence | `S129 proposes nondirective presence for valued finite development; P57 explanatory hypothesis, P35 partial; clearer nondirective access is the strongest open comparison` |
+| CH33 | Does a biological and cultural genealogy of moral judgment debunk the objective anchors or the approximation relation? | objective anchors, moral epistemology, cognitive trust, construction | `scoped` |
 
 ## Priority gate after S26
 
@@ -709,3 +710,17 @@ S91 types love as a standing, particular, three-anchor fit with volitional, reco
 **Q5 — evidential assessment:** Which observations would support or weaken a specified relational profile? Preserve C470's narrow non-refutation distinction without making hiddenness irrelevant evidence. Separate a merely compatible explanation from support that it explains actual cases. Do not infer rejection, guarantee later communion or settle free responses through pre-actual truths.
 
 **Next dependency:** compare clearer recognizable response at the same low directive involvement and with the same self-formation opportunities. Identify a particular good that could justify withholding under those fixed conditions, or let the access reason favor clearer response. Constant guidance and certain existence are different variables; the proposal must not defend the latter's absence by criticizing only the former. The common finite-generation and unity/efficacy programme remains active.
+
+## CH33 — Evolutionary genealogy and the objective standard
+
+**Status:** scoped in [S130](../sessions/2026-11-11-evolutionary-accounts-of-morality.md) (C935–C941, all proposed and awaiting author review). Integrated with CH09 and novelty backlog item 8; no trunk priority changes. P79 is banked without an answer.
+
+**Q0 — ordinary question:** If our moral sense comes from evolution, can anything be right or wrong objectively?
+
+**Q1 — definition:** Separate the origin of the faculty, the explanation of actual moral beliefs, the identification of rightness with what was selected, and the debunking inference from the first two. Only the last two conflict with C168–C170.
+
+**Q2 — rival explanations:** Test the claim that evolution explains practice and failure but not the criterion of failure against by-product reasoning, cultural selection and condition-dependent inclusivity. Use effective but wrong practices as the discriminating cases. Do not use the functioning of an institution as evidence of rightness.
+
+**Q3 — debunking:** Does direct access to anchor $P$ presuppose the evaluative truth it is meant to secure? Does parity with mathematical and epistemic belief hold, or does accurate belief in those domains have a fitness role that moral belief lacks?
+
+**Source control:** no external source has yet been inspected for this challenge. The pointers in S130 may not alter a status until reconstructed under the disclosure protocol. The arguments must hold with common descent granted (C936).

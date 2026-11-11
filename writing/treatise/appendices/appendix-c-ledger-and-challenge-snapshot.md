@@ -6,14 +6,14 @@
 
 | Register | Items |
 | --- | --- |
-| Working commitments (C) | 953 |
+| Working commitments (C) | 959 |
 | Rejected or corrected moves (R) | 294 |
 | Challenges (CH) | 33 |
 
 | Commitment status (first word) | Count |
 | --- | --- |
 | accepted | 354 |
-| other | 267 |
+| other | 273 |
 | preferred | 260 |
 | provisional | 25 |
 | open | 20 |
@@ -987,6 +987,12 @@
 | C951 | The step to God is completed by comparing three explanations of objective moral truth and our knowledge of it: a natural property, sourceless necessary truths, and a personal ground; the last is preferred. | `proposed abductive completion; awaiting author review` |
 | C952 | Two independent routes reach the divine ground of morality: from objective morality and our knowledge of it to a personal ground, and from the necessary conscious agent already reached by the contingency argument, whose nature grounds all necessary truth, to morality as one such truth. | `proposed convergence; follows the author's suggestion to run both directions` |
 | C953 | Darwin's own text poses the arbitration question and answers it by the short duration of satisfied appetites against ever-present sympathy, while granting that the social instincts are not the stronger; he treats aid to the helpless as an incidental result of sympathy whose suppression would damage the noblest part of our nature. Huxley denies that cosmic evolution furnishes a reason why good is preferable to evil. | `inspected sources; support C942 and C944` |
+| C954 | A morality is a sign of a mind, as a design indicates a designer and a law a legislator; moral sentiments neither refute nor better explain God's absolute morality and at most describe how it comes to be perceived or reached. | `author statement; preferred` |
+| C955 | Four arguments support a cause of the universe without any premise about its beginning: contingency, present dependence, the insufficiency of explaining each part by another, and consistency of explanation. | `proposed organization of the case for C04` |
+| C956 | The universe is not a candidate for the uncaused first cause: an uncaused terminus must be necessary, while the universe changes, is composed, and has laws and constants that could have been otherwise. | `proposed` |
+| C957 | Exempting the universe from explanation is special pleading, and a general licence for brute facts would undercut inquiry; this is the same parity that supports objective morality. | `proposed strengthening of the motivation in C457` |
+| C958 | A beginning of the universe is a separate, reinforcing line: finite standard-model age, the Borde–Guth–Vilenkin bound, and the philosophical arguments against a completed infinite past. | `proposed; scope of C752 unchanged` |
+| C959 | Banked for later: a review of the literature on problems of macroevolution, and the argument that desire and need are anchored in something real, applied to the good, to God and to life beyond death. | `banked by the author; not promoted` |
 
 ## Rejected or corrected moves
 
